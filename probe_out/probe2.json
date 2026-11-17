@@ -1,0 +1,328 @@
+{
+ "kariyernet": {
+  "/is-ilanlari/remote": [
+   "Eğitim Danışmanı | İstanbul(Asya) | Uzaktan / Remote | 8 saat",
+   "Saha Satış Personeli | Antalya | Uzaktan / Remote | 3 gün",
+   "Ulusal Zincir Satış Yöneticisi | İstanbul(Avr.) | Uzaktan / Remote | 4 gün",
+   "Sachbearbeiter Forderungsmanagement (Deutsch) | İstanbul(Avr.) | Uzaktan / Remote | 9 saat",
+   "İnşaat Mühendisi | Ankara | Uzaktan / Remote | 3 gün",
+   "Montaj Teknisyeni (Installation Technician) – Ankara | Ankara | Uzaktan / Remote | 1 gün",
+   "Kurumsal Biletleme Uzmanı (Nöbetçi) | İstanbul(Asya) | Uzaktan / Remote | 12 saat",
+   "Teilzeit Homeoffice Call Center Agent | İstanbul(Avr.) | Uzaktan / Remote | 2 gün",
+   "Home Office Kundenberater - Online-Zahlungssystem | İstanbul(Avr.) | Uzaktan / Remote | 2 gün",
+   "Gayrimenkul Danışmanı | İstanbul(Asya) | Uzaktan / Remote | 1 gün",
+   "Flemenkçe Bilen Müşteri Danışmanı | Bursa | Uzaktan / Remote | 11 saat",
+   "Deutschsprachige Kundenbetreuer (M/W) | Adana | Uzaktan / Remote | 11 saat",
+   "Bölge Satış Temsilcisi | Adana | Uzaktan / Remote | 10 saat",
+   "New Business Development Executive | İstanbul(Avr.) | Uzaktan / Remote | 5 saat",
+   "Uzun Dönem Stajyer | İstanbul(Avr.) | Uzaktan / Remote | 4 gün",
+   "TOPLAM 53"
+  ],
+  "/is-ilanlari/remote?kw=sap": [
+   "Proje Yönetim Stajyeri | Adana | Uzaktan / Remote | 28 gün",
+   "Bölge İhracat Yöneticisi | Balıkesir | Uzaktan / Remote | 3 gün",
+   "Bölge Satış Sorumlusu - Konya | Antalya | Uzaktan / Remote | 12 saat",
+   "Uzman Tıbbi Mümessil | Adana | Uzaktan / Remote | 15 saat",
+   "Saha Satış Personeli | Adana | Uzaktan / Remote | 1 gün",
+   "Saha Satış Personeli | Antalya | Uzaktan / Remote | 3 gün",
+   "GES Şantiye Şefi | ** Tüm Türkiye | Uzaktan / Remote | 7 gün",
+   "Almanca Bilen Hava Yolu Müşteri Temsilcisi (Home Office) | Adana | Uzaktan / Remote | 1 gün",
+   "( Bölge Bayiliği ) Tıbbi Tanıtım Temsilcisi | Adana | Uzaktan / Remote | 4 gün",
+   "TOPLAM 9"
+  ],
+  "/is-ilanlari/remote?kw=yaz%C4%B1l%C4%B1m": [
+   "Supermarket Müşteri Temsilcisi Almanca– Homeoffice | Adana | Uzaktan / Remote | Son gün",
+   "Tasarım Stajyeri | Adana | Uzaktan / Remote | 28 gün",
+   "Müşteri Temsilcisi Almanca– Homeoffice | Adana | Uzaktan / Remote | 8 saat",
+   "Yazılım Stajyeri | Adana | Uzaktan / Remote | 4 gün",
+   "Yazılım Test Mühendisi | Adana | Uzaktan / Remote | 6 saat",
+   "Yazılım Geliştirme Elemanı | İstanbul(Avr.) | Uzaktan / Remote | 9 saat",
+   "Ahbs Yazılım Destek Uzmanı | ** Tüm Türkiye | Uzaktan / Remote | 5 gün",
+   "Yazılım Test Stajyeri (Web ve Mobil Uygulamalar) | İstanbul(Avr.) | Uzaktan / Remote | 8 gün",
+   ".Net Developer | Adana | Uzaktan / Remote | 1 gün",
+   "Java Developer | Adana | Uzaktan / Remote | 6 saat",
+   "Uzaktan Satış ve Müşteri Destek Temsilcisi (Türkiye Geneli) | Ankara | Uzaktan / Remote | 4 gün",
+   "İngilizce Öğretmeni | Ankara | Uzaktan / Remote | 2 gün",
+   "Teknoloji Satış Uzmanı (B2b) | İstanbul(Avr.) | Uzaktan / Remote | 4 gün",
+   "Türkçe Öğretmeni | Adana | Uzaktan / Remote | 22 gün",
+   "Kıdemli Satış Temsilcisi - Tele Satış | Ankara | Uzaktan / Remote | 2 gün",
+   "TOPLAM 47"
+  ],
+  "/is-ilanlari/konya?kw=yaz%C4%B1l%C4%B1m": [
+   "İnsan Kaynakları Elemanı | Konya | İş Yerinde | 2 gün",
+   "Elektrik Elektronik Mühendisi | Konya | İş Yerinde | 4 gün",
+   "Yazılım Mühendisi | Konya +62 il daha | İş Yerinde | 1 gün",
+   "Yazılım Stajyeri | Adana | Uzaktan / Remote | 4 gün",
+   "Yazılım Test Mühendisi | Adana | Uzaktan / Remote | 6 saat",
+   "Java Developer | Adana | Uzaktan / Remote | 6 saat",
+   ".Net Developer | Adana | Uzaktan / Remote | 1 gün",
+   "Bayi Kanalı Uzmanı | Konya | İş Yerinde | 22 gün",
+   "İnsan Kaynakları Yöneticisi | Konya | İş Yerinde | Son gün",
+   "Kıdemli Satış Temsilcisi - Tele Satış | Ankara | Uzaktan / Remote | 2 gün",
+   "Türkçe Öğretmeni | Adana | Uzaktan / Remote | 22 gün",
+   "İş Analisti | Adıyaman | Uzaktan / Remote | 1 gün",
+   "Yapay Zeka Stajyeri | Adana | Uzaktan / Remote | 19 gün",
+   "Bilgi İşlem Sorumlusu | Konya | İş Yerinde | 2 gün",
+   "Bilgi İşlem Uzmanı | Konya | İş Yerinde | 1 gün",
+   "TOPLAM 36"
+  ],
+  "/is-ilanlari/konya?kw=sap": [
+   "İnsan Kaynakları Uzman Yardımcısı | Konya | İş Yerinde | 1 gün",
+   "Satış Operasyon Uzmanı (Konya) | Konya | İş Yerinde | 27 gün",
+   "Teknoser Pos Saha Teknisyeni - Tüm Türkiye | Konya +81 il daha | İş Yerinde | 15 saat",
+   "Bölge Satış Sorumlusu | Konya | İş Yerinde | 4 gün",
+   "Satın Alma Uzmanı | Konya | İş Yerinde | 23 saat",
+   "Teknik Ressam | Konya | İş Yerinde | 23 saat",
+   "Maliyet Muhasebesi Uzmanı | Konya | İş Yerinde | 23 saat",
+   "Çelik Proje Mühendisi | Konya | İş Yerinde | 23 saat",
+   "Kalite Güvence Uzman Yardımcısı | Konya | İş Yerinde | 14 saat",
+   "Proje Yönetim Stajyeri | Adana | Uzaktan / Remote | 28 gün",
+   "TOPLAM 10"
+  ],
+  "/is-ilanlari/konya?kw=bilgi%20i%C5%9Flem": [
+   "Yüzey İşlem Sorumlusu | Konya | İş Yerinde | 3 gün",
+   "Dış Ticaret Operasyon Uzmanı | Konya | İş Yerinde | 1 gün",
+   "CNC Operatörü | Konya +1 il daha | İş Yerinde | 5 gün",
+   "Bilgi İşlem Sorumlusu | Konya | İş Yerinde | 8 saat",
+   "Bilgi İşlem Uzmanı | Konya | İş Yerinde | 1 gün",
+   "Bilgi İşlem Sorumlusu | Konya | İş Yerinde | 2 gün",
+   "Bilgi İşlem Destek Elemanı | Konya +1 il daha | İş Yerinde | 14 saat",
+   "Araç Servis Personeli(Ön Düzen - Rot - Balans Uzmanı) | Konya | İş Yerinde | 2 gün",
+   "Veri Analizi Görevlisi | Konya | İş Yerinde | 7 gün",
+   "Proje Yönetim Stajyeri | Adana | Uzaktan / Remote | 28 gün",
+   "Tasarım Stajyeri | Adana | Uzaktan / Remote | 28 gün",
+   "Güzellik Uzmanı | Konya +7 il daha | İş Yerinde | 1 gün",
+   "Satış ve Pazarlama Stajyeri | Adana | Uzaktan / Remote | 15 gün",
+   "Giriş Kalite Kontrol Mühendisi | Konya | İş Yerinde | 9 saat",
+   "Ön Muhasebe Elemanı | Konya | İş Yerinde | 23 saat",
+   "TOPLAM 44"
+  ],
+  "/is-ilanlari/remote?kw=sap&cp=2": [
+   "TOPLAM 0"
+  ]
+ },
+ "linkedin": {
+  "remote_sap": {
+   "count": 10,
+   "items": [
+    {
+     "title": "SAP HR Expert",
+     "loc": "İstanbul, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Uzman",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "İnşaat"
+     },
+     "hints": [
+      "on-site"
+     ]
+    },
+    {
+     "title": "Senior SAP Specialist",
+     "loc": "İstanbul, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Perakende Satış Lüks Ürünler ve Mücevherler"
+     },
+     "hints": [
+      "office"
+     ]
+    },
+    {
+     "title": "SAP Public Cloud Geliştirme ve Proje Lideri",
+     "loc": "İzmir, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Gıda Maddeleri Üretimi"
+     },
+     "hints": []
+    },
+    {
+     "title": "Senior SAP MM Module Specialist",
+     "loc": "İstanbul, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Uzman",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Üretim ve Kimyasal Üretim"
+     },
+     "hints": [
+      "hybrid",
+      "office",
+      "on-site",
+      "remote"
+     ]
+    },
+    {
+     "title": "SAP TRM UZMANI",
+     "loc": "İzmir, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Gıda Maddeleri Üretimi"
+     },
+     "hints": []
+    },
+    {
+     "title": "MM Consultant (SAP Retail)",
+     "loc": "Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Yazılım Geliştirme, BT Hizmetleri ve BT Danışmanlığı ve Perakende Satış"
+     },
+     "hints": []
+    }
+   ],
+   "card_has_workplace": false
+  },
+  "remote_sap_fE23": {
+   "count": 10,
+   "items": [
+    {
+     "title": "SAP HR Expert",
+     "loc": "İstanbul, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Uzman",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "İnşaat"
+     },
+     "hints": [
+      "on-site"
+     ]
+    },
+    {
+     "title": "Senior SAP Specialist",
+     "loc": "İstanbul, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Perakende Satış Lüks Ürünler ve Mücevherler"
+     },
+     "hints": [
+      "office"
+     ]
+    },
+    {
+     "title": "SAP Public Cloud Geliştirme ve Proje Lideri",
+     "loc": "İzmir, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Gıda Maddeleri Üretimi"
+     },
+     "hints": []
+    },
+    {
+     "title": "Senior SAP MM Module Specialist",
+     "loc": "İstanbul, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Uzman",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Üretim ve Kimyasal Üretim"
+     },
+     "hints": [
+      "hybrid",
+      "office",
+      "on-site",
+      "remote"
+     ]
+    },
+    {
+     "title": "SAP TRM UZMANI",
+     "loc": "İzmir, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Gıda Maddeleri Üretimi"
+     },
+     "hints": []
+    },
+    {
+     "title": "MM Consultant (SAP Retail)",
+     "loc": "Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Yazılım Geliştirme, BT Hizmetleri ve BT Danışmanlığı ve Perakende Satış"
+     },
+     "hints": []
+    }
+   ],
+   "card_has_workplace": false
+  },
+  "konya_fE23": {
+   "count": 8,
+   "items": [
+    {
+     "title": "Junior Kalite Mühendisi",
+     "loc": "Konya, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Başlangıç Seviye",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Yiyecek ve İçecek Üretimi"
+     },
+     "hints": [
+      "office"
+     ]
+    },
+    {
+     "title": "Kalite Lideri",
+     "loc": "Konya, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Yiyecek ve İçecek Üretimi"
+     },
+     "hints": [
+      "office"
+     ]
+    },
+    {
+     "title": "Finansal Danışman",
+     "loc": "Konya, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Orta-Üst Düzey Yönetici",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Sigorta"
+     },
+     "hints": []
+    },
+    {
+     "title": "Maintenance Planning Engineer",
+     "loc": "Konya, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Geçerli Değil",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Gıda ve İçecek Hizmetleri"
+     },
+     "hints": []
+    },
+    {
+     "title": "Production Engineer",
+     "loc": "Konya, Türkiye",
+     "criteria": {
+      "Kıdem düzeyi": "Geçerli Değil",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Gıda ve İçecek Hizmetleri"
+     },
+     "hints": [
+      "office"
+     ]
+    },
+    {
+     "title": "Ağ Sistemleri Uzmanı",
+     "loc": "Konya",
+     "criteria": {
+      "Kıdem düzeyi": "Başlangıç Seviye",
+      "İstihdam türü": "Tam Zamanlı",
+      "Sektörler": "Yazılım Geliştirme"
+     },
+     "hints": []
+    }
+   ],
+   "card_has_workplace": false
+  }
+ }
+}
