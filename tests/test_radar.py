@@ -374,3 +374,24 @@ def test_feedback_reaches_prompt(tmp_path, monkeypatch):
         v["t"] = 0
     st.prune()
     assert bad.uid in st.data["seen"]
+
+
+def test_details_stored_for_review(tmp_path):
+    st = State(tmp_path / "s.json")
+    j = job("SAP ABAP Uzmanı", desc="Uzun açıklama " * 50, sid="5")
+    matching.classify(j)
+    j.llm = {"score": 70, "cv": "05_ERP_SAP", "summary": "özet", "why": "w", "gaps": "-",
+             "military_required": False, "min_years": 0, "work_mode": "onsite"}
+    st.mark(j, "sent", score=70)
+    d = st.data["details"][j.uid]
+    assert d["llm"]["summary"] == "özet" and d["location"] == "Konya" and d["tracks"] == ["erp"]
+    assert 0 < len(d["description"]) <= 2500
+    irrelevant = job("Garson", sid="6")
+    st.mark(irrelevant, "skip")
+    assert irrelevant.uid not in st.data["details"]          # alakasız atlamalar saklanmaz
+    rej = job("Yazılım Geliştirici", desc="En az 5 yıl deneyim", sid="7")
+    assert not matching.classify(rej)
+    st.mark(rej, "skip")
+    assert st.data["details"][rej.uid]["reject"].startswith("5+")   # gerekçeli elemeler saklanır
+    st.save()
+    assert State(tmp_path / "s.json").data["details"][j.uid]["llm"]["cv"] == "05_ERP_SAP"
