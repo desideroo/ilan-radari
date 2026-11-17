@@ -1,0 +1,3874 @@
+{
+ "version": 1,
+ "created": 1794943853.6822734,
+ "seen": {
+  "linkedin:4476681880": {
+   "t": 1794943905.0274756,
+   "title": "Production Engineer",
+   "company": "The Magnum Ice Cream Company",
+   "url": "https://www.linkedin.com/jobs/view/4476681880/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489395450": {
+   "t": 1794943905.027575,
+   "title": "Lojistik Destek Analizi (LDA) Mühendisi",
+   "company": "Aselsan Konya",
+   "url": "https://www.linkedin.com/jobs/view/4489395450/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490578850": {
+   "t": 1794943905.0277884,
+   "title": "SAP HR Expert",
+   "company": "Mapa Group",
+   "url": "https://www.linkedin.com/jobs/view/4490578850/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488210488": {
+   "t": 1794943905.0278342,
+   "title": "Senior SAP Specialist",
+   "company": "Beymen Group",
+   "url": "https://www.linkedin.com/jobs/view/4488210488/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488205007": {
+   "t": 1794943905.027942,
+   "title": "Senior SAP MM Module Specialist",
+   "company": "Evyap",
+   "url": "https://www.linkedin.com/jobs/view/4488205007/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488247064": {
+   "t": 1794943905.0279953,
+   "title": "SAP TRM UZMANI",
+   "company": "Mapeks Organics",
+   "url": "https://www.linkedin.com/jobs/view/4488247064/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489096456": {
+   "t": 1794943905.0281022,
+   "title": "SAP ABAP Geliştirme Uzmanı",
+   "company": "Gizli Şirket",
+   "url": "https://www.linkedin.com/jobs/view/4489096456/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491184804": {
+   "t": 1794943905.0281503,
+   "title": "Lead SAP Consultant",
+   "company": "EPAM Systems",
+   "url": "https://www.linkedin.com/jobs/view/4491184804/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490105199": {
+   "t": 1794943905.0281985,
+   "title": "Senior Solution Sales Executive - CX",
+   "company": "SAP",
+   "url": "https://www.linkedin.com/jobs/view/4490105199/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488594691": {
+   "t": 1794943905.0282505,
+   "title": "SAP Uygulama Şefi",
+   "company": "Horoz Lojistik",
+   "url": "https://www.linkedin.com/jobs/view/4488594691/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490757373": {
+   "t": 1794943905.0283988,
+   "title": "Senior ERP Application Development and Support Specialist",
+   "company": "Karbontürk",
+   "url": "https://www.linkedin.com/jobs/view/4490757373/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490715423": {
+   "t": 1794943905.0284631,
+   "title": "Technical Manager",
+   "company": "FlavourTech",
+   "url": "https://www.linkedin.com/jobs/view/4490715423/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4462238200": {
+   "t": 1794943905.0286212,
+   "title": "ERP SAP Specialist",
+   "company": "Straumann Group",
+   "url": "https://www.linkedin.com/jobs/view/4462238200/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488213606": {
+   "t": 1794943905.028741,
+   "title": "Teknik Satınalma Uzmanı",
+   "company": "Jungheinrich Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4488213606/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4486815905": {
+   "t": 1794943905.028856,
+   "title": "SAP FI Yöneticisi/SAP Finance Product Owner",
+   "company": "Jolly Tur",
+   "url": "https://www.linkedin.com/jobs/view/4486815905/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4487472546": {
+   "t": 1794943905.0289125,
+   "title": "Muhasebe Personeli",
+   "company": "Alfa Aqua",
+   "url": "https://www.linkedin.com/jobs/view/4487472546/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490724480": {
+   "t": 1794943905.0289607,
+   "title": "Purchasing Executive",
+   "company": "YEO",
+   "url": "https://www.linkedin.com/jobs/view/4490724480/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488938089": {
+   "t": 1794943905.0290256,
+   "title": "Ön Muhasebe ve İdari İşler Sorumlusu",
+   "company": "Pors Medikal",
+   "url": "https://www.linkedin.com/jobs/view/4488938089/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488224453": {
+   "t": 1794943905.029096,
+   "title": "Bütçe ve Raporlama Uzmanı",
+   "company": "YEDAŞ - Yeşilırmak Elektrik Dağıtım A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4488224453/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488506843": {
+   "t": 1794943905.0291548,
+   "title": "Finans Uzmanı",
+   "company": "FO FOOD PRODUCTS - OZMER A.S",
+   "url": "https://www.linkedin.com/jobs/view/4488506843/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490349279": {
+   "t": 1794943905.0293844,
+   "title": "Accounting Specialist",
+   "company": "AloTech",
+   "url": "https://www.linkedin.com/jobs/view/4490349279/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4431928975": {
+   "t": 1794943905.029501,
+   "title": ".NET Full Stack Developer",
+   "company": "OBSS",
+   "url": "https://www.linkedin.com/jobs/view/4431928975/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489759330": {
+   "t": 1794943905.029555,
+   "title": "Kıdemli Yazılım Geliştirme Uzmanı",
+   "company": "Logo Yazılım",
+   "url": "https://www.linkedin.com/jobs/view/4489759330/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4482107292": {
+   "t": 1794943905.0296235,
+   "title": "Java Software Developer",
+   "company": "Global Payments Inc.",
+   "url": "https://www.linkedin.com/jobs/view/4482107292/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490521139": {
+   "t": 1794943905.0297036,
+   "title": "Junior Software Engineer with Accounting Experience",
+   "company": "Sezzle",
+   "url": "https://www.linkedin.com/jobs/view/4490521139/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491506022": {
+   "t": 1794943905.0297534,
+   "title": "Senior Java Developer",
+   "company": "FIT Global",
+   "url": "https://www.linkedin.com/jobs/view/4491506022/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489964073": {
+   "t": 1794943905.0298047,
+   "title": "Software Engineer",
+   "company": "Netcad",
+   "url": "https://www.linkedin.com/jobs/view/4489964073/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488910592": {
+   "t": 1794943905.03005,
+   "title": "Senior Developer",
+   "company": "n11",
+   "url": "https://www.linkedin.com/jobs/view/4488910592/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488628688": {
+   "t": 1794943905.0301154,
+   "title": "Senior Fullstack Engineer",
+   "company": "Toptal",
+   "url": "https://www.linkedin.com/jobs/view/4488628688/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490455101": {
+   "t": 1794943905.030175,
+   "title": "Yazılım Geliştirme Kıdemli Uzmanı/ Ankara",
+   "company": "Gizli Şirket",
+   "url": "https://www.linkedin.com/jobs/view/4490455101/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489646260": {
+   "t": 1794943905.0302331,
+   "title": "Senior Software Engineer - Digital Workplace",
+   "company": "Canonical",
+   "url": "https://www.linkedin.com/jobs/view/4489646260/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4480467279": {
+   "t": 1794943905.0303774,
+   "title": "Full Stack Developer (.NET, React) – Enterprise Architecture",
+   "company": "Architecht",
+   "url": "https://www.linkedin.com/jobs/view/4480467279/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489095333": {
+   "t": 1794943905.0304842,
+   "title": "Full Stack Software Engineer - AI-First",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4489095333/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488940291": {
+   "t": 1794943905.0305443,
+   "title": "Senior Expert Software Developer",
+   "company": "Token Finansal Teknolojiler",
+   "url": "https://www.linkedin.com/jobs/view/4488940291/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4316620232": {
+   "t": 1794943905.030612,
+   "title": "Senior Backend Developer",
+   "company": "Jotform",
+   "url": "https://www.linkedin.com/jobs/view/4316620232/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490781101": {
+   "t": 1794943905.0307314,
+   "title": "Sr. Backend Engineer (Remote)",
+   "company": "Mode Mobile",
+   "url": "https://www.linkedin.com/jobs/view/4490781101/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490768516": {
+   "t": 1794943905.0307844,
+   "title": "Sr. Backend Engineer - Lumos (Remote)",
+   "company": "Mode Mobile",
+   "url": "https://www.linkedin.com/jobs/view/4490768516/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491161822": {
+   "t": 1794943905.0309553,
+   "title": "Senior Software Engineer",
+   "company": "Virtuagym",
+   "url": "https://www.linkedin.com/jobs/view/4491161822/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488919408": {
+   "t": 1794943905.0310316,
+   "title": "Backend Developer – Mobil Bankacılık",
+   "company": "ANDEVOS Bilgi Teknolojileri A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4488919408/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490108138": {
+   "t": 1794943905.031376,
+   "title": "Lead Python QA Automation Engineer",
+   "company": "EPAM Systems",
+   "url": "https://www.linkedin.com/jobs/view/4490108138/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489547450": {
+   "t": 1794943905.0314498,
+   "title": "Data Scientist (Pre-Search)",
+   "company": "Trendyol Group",
+   "url": "https://www.linkedin.com/jobs/view/4489547450/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490320285": {
+   "t": 1794943905.031549,
+   "title": "Data Scientist",
+   "company": "Boyner Büyük Mağazacılık A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4490320285/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489591049": {
+   "t": 1794943905.0316658,
+   "title": "Senior Machine Learning Engineer",
+   "company": "OREDATA",
+   "url": "https://www.linkedin.com/jobs/view/4489591049/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488920226": {
+   "t": 1794943905.031849,
+   "title": "Data Analyst",
+   "company": "Paribu",
+   "url": "https://www.linkedin.com/jobs/view/4488920226/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4478250615": {
+   "t": 1794943905.0319312,
+   "title": "Senior Data Analyst",
+   "company": "n11",
+   "url": "https://www.linkedin.com/jobs/view/4478250615/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488580154": {
+   "t": 1794943905.031981,
+   "title": "Data Analyst",
+   "company": "Bold Games",
+   "url": "https://www.linkedin.com/jobs/view/4488580154/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4454956595": {
+   "t": 1794943905.0320272,
+   "title": "Senior Data Analyst",
+   "company": "Jotform",
+   "url": "https://www.linkedin.com/jobs/view/4454956595/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488508389": {
+   "t": 1794943905.032088,
+   "title": "Junior İş Zekâsı Analisti",
+   "company": "KUZU GROUP",
+   "url": "https://www.linkedin.com/jobs/view/4488508389/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490308056": {
+   "t": 1794943905.0321577,
+   "title": "Veri Analitiği ve İçgörü Uzmanı",
+   "company": "Kuveyt Türk Yatırım",
+   "url": "https://www.linkedin.com/jobs/view/4490308056/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489365309": {
+   "t": 1794943905.0322566,
+   "title": "Channel Insight Senior Specialist",
+   "company": "Vodafone",
+   "url": "https://www.linkedin.com/jobs/view/4489365309/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4479848385": {
+   "t": 1794943905.0325217,
+   "title": "Veri Analitiği ve Planlama Uzmanı",
+   "company": "Doğuş Otomotiv",
+   "url": "https://www.linkedin.com/jobs/view/4479848385/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4446444757": {
+   "t": 1794943905.0329044,
+   "title": "Lead Forward Deployed AI Scientist, Türkiye - BCG X",
+   "company": "BCG X",
+   "url": "https://www.linkedin.com/jobs/view/4446444757/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4487899541": {
+   "t": 1794943905.033019,
+   "title": "Veri Analitiği ve Yapay Zeka Lideri",
+   "company": "TEI - TUSAŞ Motor Sanayii A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4487899541/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4430452660": {
+   "t": 1794943905.0331383,
+   "title": "Senior BI Developer (Tableau)",
+   "company": "Proxify",
+   "url": "https://www.linkedin.com/jobs/view/4430452660/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490736502": {
+   "t": 1794943905.0333436,
+   "title": "Officer, Information Management and Data Visualization (TRC Secondment)",
+   "company": "International Federation of Red Cross and Red Crescent Societies - IFRC",
+   "url": "https://www.linkedin.com/jobs/view/4490736502/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490575808": {
+   "t": 1794943905.0335174,
+   "title": "Advanced Direct Purchasing Specialist L2",
+   "company": "Yazaki North America",
+   "url": "https://www.linkedin.com/jobs/view/4490575808/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489745475": {
+   "t": 1794943905.0337265,
+   "title": "HR Technology & People Analytics Chief",
+   "company": "OYAK Çimento",
+   "url": "https://www.linkedin.com/jobs/view/4489745475/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489811675": {
+   "t": 1794943905.0338585,
+   "title": "Optician / Optisyen",
+   "company": "eyewa",
+   "url": "https://www.linkedin.com/jobs/view/4489811675/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489755632": {
+   "t": 1794943905.0339668,
+   "title": "Kıdemli Makine Öğrenmesi Mühendisi (Senior Machine Learning Engineer)",
+   "company": "RockSoft",
+   "url": "https://www.linkedin.com/jobs/view/4489755632/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489264277": {
+   "t": 1794943905.0340283,
+   "title": "Senior AI Engineer",
+   "company": "Architecht",
+   "url": "https://www.linkedin.com/jobs/view/4489264277/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488948352": {
+   "t": 1794943905.0342586,
+   "title": "Test Analiz Mühendisi",
+   "company": "ERA RF Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4488948352/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488268960": {
+   "t": 1794943905.0343199,
+   "title": "Test engineer - Turkey",
+   "company": "Wipro",
+   "url": "https://www.linkedin.com/jobs/view/4488268960/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488907448": {
+   "t": 1794943905.0345073,
+   "title": "Yapısal Test Mühendisi",
+   "company": "Aselsan",
+   "url": "https://www.linkedin.com/jobs/view/4488907448/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4473930066": {
+   "t": 1794943905.034598,
+   "title": "QA Tester (Hybrid)",
+   "company": "Amaris Consulting | Part of Mantu",
+   "url": "https://www.linkedin.com/jobs/view/4473930066/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490718382": {
+   "t": 1794943905.034675,
+   "title": "Test Automation Engineer",
+   "company": "Allianz",
+   "url": "https://www.linkedin.com/jobs/view/4490718382/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4476168919": {
+   "t": 1794943905.0349061,
+   "title": "Test Senior Specialist",
+   "company": "Sisal",
+   "url": "https://www.linkedin.com/jobs/view/4476168919/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489558228": {
+   "t": 1794943905.0349624,
+   "title": "Data QA Engineer",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4489558228/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4487515528": {
+   "t": 1794943905.0350344,
+   "title": "Third Party Manufacturer QA Sr.Associate (TPM QA )",
+   "company": "Abbott",
+   "url": "https://www.linkedin.com/jobs/view/4487515528/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489768802": {
+   "t": 1794943905.0351717,
+   "title": "Kıdemli Uçtan Uca Kalite Güvence Mühendisi (Senior Full-Stack QA Engineer)",
+   "company": "EGEMSOFT - Egem Bilgi İletişim Ticaret A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4489768802/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488517242": {
+   "t": 1794943905.035264,
+   "title": "Senior Network Administrator",
+   "company": "Beymen Group",
+   "url": "https://www.linkedin.com/jobs/view/4488517242/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4478267720": {
+   "t": 1794943905.0353384,
+   "title": "SENIOR TRANSPORT NETWORK PLANNING & OPERATIONS PROFESSIONAL",
+   "company": "Turkcell",
+   "url": "https://www.linkedin.com/jobs/view/4478267720/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491124359": {
+   "t": 1794943905.035497,
+   "title": "Principal Network Security Engineer",
+   "company": "Mars Athletic Club",
+   "url": "https://www.linkedin.com/jobs/view/4491124359/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491282831": {
+   "t": 1794943905.0356212,
+   "title": "Network Manager",
+   "company": "Mapa Group",
+   "url": "https://www.linkedin.com/jobs/view/4491282831/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488282552": {
+   "t": 1794943905.0357268,
+   "title": "Türk Telekom Genç Mühendis 2026",
+   "company": "Türk Telekom",
+   "url": "https://www.linkedin.com/jobs/view/4488282552/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488925967": {
+   "t": 1794943905.0359416,
+   "title": "Senior System Infrastrucure Specialist",
+   "company": "Arvato",
+   "url": "https://www.linkedin.com/jobs/view/4488925967/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488660702": {
+   "t": 1794943905.0360835,
+   "title": "System and Infrastructure Specialist / Process Lead",
+   "company": "KoçZer",
+   "url": "https://www.linkedin.com/jobs/view/4488660702/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488205026": {
+   "t": 1794943905.0361564,
+   "title": "Sistem Destek Şefi",
+   "company": "DEVA Holding A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4488205026/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4475031630": {
+   "t": 1794943905.0362616,
+   "title": "Senior System Engineer",
+   "company": "Ticimax",
+   "url": "https://www.linkedin.com/jobs/view/4475031630/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4479858357": {
+   "t": 1794943905.036322,
+   "title": "Sistem Uzmanı",
+   "company": "Rossmann Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4479858357/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490459240": {
+   "t": 1794943905.036381,
+   "title": "Sr Cloud & System Administrator",
+   "company": "n11",
+   "url": "https://www.linkedin.com/jobs/view/4490459240/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488505725": {
+   "t": 1794943905.036525,
+   "title": "Linux & Altyapı Sistem Mühendisi (Linux & Infrastructure Systems Engineer)",
+   "company": "Ithinka Information Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4488505725/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490197739": {
+   "t": 1794943905.03669,
+   "title": "Junior Kalite Mühendisi",
+   "company": "Anako Yumurta",
+   "url": "https://www.linkedin.com/jobs/view/4490197739/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490196759": {
+   "t": 1794943905.036778,
+   "title": "Kalite Lideri",
+   "company": "Anako Yumurta",
+   "url": "https://www.linkedin.com/jobs/view/4490196759/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488592885": {
+   "t": 1794943905.036859,
+   "title": "Finansal Danışman",
+   "company": "Ünlem Sigorta",
+   "url": "https://www.linkedin.com/jobs/view/4488592885/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4485079783": {
+   "t": 1794943905.0369585,
+   "title": "Maintenance Planning Engineer",
+   "company": "The Magnum Ice Cream Company",
+   "url": "https://www.linkedin.com/jobs/view/4485079783/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489765172": {
+   "t": 1794943905.037062,
+   "title": "Ağ Sistemleri Uzmanı",
+   "company": "Raporzen Yazılım",
+   "url": "https://www.linkedin.com/jobs/view/4489765172/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490196171": {
+   "t": 1794943905.0371215,
+   "title": "English Teacher",
+   "company": "I don't have company",
+   "url": "https://www.linkedin.com/jobs/view/4490196171/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4474738118": {
+   "t": 1794943905.037198,
+   "title": "Quality Control Inspector (Part time / Freelance)",
+   "company": "QIMA",
+   "url": "https://www.linkedin.com/jobs/view/4474738118/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490436999": {
+   "t": 1794943905.037257,
+   "title": "Ambalaj Geliştirme Uzmanı",
+   "company": "Saray Biskuvi ve Gida San. A.S.",
+   "url": "https://www.linkedin.com/jobs/view/4490436999/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489725117": {
+   "t": 1794943916.614174,
+   "title": "Financial Analyst",
+   "company": "Sodexo",
+   "url": "https://www.linkedin.com/jobs/view/4489725117/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4478682479": {
+   "t": 1794943916.6142585,
+   "title": "İK Operasyonları ve Uyum İş Lideri",
+   "company": "Ekol Lojistik",
+   "url": "https://www.linkedin.com/jobs/view/4478682479/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4484689218": {
+   "t": 1794943916.6143188,
+   "title": "Accounting Professionals",
+   "company": "Trendyol Group",
+   "url": "https://www.linkedin.com/jobs/view/4484689218/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4364164650": {
+   "t": 1794943916.6143718,
+   "title": "Asistan-Ön Muhabasebe",
+   "company": "Eda Dilhan Aydın",
+   "url": "https://www.linkedin.com/jobs/view/4364164650/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490415709": {
+   "t": 1794943916.6144304,
+   "title": "Uygulama Yazılımı Mühendisi",
+   "company": "Aselsan",
+   "url": "https://www.linkedin.com/jobs/view/4490415709/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4478249908": {
+   "t": 1794943953.0948741,
+   "title": "ATM Verimlilik ve Analiz Yönetici/Yönetici Yardımcısı",
+   "company": "TEB",
+   "url": "https://www.linkedin.com/jobs/view/4478249908/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489745682": {
+   "t": 1794943964.7643986,
+   "title": "Data & Analytics Consultant",
+   "company": "Odensoft",
+   "url": "https://www.linkedin.com/jobs/view/4489745682/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490401989": {
+   "t": 1794943966.6124587,
+   "title": "DFMEA Engineer",
+   "company": "Yazaki Europe Middle East and Africa",
+   "url": "https://www.linkedin.com/jobs/view/4490401989/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489728081": {
+   "t": 1794943966.6125298,
+   "title": "Algo Trader (Power)",
+   "company": "YEPAŞ",
+   "url": "https://www.linkedin.com/jobs/view/4489728081/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490445895": {
+   "t": 1794943968.7161705,
+   "title": "Uzman Diyetisyen",
+   "company": "Zühre Ana",
+   "url": "https://www.linkedin.com/jobs/view/4490445895/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490114000": {
+   "t": 1794943975.1396098,
+   "title": "Engineer - R&D (Test & Verification)",
+   "company": "Beko Corporate",
+   "url": "https://www.linkedin.com/jobs/view/4490114000/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491154962": {
+   "t": 1794943979.6792824,
+   "title": "Kalite Mühendisi",
+   "company": "İnka",
+   "url": "https://www.linkedin.com/jobs/view/4491154962/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490414176": {
+   "t": 1794943990.3355029,
+   "title": "System Support Specialist",
+   "company": "inventiv",
+   "url": "https://www.linkedin.com/jobs/view/4490414176/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598615": {
+   "t": 1794944033.1390512,
+   "title": "Kalite Kontrol Uzmanı",
+   "company": "A.S.C.HİDROLİK ENDÜSTİRİSİ SAN.VE TİC.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/a-s-c-hidrolik-endustirisi-san-ve-tic-a-s-kalite-kontrol-uzmani-4598615",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4591833": {
+   "t": 1794944033.1391244,
+   "title": "Kalite Kontrol Sorumlusu",
+   "company": "Ymz tech automotiv",
+   "url": "https://www.kariyer.net/is-ilani/ymz-tech-automotiv-kalite-kontrol-sorumlusu-4591833",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4596327": {
+   "t": 1794944033.1391914,
+   "title": "Ön Muhasebe Elemanı",
+   "company": "ÖZDÖKEN TARIM MAK.SAN.VE TİC.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/ozdoken-tarim-mak-san-ve-tic-a-s-on-muhasebe-elemani-4596327",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4426509": {
+   "t": 1794944033.139312,
+   "title": "Sigorta Satış Temsilcisi",
+   "company": "Maviford Otomotiv Ltd Şti",
+   "url": "https://www.kariyer.net/is-ilani/maviford-otomotiv-ltd-sti-sigorta-satis-temsilcisi-4426509",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4596031": {
+   "t": 1794944033.139621,
+   "title": "Kalite Müdürü",
+   "company": "CEEL",
+   "url": "https://www.kariyer.net/is-ilani/ceel-kalite-muduru-4596031",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595408": {
+   "t": 1794944033.1396844,
+   "title": "Ekibimize İç Mimar Arıyoruz!",
+   "company": "DARA ALÜMİNYUM MOBİLYA LTD ŞTİ",
+   "url": "https://www.kariyer.net/is-ilani/dara-aluminyum-mobilya-ltd-sti-ekibimize-ic-mimar-ariyoruz-4595408",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594736": {
+   "t": 1794944033.1399376,
+   "title": "Kalite Kontrol Mühendisi",
+   "company": "Sektöründe Öncü Firma",
+   "url": "https://www.kariyer.net/is-ilani/sektorunde-oncu-firma-kalite-kontrol-muhendisi-4594736",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4597673": {
+   "t": 1794944033.1400583,
+   "title": "Uzman Satış Danışmanı",
+   "company": "KÜBRA AKÇAKAYA",
+   "url": "https://www.kariyer.net/is-ilani/kubra-akcakaya-uzman-satis-danismani-4597673",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4596776": {
+   "t": 1794944033.1401756,
+   "title": "Depo Sevkiyat Elemanı",
+   "company": "Doka Plastik Geri Dönüşüm Sistemleri",
+   "url": "https://www.kariyer.net/is-ilani/doka-plastik-geri-donusum-sistemleri-depo-sevkiyat-elemani-4596776",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595850": {
+   "t": 1794944033.14025,
+   "title": "Perakende Satış Danışmanı",
+   "company": "Pınar Kuruyemiş Gıda İhtiyaç Mad.San.Tic.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/pinar-kuruyemis-gida-ihtiyac-mad-san-tic-a-s-perakende-satis-danismani-4595850",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4418833": {
+   "t": 1794944033.140518,
+   "title": "Bölge Satış Temsilcisi",
+   "company": "FABEKS KİMYA OTOMOTİV SAN.VE TİC.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/fabeks-kimya-otomotiv-san-ve-tic-a-s-bolge-satis-temsilcisi-4418833",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598095": {
+   "t": 1794944033.1406517,
+   "title": "Satış Pazarlama Yöneticisi",
+   "company": "KONSA AMBALAJ SANAYİ TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/konsa-ambalaj-sanayi-ticaret-anonim-sirketi-satis-pazarlama-yoneticisi-4598095",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594855": {
+   "t": 1794944033.14093,
+   "title": "CNC Operatörü",
+   "company": "Kastaş Sızdırmazlık Teknolojileri A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/kastas-sizdirmazlik-teknolojileri-a-s-cnc-operatoru-4594855",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4593183": {
+   "t": 1794944033.1410182,
+   "title": "Koton Ev Kadınları Projesi - Mağaza Ft - Pt",
+   "company": "Koton",
+   "url": "https://www.kariyer.net/is-ilani/koton-koton-ev-kadinlari-projesi-magaza-ft-pt-4593183",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4582731": {
+   "t": 1794944033.1411378,
+   "title": "Satış Pazarlama Uzmanı",
+   "company": "DEMİR PVC YAPI VE CEPHE ELEMANLARI SAN.TİC.LTD.ŞTİ",
+   "url": "https://www.kariyer.net/is-ilani/demir-pvc-yapi-ve-cephe-elemanlari-san-tic-ltd-sti-satis-pazarlama-uzmani-4582731",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4506221": {
+   "t": 1794944033.1412191,
+   "title": "Flekso Baskı Operatörü",
+   "company": "EKERLER KAĞIT TORBAVE POŞET AMBALAJ SAN.VE TİC.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/ekerler-kagit-torbave-poset-ambalaj-san-ve-tic-a-s-flekso-baski-operatoru-4506221",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4593636": {
+   "t": 1794944033.141344,
+   "title": "Elektrik Elektronik Mühendisi",
+   "company": "Mepsan Petrol Cihazları San. ve Tic. A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/mepsan-petrol-cihazlari-san-ve-tic-a-s-elektrik-elektronik-muhendisi-4593636",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4401554": {
+   "t": 1794944033.1414537,
+   "title": "Almanca Bilen Müşteri Uzmanı - Türkiye Geneli",
+   "company": "FENİX İNSAN KAYNAKLARI EĞİTİM VE DANIŞMANLIK LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/fenix-insan-kaynaklari-egitim-ve-danismanlik-limit-almanca-bilen-musteri-uzmani-turkiye-geneli-4401554",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4593316": {
+   "t": 1794944033.1415546,
+   "title": "Muhasebe Elemanı",
+   "company": "AGSAN ANADOLU GÜBRE SANAYİ TARIM GIDA NAKLİYE İTHALAT İHRACAT PAZARLAMA VE TİCARET Lİ",
+   "url": "https://www.kariyer.net/is-ilani/agsan-anadolu-gubre-sanayi-tarim-gida-nakliye-itha-muhasebe-elemani-4593316",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4581698": {
+   "t": 1794944033.1416285,
+   "title": "Stajyer Psikolog",
+   "company": "TUNCA GROUP DANIŞMANLIK LİMİTED",
+   "url": "https://www.kariyer.net/is-ilani/tunca-group-danismanlik-limited-stajyer-psikolog-4581698",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4299117": {
+   "t": 1794944033.1416998,
+   "title": "Sneaks Up Satış Danışmanı",
+   "company": "Sneaks Up",
+   "url": "https://www.kariyer.net/is-ilani/sneaks-up-sneaks-up-satis-danismani-4299117",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4586270": {
+   "t": 1794944033.141818,
+   "title": "Türkçe Öğretmeni",
+   "company": "TALETİMES YAZILIM TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/taletimes-yazilim-ticaret-limited-sirketi-turkce-ogretmeni-4586270",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4240746": {
+   "t": 1794944033.1419375,
+   "title": "Ön Muhasebe Elemanı",
+   "company": "SEZİN TIBBİ GÖRÜNTÜLEME",
+   "url": "https://www.kariyer.net/is-ilani/sezin-tibbi-goruntuleme-on-muhasebe-elemani-4240746",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594659": {
+   "t": 1794944033.1420002,
+   "title": "Muhasebe Elemanı",
+   "company": "Mak Çelik A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/mak-celik-a-s-muhasebe-elemani-4594659",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594565": {
+   "t": 1794944033.14211,
+   "title": "Satış Temsilcisi",
+   "company": "Kechy Gıda A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/kechy-gida-a-s-satis-temsilcisi-4594565",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594164": {
+   "t": 1794944033.142177,
+   "title": "Ön Muhasebe Elemanı",
+   "company": "osem agro yem",
+   "url": "https://www.kariyer.net/is-ilani/osem-agro-yem-on-muhasebe-elemani-4594164",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:2496863": {
+   "t": 1794944033.1422455,
+   "title": "Finans Uzmanı",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-finans-uzmani-2496863",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4588521": {
+   "t": 1794944033.1423886,
+   "title": "Muhasebe Elemanı",
+   "company": "İmaj Metal",
+   "url": "https://www.kariyer.net/is-ilani/imaj-metal-muhasebe-elemani-4588521",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4588019": {
+   "t": 1794944033.1426663,
+   "title": "Ön Muhasebe Elemanı",
+   "company": "KAMESH WELDİNG KAYNAK OTOMASYON SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/kamesh-welding-kaynak-otomasyon-sanayi-ve-ticaret-on-muhasebe-elemani-4588019",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594915": {
+   "t": 1794944033.142806,
+   "title": "Satın Alma Sorumlusu",
+   "company": "Çobanoğlu Otomotiv San.Tic.Ltd.Sti",
+   "url": "https://www.kariyer.net/is-ilani/cobanoglu-otomotiv-san-tic-ltd-sti-satin-alma-sorumlusu-4594915",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4596893": {
+   "t": 1794944033.142938,
+   "title": "Satın Alma Uzmanı",
+   "company": "ETAP KOZMETİK KİMYA SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/etap-kozmetik-kimya-sanayi-ve-dis-ticaret-anonim-s-satin-alma-uzmani-4596893",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4584313": {
+   "t": 1794944033.1431522,
+   "title": "Beton Laboratuvar Sorumlusu",
+   "company": "Yardımcı Prefabrik Yapı Elemanları A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/yardimci-prefabrik-yapi-elemanlari-a-s-beton-laboratuvar-sorumlusu-4584313",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4582634": {
+   "t": 1794944033.143294,
+   "title": "Saha Şefi (İnşaat Mühendisi / Mimar)",
+   "company": "KONAK RESTORASYON İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/konak-restorasyon-insaat-sanayi-ve-ticaret-anonim-saha-sefi-insaat-muhendisi-mimar-4582634",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4587333": {
+   "t": 1794944033.1435535,
+   "title": "İnşaat Mühendisi",
+   "company": "ECA HAZIR BETON PREFABRİK",
+   "url": "https://www.kariyer.net/is-ilani/eca-hazir-beton-prefabrik-insaat-muhendisi-4587333",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4567517": {
+   "t": 1794944033.1437376,
+   "title": "Planlama Sorumlusu",
+   "company": "HARS TRAKTÖR A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/hars-traktor-a-s-planlama-sorumlusu-4567517",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4091534": {
+   "t": 1794944033.1438074,
+   "title": "Depo Personeli - Konya",
+   "company": "MANGO TR TEKSTİL TİC. LTD. ŞTİ.",
+   "url": "https://www.kariyer.net/is-ilani/mango-tr-tekstil-tic-ltd-sti-depo-personeli-konya-4091534",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4304889": {
+   "t": 1794944033.1439126,
+   "title": "Satış Dan. / Uzman Satış Dan.(Tüm Mağazalar)",
+   "company": "Morven",
+   "url": "https://www.kariyer.net/is-ilani/morven-satis-dan-uzman-satis-dan-tum-magazalar-4304889",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4584221": {
+   "t": 1794944033.1440043,
+   "title": "Sosyal Medya Uzmanı",
+   "company": "DERİN REHABİLİTASYON MERKEZİ VE EĞİTİM KURUMLARI OTOMOTİV SANAYİ TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/derin-rehabilitasyon-merkezi-ve-egitim-kurumlari-o-sosyal-medya-uzmani-4584221",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4581505": {
+   "t": 1794944033.1441023,
+   "title": "Satış Danışmanı - Türkiye Geneli",
+   "company": "ENGLISH HOME",
+   "url": "https://www.kariyer.net/is-ilani/english-home-satis-danismani-turkiye-geneli-4581505",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4481098": {
+   "t": 1794944033.1442544,
+   "title": "Depo Personeli",
+   "company": "ÇELİKSET TEKER SİSTEMLERİ A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/celikset-teker-sistemleri-a-s-depo-personeli-4481098",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595153": {
+   "t": 1794944033.1443343,
+   "title": "Yönetici Asistanı",
+   "company": "ETAP KOZMETİK KİMYA SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/etap-kozmetik-kimya-sanayi-ve-dis-ticaret-anonim-s-yonetici-asistani-4595153",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:1765759": {
+   "t": 1794944033.1445603,
+   "title": "Yönetici Asistanı",
+   "company": "Happy İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/happy-insan-kaynaklari-yonetici-asistani-1765759",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4596298": {
+   "t": 1794944033.1446335,
+   "title": "İnşaat Mühendisi",
+   "company": "ENDÜSTRİYEL ELEKTRİK ELEKTRONİK SAN.TİC. A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/endustriyel-elektrik-elektronik-san-tic-a-s-insaat-muhendisi-4596298",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4584223": {
+   "t": 1794944033.1447568,
+   "title": "Mimar",
+   "company": "A D TASARIM MİMARLIK",
+   "url": "https://www.kariyer.net/is-ilani/a-d-tasarim-mimarlik-mimar-4584223",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4583930": {
+   "t": 1794944033.1448593,
+   "title": "Part Time Satış Danışmanı - Türkiye Geneli",
+   "company": "SARMAŞIK GİYİM İNŞAAT GIDA ELEKTRONİK SANAYİ VE DIŞ TİCARET PAZARLAMA ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/sarmasik-giyim-insaat-gida-elektronik-sanayi-ve-di-part-time-satis-danismani-turkiye-geneli-4583930",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4590420": {
+   "t": 1794944033.1450958,
+   "title": "A Sınıfı İş Güvenliği Uzmanı",
+   "company": "Beşhekim Sağlık ve Tedavi Ltd. Şti.",
+   "url": "https://www.kariyer.net/is-ilani/beshekim-saglik-ve-tedavi-ltd-sti-a-sinifi-is-guvenligi-uzmani-4590420",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4517758": {
+   "t": 1794944033.1452568,
+   "title": "Saha Satış Danışmanı",
+   "company": "SECOM AKTİF ELEKTRONİK GÜVENLİK ÇÖZÜMLERİ ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/secom-aktif-elektronik-guvenlik-cozumleri-anonim-s-saha-satis-danismani-4517758",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4586739": {
+   "t": 1794944033.1453407,
+   "title": "Ön Muhasebe Elemanı",
+   "company": "Hadra Özel Eğitim Kurumları Tur.İnş.Tah. San.Tic.",
+   "url": "https://www.kariyer.net/is-ilani/hadra-ozel-egitim-kurumlari-tur-ins-tah-san-tic-on-muhasebe-elemani-4586739",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4490448": {
+   "t": 1794944033.1454284,
+   "title": "Bebekolog-Satış Danışmanı-(Engelli) Konya Genel",
+   "company": "ebebek",
+   "url": "https://www.kariyer.net/is-ilani/ebebek-bebekolog-satis-danismani-engelli-konya-genel-4490448",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4587505": {
+   "t": 1794944033.1455288,
+   "title": "Muhasebe Elemanı",
+   "company": "PLDESS KİMYA TARIM ÜRÜNLERİ MEDİKAL İNŞAAT MALZEMELERİ SANAYİ VE TİCARET LİMİTED ŞİRK",
+   "url": "https://www.kariyer.net/is-ilani/pldess-kimya-tarim-urunleri-medikal-insaat-malzeme-muhasebe-elemani-4587505",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4576906": {
+   "t": 1794944033.1457512,
+   "title": "Genel Başvuru - Engelli Kadro - Konya",
+   "company": "Katılımevim Tasarruf Finansman A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/katilimevim-tasarruf-finansman-a-s-genel-basvuru-engelli-kadro-konya-4576906",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4585869": {
+   "t": 1794944033.1459124,
+   "title": "Teknik Servis Elemanı",
+   "company": "SOM TARIM MAKİNA LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/som-tarim-makina-limited-sirketi-teknik-servis-elemani-4585869",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4575060": {
+   "t": 1794944033.1460128,
+   "title": "Sosyal Medya ve Grafik Tasarım Uzmanı",
+   "company": "MERLAB İNOVASYON BİLİM VE TEKNOLOJİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/merlab-inovasyon-bilim-ve-teknoloji-sanayi-ticaret-sosyal-medya-ve-grafik-tasarim-uzmani-4575060",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4579757": {
+   "t": 1794944033.146101,
+   "title": "Muhasebe Elemanı",
+   "company": "KHD HASSAS DÖKÜM VE SAVUNMA SANAYİ",
+   "url": "https://www.kariyer.net/is-ilani/khd-hassas-dokum-ve-savunma-sanayi-muhasebe-elemani-4579757",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4550452": {
+   "t": 1794944033.1461883,
+   "title": "Mud Logging Geologist (Field-Based)",
+   "company": "Sektöründe Öncü Firma",
+   "url": "https://www.kariyer.net/is-ilani/sektorunde-oncu-firma-mud-logging-geologist-field-based-4550452",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4194203": {
+   "t": 1794944033.146348,
+   "title": "Bireysel Saha Satış Temsilcisi",
+   "company": "QNB",
+   "url": "https://www.kariyer.net/is-ilani/qnb-bireysel-saha-satis-temsilcisi-4194203",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4533928": {
+   "t": 1794944033.146687,
+   "title": "Mağaza Satış Temsilcisi",
+   "company": "Bizim Toptan Satış Mağazaları A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/bizim-toptan-satis-magazalari-a-s-magaza-satis-temsilcisi-4533928",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4593695": {
+   "t": 1794944033.1467886,
+   "title": "Müşteri Danışmanı - Part Time Tüm Türkiye",
+   "company": "DeFacto Perakende Ticaret Anonim Şirketi",
+   "url": "https://www.kariyer.net/is-ilani/defacto-perakende-ticaret-anonim-sirketi-musteri-danismani-part-time-tum-turkiye-4593695",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:2553458": {
+   "t": 1794944033.1468863,
+   "title": "Elektrik Bakım Teknisyeni",
+   "company": "ENERCON Rüzgar Enerji Santrali Kurulum HİZM.LTD.ŞTİ",
+   "url": "https://www.kariyer.net/is-ilani/enercon-ruzgar-enerji-santrali-kurulum-hizm-ltd-st-elektrik-bakim-teknisyeni-2553458",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4592676": {
+   "t": 1794944033.1471155,
+   "title": "Satış Danışmanı",
+   "company": "Casper Bilgisayar Sistemleri A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/casper-bilgisayar-sistemleri-a-s-satis-danismani-4592676",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4582126": {
+   "t": 1794944033.1474066,
+   "title": "Ziraat Mühendisi (Satış ve Pazarlama)",
+   "company": "Maro Tarım A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/maro-tarim-a-s-ziraat-muhendisi-satis-ve-pazarlama-4582126",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4139982": {
+   "t": 1794944033.147515,
+   "title": "Gayrimenkul Değerleme Uzmanı",
+   "company": "MÜLK KURUMSAL GAYRİMENKUL DEĞERLEME VE DANIŞ. AŞ",
+   "url": "https://www.kariyer.net/is-ilani/mulk-kurumsal-gayrimenkul-degerleme-ve-danis-as-gayrimenkul-degerleme-uzmani-4139982",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4528056": {
+   "t": 1794944033.1476536,
+   "title": "Yazılım Stajyeri",
+   "company": "TUNCA GROUP DANIŞMANLIK LİMİTED",
+   "url": "https://www.kariyer.net/is-ilani/tunca-group-danismanlik-limited-yazilim-stajyeri-4528056",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4592677": {
+   "t": 1794944033.1477392,
+   "title": "Part Time Satış Danışmanı",
+   "company": "Casper Bilgisayar Sistemleri A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/casper-bilgisayar-sistemleri-a-s-part-time-satis-danismani-4592677",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4591756": {
+   "t": 1794944033.1478264,
+   "title": "Müşteri Hizmetleri Temsilcisi",
+   "company": "Yapı Kredi",
+   "url": "https://www.kariyer.net/is-ilani/yapi-kredi-musteri-hizmetleri-temsilcisi-4591756",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4591660": {
+   "t": 1794944033.147923,
+   "title": "Merkezi Müşteri Hizmetleri Temsilcisi (Sözleşmeli)",
+   "company": "Yapı Kredi",
+   "url": "https://www.kariyer.net/is-ilani/yapi-kredi-merkezi-musteri-hizmetleri-temsilcisi-sozlesmeli-4591660",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4576615": {
+   "t": 1794944033.1480882,
+   "title": "Türkiye Geneli - Part Time Satış Danışmanı",
+   "company": "FLO Mağazacılık",
+   "url": "https://www.kariyer.net/is-ilani/flo-magazacilik-turkiye-geneli-part-time-satis-danismani-4576615",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4262912": {
+   "t": 1794944033.1481688,
+   "title": "İş Güvenliği Uzmanı",
+   "company": "DİYALOG OSGB",
+   "url": "https://www.kariyer.net/is-ilani/diyalog-osgb-is-guvenligi-uzmani-4262912",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4264760": {
+   "t": 1794944033.1482408,
+   "title": "Kalite Müdürü",
+   "company": "YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/yayla-agro-gida-sanayi-ve-ticaret-a-s-kalite-muduru-4264760",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3333341": {
+   "t": 1794944033.1483357,
+   "title": "Müşteri Temsilcisi – Engelli",
+   "company": "AssisTT",
+   "url": "https://www.kariyer.net/is-ilani/assistt-musteri-temsilcisi-engelli-3333341",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4593055": {
+   "t": 1794944033.1485054,
+   "title": "Mağaza Müdürü - Türkiye Geneli",
+   "company": "ENGLISH HOME",
+   "url": "https://www.kariyer.net/is-ilani/english-home-magaza-muduru-turkiye-geneli-4593055",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4329275": {
+   "t": 1794944033.148601,
+   "title": "İş Sağlığı ve Güvenliği Uzmanı (Kısmi Süreli)",
+   "company": "DİYALOG OSGB",
+   "url": "https://www.kariyer.net/is-ilani/diyalog-osgb-is-sagligi-ve-guvenligi-uzmani-kismi-sureli-4329275",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4526641": {
+   "t": 1794944033.1490784,
+   "title": "Satış Pazarlama Uzmanı",
+   "company": "Winkel A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/winkel-a-s-satis-pazarlama-uzmani-4526641",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4544937": {
+   "t": 1794944033.1491673,
+   "title": "Full/Part Time Satış Danışmanı- Tüm Türkiye",
+   "company": "Madame Coco",
+   "url": "https://www.kariyer.net/is-ilani/madame-coco-full-part-time-satis-danismani-tum-turkiye-4544937",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:2987143": {
+   "t": 1794944033.1495264,
+   "title": "Şube Müdürü",
+   "company": "Sürat Kargo",
+   "url": "https://www.kariyer.net/is-ilani/surat-kargo-sube-muduru-2987143",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:2499736": {
+   "t": 1794944033.1496527,
+   "title": "Sigorta Satış Danışmanı",
+   "company": "Happy İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/happy-insan-kaynaklari-sigorta-satis-danismani-2499736",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4588944": {
+   "t": 1794944033.1497316,
+   "title": "Satış ve Pazarlama Stajyeri",
+   "company": "TUNCA GROUP DANIŞMANLIK LİMİTED",
+   "url": "https://www.kariyer.net/is-ilani/tunca-group-danismanlik-limited-satis-ve-pazarlama-stajyeri-4588944",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598577": {
+   "t": 1794944033.149819,
+   "title": "Türkiye Geneli Satış Danışmanı",
+   "company": "HATEMOĞLU",
+   "url": "https://www.kariyer.net/is-ilani/hatemoglu-turkiye-geneli-satis-danismani-4598577",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4564832": {
+   "t": 1794944033.149911,
+   "title": "Mağaza Satış Danışmanı ve Kasiyer - Genel",
+   "company": "Ayakkabı Dünyası",
+   "url": "https://www.kariyer.net/is-ilani/ayakkabi-dunyasi-magaza-satis-danismani-ve-kasiyer-genel-4564832",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3874884": {
+   "t": 1794944033.1500611,
+   "title": "Uzman Tıbbi Mümessil",
+   "company": "Nuvomed",
+   "url": "https://www.kariyer.net/is-ilani/nuvomed-uzman-tibbi-mumessil-3874884",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3977870": {
+   "t": 1794944033.150146,
+   "title": "Saha Satış Temsilcisi Türkiye Geneli",
+   "company": "İhlas Pazarlama",
+   "url": "https://www.kariyer.net/is-ilani/ihlas-pazarlama-saha-satis-temsilcisi-turkiye-geneli-3977870",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4517235": {
+   "t": 1794944033.1504025,
+   "title": "Ahbs Yazılım Destek Uzmanı",
+   "company": "Fonet Bilgi Teknolojileri A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/fonet-bilgi-teknolojileri-a-s-ahbs-yazilim-destek-uzmani-4517235",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4568661": {
+   "t": 1794944033.1505249,
+   "title": "Yapay Zeka Stajyeri",
+   "company": "TUNCA GROUP DANIŞMANLIK LİMİTED",
+   "url": "https://www.kariyer.net/is-ilani/tunca-group-danismanlik-limited-yapay-zeka-stajyeri-4568661",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4579984": {
+   "t": 1794944033.1506548,
+   "title": "Yazılım Test Stajyeri (Web ve Mobil Uygulamalar)",
+   "company": "Doğuş Yayın Grubu",
+   "url": "https://www.kariyer.net/is-ilani/dogus-yayin-grubu-yazilim-test-stajyeri-web-ve-mobil-uygulamalar-4579984",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4586919": {
+   "t": 1794944033.1507466,
+   "title": "Kısmi Zamanlı Platform Tester (Engelli)",
+   "company": "Turkcell Global Bilgi",
+   "url": "https://www.kariyer.net/is-ilani/turkcell-global-bilgi-kismi-zamanli-platform-tester-engelli-4586919",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598006": {
+   "t": 1794944033.150994,
+   "title": "Üretim Planlama Uzmanı",
+   "company": "Ak Alüminyum Sanayi ve Ticaret A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/ak-aluminyum-sanayi-ve-ticaret-a-s-uretim-planlama-uzmani-4598006",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594936": {
+   "t": 1794944033.1510606,
+   "title": "İnsan Kaynakları Elemanı",
+   "company": "OTOJEN OTOMOTİV MAKİNA VE KİMYASAL GAZLAR SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/otojen-otomotiv-makina-ve-kimyasal-gazlar-sanayi-v-insan-kaynaklari-elemani-4594936",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595880": {
+   "t": 1794944033.1511989,
+   "title": "Tasarım Mühendisi / Teknik Ressam",
+   "company": "Durmuş Özgül Otomotiv İthalat ve İhracat San.",
+   "url": "https://www.kariyer.net/is-ilani/durmus-ozgul-otomotiv-ithalat-ve-ihracat-san-tasarim-muhendisi-teknik-ressam-4595880",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4596974": {
+   "t": 1794944033.151287,
+   "title": "Teknik Servis Mühendisi",
+   "company": "MVD Makina Sanayi A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/mvd-makina-sanayi-a-s-teknik-servis-muhendisi-4596974",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4597207": {
+   "t": 1794944033.1513429,
+   "title": "Mekanik Bakım Ustası",
+   "company": "Bagen Yedek Parça Otomotiv Makina San. Tic. A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/bagen-yedek-parca-otomotiv-makina-san-tic-a-s-mekanik-bakim-ustasi-4597207",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4590768": {
+   "t": 1794944033.151428,
+   "title": "Bölge Saha Satış ve Kurumsal İş Geliştirme Uzmanı",
+   "company": "ALİ GÜÇLÜ KARAKUŞ",
+   "url": "https://www.kariyer.net/is-ilani/ali-guclu-karakus-bolge-saha-satis-ve-kurumsal-is-gelistirme-uzmani-4590768",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595953": {
+   "t": 1794944033.1515374,
+   "title": "Burger Yiyelim Ekip Üyelerini Arıyor",
+   "company": "Keban Food ( Burger Yiyelim, Et Yiyelim, Tavuk Yiyelim )",
+   "url": "https://www.kariyer.net/is-ilani/keban-food-burger-yiyelim-et-yiyelim-tavuk-yiy-burger-yiyelim-ekip-uyelerini-ariyor-4595953",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4569046": {
+   "t": 1794944033.1515992,
+   "title": "Gayrimenkul Danışmanı",
+   "company": "KONYAP GAYRİMENKUL LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/konyap-gayrimenkul-limited-sirketi-gayrimenkul-danismani-4569046",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594178": {
+   "t": 1794944033.1516616,
+   "title": "Geleceğin Yıldızları Programı",
+   "company": "Sanovel İlaç",
+   "url": "https://www.kariyer.net/is-ilani/sanovel-ilac-gelecegin-yildizlari-programi-4594178",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4596410": {
+   "t": 1794944033.1517172,
+   "title": "Saha Satış Uzmanı",
+   "company": "Linetech Güvenlik ve Alarm",
+   "url": "https://www.kariyer.net/is-ilani/linetech-guvenlik-ve-alarm-saha-satis-uzmani-4596410",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4569061": {
+   "t": 1794944033.1517808,
+   "title": "Flemenkçe Bilen Müşteri Danışmanı",
+   "company": "Konecta Teknoloji ve Müşteri Hizmetleri A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/konecta-teknoloji-ve-musteri-hizmetleri-a-s-flemenkce-bilen-musteri-danismani-4569061",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4575072": {
+   "t": 1794944033.1518493,
+   "title": "Bordro ve Özlük İşleri Uzmanı",
+   "company": "Şekeroğlu Kimya ve Plastik Sanayi Tic. A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/sekeroglu-kimya-ve-plastik-sanayi-tic-a-s-bordro-ve-ozluk-isleri-uzmani-4575072",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4489333": {
+   "t": 1794944033.1519046,
+   "title": "Saha Yöneticisi",
+   "company": "Pozitera Perakende Geliştirme Hizmetleri Tic. A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/pozitera-perakende-gelistirme-hizmetleri-tic-a-s-saha-yoneticisi-4489333",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598591": {
+   "t": 1794944033.1519666,
+   "title": "Muhasebe ve Finans Uzmanı",
+   "company": "Hedefsan Asansör Kumanda Sistemleri",
+   "url": "https://www.kariyer.net/is-ilani/hedefsan-asansor-kumanda-sistemleri-muhasebe-ve-finans-uzmani-4598591",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4597421": {
+   "t": 1794944033.152024,
+   "title": "Yüzey İşlem Sorumlusu",
+   "company": "RETAY SİLAH",
+   "url": "https://www.kariyer.net/is-ilani/retay-silah-yuzey-islem-sorumlusu-4597421",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595786": {
+   "t": 1794944033.152068,
+   "title": "Gece Bekçisi",
+   "company": "KONAK RESTORASYON İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/konak-restorasyon-insaat-sanayi-ve-ticaret-anonim-gece-bekcisi-4595786",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595728": {
+   "t": 1794944033.1521335,
+   "title": "Dış Ticaret Operasyon Uzmanı",
+   "company": "ERSER GRUP",
+   "url": "https://www.kariyer.net/is-ilani/erser-grup-dis-ticaret-operasyon-uzmani-4595728",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598228": {
+   "t": 1794944033.1521823,
+   "title": "Muhasebe Personeli",
+   "company": "TERGOEX DIŞ TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/tergoex-dis-ticaret-limited-sirketi-muhasebe-personeli-4598228",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4567113": {
+   "t": 1794944033.1522253,
+   "title": "Aşçıbaşı",
+   "company": "Ece Mermer San.ve Tic.Ltd.Şti.ECE MARBLE",
+   "url": "https://www.kariyer.net/is-ilani/ece-mermer-san-ve-tic-ltd-sti-ece-marble-ascibasi-4567113",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4593860": {
+   "t": 1794944033.1522665,
+   "title": "Sekreter",
+   "company": "KÜÇÜK GROUP KABLO SAN.TİC.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/kucuk-group-kablo-san-tic-a-s-sekreter-4593860",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:2259105": {
+   "t": 1794944033.1523147,
+   "title": "Temizlik Görevlisi",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-temizlik-gorevlisi-2259105",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4588171": {
+   "t": 1794944033.1523662,
+   "title": "İnşaat Mühendisi",
+   "company": "Gizli Firma",
+   "url": "https://www.kariyer.net/is-ilani/gizli-firma-insaat-muhendisi-4588171",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4443642": {
+   "t": 1794944033.1524081,
+   "title": "Satış Uzmanı",
+   "company": "uzman akademi",
+   "url": "https://www.kariyer.net/is-ilani/uzman-akademi-satis-uzmani-4443642",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4588064": {
+   "t": 1794944033.152496,
+   "title": "CNC Torna, Dik İşleme ve Yatay İşleme Operatörleri",
+   "company": "İNNOMETAL MAKİNA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/innometal-makina-sanayi-ve-ticaret-anonim-sirketi-cnc-torna-dik-isleme-ve-yatay-isleme-operatorleri-4588064",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4586641": {
+   "t": 1794944033.1525676,
+   "title": "Hasta Hizmetleri Elemanı",
+   "company": "Gizli Firma",
+   "url": "https://www.kariyer.net/is-ilani/gizli-firma-hasta-hizmetleri-elemani-4586641",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4584790": {
+   "t": 1794944033.1526377,
+   "title": "Hollandaca/Felemenkçe Konuşan Büro Personeli",
+   "company": "REPLİKASYON DANIŞMANLIK LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/replikasyon-danismanlik-limited-sirketi-hollandaca-felemenkce-konusan-buro-personeli-4584790",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598000": {
+   "t": 1794944033.1527069,
+   "title": "Çay / Kahve Servis Görevlisi",
+   "company": "Eksun Gıda Tarım ve Ticaret A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/eksun-gida-tarim-ve-ticaret-a-s-cay-kahve-servis-gorevlisi-4598000",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4592325": {
+   "t": 1794944033.1527643,
+   "title": "Satın Alma Sorumlusu",
+   "company": "ULUSAN Alüminyum San. ve Tic. A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/ulusan-aluminyum-san-ve-tic-a-s-satin-alma-sorumlusu-4592325",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595657": {
+   "t": 1794944033.1528227,
+   "title": "İnşaat Mühendisi (Saha)",
+   "company": "MAZ İNŞAAT TAAHHÜT PETROL NAKLİYE TURİZM İŞLETMECİLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/maz-insaat-taahhut-petrol-nakliye-turizm-isletmeci-insaat-muhendisi-saha-4595657",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4589036": {
+   "t": 1794944033.1528997,
+   "title": "İş Sağlığı ve Güvenliği Uzmanı",
+   "company": "FMC HİDROLİK OTOMOTİV MAKİNA SANAYİ TİCARET A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/fmc-hidrolik-otomotiv-makina-sanayi-ticaret-a-s-is-sagligi-ve-guvenligi-uzmani-4589036",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4597577": {
+   "t": 1794944033.1529589,
+   "title": "Dış Ticaret Uzmanı",
+   "company": "TTT OTOMOTİV ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/ttt-otomotiv-anonim-sirketi-dis-ticaret-uzmani-4597577",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4357815": {
+   "t": 1794944033.1530054,
+   "title": "Teknik Ressam",
+   "company": "HİLALSAN MAKİNA SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/hilalsan-makina-sanayi-ve-ticaret-anonim-sirketi-teknik-ressam-4357815",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3390473": {
+   "t": 1794944033.1530557,
+   "title": "Sales Engineer",
+   "company": "Van Leeuwen Distribution Boru Sanayi ve Ticaret Ltd. Şti.",
+   "url": "https://www.kariyer.net/is-ilani/van-leeuwen-distribution-boru-sanayi-ve-ticaret-lt-sales-engineer-3390473",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4412311": {
+   "t": 1794944033.1531115,
+   "title": "Yönetici Asistanı",
+   "company": "KÜÇÜK GROUP KABLO SAN.TİC.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/kucuk-group-kablo-san-tic-a-s-yonetici-asistani-4412311",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598115": {
+   "t": 1794944033.153163,
+   "title": "Oto Yıkama Elemanı",
+   "company": "OTOJEN OTOMOTİV MAKİNA VE KİMYASAL GAZLAR SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/otojen-otomotiv-makina-ve-kimyasal-gazlar-sanayi-v-oto-yikama-elemani-4598115",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4586725": {
+   "t": 1794944033.1532238,
+   "title": "Muhasebe Sorumlusu",
+   "company": "VESNA ASANSÖR İÇ VE DIŞ TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/vesna-asansor-ic-ve-dis-ticaret-limited-sirketi-muhasebe-sorumlusu-4586725",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595117": {
+   "t": 1794944033.153294,
+   "title": "A Sınıfı İş Güvenliği Uzmanı (Konya)",
+   "company": "MAZ İNŞAAT TAAHHÜT PETROL NAKLİYE TURİZM İŞLETMECİLİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/maz-insaat-taahhut-petrol-nakliye-turizm-isletmeci-a-sinifi-is-guvenligi-uzmani-konya-4595117",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4553266": {
+   "t": 1794944033.1533577,
+   "title": "Teknik Ressam",
+   "company": "CAWEQ OTOMOTİV SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/caweq-otomotiv-sanayi-ve-ticaret-anonim-sirketi-teknik-ressam-4553266",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:2083235": {
+   "t": 1794944033.15341,
+   "title": "Arşiv Sorumlusu",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-arsiv-sorumlusu-2083235",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4588261": {
+   "t": 1794944033.1534803,
+   "title": "Elektrik Proje Mühendisi",
+   "company": "TOZOĞLU MÜHENDİSLİK LTD ŞTİ",
+   "url": "https://www.kariyer.net/is-ilani/tozoglu-muhendislik-ltd-sti-elektrik-proje-muhendisi-4588261",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:1967013": {
+   "t": 1794944033.1535375,
+   "title": "Genel Muhasebe Uzmanı",
+   "company": "Happy İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/happy-insan-kaynaklari-genel-muhasebe-uzmani-1967013",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4585649": {
+   "t": 1794944033.1535916,
+   "title": "Dış Ticaret Sorumlusu",
+   "company": "HUNT GROUP ARMS",
+   "url": "https://www.kariyer.net/is-ilani/hunt-group-arms-dis-ticaret-sorumlusu-4585649",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4599509": {
+   "t": 1794944033.1536574,
+   "title": "Teknik Satış Sorumlusu (Atc) - Konya",
+   "company": "TIMAC AGRO Avrasya Ziraat Sanayi ve Ticaret A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/timac-agro-avrasya-ziraat-sanayi-ve-ticaret-a-s-teknik-satis-sorumlusu-atc-konya-4599509",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:2410102": {
+   "t": 1794944033.1537192,
+   "title": "Satış Destek Uzmanı",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-satis-destek-uzmani-2410102",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4510870": {
+   "t": 1794944033.1537824,
+   "title": "Ameliyathane Hemşiresi (Genel)",
+   "company": "Medicana Sağlık Grubu",
+   "url": "https://www.kariyer.net/is-ilani/medicana-saglik-grubu-ameliyathane-hemsiresi-genel-4510870",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4559147": {
+   "t": 1794944033.1538613,
+   "title": "Kundenberater Deutsch – Homeoffice",
+   "company": "CONCENTRİX MÜŞTERİ HİZMETLERİ ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/concentrix-musteri-hizmetleri-anonim-sirketi-kundenberater-deutsch-homeoffice-4559147",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4559141": {
+   "t": 1794944033.153952,
+   "title": "Supermarkt Kundenberater Deutsch – Homeoffice",
+   "company": "CONCENTRİX MÜŞTERİ HİZMETLERİ ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/concentrix-musteri-hizmetleri-anonim-sirketi-supermarkt-kundenberater-deutsch-homeoffice-4559141",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4595318": {
+   "t": 1794944033.154036,
+   "title": "Drone Pilotu (İnsansız Hava Aracı Pilotu)",
+   "company": "MRC ARGE ENERJİ MÜHENDİSLİĞİ KONTROL VE TEST HİZMETLERİ LTD. ŞTİ.",
+   "url": "https://www.kariyer.net/is-ilani/mrc-arge-enerji-muhendisligi-kontrol-ve-test-hizme-drone-pilotu-insansiz-hava-araci-pilotu-4595318",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4454921": {
+   "t": 1794944036.51338,
+   "title": "Kundenberater Im Homeoffice – Möbelhandelskette",
+   "company": "CONCENTRİX MÜŞTERİ HİZMETLERİ ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/concentrix-musteri-hizmetleri-anonim-sirketi-kundenberater-im-homeoffice-mobelhandelskette-4454921",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3954282": {
+   "t": 1794944040.1730664,
+   "title": "Müşteri Danışmanı (Banka)",
+   "company": "Happy İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/happy-insan-kaynaklari-musteri-danismani-banka-3954282",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4591438": {
+   "t": 1794944040.1732042,
+   "title": "Deutschsprachige Kundenberater / Backoffice (W/M/D) – 100 % Home Office",
+   "company": "Arsipa GmbH",
+   "url": "https://www.kariyer.net/is-ilani/arsipa-gmbh-deutschsprachige-kundenberater-backoffice-w-m-d-4591438",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4599568": {
+   "t": 1794944040.1732864,
+   "title": "İş Görüşmelerinde Beden Dilinin Gücü",
+   "company": "Kariyer Etkinlikleri",
+   "url": "https://www.kariyer.net/is-ilani/kariyer-etkinlikleri-is-gorusmelerinde-beden-dilinin-gucu-4599568",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4557399": {
+   "t": 1794944040.1733456,
+   "title": "Bölge Satış Yöneticisi",
+   "company": "Doruk Kağıt Sanayi ve Tic. A.Ş. Oluklu Mukavva ve",
+   "url": "https://www.kariyer.net/is-ilani/doruk-kagit-sanayi-ve-tic-a-s-oluklu-mukavva-ve-bolge-satis-yoneticisi-4557399",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4454158": {
+   "t": 1794944040.1734235,
+   "title": "Çözüm Merkezi Müşteri Danışmanı (Engelli)",
+   "company": "ENPARA BANK ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/enpara-bank-anonim-sirketi-cozum-merkezi-musteri-danismani-engelli-4454158",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4585575": {
+   "t": 1794944040.1735373,
+   "title": "Almanca Bilen Müşteri Hizmetleri Temsilcisi",
+   "company": "LOTUSHR İNSAN KAYNAKLARI DANIŞMANLIK EĞİTİM BİLİŞİM YÖNETİM SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/lotushr-insan-kaynaklari-danismanlik-egitim-bilisi-almanca-bilen-musteri-hizmetleri-temsilcisi-4585575",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594167": {
+   "t": 1794944040.173609,
+   "title": "Satış Mühendisi",
+   "company": "KATRE ISI SANAYİ TİCARET A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/katre-isi-sanayi-ticaret-a-s-satis-muhendisi-4594167",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4389851": {
+   "t": 1794944040.1736739,
+   "title": "Engelli Personel (Genel Başvuru)",
+   "company": "İhlas Pazarlama",
+   "url": "https://www.kariyer.net/is-ilani/ihlas-pazarlama-engelli-personel-genel-basvuru-4389851",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3881716": {
+   "t": 1794944047.7961879,
+   "title": "Mağaza Satış Uzmanı",
+   "company": "TÜRK TELEKOM İŞ ORTAKLARI BAYİ PROJESİ",
+   "url": "https://www.kariyer.net/is-ilani/turk-telekom-is-ortaklari-bayi-projesi-magaza-satis-uzmani-3881716",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4598852": {
+   "t": 1794944047.7962854,
+   "title": "Müşteri Danışmanı - Full Time Tüm Türkiye",
+   "company": "DeFacto Perakende Ticaret Anonim Şirketi",
+   "url": "https://www.kariyer.net/is-ilani/defacto-perakende-ticaret-anonim-sirketi-musteri-danismani-full-time-tum-turkiye-4598852",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4593184": {
+   "t": 1794944047.796347,
+   "title": "Almanca Öğretmeni",
+   "company": "INSIGHT EĞİTİM HİZMETLERİ ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/insight-egitim-hizmetleri-anonim-sirketi-almanca-ogretmeni-4593184",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4041925": {
+   "t": 1794944047.796407,
+   "title": "Saha Satış Uzmanı Konya",
+   "company": "Viennalife Emeklilik ve Hayat A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/viennalife-emeklilik-ve-hayat-a-s-saha-satis-uzmani-konya-4041925",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4570440": {
+   "t": 1794944047.7964747,
+   "title": "Sigorta Danışmanı",
+   "company": "MetLife Emeklilik ve Hayat A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/metlife-emeklilik-ve-hayat-a-s-sigorta-danismani-4570440",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4586923": {
+   "t": 1794944052.0451949,
+   "title": "Gayrimenkul Değerleme Uzmanı",
+   "company": "ALFA ANADOLU TAŞINMAZ DEĞERLEME VE DANIŞMANLIK A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/alfa-anadolu-tasinmaz-degerleme-ve-danismanlik-a-s-gayrimenkul-degerleme-uzmani-4586923",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4592257": {
+   "t": 1794944052.0452638,
+   "title": "Analist",
+   "company": "AcerPro Bilişim Teknolojileri A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/acerpro-bilisim-teknolojileri-a-s-analist-4592257",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4565930": {
+   "t": 1794944055.943313,
+   "title": "Gıda Güvenliği Denetçisi",
+   "company": "Intertek Test Hizmetleri A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/intertek-test-hizmetleri-a-s-gida-guvenligi-denetcisi-4565930",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4809491": {
+   "t": 1794944061.7692468,
+   "title": "Şube Müdürü - Konya",
+   "company": "SÜRAT KARGO",
+   "url": "https://www.eleman.net/is-ilani/sube-muduru-konya-i4809491",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4808939": {
+   "t": 1794944061.769313,
+   "title": "Müşteri Temsilcisi",
+   "company": "Maius",
+   "url": "https://www.eleman.net/is-ilani/musteri-temsilcisi-i4808939",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4808840": {
+   "t": 1794944061.7693975,
+   "title": "Part Time Satış Danışmanı - Konya Nike Mağazaları",
+   "company": "ELİZİNN - NİKE",
+   "url": "https://www.eleman.net/is-ilani/part-time-satis-danismani-konya-nike-magazalari-i4808840",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4805890": {
+   "t": 1794944061.769819,
+   "title": "Depo Elemanı",
+   "company": "Esaslı Gıda",
+   "url": "https://www.eleman.net/is-ilani/depo-elemani-i4805890",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804336": {
+   "t": 1794944061.770113,
+   "title": "Lojistik Depo Elemanı (Konya)",
+   "company": "Migros",
+   "url": "https://www.eleman.net/is-ilani/lojistik-depo-elemani-konya-i4804336",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803715": {
+   "t": 1794944061.7704217,
+   "title": "Şoför / Sürücü",
+   "company": "Bursa Eczacılar Kooperatifi",
+   "url": "https://www.eleman.net/is-ilani/sofor-surucu-i4803715",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803553": {
+   "t": 1794944061.770504,
+   "title": "Mağaza Satış Danışmanı",
+   "company": "Dab Lojistik",
+   "url": "https://www.eleman.net/is-ilani/magaza-satis-danismani-i4803553",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803397": {
+   "t": 1794944061.7705677,
+   "title": "Güvenlik Müdürü-Konya",
+   "company": "ISS PROSER KORUMA VE GÜVENLİK HİZMETLERİ",
+   "url": "https://www.eleman.net/is-ilani/guvenlik-muduru-konya-i4803397",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4808909": {
+   "t": 1794944061.7710497,
+   "title": "Barista",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/barista-i4808909",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4808747": {
+   "t": 1794944061.7711034,
+   "title": "Satış Temsilcisi",
+   "company": "İnci Dental Tıbbi Malzemeler",
+   "url": "https://www.eleman.net/is-ilani/satis-temsilcisi-i4808747",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4807946": {
+   "t": 1794944061.771164,
+   "title": "Saha Satış Uzmanı (Banka)",
+   "company": "Coorbiz Danışmanlık A. Ş.",
+   "url": "https://www.eleman.net/is-ilani/saha-satis-uzmani-banka-i4807946",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4807682": {
+   "t": 1794944061.7712295,
+   "title": "Satış Temsilcisi (Home Office - Evden Çalışma)",
+   "company": "Erdemir Sağlık Hizmetleri",
+   "url": "https://www.eleman.net/is-ilani/satis-temsilcisi-home-office-evden-calisma-i4807682",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4807402": {
+   "t": 1794944061.771291,
+   "title": "Bölge Satış Sorumlusu",
+   "company": "Tuana Grup Kimya",
+   "url": "https://www.eleman.net/is-ilani/bolge-satis-sorumlusu-i4807402",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806970": {
+   "t": 1794944061.7713485,
+   "title": "Kalite - Üretim Destek Operatörleri",
+   "company": "Global Kalite Kontrol",
+   "url": "https://www.eleman.net/is-ilani/kalite-uretim-destek-operatorleri-i4806970",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806016": {
+   "t": 1794944061.7714052,
+   "title": "Salatacı (Tüm İller)",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/salataci-tum-iller-i4806016",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806004": {
+   "t": 1794944061.7714756,
+   "title": "Yiyecek Servis Elemanı (Tüm İller)",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/yiyecek-servis-elemani-tum-iller-i4806004",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806010": {
+   "t": 1794944061.771531,
+   "title": "Aşçı (Tüm İller)",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/asci-tum-iller-i4806010",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806013": {
+   "t": 1794944061.771588,
+   "title": "Misafir İlişkileri Görevlisi (Tüm İller )",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/misafir-iliskileri-gorevlisi-tum-iller-i4806013",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4805998": {
+   "t": 1794944061.7716463,
+   "title": "Döner Ustası (Tüm İller)",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/doner-ustasi-tum-iller-i4805998",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806001": {
+   "t": 1794944061.7717006,
+   "title": "Izgara Ustası (Tüm İller)",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/izgara-ustasi-tum-iller-i4806001",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804939": {
+   "t": 1794944061.7717643,
+   "title": "Çağrı Merkezi Müşteri Temsilcisi-Segem Sertifikalı",
+   "company": "Lotushr İnsan Kaynakları",
+   "url": "https://www.eleman.net/is-ilani/cagri-merkezi-musteri-temsilcisi-segem-sertifikali-i4804939",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804024": {
+   "t": 1794944061.7718358,
+   "title": "Bankada Günlük Temizlik Personeli (Kadın)",
+   "company": "Wılco İnsan Kaynakları Ve Hizmet Aş.",
+   "url": "https://www.eleman.net/is-ilani/bankada-gunluk-temizlik-personeli-kadin-i4804024",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804027": {
+   "t": 1794944061.7719097,
+   "title": "Part-Time Bankada İkram Görevlisi ( Kadın )",
+   "company": "Wılco İnsan Kaynakları Ve Hizmet Aş.",
+   "url": "https://www.eleman.net/is-ilani/part-time-bankada-ikram-gorevlisi-kadin-i4804027",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803751": {
+   "t": 1794944061.7719817,
+   "title": "Elektrik / Elektrik-Elektronik Mühendisi",
+   "company": "Uluser Telekomünikasyon Ltd. Şti.",
+   "url": "https://www.eleman.net/is-ilani/elektrik-elektrik-elektronik-muhendisi-i4803751",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4802407": {
+   "t": 1794944061.7720528,
+   "title": "Çağrı Merkezi Satış Temsilcisi",
+   "company": "Monetizead Pazarlama Ve Perakende Satış A. Ş.",
+   "url": "https://www.eleman.net/is-ilani/cagri-merkezi-satis-temsilcisi-i4802407",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4802380": {
+   "t": 1794944061.7721143,
+   "title": "Satış Temsilcisi",
+   "company": "YÖRE SÜT ÜRÜNLERİ",
+   "url": "https://www.eleman.net/is-ilani/satis-temsilcisi-i4802380",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4800607": {
+   "t": 1794944061.772169,
+   "title": "Market Personeli",
+   "company": "Tarım Kredi Kooperatif Market",
+   "url": "https://www.eleman.net/is-ilani/market-personeli-i4800607",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4799887": {
+   "t": 1794944061.7722538,
+   "title": "Saha İlaçlama Teknisyeni",
+   "company": "Kılavuz Ipm Çevre Sağlığı Sistemleri",
+   "url": "https://www.eleman.net/is-ilani/saha-ilaclama-teknisyeni-i4799887",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4799572": {
+   "t": 1794944061.7723217,
+   "title": "Almanca Müşteri Temsilcisi",
+   "company": "Doğa İnsan Kaynakları Ve Danışmanlık Hizmetleri",
+   "url": "https://www.eleman.net/is-ilani/almanca-musteri-temsilcisi-i4799572",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4799557": {
+   "t": 1794944061.7723963,
+   "title": "Flemenkçe / Hollandaca Bilen Müşteri Temsilcisi",
+   "company": "Doğa İnsan Kaynakları Ve Danışmanlık Hizmetleri",
+   "url": "https://www.eleman.net/is-ilani/flemenkce-hollandaca-bilen-musteri-temsilcisi-i4799557",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4799296": {
+   "t": 1794944061.7724793,
+   "title": "İngilizce Öğretmeni",
+   "company": "Edustar Eğitim Danışmanlık Yayıncılık",
+   "url": "https://www.eleman.net/is-ilani/ingilizce-ogretmeni-i4799296",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4797676": {
+   "t": 1794944061.772539,
+   "title": "Taşıma Elemanı",
+   "company": "Drd İstihdam Hizmetleri A. Ş",
+   "url": "https://www.eleman.net/is-ilani/tasima-elemani-i4797676",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4797640": {
+   "t": 1794944061.7725904,
+   "title": "Garson",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/garson-i4797640",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4797643": {
+   "t": 1794944061.7726424,
+   "title": "Ekmek / Pide Ustası (Tüm İller)",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/ekmek-pide-ustasi-tum-iller-i4797643",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4797601": {
+   "t": 1794944061.7726939,
+   "title": "Komi",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/komi-i4797601",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4797604": {
+   "t": 1794944061.7727451,
+   "title": "Restoran Kasiyeri (Tüm İller)",
+   "company": "EMİRGAN SÜTİŞ",
+   "url": "https://www.eleman.net/is-ilani/restoran-kasiyeri-tum-iller-i4797604",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4808843": {
+   "t": 1794944061.7728934,
+   "title": "Kasiyer - Konya Nike Mağazaları",
+   "company": "ELİZİNN - NİKE",
+   "url": "https://www.eleman.net/is-ilani/kasiyer-konya-nike-magazalari-i4808843",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4808846": {
+   "t": 1794944061.7730129,
+   "title": "Mağaza Yöneticisi - Konya Nike Mağazaları",
+   "company": "ELİZİNN - NİKE",
+   "url": "https://www.eleman.net/is-ilani/magaza-yoneticisi-konya-nike-magazalari-i4808846",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4807988": {
+   "t": 1794944061.7731261,
+   "title": "Makine Operatörü ( Konya )",
+   "company": "ALIŞAN LOJİSTİK",
+   "url": "https://www.eleman.net/is-ilani/makine-operatoru-konya-i4807988",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4807060": {
+   "t": 1794944061.7732146,
+   "title": "Güvenlik Görevlisi - Konya",
+   "company": "Securitas Güvenlik Hizmetleri",
+   "url": "https://www.eleman.net/is-ilani/guvenlik-gorevlisi-konya-i4807060",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806973": {
+   "t": 1794944061.7733102,
+   "title": "Bakım Teknikeri",
+   "company": "Butkon Asansör",
+   "url": "https://www.eleman.net/is-ilani/bakim-teknikeri-i4806973",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806385": {
+   "t": 1794944061.7734268,
+   "title": "Eksantrik Ve Hidrolik Pres Operatörü",
+   "company": "Berkon Otomotiv",
+   "url": "https://www.eleman.net/is-ilani/eksantrik-ve-hidrolik-pres-operatoru-i4806385",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4805692": {
+   "t": 1794944061.7735445,
+   "title": "Ayrıştırma Personeli (Konya)",
+   "company": "Kolay Gelsin",
+   "url": "https://www.eleman.net/is-ilani/ayristirma-personeli-konya-i4805692",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804804": {
+   "t": 1794944061.7736044,
+   "title": "Satış Ve Şube Sorumlusu",
+   "company": "Queenzz Estetik Ve Güzellik Merkezleri",
+   "url": "https://www.eleman.net/is-ilani/satis-ve-sube-sorumlusu-i4804804",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804648": {
+   "t": 1794944061.7736712,
+   "title": "Sürücü Tanzim Teşhir Personeli",
+   "company": "Esaslı Gıda",
+   "url": "https://www.eleman.net/is-ilani/surucu-tanzim-teshir-personeli-i4804648",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804483": {
+   "t": 1794944061.7737415,
+   "title": "Forklift / Elektrikli Transpalet Operatörü",
+   "company": "Ekol Lojistik",
+   "url": "https://www.eleman.net/is-ilani/forklift-elektrikli-transpalet-operatoru-i4804483",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4804246": {
+   "t": 1794944061.773786,
+   "title": "Bulaşıkçı",
+   "company": "SOFRA GRUP",
+   "url": "https://www.eleman.net/is-ilani/bulasikci-i4804246",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803955": {
+   "t": 1794944061.773837,
+   "title": "Temizlik Personeli - Konya",
+   "company": "ISS TESİS YÖNETİM HİZMETLERİ A.Ş.",
+   "url": "https://www.eleman.net/is-ilani/temizlik-personeli-konya-i4803955",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803961": {
+   "t": 1794944061.7739024,
+   "title": "Hasta Taşıma Personeli - Konya",
+   "company": "ISS TESİS YÖNETİM HİZMETLERİ A.Ş.",
+   "url": "https://www.eleman.net/is-ilani/hasta-tasima-personeli-konya-i4803961",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803976": {
+   "t": 1794944061.7739604,
+   "title": "Mekanik Bakım Elemanı",
+   "company": "Rtm Tarım Kimya",
+   "url": "https://www.eleman.net/is-ilani/mekanik-bakim-elemani-i4803976",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803952": {
+   "t": 1794944061.7740135,
+   "title": "Elektrik Bakım Elemanı",
+   "company": "Rtm Tarım Kimya",
+   "url": "https://www.eleman.net/is-ilani/elektrik-bakim-elemani-i4803952",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803385": {
+   "t": 1794944061.774064,
+   "title": "Güvenlik Amiri-Konya",
+   "company": "ISS PROSER KORUMA VE GÜVENLİK HİZMETLERİ",
+   "url": "https://www.eleman.net/is-ilani/guvenlik-amiri-konya-i4803385",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4803376": {
+   "t": 1794944061.7741284,
+   "title": "Özel Güvenlik Personeli-Konya",
+   "company": "ISS PROSER KORUMA VE GÜVENLİK HİZMETLERİ",
+   "url": "https://www.eleman.net/is-ilani/ozel-guvenlik-personeli-konya-i4803376",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4802071": {
+   "t": 1794944061.7742033,
+   "title": "Temizlik Personeli / Engelli Kadro / Konya",
+   "company": "Firma Adı Gizli",
+   "url": "https://www.eleman.net/is-ilani/temizlik-personeli-engelli-kadro-konya-i4802071",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4801891": {
+   "t": 1794944061.7742548,
+   "title": "İcra Takip Elemanı",
+   "company": "Çia Hukuk Danışmanlık",
+   "url": "https://www.eleman.net/is-ilani/icra-takip-elemani-i4801891",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4801888": {
+   "t": 1794944061.7743056,
+   "title": "Elektrikhane Personeli",
+   "company": "Mvd Makine Sanayi A. Ş.",
+   "url": "https://www.eleman.net/is-ilani/elektrikhane-personeli-i4801888",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4801774": {
+   "t": 1794944061.7743597,
+   "title": "Özel Güvenlik Görevlisi",
+   "company": "Euroserve Güvenlik",
+   "url": "https://www.eleman.net/is-ilani/ozel-guvenlik-gorevlisi-i4801774",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4801393": {
+   "t": 1794944061.7744138,
+   "title": "Kobi Müşteri Yöneticisi",
+   "company": "Turkcell - Anadolu Kçm",
+   "url": "https://www.eleman.net/is-ilani/kobi-musteri-yoneticisi-i4801393",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4806919": {
+   "t": 1794944061.7744958,
+   "title": "Paketleme Personeli",
+   "company": "Bizim Servis",
+   "url": "https://www.eleman.net/is-ilani/paketleme-personeli-i4806919",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100672": {
+   "t": 1794944066.9860446,
+   "title": "Dijital Pazarlama Uzmanı",
+   "company": "GEZER GRUP İNSAN KAYNAK. EGT. DAN.AŞ",
+   "url": "https://isbul.net/is-ilani/gezer-grup-insan-kaynaklari-egitim-dijital-pazarlama-uzmani-100672",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100855": {
+   "t": 1794944066.986109,
+   "title": "Satış Temsilcisi",
+   "company": "Elif Nur Gözlükaya",
+   "url": "https://isbul.net/is-ilani/elif-nur-gozlukaya-satis-temsilcisi-100855",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100861": {
+   "t": 1794944066.9861896,
+   "title": "Bireysel Satış Temsilcisi",
+   "company": "TEPENET ALARM HİZMETLERİ VE GÜVENLİK SİS.LTD ŞTİ Vkn",
+   "url": "https://isbul.net/is-ilani/tepenet-teknoloji-ve-guvenlik-sistemleri-bireysel-satis-temsilcisi-100861",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100689": {
+   "t": 1794944066.9870827,
+   "title": "Muhabir İş İlanı",
+   "company": "ÖZGÜR ARAGÜN - ÖZGÜR MEDYA",
+   "url": "https://isbul.net/is-ilani/ozgur-medya-muhabir-is-ilani-ozgur-medya-trsektor-100689",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100852": {
+   "t": 1794944066.9871564,
+   "title": "Freelance Yazılım Pazarlama - ServisPro",
+   "company": "UYGAR TEKNOLOJİ",
+   "url": "https://isbul.net/is-ilani/uygar-teknoloji-freelance-yazilim-pazarlama-servispro-100852",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100726": {
+   "t": 1794944066.987307,
+   "title": "Uzaktan Müşteri Temsilcisi",
+   "company": "DİZAYN HİZMET ORG.DAY.TÜK.MAL.İNŞ.SAN.LTD.Ş",
+   "url": "https://isbul.net/is-ilani/dizayn-hizmet-muh-ltd-uzaktan-musteri-temsilcisi-100726",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100885": {
+   "t": 1794944066.9877563,
+   "title": "İngilizce Öğretmeni",
+   "company": "ONUR ERDOĞAN - Let's Go Academy Dil Ve Kariyer Merkezi",
+   "url": "https://isbul.net/is-ilani/lets-go-academy-dil-ve-kariyer-merkezi-ingilizce-ogretmeni-100885",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100856": {
+   "t": 1794944069.4762232,
+   "title": "Garson",
+   "company": "NURGÜL KOÇYİĞİT - TİRYAKİ KAFE",
+   "url": "https://isbul.net/is-ilani/tiryaki-kafe-garson-100856",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100807": {
+   "t": 1794944069.4763105,
+   "title": "Üniversal Torna Ustası Aramaktayız",
+   "company": "Apalı Yılmaz Kardeşler",
+   "url": "https://isbul.net/is-ilani/apali-yilmaz-kardesler-universal-torna-ustasi-aramaktayiz-100807",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100622": {
+   "t": 1794944069.4763834,
+   "title": "Kasiyer ve Reyon Görevlisi Alımı Avm",
+   "company": "Demirkıran Petrol ve Dinlenme Tesisleri",
+   "url": "https://isbul.net/is-ilani/demirkiran-petrol-ve-dinlenme-kasiyer-ve-reyon-gorevlisi-alimi-avm-100622",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100618": {
+   "t": 1794944069.4764566,
+   "title": "Üretim Elemanı",
+   "company": "HAMLE KÜNDEKARİ ORM.ÜRÜN.SAN.TİC.LTD ŞTİ",
+   "url": "https://isbul.net/is-ilani/hamle-kundekari-orman-urunleri-san-tic-ltd-sti-uretim-elemani-100618",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100620": {
+   "t": 1794944069.4765246,
+   "title": "Demirkıran Petrol Pompacı Alımı",
+   "company": "Demirkıran Petrol ve Dinlenme Tesisleri",
+   "url": "https://isbul.net/is-ilani/demirkiran-petrol-ve-dinlenme-demirkiran-petrol-pompaci-alimi-100620",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100603": {
+   "t": 1794944069.476583,
+   "title": "Genç Çırak Adayları",
+   "company": "HAMLE KÜNDEKARİ ORM.ÜRÜN.SAN.TİC.LTD ŞTİ",
+   "url": "https://isbul.net/is-ilani/hamle-kundekari-orman-urunleri-san-tic-ltd-sti-genc-cirak-adaylari-100603",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100619": {
+   "t": 1794944069.476633,
+   "title": "Kasiyer Alımı",
+   "company": "Demirkıran Petrol ve Dinlenme Tesisleri",
+   "url": "https://isbul.net/is-ilani/demirkiran-petrol-ve-dinlenme-tesisleri-kasiyer-alimi-100619",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100477": {
+   "t": 1794944069.4767308,
+   "title": "Sağlık Check-Up Projesi Deneyimli Takım Liderleri ve Personel Aranıyor!",
+   "company": "NURŞAH MAYA",
+   "url": "https://isbul.net/is-ilani/maya-saglik-check-up-projesi-deneyimli-takim-liderleri-100477",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100300": {
+   "t": 1794944069.476811,
+   "title": "CNC Operatörü ve Paketleme Elemanı Arıyoruz",
+   "company": "Apalı Yılmaz Kardeşler",
+   "url": "https://isbul.net/is-ilani/apali-yilmaz-kardesler-cnc-operatoru-ve-paketleme-elemani-100300",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:1": {
+   "t": 1794944069.476866,
+   "title": "Esnaf Kurye Alımı",
+   "company": "BÜŞRA BAŞODA -BK EXPRESS KONYA",
+   "url": "https://isbul.net/is-ilani/bk-express-konya-esnaf-kurye-alimi-100294-1",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100159": {
+   "t": 1794944069.4769256,
+   "title": "Konya’da Ev Aşçısı",
+   "company": "Bakicibul.net",
+   "url": "https://isbul.net/is-ilani/bakicibul-konyada-ev-ascisi-100159",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100227": {
+   "t": 1794944069.4769914,
+   "title": "Konya’da Yatılı Bebek Bakıcısı",
+   "company": "Bakicibul.net",
+   "url": "https://isbul.net/is-ilani/bakicibul-konyada-yatili-bebek-bakicisi-100227",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100738": {
+   "t": 1794944069.4770367,
+   "title": "Ekip Lideri",
+   "company": "DİZAYN HİZMET ORG.DAY.TÜK.MAL.İNŞ.SAN.LTD.Ş",
+   "url": "https://isbul.net/is-ilani/dizayn-hizmet-muh-ltd-ekip-lideri-100738",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100736": {
+   "t": 1794944069.477082,
+   "title": "Ekip Lideri",
+   "company": "RÜYA HANDE DURMAZ",
+   "url": "https://isbul.net/is-ilani/aqualkali-ekip-lideri-100736",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100691": {
+   "t": 1794944069.4771595,
+   "title": "Uzaktan Çalışacak Gayrimenkul Portföy Kazanım Danışmanı",
+   "company": "Küresel Gayrimenkul Yatırım Ve Danışmanlık",
+   "url": "https://isbul.net/is-ilani/kuresel-uzaktan-calisacak-gayrimenkul-portfoy-kazanim-danismani-100691",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100236": {
+   "t": 1794944069.4772298,
+   "title": "Karaman’da Oyun Ablası",
+   "company": "Bakicibul.net",
+   "url": "https://isbul.net/is-ilani/bakicibul-karamanda-oyun-ablasi-100236",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "youthall:carrefoursa-4": {
+   "t": 1794944072.9372892,
+   "title": "Uzun Dönem İnsan Kaynakları Stajyeri",
+   "company": "CarrefourSA",
+   "url": "https://www.youthall.com/tr/carrefoursa/uzun-donem-insan-kaynaklari-stajyeri_4/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "youthall:somposigorta-23": {
+   "t": 1794944072.9373348,
+   "title": "Stajyer Avukat",
+   "company": "Sompo",
+   "url": "https://www.youthall.com/tr/somposigorta/stajyer-avukat_23/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "youthall:code2work-12": {
+   "t": 1794944072.9373786,
+   "title": "Veri Bilimci ve Yazılımcı Yetiştirme Programı",
+   "company": "Code2Work",
+   "url": "https://www.youthall.com/tr/code2work/veri-bilimci-ve-yazilimci-yetistirme-programi_12/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490428131": {
+   "t": 1794944072.9374735,
+   "title": "SAP Public Cloud Geliştirme ve Proje Lideri",
+   "company": "Mapeks Organics",
+   "url": "https://www.linkedin.com/jobs/view/4490428131/",
+   "status": "sent",
+   "score": 55,
+   "msg": null
+  },
+  "linkedin:4491180905": {
+   "t": 1794944072.9375079,
+   "title": "MM Consultant (SAP Retail)",
+   "company": "EPAM Systems",
+   "url": "https://www.linkedin.com/jobs/view/4491180905/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4489760939": {
+   "t": 1794944072.9375248,
+   "title": "Yazılım Uzmanı-ABAP",
+   "company": "Coşkunöz Holding",
+   "url": "https://www.linkedin.com/jobs/view/4489760939/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4491162596": {
+   "t": 1794944072.9375417,
+   "title": "SAP Ana Veri Uzmanı",
+   "company": "Gizli Şirket",
+   "url": "https://www.linkedin.com/jobs/view/4491162596/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4491161172": {
+   "t": 1794944072.9375577,
+   "title": "ERP Uzmanı",
+   "company": "Lila Kağıt",
+   "url": "https://www.linkedin.com/jobs/view/4491161172/",
+   "status": "sent",
+   "score": 70,
+   "msg": null
+  },
+  "linkedin:3630450075": {
+   "t": 1794944072.9375856,
+   "title": "Software Engineer",
+   "company": "Dream Games",
+   "url": "https://www.linkedin.com/jobs/view/3630450075/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490429489": {
+   "t": 1794944072.937612,
+   "title": "Software Engineer 'Cash Management & Money Transfers'",
+   "company": "Yapı Kredi Teknoloji",
+   "url": "https://www.linkedin.com/jobs/view/4490429489/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4491575321": {
+   "t": 1794944072.9376497,
+   "title": "Yazılım Uzmanı",
+   "company": "Mplus",
+   "url": "https://www.linkedin.com/jobs/view/4491575321/",
+   "status": "sent",
+   "score": 45,
+   "msg": null
+  },
+  "linkedin:4489725403": {
+   "t": 1794944072.9376702,
+   "title": "Backend ve Entegrasyon Geliştirici",
+   "company": "ICterra Bilgi ve İletişim Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4489725403/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490450501": {
+   "t": 1794944072.9377146,
+   "title": "Software Engineer – Backend / Product Engineering",
+   "company": "Practicus AI",
+   "url": "https://www.linkedin.com/jobs/view/4490450501/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490412600": {
+   "t": 1794944072.9377518,
+   "title": "Middle Software Engineer - Backend (Platform)",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4490412600/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4478251611": {
+   "t": 1794944072.9377701,
+   "title": "Backend Geliştirme Uzmanı",
+   "company": "Fuzul Holding",
+   "url": "https://www.linkedin.com/jobs/view/4478251611/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4490434906": {
+   "t": 1794944072.9377887,
+   "title": "IT Software Engineer",
+   "company": "HUGO BOSS",
+   "url": "https://www.linkedin.com/jobs/view/4490434906/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4485071410": {
+   "t": 1794944072.9378035,
+   "title": "AI Engineer",
+   "company": "Vertigo Games",
+   "url": "https://www.linkedin.com/jobs/view/4485071410/",
+   "status": "sent",
+   "score": 75,
+   "msg": null
+  },
+  "linkedin:4446431813": {
+   "t": 1794944072.937817,
+   "title": "Forward Deployed AI Engineer, Türkiye - BCG X",
+   "company": "BCG X",
+   "url": "https://www.linkedin.com/jobs/view/4446431813/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490401808": {
+   "t": 1794944072.9378374,
+   "title": "NLP Engineer",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4490401808/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490416094": {
+   "t": 1794944072.9378486,
+   "title": "Machine Learning Engineer",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4490416094/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4491114737": {
+   "t": 1794944072.9378617,
+   "title": "AI Platform Engineer",
+   "company": "Talentown Recruitment Agency - IT",
+   "url": "https://www.linkedin.com/jobs/view/4491114737/",
+   "status": "sent",
+   "score": 45,
+   "msg": null
+  },
+  "linkedin:4488907929": {
+   "t": 1794944072.9378827,
+   "title": "Data Analyst",
+   "company": "Vertigo Games",
+   "url": "https://www.linkedin.com/jobs/view/4488907929/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490277964": {
+   "t": 1794944072.937895,
+   "title": "Data Analyst",
+   "company": "SHEIN",
+   "url": "https://www.linkedin.com/jobs/view/4490277964/",
+   "status": "sent",
+   "score": 55,
+   "msg": null
+  },
+  "linkedin:4491144020": {
+   "t": 1794944072.9379065,
+   "title": "Veri Bilimcisi -İleri Analitik Ve Yapay Zeka Yöneticisi",
+   "company": "Akbank",
+   "url": "https://www.linkedin.com/jobs/view/4491144020/",
+   "status": "sent",
+   "score": 45,
+   "msg": null
+  },
+  "linkedin:4446445765": {
+   "t": 1794944072.9379284,
+   "title": "Forward Deployed AI Scientist, Türkiye - BCG X",
+   "company": "BCG X",
+   "url": "https://www.linkedin.com/jobs/view/4446445765/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4491118669": {
+   "t": 1794944072.9379487,
+   "title": "Veri Bilimi Danışmanı",
+   "company": "Yapı Kredi",
+   "url": "https://www.linkedin.com/jobs/view/4491118669/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4491139171": {
+   "t": 1794944072.9379644,
+   "title": "Veri Bilimcisi- Model Riski ve Validasyon Yöneticisi",
+   "company": "Akbank",
+   "url": "https://www.linkedin.com/jobs/view/4491139171/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4489568428": {
+   "t": 1794944072.937985,
+   "title": "Business Intelligence Engineer",
+   "company": "Hepsiburada",
+   "url": "https://www.linkedin.com/jobs/view/4489568428/",
+   "status": "sent",
+   "score": 50,
+   "msg": null
+  },
+  "linkedin:4491575141": {
+   "t": 1794944072.9380019,
+   "title": "Data Engineer",
+   "company": "MAD Parfumeur",
+   "url": "https://www.linkedin.com/jobs/view/4491575141/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490458168": {
+   "t": 1794944072.9380143,
+   "title": "Deep Learning Researcher",
+   "company": "Tensor Yapay Zeka",
+   "url": "https://www.linkedin.com/jobs/view/4490458168/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490401575": {
+   "t": 1794944072.9380293,
+   "title": "Yapay Zeka Mühendisi",
+   "company": "Aselsan",
+   "url": "https://www.linkedin.com/jobs/view/4490401575/",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "linkedin:4490465086": {
+   "t": 1794944072.9380424,
+   "title": "AI Engineer",
+   "company": "Apilex",
+   "url": "https://www.linkedin.com/jobs/view/4490465086/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4491299384": {
+   "t": 1794944072.9380536,
+   "title": "Test Engineer",
+   "company": "Medianova",
+   "url": "https://www.linkedin.com/jobs/view/4491299384/",
+   "status": "sent",
+   "score": 35,
+   "msg": null
+  },
+  "linkedin:4377172070": {
+   "t": 1794944072.9380648,
+   "title": "Software Quality Assurance Specialist",
+   "company": "adesso Turkey",
+   "url": "https://www.linkedin.com/jobs/view/4377172070/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4385307706": {
+   "t": 1794944072.9380805,
+   "title": "Software Quality Assurance Specialist",
+   "company": "adesso Turkey",
+   "url": "https://www.linkedin.com/jobs/view/4385307706/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4490272311": {
+   "t": 1794944072.9380958,
+   "title": "Network Güvenlik Uzmanı",
+   "company": "Amerikan Hastanesi",
+   "url": "https://www.linkedin.com/jobs/view/4490272311/",
+   "status": "sent",
+   "score": 50,
+   "msg": null
+  },
+  "linkedin:4491573355": {
+   "t": 1794944072.9381115,
+   "title": "System Network Support Expert - Ankara",
+   "company": "Mplus",
+   "url": "https://www.linkedin.com/jobs/view/4491573355/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4491127663": {
+   "t": 1794944072.9381256,
+   "title": "Network İşletim ve Operasyon Uzmanı (Vardiyalı)",
+   "company": "Akbank",
+   "url": "https://www.linkedin.com/jobs/view/4491127663/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "linkedin:4489725579": {
+   "t": 1794944072.9381447,
+   "title": "Network & System Engineer",
+   "company": "Servicepark",
+   "url": "https://www.linkedin.com/jobs/view/4489725579/",
+   "status": "sent",
+   "score": 30,
+   "msg": null
+  },
+  "linkedin:4491132385": {
+   "t": 1794944072.9381583,
+   "title": "Unix Sistem Uzmanı",
+   "company": "Akbank",
+   "url": "https://www.linkedin.com/jobs/view/4491132385/",
+   "status": "sent",
+   "score": 40,
+   "msg": null
+  },
+  "kariyernet:2199540": {
+   "t": 1794944072.938171,
+   "title": "Yazılım Mühendisi",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-yazilim-muhendisi-2199540",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "kariyernet:2223643": {
+   "t": 1794944072.9381917,
+   "title": "İş Analisti",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-is-analisti-2223643",
+   "status": "sent",
+   "score": 60,
+   "msg": null
+  },
+  "kariyernet:2496843": {
+   "t": 1794944072.9382105,
+   "title": "Java Developer",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-java-developer-2496843",
+   "status": "sent",
+   "score": 55,
+   "msg": null
+  },
+  "kariyernet:2199542": {
+   "t": 1794944072.9382288,
+   "title": "Yazılım Test Mühendisi",
+   "company": "Omuz Omuza Engelsiz İnsan Kaynakları",
+   "url": "https://www.kariyer.net/is-ilani/omuz-omuza-engelsiz-insan-kaynaklari-yazilim-test-muhendisi-2199542",
+   "status": "sent",
+   "score": 50,
+   "msg": null
+  },
+  "kariyernet:4599237": {
+   "t": 1794944072.9382498,
+   "title": "Network Uzmanı",
+   "company": "Gizli Firma",
+   "url": "https://www.kariyer.net/is-ilani/gizli-firma-network-uzmani-4599237",
+   "status": "sent",
+   "score": 65,
+   "msg": null
+  },
+  "kariyernet:4599208": {
+   "t": 1794944072.9382627,
+   "title": "Yazılım Geliştirme Elemanı",
+   "company": "ONOFF SPORT SPOR URN. TEKS. SAN. TIC. LTD. ŞTİ.",
+   "url": "https://www.kariyer.net/is-ilani/onoff-sport-spor-urn-teks-san-tic-ltd-sti-yazilim-gelistirme-elemani-4599208",
+   "status": "sent",
+   "score": 15,
+   "msg": null
+  },
+  "isbul:100862": {
+   "t": 1794944072.9382877,
+   "title": "Web Yazılım Uzmanı",
+   "company": "TEPENET ALARM HİZMETLERİ VE GÜVENLİK SİS.LTD ŞTİ Vkn",
+   "url": "https://isbul.net/is-ilani/tepenet-teknoloji-ve-guvenlik-sistemleri-ltd-sti-web-yazilim-uzmani-100862",
+   "status": "sent",
+   "score": 65,
+   "msg": null
+  }
+ },
+ "dedupe": {
+  "b112e452b8fbd35e": "linkedin:4476681880",
+  "d4688b0d01d402c9": "linkedin:4489395450",
+  "cbadaf70b2f303f7": "linkedin:4490578850",
+  "a74bbac4621dc994": "linkedin:4488210488",
+  "3d2305789bc0f654": "linkedin:4488205007",
+  "67f87bc14e4c98b8": "linkedin:4488247064",
+  "f67e455329607ec7": "linkedin:4489096456",
+  "cb1b86f04b2885eb": "linkedin:4491184804",
+  "098444e362bcdc37": "linkedin:4490105199",
+  "3428f2d887eb7088": "linkedin:4488594691",
+  "2c855ebe6aab6f98": "linkedin:4490757373",
+  "dcc08b26c2ebfae6": "linkedin:4490715423",
+  "8cb6ebcbaadd5908": "linkedin:4462238200",
+  "3871c0235a1970a3": "linkedin:4488213606",
+  "299f9aed57410024": "linkedin:4486815905",
+  "1a139abb96d4606b": "linkedin:4487472546",
+  "ca21906d7a2347b3": "linkedin:4490724480",
+  "ec66a284be9e0402": "linkedin:4488938089",
+  "4c47b0cd7c1549f9": "linkedin:4488224453",
+  "c2edd459481725d9": "linkedin:4488506843",
+  "c5e44c8a0aaec68d": "linkedin:4490349279",
+  "9f98881d56fe4ad6": "linkedin:4431928975",
+  "a4f4b9626bf0ee12": "linkedin:4489759330",
+  "ab90ae3c258a2bde": "linkedin:4482107292",
+  "baee24bbba28d042": "linkedin:4490521139",
+  "effabe8d8fefa7d0": "linkedin:4491506022",
+  "85de4e2134308fc4": "linkedin:4489964073",
+  "de6074fde30e92a3": "linkedin:4488910592",
+  "884429b388d9e003": "linkedin:4488628688",
+  "9e1681818c85acc2": "linkedin:4490455101",
+  "3233fec9f682f0d6": "linkedin:4489646260",
+  "a863b38adea15636": "linkedin:4480467279",
+  "7d4fc6645d29e2e0": "linkedin:4489095333",
+  "9d2a56efbc51916f": "linkedin:4488940291",
+  "bf30cddfebcab17d": "linkedin:4316620232",
+  "7f547e9276eae6e4": "linkedin:4490781101",
+  "ae331e953b33ef00": "linkedin:4490768516",
+  "14d7ef7bdf167f1f": "linkedin:4491161822",
+  "aae1379e6301ff61": "linkedin:4488919408",
+  "99cf2c5f3596aba0": "linkedin:4490108138",
+  "8198c46bffacba28": "linkedin:4489547450",
+  "94aef281369979f5": "linkedin:4490320285",
+  "e15c9f60a1e626b9": "linkedin:4489591049",
+  "afd4ea9a7e88029f": "linkedin:4488920226",
+  "9519cbd91cf6921a": "linkedin:4478250615",
+  "a4e5114dedf9cd9c": "linkedin:4488580154",
+  "37896c59b7fe9fca": "linkedin:4454956595",
+  "5fbe82caa77b8294": "linkedin:4488508389",
+  "6f103e67c3165f83": "linkedin:4490308056",
+  "a137f5d7675bc6d3": "linkedin:4489365309",
+  "85d57c716cc500bc": "linkedin:4479848385",
+  "afedb32dfa43ae3a": "linkedin:4446444757",
+  "9d75a1b55663804f": "linkedin:4487899541",
+  "890f05692da55ebd": "linkedin:4430452660",
+  "9764cd8ff500696d": "linkedin:4490736502",
+  "d3233845dd5181a8": "linkedin:4490575808",
+  "0713dbac184a40d1": "linkedin:4489745475",
+  "d90e3c6020e1a3d1": "linkedin:4489811675",
+  "bd73e1fc7ae4331e": "linkedin:4489755632",
+  "6947c4e128f5a720": "linkedin:4489264277",
+  "2327c86c80f94d1a": "linkedin:4488948352",
+  "f697199c1b05aee3": "linkedin:4488268960",
+  "81ab48cb58a2d5a2": "linkedin:4488907448",
+  "73d6d891c457e378": "linkedin:4473930066",
+  "a97f3c3bb9486158": "linkedin:4490718382",
+  "206801d3a758f916": "linkedin:4476168919",
+  "760a726cbb77c90b": "linkedin:4489558228",
+  "e87fa8ebbe22c42f": "linkedin:4487515528",
+  "5be495c612590373": "linkedin:4489768802",
+  "678250e5d02e9d20": "linkedin:4488517242",
+  "4ab401e136f49e51": "linkedin:4478267720",
+  "c468ef6b8379255a": "linkedin:4491124359",
+  "5f6e57b696c19d78": "linkedin:4491282831",
+  "0b15e1cea54e16b7": "linkedin:4488282552",
+  "4184964cb0f0ebca": "linkedin:4488925967",
+  "2af5028a65c67fc6": "linkedin:4488660702",
+  "f86f08bdd395df4b": "linkedin:4488205026",
+  "d36657071ad096c5": "linkedin:4475031630",
+  "1b4c3fc2dd739ac8": "linkedin:4479858357",
+  "0a84ea6d1359f71c": "linkedin:4490459240",
+  "085522f0037f4912": "linkedin:4488505725",
+  "6fe8c099acc4bc52": "linkedin:4490197739",
+  "f0f6343abd38a75d": "linkedin:4490196759",
+  "170e142a3c43819c": "linkedin:4488592885",
+  "35a95d408545d848": "linkedin:4485079783",
+  "dd17033cffd475e5": "linkedin:4489765172",
+  "16fbf5784bc2e69b": "linkedin:4490196171",
+  "37bbd18acc5c3332": "linkedin:4474738118",
+  "a623385e1d1d032e": "linkedin:4490436999",
+  "8d012ffc5444ecad": "linkedin:4489725117",
+  "e7242c5b3e6f6d3a": "linkedin:4478682479",
+  "01e9f4d1f7c67531": "linkedin:4484689218",
+  "1278994bf0db6268": "linkedin:4364164650",
+  "df34542adadc3f81": "linkedin:4490415709",
+  "bc2184d0de47c4d2": "linkedin:4478249908",
+  "530c296106d88ac4": "linkedin:4489745682",
+  "1c90c23dfcbaea9d": "linkedin:4490401989",
+  "cb86b05d67d996b9": "linkedin:4489728081",
+  "4f491ca3c14d20b5": "linkedin:4490445895",
+  "6590276a6978fad8": "linkedin:4490114000",
+  "383a85140782d9db": "linkedin:4491154962",
+  "f4b3d5602916f64b": "linkedin:4490414176",
+  "ee9176087f2c2e7c": "kariyernet:4598615",
+  "9b526d34ef719bff": "kariyernet:4591833",
+  "a27f0c929fe32719": "kariyernet:4596327",
+  "bed839bf50faa1a6": "kariyernet:4426509",
+  "af06d26feae2717e": "kariyernet:4596031",
+  "119e46bb98ff58dd": "kariyernet:4595408",
+  "8009c51d584addf8": "kariyernet:4594736",
+  "020b1a04c08e75cc": "kariyernet:4597673",
+  "c462571dd4fb1e4e": "kariyernet:4596776",
+  "c4d24408e482f87d": "kariyernet:4595850",
+  "bfa8a4684f633ef7": "kariyernet:4418833",
+  "c78653fdc4bf3a09": "kariyernet:4598095",
+  "2510bbe6e46e8a99": "kariyernet:4594855",
+  "573b83135037bf5e": "kariyernet:4593183",
+  "1a5e90a56767feac": "kariyernet:4582731",
+  "f0891306452efca8": "kariyernet:4506221",
+  "584d357c229b1d10": "kariyernet:4593636",
+  "d5a5e00eed93ac53": "kariyernet:4401554",
+  "85ff8941022182fe": "kariyernet:4593316",
+  "3f6d6c671e84e132": "kariyernet:4581698",
+  "27487e9eb2382139": "kariyernet:4299117",
+  "42dec40a7694ae35": "kariyernet:4586270",
+  "ea375cd170ff7e14": "kariyernet:4240746",
+  "91a1f651239b0bfc": "kariyernet:4594659",
+  "7535b0e8220c7828": "kariyernet:4594565",
+  "5c3ccea51f5cc7a2": "kariyernet:4594164",
+  "edc3eba44037e8c0": "kariyernet:2496863",
+  "75103d9763db0278": "kariyernet:4588521",
+  "fb80a601c3da21c4": "kariyernet:4588019",
+  "d64e993866950bde": "kariyernet:4594915",
+  "0c09d8038f4823cf": "kariyernet:4596893",
+  "0cd5fd31f9c58243": "kariyernet:4584313",
+  "0e2f57d4f11a8bca": "kariyernet:4582634",
+  "5e520ea4fd8d5ef5": "kariyernet:4587333",
+  "cba54e8dcfd137f3": "kariyernet:4567517",
+  "ffcc1ad45333610e": "kariyernet:4091534",
+  "e568d75ab49cc757": "kariyernet:4304889",
+  "ffb8899598c46996": "kariyernet:4584221",
+  "093c4ab9d60070dd": "kariyernet:4581505",
+  "e5180d8665d2e647": "kariyernet:4481098",
+  "b78522f8075056cd": "kariyernet:4595153",
+  "37b0e4dc52ae4d4c": "kariyernet:1765759",
+  "3bcf6bdffc6a3b9e": "kariyernet:4596298",
+  "fc35d9e789375a31": "kariyernet:4584223",
+  "bccffe313edd4f80": "kariyernet:4583930",
+  "9adc873a07dfbd95": "kariyernet:4590420",
+  "cd2a8a811fd38520": "kariyernet:4517758",
+  "6d3ff70ecf9f8d9e": "kariyernet:4586739",
+  "a6f5107435d40165": "kariyernet:4490448",
+  "c22c9756314d9cb6": "kariyernet:4587505",
+  "f1cd5578905e0f03": "kariyernet:4576906",
+  "b38937e5fb2f460f": "kariyernet:4585869",
+  "b56358e4f01fd98d": "kariyernet:4575060",
+  "b87f3f85e73d6044": "kariyernet:4579757",
+  "b87525b1716efdcd": "kariyernet:4550452",
+  "de22fb7f0a982f07": "kariyernet:4194203",
+  "4cccc139cd99ee2b": "kariyernet:4533928",
+  "f1b750b2836d2cc8": "kariyernet:4593695",
+  "a81d2ff65807d4ac": "kariyernet:2553458",
+  "7fe18d6668c5b112": "kariyernet:4592676",
+  "0133dbb45c45fb50": "kariyernet:4582126",
+  "5fb127106e153db3": "kariyernet:4139982",
+  "8f49e297ac539d0d": "kariyernet:4528056",
+  "a120b43f9bbfb464": "kariyernet:4592677",
+  "2039777a486b093d": "kariyernet:4591756",
+  "22c4d8f80ccd8466": "kariyernet:4591660",
+  "3192e06f0c6d7535": "kariyernet:4576615",
+  "69edeb4389f88f77": "kariyernet:4262912",
+  "9a6276d07547d601": "kariyernet:4264760",
+  "1cec12dfd3622669": "kariyernet:3333341",
+  "1d36e72aeaf5b193": "kariyernet:4593055",
+  "8a81bd1064e9bbf4": "kariyernet:4329275",
+  "3a0a77d4302510e2": "kariyernet:4526641",
+  "d6fab99af7654192": "kariyernet:4544937",
+  "2bf32b01d6eca281": "kariyernet:2987143",
+  "8c9fc02b0c2889fa": "kariyernet:2499736",
+  "1494e66b199e1a9d": "kariyernet:4588944",
+  "dd8ecc8abd2912c3": "kariyernet:4598577",
+  "25c149d8c4710896": "kariyernet:4564832",
+  "5feac23ab549d715": "kariyernet:3874884",
+  "b673ec90e821b5dc": "kariyernet:3977870",
+  "abff8d2e816d2378": "kariyernet:4517235",
+  "cb3264f5ac011814": "kariyernet:4568661",
+  "791ff9a796c01b32": "kariyernet:4579984",
+  "0768b67add25af62": "kariyernet:4586919",
+  "b768b349ce88ebb0": "kariyernet:4598006",
+  "fe85c3ddcaa16de5": "kariyernet:4594936",
+  "0e16fc5519f04b58": "kariyernet:4595880",
+  "61c2a8878f6243eb": "kariyernet:4596974",
+  "9cc2ae2010577e4c": "kariyernet:4597207",
+  "fd1673a2ce6ed0b7": "kariyernet:4590768",
+  "41d134052a0510d2": "kariyernet:4595953",
+  "74ed1db9cea71f6b": "kariyernet:4569046",
+  "adca03b82c75bf38": "kariyernet:4594178",
+  "6b6ae1d56cd46048": "kariyernet:4596410",
+  "65159c232fa0183b": "kariyernet:4569061",
+  "64400683c03381d4": "kariyernet:4575072",
+  "7ae9603d71b81390": "kariyernet:4489333",
+  "39d6a99d730d43e9": "kariyernet:4598591",
+  "2bb0d23b737a9d45": "kariyernet:4597421",
+  "88b471ee845fb603": "kariyernet:4595786",
+  "fd81eed4c2a19f7b": "kariyernet:4595728",
+  "e95d1fca3801c7b9": "kariyernet:4598228",
+  "0c25f80a4c4b58e3": "kariyernet:4567113",
+  "b7ac04cc14c9705e": "kariyernet:4593860",
+  "1df667780901668d": "kariyernet:2259105",
+  "6b616afc5f9d7a2f": "kariyernet:4588171",
+  "d0dc4506bb624ace": "kariyernet:4443642",
+  "d244099869bfc5ad": "kariyernet:4588064",
+  "9779e7630dd4d02f": "kariyernet:4586641",
+  "ffab35ee8ac9c981": "kariyernet:4584790",
+  "59856199a2323ecf": "kariyernet:4598000",
+  "f586af5f844778a2": "kariyernet:4592325",
+  "3f2ff5022f9990c4": "kariyernet:4595657",
+  "b6fbd140c7ffe292": "kariyernet:4589036",
+  "3274c01b274de43d": "kariyernet:4597577",
+  "d6c406e04aff67f5": "kariyernet:4357815",
+  "b0d492d4dab14b6b": "kariyernet:3390473",
+  "54b5b26dd758c721": "kariyernet:4412311",
+  "873b0871d64d793a": "kariyernet:4598115",
+  "3a4195ebe87de418": "kariyernet:4586725",
+  "a358156f734c1f0a": "kariyernet:4595117",
+  "4d4d3102d8877aed": "kariyernet:4553266",
+  "363c65f1593994d0": "kariyernet:2083235",
+  "be2ac64eaf8afd3f": "kariyernet:4588261",
+  "38bab532ae0762cc": "kariyernet:1967013",
+  "a4ca17a1023f713f": "kariyernet:4585649",
+  "9cb0d825d21d47d3": "kariyernet:4599509",
+  "bfcf726ff8dcf44a": "kariyernet:2410102",
+  "cf75014bd3959d12": "kariyernet:4510870",
+  "10d09ccbc78aef3a": "kariyernet:4559147",
+  "30feb28d24705969": "kariyernet:4559141",
+  "29fc2e7afa1267fc": "kariyernet:4595318",
+  "e505741b78120926": "kariyernet:4454921",
+  "379876519ceee2cc": "kariyernet:3954282",
+  "cde5a18e1c59aa1c": "kariyernet:4591438",
+  "b5ed47db77e04802": "kariyernet:4599568",
+  "50a4d2ae3af8e8ee": "kariyernet:4557399",
+  "03b4aa83a4c2cb73": "kariyernet:4454158",
+  "b1b3a850e955182d": "kariyernet:4585575",
+  "53e4261efc4a9257": "kariyernet:4594167",
+  "a8cbe71f08bf0e09": "kariyernet:4389851",
+  "f2b9684d8193c6d7": "kariyernet:3881716",
+  "e4da3e9a5ab12b97": "kariyernet:4598852",
+  "0f3d5425d69ddef9": "kariyernet:4593184",
+  "2bba42842f5fdace": "kariyernet:4041925",
+  "b6dc459cbfd81f7d": "kariyernet:4570440",
+  "83754ce1cba6b2ec": "kariyernet:4586923",
+  "349c88fc2de6dc46": "kariyernet:4592257",
+  "3e94ea9f84b81005": "kariyernet:4565930",
+  "981115ec6f3e61e2": "elemannet:4809491",
+  "910c29e66c3bc76a": "elemannet:4808939",
+  "8053bf348356e20c": "elemannet:4808840",
+  "523a0884f27410ed": "elemannet:4805890",
+  "fcf3edd38debe3cb": "elemannet:4804336",
+  "3fe5dd53e346e8ab": "elemannet:4803715",
+  "dfbe54ecbd8d17ce": "elemannet:4803553",
+  "537e3425076ddf6a": "elemannet:4803397",
+  "572557300c650bf8": "elemannet:4808909",
+  "245a28681fda3a34": "elemannet:4808747",
+  "f3a08cd7ce42a682": "elemannet:4807946",
+  "7da5b10b6c926565": "elemannet:4807682",
+  "ce62f3f72605cf69": "elemannet:4807402",
+  "74a1ce5b7f7be45d": "elemannet:4806970",
+  "736b23331680e5e5": "elemannet:4806016",
+  "7779b4a13ef19b4d": "elemannet:4806004",
+  "a9313303e8451b87": "elemannet:4806010",
+  "8e0c836a4ebc58df": "elemannet:4806013",
+  "f67f2f393af16d7e": "elemannet:4805998",
+  "8740ccda1420148d": "elemannet:4806001",
+  "60c2a2439306b275": "elemannet:4804939",
+  "7a53aa9dd66a55da": "elemannet:4804024",
+  "ed9069c123225131": "elemannet:4804027",
+  "f50dbed7a34afa00": "elemannet:4803751",
+  "d4683532b1091f3c": "elemannet:4802407",
+  "c300b26355d52b95": "elemannet:4802380",
+  "e326c0cff30540d6": "elemannet:4800607",
+  "aa26dd8cde3d81e4": "elemannet:4799887",
+  "a6c55ca148e141d5": "elemannet:4799572",
+  "08d438291c4c5c2a": "elemannet:4799557",
+  "e4dfa0fc7b2e748b": "elemannet:4799296",
+  "0c07538181c96f06": "elemannet:4797676",
+  "08f19aaf80f9eaf7": "elemannet:4797640",
+  "4ff963241799713b": "elemannet:4797643",
+  "9f7fe1643aa7e432": "elemannet:4797601",
+  "fec8b7b68aa5698b": "elemannet:4797604",
+  "b2287b4f952bb072": "elemannet:4808843",
+  "b80528548e6f981b": "elemannet:4808846",
+  "f8e3bd893991cdf9": "elemannet:4807988",
+  "5c5bd4f24d7c7150": "elemannet:4807060",
+  "e3c18db664434b57": "elemannet:4806973",
+  "fbac034556c1cbc1": "elemannet:4806385",
+  "8453e3cafc399623": "elemannet:4805692",
+  "6c04de194e074a6e": "elemannet:4804804",
+  "87a7560fcb749eec": "elemannet:4804648",
+  "3d516c7df1dc1af5": "elemannet:4804483",
+  "8c9b706a1856ce6b": "elemannet:4804246",
+  "759628b04775757a": "elemannet:4803955",
+  "961e0cb0c7ba4576": "elemannet:4803961",
+  "fd552cac4c2ceef7": "elemannet:4803976",
+  "6bdcfe5c8e88365c": "elemannet:4803952",
+  "c4de9f6ea0b62da8": "elemannet:4803385",
+  "7a2872985758df7e": "elemannet:4803376",
+  "b5b27435247d1c10": "elemannet:4802071",
+  "f4dad430ed3bb486": "elemannet:4801891",
+  "6fb71aa4b88111d3": "elemannet:4801888",
+  "59a38b9d9677a600": "elemannet:4801774",
+  "586b509340c2578a": "elemannet:4801393",
+  "8811c8d696ab461c": "elemannet:4806919",
+  "43be4ce4fc64b1ae": "isbul:100672",
+  "3f879580a06732c6": "isbul:100855",
+  "21aef43eafe30b36": "isbul:100861",
+  "1a9692eec3bfd6f7": "isbul:100689",
+  "f2821d48d4ec9c54": "isbul:100852",
+  "e96ffb7d2e2cb741": "isbul:100726",
+  "cc81627ec24aedc4": "isbul:100885",
+  "3f18e4b4079bd6de": "isbul:100856",
+  "f4ac5bea5d49fce1": "isbul:100807",
+  "d1dc91595a0388e2": "isbul:100622",
+  "cfeb4226ce7c6d6b": "isbul:100618",
+  "bc94d684090a78c0": "isbul:100620",
+  "3ca0e7de93608e53": "isbul:100603",
+  "d69b2410f563c33f": "isbul:100619",
+  "f9e99432d0b42af6": "isbul:100477",
+  "36baf6725c21ffc7": "isbul:100300",
+  "393df742cff577ef": "isbul:1",
+  "cfde293c3de4d3c9": "isbul:100159",
+  "28366f422c9d4dc0": "isbul:100227",
+  "2f1db73466d06e8d": "isbul:100738",
+  "66d30abb80f01673": "isbul:100736",
+  "1840ff2eb8dd53d6": "isbul:100691",
+  "3fc7b535ae87deb3": "isbul:100236",
+  "08eb3f26950586ca": "youthall:carrefoursa-4",
+  "891c7aea828060bd": "youthall:somposigorta-23",
+  "4989ad102ad172c4": "youthall:code2work-12",
+  "4374a62879906b8c": "linkedin:4490428131",
+  "b0ac6f2aab067977": "linkedin:4491180905",
+  "f4f39db6493da7b4": "linkedin:4489760939",
+  "d0c48b32550fd70c": "linkedin:4491162596",
+  "11695e6b7b637c7a": "linkedin:4491161172",
+  "bac7e243f8e1500d": "linkedin:3630450075",
+  "4a343f60d176d3b2": "linkedin:4490429489",
+  "762861dbe610abb3": "linkedin:4491575321",
+  "1659f4a2384c0c24": "linkedin:4489725403",
+  "11698999da88dfa5": "linkedin:4490450501",
+  "ad58fb2133a540cc": "linkedin:4490412600",
+  "198989a82aab43b6": "linkedin:4478251611",
+  "698c39ba962e3e74": "linkedin:4490434906",
+  "34685ea2286bdb7c": "linkedin:4485071410",
+  "b36593837f825591": "linkedin:4446431813",
+  "6548c853a98cb233": "linkedin:4490401808",
+  "7581d2d2c563d3ca": "linkedin:4490416094",
+  "3a79a844bd8fc351": "linkedin:4491114737",
+  "f688ac24ee6b8c83": "linkedin:4488907929",
+  "201c341551a60e87": "linkedin:4490277964",
+  "48c3fe09a7ac7b07": "linkedin:4491144020",
+  "068141d66184e4ac": "linkedin:4446445765",
+  "cadb5a3eb8b3b032": "linkedin:4491118669",
+  "6a0c11c4d2e82168": "linkedin:4491139171",
+  "b397c3ecfe98ffce": "linkedin:4489568428",
+  "8bd00db637dbe78d": "linkedin:4491575141",
+  "fb42cb4172a2cc1d": "linkedin:4490458168",
+  "38a250ca461075f9": "linkedin:4490401575",
+  "f6b4059de2159dc1": "linkedin:4490465086",
+  "e0a22d733c51e913": "linkedin:4491299384",
+  "88a14978a95af780": "linkedin:4385307706",
+  "fd06a9729939e768": "linkedin:4490272311",
+  "5589cc9d7d33c98a": "linkedin:4491573355",
+  "363789c89d0cb9a1": "linkedin:4491127663",
+  "2d2f0fa4382551f9": "linkedin:4489725579",
+  "0ad05536670a939a": "linkedin:4491132385",
+  "322080023b0787dc": "kariyernet:2199540",
+  "7d2c756bf87a2094": "kariyernet:2223643",
+  "ca66f5f98994cc2c": "kariyernet:2496843",
+  "e5d5399651857753": "kariyernet:2199542",
+  "4977337e6dc0cc01": "kariyernet:4599237",
+  "bed89aa4308ecbf1": "kariyernet:4599208",
+  "08f2d8f05bb500e3": "isbul:100862"
+ },
+ "sources": {
+  "linkedin": {
+   "last_run": 1794943905.0271592,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1794943905.0271611,
+   "alerted": false,
+   "ctx": {}
+  },
+  "kariyernet": {
+   "last_run": 1794944033.1389482,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1794944033.1389496,
+   "alerted": false,
+   "ctx": {
+    "cursor": 2
+   }
+  },
+  "elemannet": {
+   "last_run": 1794944061.7691083,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1794944061.7691095,
+   "alerted": false,
+   "ctx": {}
+  },
+  "isbul": {
+   "last_run": 1794944066.9859369,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1794944066.9859378,
+   "alerted": false,
+   "ctx": {}
+  },
+  "youthall": {
+   "last_run": 1794944072.9372036,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1794944072.9372048,
+   "alerted": false,
+   "ctx": {}
+  }
+ },
+ "tg_offset": 0,
+ "paused": false,
+ "last_summary": "2026-11-17",
+ "daily": {
+  "2026-11-17": {
+   "sent": 0,
+   "dropped": 0,
+   "candidates": 0,
+   "applied": 0,
+   "saved": 0,
+   "irrelevant": 0
+  }
+ }
+}
