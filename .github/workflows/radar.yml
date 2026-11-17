@@ -1,0 +1,67 @@
+name: radar
+
+on:
+  schedule:
+    # 15 dakikada bir; tam saat başı yoğunluğundan kaçınmak için 3. dakikadan başlar
+    - cron: "3-59/15 * * * *"
+  workflow_dispatch:
+    inputs:
+      force_all:
+        description: "Bütün kaynakları aralık beklemeden tara"
+        type: boolean
+        default: false
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Durum branch'ini al
+        run: |
+          if git ls-remote --exit-code --heads origin state >/dev/null; then
+            git fetch --depth 1 origin state
+            git worktree add state origin/state
+          else
+            mkdir -p state
+          fi
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Tara ve gönder
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_ALL: ${{ inputs.force_all && '1' || '0' }}
+          STATE_PATH: state/state.json
+        run: python -m radar
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          [ -f state/state.json ] || exit 0
+          cd state
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ ! -d .git ] && [ ! -f .git ]; then
+            git init -q -b state
+            git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          fi
+          git add state.json
+          git diff --cached --quiet && exit 0
+          git commit -qm "state $(date -u +%FT%TZ)"
+          git push -q origin HEAD:state

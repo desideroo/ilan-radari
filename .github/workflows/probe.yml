@@ -19,13 +19,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install
-        run: |
-          pip install requests curl_cffi playwright
-          python -m playwright install --with-deps chromium
-      - name: HTTP probe
-        run: python probe/probe.py
-      - name: Browser probe
-        run: python probe/probe_browser.py || true
+        run: pip install -r requirements.txt
+      - name: Detail probe
+        run: python probe/probe_detail.py
       - name: Publish results to probe-results branch
         run: |
           mkdir -p /tmp/pub && cp -r probe_out/* /tmp/pub/
