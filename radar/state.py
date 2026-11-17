@@ -38,7 +38,20 @@ class State:
 
     @property
     def first_run(self) -> bool:
-        return not self.data["seen"]
+        return not self.data["seen"] or self.data.get("force_first", False)
+
+    def reset_seen(self) -> int:
+        """Görülen ilanları sıfırlar (Telegram sohbeti temizlendiğinde yeniden göndermek için).
+        Butonla geri bildirim verilmiş ilanlar korunur; sonraki tur ilk kurulum gibi davranır."""
+        keep = {u: v for u, v in self.data["seen"].items() if v.get("fb_t")}
+        self.data["seen"] = keep
+        self.data["dedupe"] = {}
+        self.data["details"] = {u: v for u, v in self.data.get("details", {}).items() if u in keep}
+        self.data["pending"] = {}
+        for s in self.data["sources"].values():
+            s["last_run"] = 0
+        self.data["force_first"] = True
+        return len(keep)
 
     def save(self) -> None:
         self.prune()

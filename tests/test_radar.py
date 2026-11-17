@@ -395,3 +395,16 @@ def test_details_stored_for_review(tmp_path):
     assert st.data["details"][rej.uid]["reject"].startswith("5+")   # gerekçeli elemeler saklanır
     st.save()
     assert State(tmp_path / "s.json").data["details"][j.uid]["llm"]["cv"] == "05_ERP_SAP"
+
+
+def test_reset_seen_keeps_feedback(tmp_path):
+    st = State(tmp_path / "s.json")
+    a, b = job("SAP Uzmanı", sid="1"), job("Veri Analisti", sid="2")
+    st.mark(a), st.mark(b)
+    st.data["seen"][b.uid].update(status="irrelevant", fb_t=1.0)
+    st.source("linkedin")["last_run"] = 123
+    assert not st.first_run
+    assert st.reset_seen() == 1
+    assert a.uid not in st.data["seen"] and b.uid in st.data["seen"]
+    assert st.first_run and st.source("linkedin")["last_run"] == 0
+    assert not st.is_seen(a.uid, a.dedupe_key)

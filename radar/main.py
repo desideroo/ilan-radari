@@ -25,6 +25,7 @@ PENDING_MAX_H = 12   # LLM bu süre içinde değerlendiremezse açıklama-eşle�
 
 _LOG: list[str] = []
 SEED_ONLY = os.getenv("SEED_ONLY") == "1"
+RESET_SEEN = os.getenv("RESET_SEEN") == "1"
 
 
 def log(msg: str) -> None:
@@ -331,15 +332,22 @@ def main() -> None:
             log("TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secret'ları yok: tarama atlandı.")
             return
         log("Telegram ayarlı değil: ilanlar sadece loga yazılacak.")
+    if RESET_SEEN:
+        kept = st.reset_seen()
+        log(f"Sıfırlama: görülen ilanlar temizlendi ({kept} geri bildirimli ilan korundu)")
     first = st.first_run
     try:
         if first and tg.enabled and not SEED_ONLY:
             tg.set_commands()
-            tg.send("👋 <b>İlan Radarı</b> kuruldu. İlk taramada son 3 günün uygun ilanlarını gönderiyorum, "
-                    "sonrasında yeni ilanlar geldikçe haber vereceğim.\n\n" + HELP)
+            intro = ("🔄 <b>İlan Radarı</b> sıfırlandı. Güncel ayarlarla son 3 günün uygun ilanlarını yeniden gönderiyorum."
+                     if RESET_SEEN else
+                     "👋 <b>İlan Radarı</b> kuruldu. İlk taramada son 3 günün uygun ilanlarını gönderiyorum, "
+                     "sonrasında yeni ilanlar geldikçe haber vereceğim.")
+            tg.send(intro + "\n\n" + HELP)
         handle_updates(st, tg)
         if not st.data["paused"]:
             scan(st, tg)
+            st.data.pop("force_first", None)
         handle_updates(st, tg)
         daily_summary(st, tg)
     except Exception:  # noqa: BLE001
