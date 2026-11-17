@@ -304,7 +304,7 @@ def test_pending_when_llm_down(tmp_path, monkeypatch):
     for j in (a, b):
         assert matching.classify(j)
     monkeypatch.setenv("GEMINI_API_KEY", "x")
-    monkeypatch.setattr(llm, "evaluate", lambda jobs, log=print: 0)
+    monkeypatch.setattr(llm, "evaluate", lambda jobs, log=print, feedback=None: 0)
     monkeypatch.setattr(main, "SOURCES", {"fake": type("M", (), {"fetch": staticmethod(lambda ctx: [a, b]),
                                                                   "enrich": staticmethod(lambda j: None)})})
     monkeypatch.setitem(config.SOURCE_INTERVAL_MIN, "fake", 15)
@@ -314,7 +314,7 @@ def test_pending_when_llm_down(tmp_path, monkeypatch):
     assert b.uid in st.data["pending"] and st.data["seen"][b.uid]["status"] == "pending"
 
     # sonraki tur: LLM düzeldi, bekleyen ilan değerlendirilip gönderilir
-    def ok(jobs, log=print):
+    def ok(jobs, log=print, feedback=None):
         for j in jobs:
             j.llm = {"score": 55, "cv": "05_ERP_SAP", "summary": "s", "why": "w", "gaps": "-",
                      "military_required": False, "min_years": 0}
@@ -343,3 +343,34 @@ def test_model_discovery(monkeypatch):
     monkeypatch.setattr(llm, "MODELS_ENV", [])
     monkeypatch.setattr(llm.requests, "get", lambda *a, **k: R())
     assert llm.available_models("k", log=lambda m: None) == ["gemini-3.5-flash", "gemini-3.5-flash-lite", "gemini-2.5-flash"]
+
+
+def test_feedback_reaches_prompt(tmp_path, monkeypatch):
+    from radar import llm
+    st = State(tmp_path / "s.json")
+    bad, good = job("Çağrı Merkezi Destek", sid="9", company="X"), job("SAP ABAP Uzmanı", sid="8", company="Y")
+    st.mark(bad), st.mark(good)
+    for j, action in ((bad, "x"), (good, "a")):
+        cq = {"id": "1", "data": f"{action}:{j.uid}", "message": {"message_id": 5, "chat": {"id": 1}}}
+        main.handle_callback(st, type("T", (), {"answer_callback": lambda *a: None,
+                                                "set_buttons": lambda *a: None})(), cq)
+    fb = main.feedback_examples(st)
+    assert fb == {"bad": ["Çağrı Merkezi Destek (X)"], "good": ["SAP ABAP Uzmanı (Y)"]}
+
+    captured = {}
+    monkeypatch.setenv("GEMINI_API_KEY", "k")
+    monkeypatch.setattr(llm, "available_models", lambda key, log=print: ["m"])
+    def fake_call(model, key, prompt):
+        captured["p"] = prompt
+        return []
+    monkeypatch.setattr(llm, "_call", fake_call)
+    monkeypatch.setattr(llm.time, "sleep", lambda s: None)
+    llm.evaluate([job("Yeni İlan")], log=lambda m: None, feedback=fb)
+    assert "İlgisiz bulduğu ilanlar" in captured["p"] and "Çağrı Merkezi Destek (X)" in captured["p"]
+    assert "SAP ABAP Uzmanı (Y)" in captured["p"]
+
+    # işaretli ilanlar eski olsa da silinmez (örnek olarak kalır)
+    for v in st.data["seen"].values():
+        v["t"] = 0
+    st.prune()
+    assert bad.uid in st.data["seen"]

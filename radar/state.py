@@ -47,7 +47,7 @@ class State:
     def prune(self) -> None:
         cutoff = time.time() - config.SEEN_RETENTION_DAYS * 86400
         seen = self.data["seen"]
-        for uid in [u for u, v in seen.items() if v.get("t", 0) < cutoff and v.get("status") not in ("saved", "applied")]:
+        for uid in [u for u, v in seen.items() if v.get("t", 0) < cutoff and v.get("status") not in ("saved", "applied", "irrelevant")]:
             del seen[uid]
         live = set(seen)
         self.data["dedupe"] = {k: v for k, v in self.data["dedupe"].items() if v in live}

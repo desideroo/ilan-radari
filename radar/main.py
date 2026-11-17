@@ -89,6 +89,7 @@ def handle_callback(st: State, tg: Telegram, cq: dict) -> None:
     if not status:
         return
     rec["status"] = status
+    rec["fb_t"] = time.time()
     st.day(today())[status] = st.day(today()).get(status, 0) + 1
     tg.answer_callback(cq["id"], {"applied": "Başvuru kaydedildi ✅", "saved": "Kaydedildi ⭐",
                                   "irrelevant": "İlgisiz olarak işaretlendi"}[status])
@@ -228,6 +229,8 @@ def scan(st: State, tg: Telegram) -> None:
             else:
                 st.mark(j, "skip")
                 reason = j.extra.get("reject", "")
+                if reason:
+                    st.data["seen"][j.uid]["why"] = reason   # günlük değerlendirme için
                 if reason and reason != "alan dışı meslek":
                     key = "rej_remote" if "uzaktan" in reason else "rej_exp"
                     st.day(today())[key] = st.day(today()).get(key, 0) + 1
@@ -251,7 +254,10 @@ def scan(st: State, tg: Telegram) -> None:
         log(f"Tohumlama: {len(candidates)} aday gönderilmeden işaretlendi")
         return
     st.day(today())["candidates"] += n_new
-    n = llm.evaluate(candidates, log=log)
+    fb = feedback_examples(st)
+    if fb["bad"] or fb["good"]:
+        log(f"Geri bildirim: {len(fb['bad'])} ilgisiz, {len(fb['good'])} ilgilenilen örnek Gemini'ye verildi")
+    n = llm.evaluate(candidates, log=log, feedback=fb)
     log(f"LLM ile değerlendirilen: {n}/{len(candidates)}")
 
     candidates.sort(key=lambda j: -(j.llm["score"] if j.llm else j.rule_score))
@@ -290,6 +296,21 @@ def scan(st: State, tg: Telegram) -> None:
         st.day(today())["sent"] += 1
         sent += 1
     log(f"Gönderilen: {sent}")
+
+
+FEEDBACK_MAX = 20   # her türden en son kaç işaret örnek olarak verilsin
+
+
+def feedback_examples(st: State) -> dict:
+    marked = [v for v in st.data["seen"].values() if v.get("fb_t")]
+    marked.sort(key=lambda v: -v["fb_t"])
+
+    def fmt(v):
+        return f"{v.get('title', '')} ({v.get('company', '')})"
+    return {
+        "bad": [fmt(v) for v in marked if v.get("status") == "irrelevant"][:FEEDBACK_MAX],
+        "good": [fmt(v) for v in marked if v.get("status") in ("applied", "saved")][:FEEDBACK_MAX],
+    }
 
 
 def daily_summary(st: State, tg: Telegram) -> None:

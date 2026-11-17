@@ -94,7 +94,7 @@ Her ilan için JSON döndür:
 Aday yeni mezun ve tam zamanlı iş deneyimi yok: 2 yıl ve üstü deneyim şartı olan ya da kıdemli/uzman seviye
 (senior, lead, 3+ yıl) ilanlara en fazla 20 puan ver.
 Uydurma bilgi yazma; sadece ilanda yazanı kullan.
-
+{feedback}
 İLANLAR:
 {jobs}
 """
@@ -125,15 +125,30 @@ def _call(model: str, key: str, prompt: str) -> list[dict]:
     return json.loads(text)
 
 
-def evaluate(jobs: list[Job], log=print) -> int:
-    """Her işe job.llm atar. Başarıyla değerlendirilen ilan sayısını döndürür."""
+def feedback_block(feedback: dict | None) -> str:
+    """Kullanıcının Telegram butonlarıyla verdiği geri bildirimi istem metnine çevirir."""
+    if not feedback or not (feedback.get("bad") or feedback.get("good")):
+        return ""
+    lines = ["", "KULLANICI GERİ BİLDİRİMİ (adayın kendi işaretlemeleri, puanlamayı buna göre ayarla):"]
+    if feedback.get("bad"):
+        lines.append("İlgisiz bulduğu ilanlar: bunlara benzeyen ilanlara (aynı tür rol, sektör ya da firma tipi) 30'un altında puan ver.")
+        lines += [f"- {t}" for t in feedback["bad"]]
+    if feedback.get("good"):
+        lines.append("Başvurduğu ya da kaydettiği ilanlar: bunlara benzeyen ilanların puanını yükselt.")
+        lines += [f"- {t}" for t in feedback["good"]]
+    return "\n".join(lines) + "\n"
+
+
+def evaluate(jobs: list[Job], log=print, feedback: dict | None = None) -> int:
+    """Her işe job.llm atar. Başarıyla değerlendirilen ilan sayısını döndürür.
+    feedback: {"bad": [...], "good": [...]} kullanıcının işaretlediği ilanların "başlık (firma)" listesi."""
     key = os.getenv("GEMINI_API_KEY", "").strip()
     if not key or not jobs:
         return 0
     done = 0
     for i in range(0, len(jobs), BATCH):
         chunk = jobs[i:i + BATCH]
-        prompt = PROMPT.format(profile=PROFILE, jobs=_payload(chunk))
+        prompt = PROMPT.format(profile=PROFILE, jobs=_payload(chunk), feedback=feedback_block(feedback))
         result = None
         for model in available_models(key, log):
             for attempt in range(2):  # 503 (yoğunluk) için bir kez daha dene
