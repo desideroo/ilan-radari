@@ -107,12 +107,16 @@ JUNIOR_PATTERNS = [
 
 # Başlıkta bunlar varsa ilan elenir (kıdemli / yönetici / alakasız)
 TITLE_EXCLUDE = [
-    r"\bsenior\b", r"\bsr\b", r"kidemli", r"\blead\b", r"\blider\b", r"team lead", r"mudur", r"\bmanager\b",
+    r"\bsenior\b", r"\bsr\b", r"kidemli", r"\blead\b", r"\blider",
+    r"(?<!sistem )(?<!ag )(?<!veritabani )(?<!network )yoneticisi\b", r"\bmiddle\b", r"\bmid-?level\b", r"team lead", r"mudur", r"\bmanager\b",
     r"\bhead\b", r"direktor", r"director", r"principal", r"\barchitect\b", r"\bmimar\b", r"\bsef\b", r"chief",
     r"\bstajyer\b", r"\bintern\b", r"\binternship\b", r"\bstaj\b",
     r"satis temsilcisi", r"satis danismani", r"sales representative", r"cagri merkezi", r"call center",
     r"musteri temsilcisi", r"pazarlama", r"marketing", r"kalite kontrol", r"\bsofor\b", r"\bdepo\b", r"\bmuhasebe elemani\b",
 ]
+# Firma adında ya da başlıkta bunlar geçen ilanlar elenir (engelli kadrosu ilanları gibi)
+COMPANY_OR_TITLE_EXCLUDE = [r"engelli", r"engelsiz"]
+
 # "management trainee" içindeki "manager" yanlış elemesin diye bu ifadeler muaf
 TITLE_EXCLUDE_EXCEPT = [r"management trainee", r"yonetici adayi", r"manager trainee"]
 

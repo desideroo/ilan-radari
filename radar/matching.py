@@ -12,6 +12,7 @@ _DESC = {k: [re.compile(p) for p in v] for k, v in config.DESCRIPTION_STRONG.ite
 _JUNIOR = [re.compile(p) for p in config.JUNIOR_PATTERNS]
 _EXCL = [re.compile(p) for p in config.TITLE_EXCLUDE]
 _EXCL_OK = [re.compile(p) for p in config.TITLE_EXCLUDE_EXCEPT]
+_EXCL_CT = [re.compile(p) for p in config.COMPANY_OR_TITLE_EXCLUDE]
 _MIL = [re.compile(p) for p in config.MILITARY_PATTERNS]
 _EXP = re.compile(r"(?:en az|minimum|min\.?|at least)?\s*(\d{1,2})\s*(?:\+|-\s*\d{1,2})?\s*(?:yil|years?)\b[^.\n]{0,40}(?:deneyim|tecrube|experience|is tecrubesi)")
 _EXP2 = re.compile(r"(?:deneyim|tecrube|experience)[^.\n]{0,25}?(\d{1,2})\s*\+?\s*(?:yil|years?)")
@@ -26,6 +27,8 @@ def location_ok(job: Job) -> bool:
 
 def title_excluded(job: Job) -> bool:
     t = norm(job.title)
+    if any(p.search(t) or p.search(norm(job.company)) for p in _EXCL_CT):
+        return True
     if any(p.search(t) for p in _EXCL_OK):
         return False
     return any(p.search(t) for p in _EXCL)

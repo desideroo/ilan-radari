@@ -121,9 +121,19 @@ def test_tracks(title, track):
 @pytest.mark.parametrize("title", [
     "Senior SAP Specialist", "Kıdemli Yazılım Geliştirici", "Bilgi İşlem Müdürü",
     "Satış Temsilcisi", "Kalite Kontrol Uzmanı", "IT Infrastructure Internship", "Team Lead - Backend",
+    "SAP Public Cloud Geliştirme ve Proje Lideri", "Veri Bilimcisi - İleri Analitik Yöneticisi",
+    "Middle Software Engineer - Backend",
 ])
 def test_title_excluded(title):
     assert matching.title_excluded(job(title))
+
+
+def test_system_admin_not_excluded():
+    assert not matching.title_excluded(job("Sistem Yöneticisi"))
+
+
+def test_company_exclude():
+    assert matching.title_excluded(job("Yazılım Mühendisi", company="Omuz Omuza Engelsiz İnsan Kaynakları"))
 
 
 def test_management_trainee_not_excluded():
