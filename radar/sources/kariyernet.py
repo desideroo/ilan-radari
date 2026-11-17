@@ -64,11 +64,29 @@ def fetch(ctx: dict) -> list[Job]:
     return jobs
 
 
+def parse_detail(page_html: str) -> str:
+    """İlan metni + 'Aday Kriterleri' (tecrübe, eğitim, askerlik) tek metin olarak."""
+    soup = BeautifulSoup(page_html, "lxml")
+    q = soup.select_one('[data-test="qualifications-and-job-description"]')
+    text = q.get_text("\n", strip=True) if q else ""
+    body = soup.select_one(".job-detail-body")
+    if body:
+        lines = body.get_text("\n", strip=True).split("\n")
+        if "Aday Kriterleri" in lines:
+            crit, i = [], lines.index("Aday Kriterleri") + 1
+            while i < len(lines) - 1 and len(crit) < 8:
+                if lines[i] == "•":
+                    crit.append(f"{lines[i + 1]}: {lines[i + 2] if i + 2 < len(lines) else ''}")
+                    i += 3
+                else:
+                    break
+            if crit:
+                text += "\n\nAday Kriterleri: " + "; ".join(crit)
+    if not text:
+        node = jsonld.job_posting(page_html)
+        text = jsonld.summary(node)["description"] if node else ""
+    return text[:6000]
+
+
 def enrich(job: Job) -> None:
-    page = http.get(job.url, polite=3)
-    node = jsonld.job_posting(page)
-    if node:
-        s = jsonld.summary(node)
-        job.description = s["description"]
-        job.extra["employment_type"] = s["employment_type"]
-        job.company = job.company or s["company"]
+    job.description = parse_detail(http.get(job.url, polite=3))

@@ -58,6 +58,14 @@ def test_kariyernet_list():
     assert all(j.title and j.company for j in jobs)
 
 
+def test_kariyernet_detail():
+    d = kariyernet.parse_detail(fx("kariyernet_detail"))
+    assert len(d) > 300
+    assert "Aday Kriterleri: Tecrübe: En az 5 yıl tecrübeli" in d
+    w = matching.warnings_for(job("Bakım Ustası", desc=d))
+    assert any(x.startswith("Askerlik") for x in w) and any("5+ yıl" in x for x in w)
+
+
 def test_elemannet_list():
     jobs = elemannet.parse_list(fx("eleman_net"))
     assert len(jobs) >= 20
