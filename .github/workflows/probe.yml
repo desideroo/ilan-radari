@@ -21,7 +21,7 @@ jobs:
       - name: Install
         run: pip install -r requirements.txt
       - name: Detail probe
-        run: PYTHONPATH=. python probe/probe_detail.py
+        run: PYTHONPATH=. python probe/probe2.py
       - name: Publish results to probe-results branch
         run: |
           mkdir -p /tmp/pub && cp -r probe_out/* /tmp/pub/
