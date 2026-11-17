@@ -3430,6 +3430,168 @@
    "status": "sent",
    "score": 65,
    "msg": null
+  },
+  "linkedin:4491182862": {
+   "t": 1794945650.664481,
+   "title": "Senior SAP Consultant",
+   "company": "EPAM Systems",
+   "url": "https://www.linkedin.com/jobs/view/4491182862/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491188696": {
+   "t": 1794945650.6645443,
+   "title": "Senior SAP Data Migration Specialist (R2R)",
+   "company": "EPAM Systems",
+   "url": "https://www.linkedin.com/jobs/view/4491188696/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4487735947": {
+   "t": 1794945650.6646397,
+   "title": "Kıdemli Maliyet Muhasebesi Uzmanı",
+   "company": "Kopaş Kozmetik",
+   "url": "https://www.linkedin.com/jobs/view/4487735947/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4467098029": {
+   "t": 1794945650.6648276,
+   "title": "Senior Business Central Developer",
+   "company": "Proxify",
+   "url": "https://www.linkedin.com/jobs/view/4467098029/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491578277": {
+   "t": 1794945650.6648998,
+   "title": "Süreç Geliştirme Müdürü",
+   "company": "Aydınlı Grup",
+   "url": "https://www.linkedin.com/jobs/view/4491578277/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488906957": {
+   "t": 1794945650.6650953,
+   "title": "Logo ERP Proje Yöneticisi / Kıdemli Sistem Uzmanı",
+   "company": "Ithinka Information Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4488906957/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489734297": {
+   "t": 1794945650.6655085,
+   "title": "Muhasebe Yöneticisi",
+   "company": "Vitadoza",
+   "url": "https://www.linkedin.com/jobs/view/4489734297/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489722706": {
+   "t": 1794945650.6658792,
+   "title": "Yazılım Geliştirme Kıdemli Uzmanı / Ankara",
+   "company": "Gizli Şirket",
+   "url": "https://www.linkedin.com/jobs/view/4489722706/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490402592": {
+   "t": 1794945653.0833793,
+   "title": "Harita Mühendisi",
+   "company": "MRC Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4490402592/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491555401": {
+   "t": 1794945657.7053905,
+   "title": "Long-term - Production Process Development",
+   "company": "MAHLE",
+   "url": "https://www.linkedin.com/jobs/view/4491555401/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4489749959": {
+   "t": 1794945663.9415064,
+   "title": "Muhasebe Personeli",
+   "company": "Ahmet İpek Sucukları",
+   "url": "https://www.linkedin.com/jobs/view/4489749959/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491182864": {
+   "t": 1794945680.8913507,
+   "title": "SAP Data Migration Specialist (R2R)",
+   "company": "EPAM Systems",
+   "url": "https://www.linkedin.com/jobs/view/4491182864/",
+   "status": "sent",
+   "score": 65,
+   "msg": 29
+  },
+  "linkedin:4488527190": {
+   "t": 1794945682.523579,
+   "title": "Satın Alma Personeli",
+   "company": "Markka Genetik Tarım A.Ş",
+   "url": "https://www.linkedin.com/jobs/view/4488527190/",
+   "status": "sent",
+   "score": 60,
+   "msg": 30
+  },
+  "linkedin:4490299121": {
+   "t": 1794945684.146159,
+   "title": "EWM Consultant",
+   "company": "NTT DATA Business Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4490299121/",
+   "status": "sent",
+   "score": 55,
+   "msg": 31
+  },
+  "linkedin:4486167670": {
+   "t": 1794945685.8531575,
+   "title": "Satınalma Sorumlusu",
+   "company": "Gizli Şirket",
+   "url": "https://www.linkedin.com/jobs/view/4486167670/",
+   "status": "sent",
+   "score": 40,
+   "msg": 32
+  },
+  "linkedin:4490410549": {
+   "t": 1794945687.4421885,
+   "title": "Satış Uzmanı",
+   "company": "Özteknik A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4490410549/",
+   "status": "sent",
+   "score": 40,
+   "msg": 33
+  },
+  "linkedin:4489721761": {
+   "t": 1794945689.0751455,
+   "title": "Bordro Uzmanı",
+   "company": "Adecco",
+   "url": "https://www.linkedin.com/jobs/view/4489721761/",
+   "status": "sent",
+   "score": 35,
+   "msg": 34
+  },
+  "linkedin:4464259215": {
+   "t": 1794945690.708784,
+   "title": "COUNTRY FINANCES CONTROLLING PROFESSIONAL",
+   "company": "OPmobility",
+   "url": "https://www.linkedin.com/jobs/view/4464259215/",
+   "status": "sent",
+   "score": 25,
+   "msg": 35
   }
  },
  "dedupe": {
@@ -3812,16 +3974,36 @@
   "e5d5399651857753": "kariyernet:2199542",
   "4977337e6dc0cc01": "kariyernet:4599237",
   "bed89aa4308ecbf1": "kariyernet:4599208",
-  "08f2d8f05bb500e3": "isbul:100862"
+  "08f2d8f05bb500e3": "isbul:100862",
+  "be09fd1f2a61ebe1": "linkedin:4491182862",
+  "2f6a2e1953059870": "linkedin:4491188696",
+  "6f6d4c83c9072db2": "linkedin:4487735947",
+  "6114902e31f3f5d0": "linkedin:4467098029",
+  "48b4eff5254ab8a0": "linkedin:4491578277",
+  "b5660cac3e09da7e": "linkedin:4488906957",
+  "36a22ba6bf791873": "linkedin:4489734297",
+  "e7a0ead9523bc8e0": "linkedin:4489722706",
+  "087485a880418176": "linkedin:4490402592",
+  "49951dbf2126662b": "linkedin:4491555401",
+  "56e9a762d48c35c2": "linkedin:4489749959",
+  "8e625a07acece4f7": "linkedin:4491182864",
+  "4c222fe309ec68ee": "linkedin:4488527190",
+  "12ec70686523dde7": "linkedin:4490299121",
+  "a49bc21056b4ed1d": "linkedin:4486167670",
+  "ec42580dfb05b5c7": "linkedin:4490410549",
+  "24bfaa6c949cb0f9": "linkedin:4489721761",
+  "d86fdb10d34a1989": "linkedin:4464259215"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794943905.0271592,
+   "last_run": 1794945650.66417,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794943905.0271611,
+   "last_ok": 1794945650.6641717,
    "alerted": false,
-   "ctx": {}
+   "ctx": {
+    "cursor": 6
+   }
   },
   "kariyernet": {
    "last_run": 1794944033.1389482,
@@ -3863,9 +4045,9 @@
  "last_summary": "2026-11-17",
  "daily": {
   "2026-11-17": {
-   "sent": 0,
+   "sent": 7,
    "dropped": 0,
-   "candidates": 0,
+   "candidates": 7,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0
