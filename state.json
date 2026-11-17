@@ -5759,6 +5759,71 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4444916955": {
+   "t": 1794956486.4238691,
+   "title": "Kasko & Filo Yönetimi Uzmanı/Uzman Yardımcısı",
+   "company": "AXA Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4444916955/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "2+ yıl deneyim"
+  },
+  "linkedin:4491133981": {
+   "t": 1794956488.2626305,
+   "title": "BÜTÇE RAPORLAMA UZMANI",
+   "company": "Yeniköy Kemerköy Elektrik Üretim ve Ticaret A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491133981/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4587999": {
+   "t": 1794956529.0584724,
+   "title": "Teknik Satış Yöneticisi",
+   "company": "Faser Kimya Sanayi Ticaret Limited Şirketi",
+   "url": "https://www.kariyer.net/is-ilani/faser-kimya-sanayi-ticaret-limited-sirketi-teknik-satis-yoneticisi-4587999",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4001660": {
+   "t": 1794956529.0587041,
+   "title": "Çağrı Merkezi Servis Müşteri Temsilcisi",
+   "company": "İhlas Pazarlama",
+   "url": "https://www.kariyer.net/is-ilani/ihlas-pazarlama-cagri-merkezi-servis-musteri-temsilcisi-4001660",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4594383": {
+   "t": 1794956529.058877,
+   "title": "Kobi Bankacılığı Portföy Yöneticisi/ Karaman",
+   "company": "DenizBank",
+   "url": "https://www.kariyer.net/is-ilani/denizbank-kobi-bankaciligi-portfoy-yoneticisi-karaman-4594383",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3968792": {
+   "t": 1794956529.0590312,
+   "title": "Çağrı Merkezi Müşteri Temsilcisi",
+   "company": "Akkoyunlar Oto.İletişim Tekstil Dış Tic. Ltd.Şti",
+   "url": "https://www.kariyer.net/is-ilani/akkoyunlar-oto-iletisim-tekstil-dis-tic-ltd-sti-cagri-merkezi-musteri-temsilcisi-3968792",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4599389": {
+   "t": 1794956532.5801866,
+   "title": "Ambalaj Geliştirme Uzmanı",
+   "company": "Saray Holding A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/saray-holding-a-s-ambalaj-gelistirme-uzmani-4599389",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -6391,29 +6456,36 @@
   "0eb6a56e45a168a3": "linkedin:4491144022",
   "3d11a14a86e7d4f0": "linkedin:4491597254",
   "732b8dd98cd28eed": "linkedin:4490497901",
-  "0ff59c3e761c90a7": "linkedin:4484684801"
+  "0ff59c3e761c90a7": "linkedin:4484684801",
+  "49e2a62b69e3a163": "linkedin:4444916955",
+  "22d504476c425310": "linkedin:4491133981",
+  "5ec3d8135c7bd3a0": "kariyernet:4587999",
+  "95adc2c2b1114718": "kariyernet:4001660",
+  "262e51bd305bb201": "kariyernet:4594383",
+  "b3e4f5610f4d8d22": "kariyernet:3968792",
+  "06fba46afd3a8333": "kariyernet:4599389"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794955563.0526571,
+   "last_run": 1794956484.6341465,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794955563.0526588,
+   "last_ok": 1794956484.6341484,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1794954707.2291596,
+   "last_run": 1794956529.0582407,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794954707.2291622,
+   "last_ok": 1794956529.0582435,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 4
+    "cur_konya": 8,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -6462,8 +6534,8 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_exp": 28,
-   "rej_remote": 60
+   "rej_exp": 29,
+   "rej_remote": 61
   }
  },
  "details": {
@@ -7859,6 +7931,40 @@
    "track_from": "",
    "llm": {},
    "description": "-"
+  },
+  "linkedin:4444916955": {
+   "t": 1794956486.423917,
+   "source": "linkedin",
+   "title": "Kasko & Filo Yönetimi Uzmanı/Uzman Yardımcısı",
+   "company": "AXA Türkiye",
+   "location": "Greater Istanbul",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-16",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "2+ yıl deneyim",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {},
+   "description": "Dünyada AXA\nAXA, dünyanın önde gelen sigorta şirketlerinden biri olarak 51 ülkede 145.000’den fazla çalışanıyla 93 milyon müşterisine hizmet veriyor. İnsanlığın gelişmesi adına değerli olanı koruma misyonu,\n“İlerlemek için Önemsiyor & Cesaretlendiriyoruz”\ninsan stratejisi ile çalışanlar, müşteriler ve toplum için değerli olanı empati odağı ile güvence altına alıyor; yenilik, cesaret ve gelişim odaklı adımlar atıyor. Hasar ödemesinin ötesine geçerek müşterilerin çözüm ortağı olma vizyonuyla geleceği risk olarak görmekten çıkarıyor; teknolojisini sürekli geliştirerek sigortacılığın geleceğini ta"
+  },
+  "linkedin:4491133981": {
+   "t": 1794956488.2626793,
+   "source": "linkedin",
+   "title": "BÜTÇE RAPORLAMA UZMANI",
+   "company": "Yeniköy Kemerköy Elektrik Üretim ve Ticaret A.Ş.",
+   "location": "Milas",
+   "work_mode": "",
+   "posted": "2026-11-17",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "",
+   "llm": {},
+   "description": "Kemerköy ile Yeniköy Termik Santralleri'nin 18.04.2014 tarihinde özelleştirme ihalesi gerçekleştirilmiş olup, IC Enerji-LİMAK Enerji tarafından 23 Aralık 2014 tarihi itibari ile işletilmek üzere devralınmıştır. Yeniköy Termik Santrali 2 ünitesi ile 420 MW ve Kemerköy Termik Santrali de 3 ünitesi ile 699 MW olmak üzere toplamda 1119 MW kurulu gücü ile Türkiye’nin elektrik ihtiyacının yaklaşık %2,19'unu karşılayan Yeniköy-Kemerköy Elektrik Üretim ve Ticaret A.Ş. Ege Bölgesi’nde yer alan önemli bir ekonomik faktördür. Teknik ve çevre standartlarına uygun olarak işletilmekte olan santralin yanı sı"
   }
  },
  "pending": {}
