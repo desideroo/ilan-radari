@@ -114,6 +114,16 @@ TITLE_EXCLUDE = [
     r"satis temsilcisi", r"satis danismani", r"sales representative", r"cagri merkezi", r"call center",
     r"musteri temsilcisi", r"pazarlama", r"marketing", r"kalite kontrol", r"\bsofor\b", r"\bdepo\b", r"\bmuhasebe elemani\b",
 ]
+# Başlıkta alan kelimesi yoksa (sadece açıklamadan eşleşiyorsa) ve başlık bu mesleklerden biriyse ilan elenir.
+# Başlıkta IT terimi de geçen ilanlar (ör. "SAP Satın Alma Danışmanı") bundan etkilenmez.
+NON_IT_TITLES = [
+    r"(endustri|makine|makina|insaat|elektrik|elektronik|kimya|gida|harita|cevre|maden|metalurji|tekstil|ziraat|otomotiv|uretim|kalite|proje) muhendis",
+    r"ogretmen", r"egitmen", r"insan kaynaklari", r"\bik\b", r"\bhr\b", r"muhasebe", r"finans", r"bordro",
+    r"satin ?alma", r"satinalma", r"lojistik", r"\bdepo", r"uretim", r"planlama uzmani", r"teknik ressam",
+    r"\bsatis\b", r"pazarlama", r"\bhemsire", r"\bdoktor", r"\beczaci", r"avukat", r"\bhukuk",
+    r"operator", r"teknisyen(?!.*(bilgi|bt|it|ag|network))", r"\busta", r"\bmimar", r"tasarim", r"\bgrafik",
+]
+
 # Firma adında ya da başlıkta bunlar geçen ilanlar elenir (engelli kadrosu ilanları gibi)
 COMPANY_OR_TITLE_EXCLUDE = [r"engelli", r"engelsiz"]
 

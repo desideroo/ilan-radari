@@ -228,7 +228,7 @@ def scan(st: State, tg: Telegram) -> None:
             else:
                 st.mark(j, "skip")
                 reason = j.extra.get("reject", "")
-                if reason:
+                if reason and reason != "alan dışı meslek":
                     key = "rej_remote" if "uzaktan" in reason else "rej_exp"
                     st.day(today())[key] = st.day(today()).get(key, 0) + 1
 

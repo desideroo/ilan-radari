@@ -193,9 +193,23 @@ def test_irrelevant_not_candidate():
 
 
 def test_description_strong_term():
-    j = job("Satın Alma Uzmanı", desc="SAP MM modülünü aktif kullanabilen")
+    j = job("Sistem Destek Elemanı", desc="SAP kullanıcı desteği verecek")
+    assert matching.classify(j)
+    j = job("Kurumsal Uygulamalar Uzmanı", desc="SAP MM modülünü aktif kullanabilen")
     assert matching.classify(j) and j.tracks == ["erp"]
     assert j.extra["track_from"] == "description"
+
+
+@pytest.mark.parametrize("title", ["Endüstri Mühendisi", "Satın Alma Uzmanı", "Bordro Uzmanı",
+                                   "Matematik Öğretmeni", "İnsan Kaynakları Uzmanı", "Satış Uzmanı"])
+def test_non_it_title_rejected_even_with_sap(title):
+    j = job(title, desc="SAP ve ERP sistemlerini kullanabilen, yapay zeka araçlarına hakim")
+    assert not matching.classify(j) and j.extra["reject"] == "alan dışı meslek"
+
+
+def test_it_title_with_business_word_kept():
+    assert matching.classify(job("SAP Satın Alma Danışmanı"))
+    assert matching.classify(job("Üretim Planlama ERP Uzmanı"))
 
 
 def test_warnings():
@@ -278,7 +292,7 @@ def test_pending_when_llm_down(tmp_path, monkeypatch):
     st = State(tmp_path / "s.json")
     st.mark(job("eski", sid="0", company="eski"), "skip")   # ilk çalışma değil
     a = job("SAP ABAP Uzmanı", sid="1")
-    b = job("Satın Alma Uzmanı", desc="SAP MM bilen", sid="2", company="Başka")
+    b = job("Kurumsal Uygulamalar Uzmanı", desc="SAP MM bilen", sid="2", company="Başka")
     sent = []
 
     class FakeTg:
@@ -308,7 +322,7 @@ def test_pending_when_llm_down(tmp_path, monkeypatch):
     monkeypatch.setattr(llm, "evaluate", ok)
     st.source("fake")["last_run"] = 0
     main.scan(st, FakeTg())
-    assert len(sent) == 2 and "Satın Alma" in sent[1]
+    assert len(sent) == 2 and "Kurumsal Uygulamalar" in sent[1]
     assert not st.data["pending"]
 
 

@@ -13,6 +13,7 @@ _JUNIOR = [re.compile(p) for p in config.JUNIOR_PATTERNS]
 _EXCL = [re.compile(p) for p in config.TITLE_EXCLUDE]
 _EXCL_OK = [re.compile(p) for p in config.TITLE_EXCLUDE_EXCEPT]
 _EXCL_CT = [re.compile(p) for p in config.COMPANY_OR_TITLE_EXCLUDE]
+_NON_IT = [re.compile(p) for p in config.NON_IT_TITLES]
 _MIL = [re.compile(p) for p in config.MILITARY_PATTERNS]
 _REMOTE_EV = [re.compile(p) for p in config.REMOTE_EVIDENCE]
 _ONSITE_EV = [re.compile(p) for p in config.ONSITE_EVIDENCE]
@@ -133,6 +134,9 @@ def classify(job: Job) -> bool:
     tr = title_tracks(job)
     job.extra["track_from"] = "title"
     if not tr:
+        if any(p.search(norm(job.title)) for p in _NON_IT):
+            job.extra["reject"] = "alan dışı meslek"
+            return False
         tr = description_tracks(job)
         job.extra["track_from"] = "description"
     if not tr:
