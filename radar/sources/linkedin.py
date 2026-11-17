@@ -24,7 +24,7 @@ def search_url(keywords: str, location: str, *, remote: bool = False, start: int
     params = {"keywords": keywords, "location": location, "f_TPR": f"r{posted_within_s}",
               "sortBy": "DD", "start": start}
     if remote:
-        params["f_WT"] = "2"
+        params["f_WT"] = "2"   # LinkedIn guest araması bunu yok sayıyor; uzaktan olduğu açıklamadan doğrulanır
     return f"{SEARCH}?{urlencode(params)}"
 
 
@@ -50,8 +50,8 @@ def parse_search(html: str, *, remote: bool = False) -> list[Job]:
             company=clean(comp_el.get_text() if comp_el else ""),
             location=clean(loc_el.get_text() if loc_el else ""),
             url=f"https://www.linkedin.com/jobs/view/{jid}/",
-            work_mode="Uzaktan" if remote else "",
             posted=posted, age_hours=age,
+            extra={"remote_query": True} if remote else {},
         ))
     return jobs
 
@@ -100,3 +100,6 @@ def enrich(job: Job) -> None:
     d = parse_detail(http.get(DETAIL.format(id=job.source_id)))
     job.description = d["description"]
     job.extra.update(criteria=d["criteria"], applicants=d["applicants"])
+    seniority = d["criteria"].get("Kıdem düzeyi") or d["criteria"].get("Seniority level") or ""
+    if seniority:
+        job.extra["seniority"] = seniority

@@ -70,8 +70,9 @@ SCHEMA = {
             "gaps": {"type": "STRING"},
             "military_required": {"type": "BOOLEAN"},
             "min_years": {"type": "INTEGER"},
+            "work_mode": {"type": "STRING", "enum": ["remote", "hybrid", "onsite", "unknown"]},
         },
-        "required": ["id", "score", "cv", "summary", "why", "gaps", "military_required", "min_years"],
+        "required": ["id", "score", "cv", "summary", "why", "gaps", "military_required", "min_years", "work_mode"],
     },
 }
 
@@ -88,7 +89,10 @@ Her ilan için JSON döndür:
 - why: adayın neden uygun olduğu, 1 cümle
 - gaps: adayda eksik kalan şartlar, kısa (yoksa "-")
 - military_required: ilanda "askerliğini tamamlamış/muaf" şartı varsa true
-- min_years: istenen minimum deneyim yılı (yoksa 0)
+- min_years: ilanda ŞART olarak istenen minimum iş deneyimi yılı. "Tercihen" yazanlar ve staj sayılmaz. Yoksa 0.
+- work_mode: ilan metnine göre çalışma şekli: "remote" (tamamen uzaktan), "hybrid", "onsite" ya da yazmıyorsa "unknown"
+Aday yeni mezun ve tam zamanlı iş deneyimi yok: 2 yıl ve üstü deneyim şartı olan ya da kıdemli/uzman seviye
+(senior, lead, 3+ yıl) ilanlara en fazla 20 puan ver.
 Uydurma bilgi yazma; sadece ilanda yazanı kullan.
 
 İLANLAR:

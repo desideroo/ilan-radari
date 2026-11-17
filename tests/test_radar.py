@@ -38,8 +38,9 @@ def test_linkedin_search():
 
 
 def test_linkedin_remote_flag():
+    # LinkedIn uzaktan filtresini yok saydığı için kart "uzaktan" sayılmaz, sadece doğrulama için işaretlenir
     jobs = linkedin.parse_search(fx("linkedin_tr_sap"), remote=True)
-    assert all(j.is_remote for j in jobs)
+    assert all(j.extra.get("remote_query") and not j.is_remote for j in jobs)
 
 
 def test_linkedin_detail():
@@ -63,7 +64,7 @@ def test_kariyernet_detail():
     assert len(d) > 300
     assert "Aday Kriterleri: Tecrübe: En az 5 yıl tecrübeli" in d
     w = matching.warnings_for(job("Bakım Ustası", desc=d))
-    assert any(x.startswith("Askerlik") for x in w) and any("5+ yıl" in x for x in w)
+    assert any(x.startswith("Askerlik") for x in w) and any("5 yıl" in x for x in w)
 
 
 def test_elemannet_list():
@@ -148,6 +149,45 @@ def test_location_rules():
     assert not matching.location_ok(job("x", "Ankara", mode="Hibrit"))
 
 
+def li_remote(title, desc, **kw):
+    j = job(title, location="İstanbul, Türkiye", desc=desc, source="linkedin", **kw)
+    j.extra["remote_query"] = True
+    return j
+
+
+def test_linkedin_remote_needs_evidence():
+    assert matching.location_ok(li_remote("Yazılım Geliştirici", ""))
+    assert not matching.classify(li_remote("Yazılım Geliştirici", "İstanbul ofisimizde çalışacak"))
+    assert not matching.classify(li_remote("Yazılım Geliştirici", "Hibrit çalışma modeli, tamamen uzaktan değil"))
+    ok = li_remote("Yazılım Geliştirici", "Bu pozisyon tamamen uzaktan çalışma modelindedir.")
+    assert matching.classify(ok) and ok.work_mode == "Uzaktan"
+    assert matching.classify(li_remote("Backend Developer", "This is a fully remote position."))
+
+
+def test_site_remote_field_trusted():
+    j = job("Yazılım Test Mühendisi", location="Adana", mode="Uzaktan / Remote")
+    assert matching.classify(j)
+
+
+def test_experience_rejected():
+    j = job("Yazılım Geliştirici", desc="En az 3 yıl yazılım geliştirme deneyimi")
+    assert not matching.classify(j) and "3+ yıl" in j.extra["reject"]
+    j = job("SAP Uzmanı", source="linkedin")
+    j.extra["seniority"] = "Orta-Üst Düzey Yönetici"
+    assert not matching.classify(j) and j.extra["reject"].startswith("kıdem")
+
+
+def test_one_year_allowed_with_warning():
+    j = job("Yazılım Geliştirici", desc="En az 1 yıl deneyimli")
+    assert matching.classify(j)
+
+
+def test_entry_level_kept():
+    j = job("Ağ Sistemleri Uzmanı", source="linkedin")
+    j.extra["seniority"] = "Başlangıç Seviye"
+    assert matching.classify(j)
+
+
 def test_irrelevant_not_candidate():
     assert not matching.classify(job("Garson", desc="Restoranımızda çalışacak garson arıyoruz."))
 
@@ -162,7 +202,7 @@ def test_warnings():
     d = ("En az 3 yıl deneyimli, askerlik hizmetini tamamlamış, ileri düzeyde İngilizce bilen")
     w = matching.warnings_for(job("Yazılım Geliştirici", desc=d))
     assert any(x.startswith("Askerlik") for x in w)
-    assert any("3+ yıl" in x for x in w)
+    assert any("3 yıl" in x for x in w)
     assert any(x.startswith("Dil") for x in w)
 
 

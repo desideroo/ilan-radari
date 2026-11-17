@@ -115,7 +115,8 @@ def day_text(st: State, key: str, title: str) -> str:
     lines = [f"<b>{title}</b>",
              f"📨 Gönderilen ilan: {d['sent']}",
              f"✅ Başvuru: {d.get('applied', 0)} · ⭐ Kaydedilen: {d.get('saved', 0)} · ❌ İlgisiz: {d.get('irrelevant', 0)}",
-             f"🔎 Aday ilan: {d['candidates']} (LLM'in alakasız bulduğu {d['dropped']} ilan gönderilmedi)"]
+             f"🔎 Aday ilan: {d['candidates']} (LLM'in alakasız bulduğu {d['dropped']} ilan gönderilmedi)",
+             f"🚫 Elenen: deneyim şartı {d.get('rej_exp', 0)} · uzaktan doğrulanamayan {d.get('rej_remote', 0)}"]
     start = datetime.strptime(key, "%Y-%m-%d").replace(tzinfo=TZ).timestamp()
     sent = sorted([v for v in st.data["seen"].values()
                    if v.get("t", 0) >= start and v.get("status") in ("sent", "saved", "applied")],
@@ -226,6 +227,10 @@ def scan(st: State, tg: Telegram) -> None:
                 candidates.append(j)
             else:
                 st.mark(j, "skip")
+                reason = j.extra.get("reject", "")
+                if reason:
+                    key = "rej_remote" if "uzaktan" in reason else "rej_exp"
+                    st.day(today())[key] = st.day(today()).get(key, 0) + 1
 
     # LLM'in değerlendiremediği, sadece açıklamadan eşleşen ilanlar bekletilir ve sonraki turlarda tekrar denenir
     pending = st.data.setdefault("pending", {})
@@ -260,6 +265,14 @@ def scan(st: State, tg: Telegram) -> None:
             continue
         pending.pop(j.uid, None)
         sc = j.llm["score"] if j.llm else j.rule_score
+        if j.llm and (j.llm.get("min_years") or 0) >= config.MAX_REQUIRED_YEARS:
+            st.mark(j, "dropped", score=sc)
+            st.day(today())["rej_exp"] = st.day(today()).get("rej_exp", 0) + 1
+            continue
+        if j.llm and j.llm.get("work_mode") in ("onsite", "hybrid") and not matching.in_city(j):
+            st.mark(j, "dropped", score=sc)
+            st.day(today())["rej_remote"] = st.day(today()).get("rej_remote", 0) + 1
+            continue
         if j.llm and sc < config.LLM_DROP_BELOW:
             st.mark(j, "dropped", score=sc)
             st.day(today())["dropped"] += 1

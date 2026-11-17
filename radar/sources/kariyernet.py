@@ -49,17 +49,25 @@ def parse_list(page_html: str) -> list[Job]:
     return jobs
 
 
+def _rotate(ctx: dict, key: str, items: list, n: int, all_: bool) -> list:
+    if all_:
+        return list(items)
+    cur = ctx.get(key, 0)
+    ctx[key] = (cur + n) % len(items)
+    return [items[(cur + i) % len(items)] for i in range(min(n, len(items)))]
+
+
 def fetch(ctx: dict) -> list[Job]:
-    jobs: list[Job] = []
-    for path in config.KARIYERNET_CITY_PATHS:
-        jobs += parse_list(http.get(BASE + path, polite=3))
-    kws = config.KARIYERNET_REMOTE_KEYWORDS
     first = ctx.get("first_run", False)
-    cursor = ctx.setdefault("cursor", 0)
-    chosen = kws if first else [kws[(cursor + i) % len(kws)] for i in range(config.KARIYERNET_REMOTE_PER_RUN)]
-    ctx["cursor"] = (cursor + config.KARIYERNET_REMOTE_PER_RUN) % len(kws)
-    for kw in chosen:
-        found = parse_list(http.get(f"{BASE}/is-ilanlari?kw={quote_plus(kw)}", polite=3))
+    kws = config.KARIYERNET_KEYWORDS
+    jobs: list[Job] = []
+    for slug in config.KARIYERNET_FULL_LIST_SLUGS:
+        jobs += parse_list(http.get(f"{BASE}/is-ilanlari/{slug}", polite=3))
+    for slug in config.KARIYERNET_CITY_SLUGS:
+        for kw in _rotate(ctx, f"cur_{slug}", kws, config.KARIYERNET_KW_PER_RUN, first):
+            jobs += parse_list(http.get(f"{BASE}/is-ilanlari/{slug}?kw={quote_plus(kw)}", polite=3))
+    for kw in _rotate(ctx, "cur_remote", kws, config.KARIYERNET_KW_PER_RUN, first):
+        found = parse_list(http.get(f"{BASE}/is-ilanlari/remote?kw={quote_plus(kw)}", polite=3))
         jobs += [j for j in found if "uzaktan" in j.work_mode.lower() or "remote" in j.work_mode.lower()]
     return jobs
 

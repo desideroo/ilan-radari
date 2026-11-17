@@ -14,15 +14,41 @@ _EXCL = [re.compile(p) for p in config.TITLE_EXCLUDE]
 _EXCL_OK = [re.compile(p) for p in config.TITLE_EXCLUDE_EXCEPT]
 _EXCL_CT = [re.compile(p) for p in config.COMPANY_OR_TITLE_EXCLUDE]
 _MIL = [re.compile(p) for p in config.MILITARY_PATTERNS]
+_REMOTE_EV = [re.compile(p) for p in config.REMOTE_EVIDENCE]
+_ONSITE_EV = [re.compile(p) for p in config.ONSITE_EVIDENCE]
 _EXP = re.compile(r"(?:en az|minimum|min\.?|at least)?\s*(\d{1,2})\s*(?:\+|-\s*\d{1,2})?\s*(?:yil|years?)\b[^.\n]{0,40}(?:deneyim|tecrube|experience|is tecrubesi)")
 _EXP2 = re.compile(r"(?:deneyim|tecrube|experience)[^.\n]{0,25}?(\d{1,2})\s*\+?\s*(?:yil|years?)")
 
 
-def location_ok(job: Job) -> bool:
-    if job.is_remote:
-        return True
+def in_city(job: Job) -> bool:
     loc = norm(job.location)
     return any(c in loc for c in config.CITIES)
+
+
+def location_ok(job: Job) -> bool:
+    """Ucuz kontrol: il uyuyor, site 'uzaktan' diyor ya da uzaktan araması (doğrulanacak)."""
+    return in_city(job) or job.is_remote or bool(job.extra.get("remote_query"))
+
+
+def remote_verified(job: Job) -> bool:
+    """Konya/Karaman dışı ilan: açıklamada açık uzaktan ifadesi olmalı, hibrit/ofis ifadesi olmamalı."""
+    blob = norm(job.description + " " + job.snippet + " " + job.title)
+    if any(p.search(blob) for p in _ONSITE_EV):
+        return False
+    if job.is_remote and job.source != "linkedin":
+        return True   # Kariyer.net/isbul gibi siteler çalışma şeklini yapısal alan olarak veriyor
+    return any(p.search(blob) for p in _REMOTE_EV)
+
+
+def experience_reason(job: Job) -> str:
+    """Yeni mezun için uygun değilse sebebini döndürür, uygunsa boş."""
+    sen = norm(job.extra.get("seniority", ""))
+    if sen and any(x in sen for x in config.SENIORITY_EXCLUDE):
+        return f"kıdem: {job.extra['seniority']}"
+    yrs = required_years(job.description + " " + job.snippet)
+    if yrs and yrs >= config.MAX_REQUIRED_YEARS:
+        return f"{yrs}+ yıl deneyim"
+    return ""
 
 
 def title_excluded(job: Job) -> bool:
@@ -57,8 +83,8 @@ def warnings_for(job: Job) -> list[str]:
     if any(p.search(blob) for p in _MIL):
         w.append("Askerlik: ilanda 'tamamlanmış' şartı var (sende tecilli, Ekim 2028)")
     yrs = required_years(job.description + " " + job.snippet)
-    if yrs and yrs >= 2:
-        w.append(f"Deneyim: ilanda {yrs}+ yıl isteniyor")
+    if yrs:
+        w.append(f"Deneyim: ilanda {yrs} yıl isteniyor")
     if re.search(r"(ileri|akici|fluent|advanced|c1|native)[^.\n]{0,20}(ingilizce|english)|(ingilizce|english)[^.\n]{0,20}(ileri|akici|fluent|advanced|c1)", blob):
         w.append("Dil: ileri/akıcı İngilizce isteniyor (sende B2)")
     if re.search(r"almanca|german", blob):
@@ -93,7 +119,17 @@ def prefilter(job: Job) -> bool:
 
 
 def classify(job: Job) -> bool:
-    """Detay okunduktan sonra: aday mı? Aday ise alan, puan ve uyarıları doldurur."""
+    """Detay okunduktan sonra: aday mı? Aday ise alan, puan ve uyarıları doldurur.
+    Elenirse sebep job.extra['reject'] içine yazılır."""
+    if not in_city(job):
+        if not remote_verified(job):
+            job.extra["reject"] = "uzaktan doğrulanamadı"
+            return False
+        job.work_mode = "Uzaktan"
+    reason = experience_reason(job)
+    if reason:
+        job.extra["reject"] = reason
+        return False
     tr = title_tracks(job)
     job.extra["track_from"] = "title"
     if not tr:

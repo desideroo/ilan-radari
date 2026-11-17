@@ -71,7 +71,7 @@ TRACKS = {
         "cv": "01_Ag_Altyapi",
         "priority": 1,
         "patterns": [
-            r"\bnetwork\b", r"\bag (uzmani|muhendisi|yoneticisi|teknisyeni|sorumlusu)", r"sistem (yoneticisi|uzmani|destek|muhendisi)",
+            r"\bnetwork\b", r"\bag (uzmani|muhendisi|yoneticisi|teknisyeni|sorumlusu|sistemleri|altyapi|guvenligi)", r"ag ve sistem", r"sistem (yoneticisi|uzmani|destek|muhendisi)",
             r"system admin", r"sysadmin", r"bt destek", r"it support", r"it specialist", r"help ?desk",
             r"bilgi islem", r"\bbt (uzmani|sorumlusu|personeli|teknisyeni)", r"\bcisco\b", r"\bdevops\b",
             r"siber guvenlik", r"cyber security", r"teknik destek uzmani",
@@ -128,6 +128,24 @@ MILITARY_PATTERNS = [
     r"military service[^.\n]{0,30}(complet|exempt|fulfil)",
 ]
 
+# --- Deneyim ve çalışma şekli ---------------------------------------------
+# İlanda istenen deneyim bu yıl veya üstündeyse ilan gönderilmez (yeni mezun).
+MAX_REQUIRED_YEARS = 2          # 2+ yıl isteyen elenir, 1 yıl isteyen uyarıyla gelir
+# LinkedIn "Kıdem düzeyi" alanında bunlar varsa elenir
+SENIORITY_EXCLUDE = ["orta-ust duzey", "mid-senior", "direktor", "director", "yonetici", "executive"]
+
+# Konya/Karaman dışındaki bir ilanın "uzaktan" sayılması için açıklamada açık ifade gerekir
+REMOTE_EVIDENCE = [
+    r"(tamamen|%100|tam zamanli|full|fully|100%)\s*(uzaktan|remote)", r"\bremote (position|role|job|work|opportunity|first)",
+    r"uzaktan (calisma (modeli|imkani|sekli)|calisacak|calisabilecek)", r"work from home", r"evden calis",
+    r"home ?office", r"\b(is|calisma) (modeli|sekli)[: ]+uzaktan", r"remote[- ]only", r"\bwork(ing)? remotely\b",
+]
+# Bunlardan biri varsa (uzaktan ifadesi olsa bile) Konya/Karaman dışı ilan elenir
+ONSITE_EVIDENCE = [
+    r"\bhibrit\b", r"\bhybrid\b", r"\bon-?site\b", r"is yerinde calis", r"ofisten calis", r"ofisimizde",
+    r"haftanin \d gunu ofis", r"days? (a week )?in the office",
+]
+
 # --- Kaynaklar -----------------------------------------------------------
 # Her kaynak en az bu kadar dakikada bir çalışır (workflow 15 dk'da bir tetiklenir).
 SOURCE_INTERVAL_MIN = {
@@ -153,11 +171,15 @@ LINKEDIN_REMOTE_KEYWORDS = [
 ]
 LINKEDIN_PAGES_CITY = 2        # sayfa başına 10 ilan
 LINKEDIN_REMOTE_PER_RUN = 6    # her turda uzaktan anahtar kelimelerden kaç tanesi dönsün (sırayla)
+# Not: LinkedIn'in giriş gerektirmeyen araması "uzaktan" (f_WT) ve "deneyim" (f_E) filtrelerini yok sayıyor.
+# Bu yüzden Türkiye geneli aramalardan gelen ilanlar ancak açıklamada açıkça uzaktan yazıyorsa kabul edilir.
 
-# Kariyer.net
-KARIYERNET_CITY_PATHS = ["/is-ilanlari/konya", "/is-ilanlari/konya-2", "/is-ilanlari/karaman"]
-KARIYERNET_REMOTE_KEYWORDS = ["sap", "erp", "yazilim", "veri analisti", "yapay zeka", "test", "network"]
-KARIYERNET_REMOTE_PER_RUN = 2
+# Kariyer.net: genel listeler sponsorlu ilanlara göre sıralandığı için anahtar kelimeyle aranır.
+KARIYERNET_KEYWORDS = ["yazılım", "bilgi işlem", "sap", "erp", "veri", "yapay zeka", "bilişim",
+                       "developer", "analist", "network", "test", "sistem"]
+KARIYERNET_CITY_SLUGS = ["konya"]          # anahtar kelimeyle aranır (her turda birkaç kelime, sırayla)
+KARIYERNET_FULL_LIST_SLUGS = ["karaman"]   # küçük il: tüm liste
+KARIYERNET_KW_PER_RUN = 4                  # her turda kaç kelime (konya + remote için ayrı ayrı)
 
 ELEMANNET_PATHS = ["/is-ilanlari/konya", "/is-ilanlari/karaman"]
 ISBUL_PATHS = ["/is-ilanlari/konya", "/is-ilanlari/karaman"]
