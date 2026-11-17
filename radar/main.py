@@ -9,7 +9,10 @@ from datetime import datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+from dataclasses import asdict
+
 from . import config, llm, matching
+from .models import Job
 from .sources import elemannet, isbul, kariyernet, linkedin, youthall
 from .state import State
 from .telegram import SOURCE_LABEL, Telegram, esc, format_job, job_buttons
@@ -17,6 +20,7 @@ from .telegram import SOURCE_LABEL, Telegram, esc, format_job, job_buttons
 SOURCES = {m.NAME: m for m in (linkedin, kariyernet, elemannet, isbul, youthall)}
 TZ = ZoneInfo(config.TIMEZONE)
 MAX_SEND_PER_RUN = 60
+PENDING_MAX_H = 12   # LLM bu süre içinde değerlendiremezse açıklama-eşleşmeli ilan düşürülür
 
 
 _LOG: list[str] = []
@@ -223,6 +227,17 @@ def scan(st: State, tg: Telegram) -> None:
             else:
                 st.mark(j, "skip")
 
+    # LLM'in değerlendiremediği, sadece açıklamadan eşleşen ilanlar bekletilir ve sonraki turlarda tekrar denenir
+    pending = st.data.setdefault("pending", {})
+    n_new = len(candidates)
+    now = time.time()
+    for uid, rec in list(pending.items()):
+        if now - rec["t"] > PENDING_MAX_H * 3600:
+            del pending[uid]
+            st.data["seen"].get(uid, {})["status"] = "dropped"
+            st.day(today())["dropped"] += 1
+        elif not SEED_ONLY:
+            candidates.append(Job(**rec["job"]))
     if not candidates:
         return
     if SEED_ONLY:
@@ -230,13 +245,20 @@ def scan(st: State, tg: Telegram) -> None:
             st.mark(j, "sent", score=j.rule_score)
         log(f"Tohumlama: {len(candidates)} aday gönderilmeden işaretlendi")
         return
-    st.day(today())["candidates"] += len(candidates)
+    st.day(today())["candidates"] += n_new
     n = llm.evaluate(candidates, log=log)
     log(f"LLM ile değerlendirilen: {n}/{len(candidates)}")
 
     candidates.sort(key=lambda j: -(j.llm["score"] if j.llm else j.rule_score))
     sent = 0
+    llm_on = bool(os.getenv("GEMINI_API_KEY", "").strip())
     for j in candidates:
+        if not j.llm and llm_on and j.extra.get("track_from") == "description":
+            if j.uid not in pending:
+                pending[j.uid] = {"t": time.time(), "job": asdict(j)}
+                st.mark(j, "pending", score=j.rule_score)
+            continue
+        pending.pop(j.uid, None)
         sc = j.llm["score"] if j.llm else j.rule_score
         if j.llm and sc < config.LLM_DROP_BELOW:
             st.mark(j, "dropped", score=sc)

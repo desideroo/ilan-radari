@@ -230,3 +230,62 @@ def test_state_prune(tmp_path):
     st.save()
     assert list(st.data["seen"]) == [keep.uid]
     assert config.SEEN_RETENTION_DAYS > 0
+
+
+def test_pending_when_llm_down(tmp_path, monkeypatch):
+    """LLM çalışmazsa: başlıktan eşleşen gönderilir, sadece açıklamadan eşleşen bekletilir."""
+    from radar import llm
+    st = State(tmp_path / "s.json")
+    st.mark(job("eski", sid="0", company="eski"), "skip")   # ilk çalışma değil
+    a = job("SAP ABAP Uzmanı", sid="1")
+    b = job("Satın Alma Uzmanı", desc="SAP MM bilen", sid="2", company="Başka")
+    sent = []
+
+    class FakeTg:
+        enabled = True
+        def send(self, text, buttons=None, silent=False):
+            sent.append(text)
+            return {"message_id": 1}
+
+    for j in (a, b):
+        assert matching.classify(j)
+    monkeypatch.setenv("GEMINI_API_KEY", "x")
+    monkeypatch.setattr(llm, "evaluate", lambda jobs, log=print: 0)
+    monkeypatch.setattr(main, "SOURCES", {"fake": type("M", (), {"fetch": staticmethod(lambda ctx: [a, b]),
+                                                                  "enrich": staticmethod(lambda j: None)})})
+    monkeypatch.setitem(config.SOURCE_INTERVAL_MIN, "fake", 15)
+    monkeypatch.setitem(main.SOURCE_LABEL, "fake", "Fake")
+    main.scan(st, FakeTg())
+    assert len(sent) == 1 and "SAP ABAP" in sent[0]
+    assert b.uid in st.data["pending"] and st.data["seen"][b.uid]["status"] == "pending"
+
+    # sonraki tur: LLM düzeldi, bekleyen ilan değerlendirilip gönderilir
+    def ok(jobs, log=print):
+        for j in jobs:
+            j.llm = {"score": 55, "cv": "05_ERP_SAP", "summary": "s", "why": "w", "gaps": "-",
+                     "military_required": False, "min_years": 0}
+        return len(jobs)
+    monkeypatch.setattr(llm, "evaluate", ok)
+    st.source("fake")["last_run"] = 0
+    main.scan(st, FakeTg())
+    assert len(sent) == 2 and "Satın Alma" in sent[1]
+    assert not st.data["pending"]
+
+
+def test_model_discovery(monkeypatch):
+    from radar import llm
+
+    class R:
+        def raise_for_status(self): pass
+        def json(self):
+            return {"models": [
+                {"name": "models/gemini-2.5-flash", "supportedGenerationMethods": ["generateContent"]},
+                {"name": "models/gemini-3.5-flash-lite", "supportedGenerationMethods": ["generateContent"]},
+                {"name": "models/gemini-3.5-flash", "supportedGenerationMethods": ["generateContent"]},
+                {"name": "models/gemini-3.5-flash-image", "supportedGenerationMethods": ["generateContent"]},
+                {"name": "models/text-embedding-004", "supportedGenerationMethods": ["embedContent"]},
+            ]}
+    monkeypatch.setattr(llm, "_models_cache", None)
+    monkeypatch.setattr(llm, "MODELS_ENV", [])
+    monkeypatch.setattr(llm.requests, "get", lambda *a, **k: R())
+    assert llm.available_models("k", log=lambda m: None) == ["gemini-3.5-flash", "gemini-3.5-flash-lite", "gemini-2.5-flash"]

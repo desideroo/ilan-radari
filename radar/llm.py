@@ -7,6 +7,7 @@ from __future__ import annotations
 
 import json
 import os
+import re
 import time
 from pathlib import Path
 
@@ -14,7 +15,44 @@ import requests
 
 from .models import Job
 
-MODELS = [m.strip() for m in os.getenv("GEMINI_MODELS", "gemini-2.5-flash,gemini-2.5-flash-lite").split(",") if m.strip()]
+# Boşsa: hesabın erişebildiği Flash modelleri otomatik bulunur (Google model adlarını sık değiştiriyor)
+MODELS_ENV = [m.strip() for m in os.getenv("GEMINI_MODELS", "").split(",") if m.strip()]
+FALLBACK_MODELS = ["gemini-3.5-flash", "gemini-3.5-flash-lite", "gemini-2.5-flash"]
+_models_cache: list[str] | None = None
+
+
+def _version(name: str) -> tuple:
+    m = re.search(r"gemini-(\d+(?:\.\d+)?)", name)
+    return (float(m.group(1)) if m else 0.0,)
+
+
+def available_models(key: str, log=print) -> list[str]:
+    """generateContent destekleyen Flash modelleri: en yeni sürüm önce, aynı sürümde Flash, sonra Flash-Lite."""
+    global _models_cache
+    if _models_cache is not None:
+        return _models_cache
+    if MODELS_ENV:
+        _models_cache = MODELS_ENV
+        return _models_cache
+    try:
+        r = requests.get("https://generativelanguage.googleapis.com/v1beta/models",
+                         headers={"x-goog-api-key": key}, params={"pageSize": 200}, timeout=30)
+        r.raise_for_status()
+        names = []
+        for m in r.json().get("models", []):
+            n = m.get("name", "").removeprefix("models/")
+            if "generateContent" not in m.get("supportedGenerationMethods", []):
+                continue
+            if not re.fullmatch(r"gemini-\d+(\.\d+)?-flash(-lite)?(-latest)?", n):
+                continue  # preview/image/tts/live gibi varyantları atla
+            names.append(n)
+        names.sort(key=lambda n: (_version(n), "lite" not in n), reverse=True)
+        _models_cache = names[:3] or FALLBACK_MODELS
+    except Exception as e:  # noqa: BLE001
+        log(f"LLM model listesi alınamadı ({type(e).__name__}), varsayılanlar kullanılıyor")
+        _models_cache = FALLBACK_MODELS
+    log(f"LLM modelleri: {', '.join(_models_cache)}")
+    return _models_cache
 API = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 PROFILE = (Path(__file__).parent / "profile.md").read_text(encoding="utf-8")
 BATCH = 6
@@ -93,13 +131,18 @@ def evaluate(jobs: list[Job], log=print) -> int:
         chunk = jobs[i:i + BATCH]
         prompt = PROMPT.format(profile=PROFILE, jobs=_payload(chunk))
         result = None
-        for model in MODELS:
-            try:
-                result = _call(model, key, prompt)
+        for model in available_models(key, log):
+            for attempt in range(2):  # 503 (yoğunluk) için bir kez daha dene
+                try:
+                    result = _call(model, key, prompt)
+                    break
+                except Exception as e:  # noqa: BLE001
+                    log(f"LLM uyarı: {str(e)[:160]}")
+                    if "HTTP 503" not in str(e):
+                        break
+                    time.sleep(8)
+            if result is not None:
                 break
-            except Exception as e:  # noqa: BLE001
-                log(f"LLM uyarı: {e}")
-                time.sleep(3)
         if result is None:
             break  # kota/hata: kalanlar kural puanıyla gider
         by_id = {r.get("id"): r for r in result if isinstance(r, dict)}

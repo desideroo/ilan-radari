@@ -74,6 +74,8 @@ def score(job: Job) -> int:
     s = {3: 60, 2: 50, 1: 40}[pri]
     if job.extra.get("track_from") == "title":
         s += 10
+    else:
+        s -= 20   # sadece açıklamada geçiyor: rolün kendisi alan dışı olabilir
     blob = norm(job.title + " " + job.description + " " + job.snippet)
     if any(p.search(blob) for p in _JUNIOR):
         s += 15
