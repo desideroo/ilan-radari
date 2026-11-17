@@ -19,8 +19,21 @@ TZ = ZoneInfo(config.TIMEZONE)
 MAX_SEND_PER_RUN = 60
 
 
+_LOG: list[str] = []
+SEED_ONLY = os.getenv("SEED_ONLY") == "1"
+
+
 def log(msg: str) -> None:
-    print(f"[{datetime.now(TZ):%H:%M:%S}] {msg}", flush=True)
+    line = f"[{datetime.now(TZ):%H:%M:%S}] {msg}"
+    _LOG.append(line)
+    print(line, flush=True)
+
+
+def write_summary() -> None:
+    path = os.getenv("GITHUB_STEP_SUMMARY")
+    if path:
+        with open(path, "a", encoding="utf-8") as f:
+            f.write("```\n" + "\n".join(_LOG) + "\n```\n")
 
 
 def today() -> str:
@@ -168,6 +181,7 @@ def scan(st: State, tg: Telegram) -> None:
         s = st.source(name)
         ctx = s.setdefault("ctx", {})
         ctx["first_run"] = first
+        t0 = time.time()
         try:
             listing = mod.fetch(ctx)
         except Exception as e:  # noqa: BLE001
@@ -191,7 +205,7 @@ def scan(st: State, tg: Telegram) -> None:
                 st.mark(j, "skip")
                 continue
             new.append(j)
-        log(f"{name}: {len(listing)} ilan, {len(new)} yeni aday (ön filtre sonrası)")
+        log(f"{name}: {len(listing)} ilan, {len(new)} yeni aday (ön filtre sonrası), {time.time() - t0:.0f} sn")
 
         enriched = 0
         for j in new:
@@ -210,6 +224,11 @@ def scan(st: State, tg: Telegram) -> None:
                 st.mark(j, "skip")
 
     if not candidates:
+        return
+    if SEED_ONLY:
+        for j in candidates:
+            st.mark(j, "sent", score=j.rule_score)
+        log(f"Tohumlama: {len(candidates)} aday gönderilmeden işaretlendi")
         return
     st.day(today())["candidates"] += len(candidates)
     n = llm.evaluate(candidates, log=log)
@@ -258,7 +277,7 @@ def main() -> None:
         log("Telegram ayarlı değil: ilanlar sadece loga yazılacak.")
     first = st.first_run
     try:
-        if first and tg.enabled:
+        if first and tg.enabled and not SEED_ONLY:
             tg.set_commands()
             tg.send("👋 <b>İlan Radarı</b> kuruldu. İlk taramada son 3 günün uygun ilanlarını gönderiyorum, "
                     "sonrasında yeni ilanlar geldikçe haber vereceğim.\n\n" + HELP)
@@ -272,6 +291,7 @@ def main() -> None:
         raise
     finally:
         st.save()
+        write_summary()
 
 
 if __name__ == "__main__":
