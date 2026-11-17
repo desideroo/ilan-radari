@@ -123,7 +123,7 @@ def test_tracks(title, track):
     "Senior SAP Specialist", "Kıdemli Yazılım Geliştirici", "Bilgi İşlem Müdürü",
     "Satış Temsilcisi", "Kalite Kontrol Uzmanı", "IT Infrastructure Internship", "Team Lead - Backend",
     "SAP Public Cloud Geliştirme ve Proje Lideri", "Veri Bilimcisi - İleri Analitik Yöneticisi",
-    "Middle Software Engineer - Backend",
+    "Middle Software Engineer - Backend", "İnsan Kaynakları Stajyeri", "Proje Yönetim Stajyeri",
 ])
 def test_title_excluded(title):
     assert matching.title_excluded(job(title))

@@ -110,7 +110,7 @@ TITLE_EXCLUDE = [
     r"\bsenior\b", r"\bsr\b", r"kidemli", r"\blead\b", r"\blider",
     r"(?<!sistem )(?<!ag )(?<!veritabani )(?<!network )yoneticisi\b", r"\bmiddle\b", r"\bmid-?level\b", r"team lead", r"mudur", r"\bmanager\b",
     r"\bhead\b", r"direktor", r"director", r"principal", r"\barchitect\b", r"\bmimar\b", r"\bsef\b", r"chief",
-    r"\bstajyer\b", r"\bintern\b", r"\binternship\b", r"\bstaj\b",
+    r"\bstajyer", r"\bintern\b", r"\binternship", r"\bstaj\b", r"\bstaji\b",
     r"satis temsilcisi", r"satis danismani", r"sales representative", r"cagri merkezi", r"call center",
     r"musteri temsilcisi", r"pazarlama", r"marketing", r"kalite kontrol", r"\bsofor\b", r"\bdepo\b", r"\bmuhasebe elemani\b",
 ]
@@ -186,7 +186,7 @@ ISBUL_PATHS = ["/is-ilanlari/konya", "/is-ilanlari/karaman"]
 
 # --- Bildirim -----------------------------------------------------------
 # LLM bir ilanı açıkça alakasız bulursa (bu puanın altı) gönderilmez, günlük özette sayılır.
-LLM_DROP_BELOW = 25
+LLM_DROP_BELOW = 40
 FIRST_RUN_MAX_AGE_HOURS = 72    # ilk çalışmada sadece son 3 günün ilanları gönderilir
 DAILY_SUMMARY_HOUR = 21         # Türkiye saati
 TIMEZONE = "Europe/Istanbul"
