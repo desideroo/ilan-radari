@@ -71,8 +71,16 @@ def description_tracks(job: Job) -> list[str]:
     return [k for k, pats in _DESC.items() if any(p.search(d) for p in pats)]
 
 
+_UPPER = re.compile(r"(en fazla|en cok|maksimum|maximum|max\.?|at most|up to|\ben fazla)\s*\d{1,2}\s*(yil|years?)")
+_RANGE = re.compile(r"(\d{1,2})\s*(?:-|–|ile|to|ila)\s*\d{1,2}\s*(yil|years?)")
+
+
 def required_years(text: str) -> int | None:
+    """İlanda şart koşulan EN AZ deneyim yılı. Aralıklarda alt sınır alınır ("1-15 yıl" -> 1),
+    "en fazla N yıl" gibi üst sınırlar yok sayılır."""
     t = norm(text)
+    t = _UPPER.sub(" ", t)
+    t = _RANGE.sub(r"\1 \2", t)
     vals = [int(m.group(1)) for m in _EXP.finditer(t)] + [int(m.group(1)) for m in _EXP2.finditer(t)]
     vals = [v for v in vals if 0 < v <= 20]
     return max(vals) if vals else None

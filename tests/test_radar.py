@@ -62,7 +62,7 @@ def test_kariyernet_list():
 def test_kariyernet_detail():
     d = kariyernet.parse_detail(fx("kariyernet_detail"))
     assert len(d) > 300
-    assert "Aday Kriterleri: Tecrübe: En az 5 yıl tecrübeli" in d
+    assert d.startswith("Aday Kriterleri: Tecrübe: En az 5 yıl tecrübeli")
     w = matching.warnings_for(job("Bakım Ustası", desc=d))
     assert any(x.startswith("Askerlik") for x in w) and any("5 yıl" in x for x in w)
 
@@ -408,3 +408,27 @@ def test_reset_seen_keeps_feedback(tmp_path):
     assert a.uid not in st.data["seen"] and b.uid in st.data["seen"]
     assert st.first_run and st.source("linkedin")["last_run"] == 0
     assert not st.is_seen(a.uid, a.dedupe_key)
+
+
+@pytest.mark.parametrize("text,years", [
+    ("Aday Kriterleri: Tecrübe: 1-15 yıl tecrübeli", 1),
+    ("Tecrübe: En az 1 yıl, en fazla 15 yıl tecrübeli", 1),
+    ("Tecrübe: En az 5 yıl tecrübeli", 5),
+    ("0-2 yıl deneyimli adaylar", None),
+    ("en az 3 yıl deneyim, en fazla 10 yıl", 3),
+    ("3-5 years of experience", 3),
+    ("Tecrübe: Tecrübesiz", None),
+])
+def test_required_years_ranges(text, years):
+    assert matching.required_years(text) == years
+
+
+def test_migration_reopens_experience_rejections(tmp_path):
+    p = tmp_path / "s.json"
+    p.write_text(json.dumps({"version": 1, "seen": {
+        "kariyernet:1": {"t": 1e12, "title": "Bilgi İşlem Uzmanı", "status": "skip", "why": "15+ yıl deneyim"},
+        "kariyernet:2": {"t": 1e12, "title": "Garson", "status": "skip"}},
+        "dedupe": {"a": "kariyernet:1", "b": "kariyernet:2"}}), encoding="utf-8")
+    st = State(p)
+    assert "kariyernet:1" not in st.data["seen"] and "kariyernet:2" in st.data["seen"]
+    assert st.data["dedupe"] == {"b": "kariyernet:2"} and st.data["version"] == 2

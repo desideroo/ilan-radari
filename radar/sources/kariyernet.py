@@ -58,7 +58,7 @@ def _rotate(ctx: dict, key: str, items: list, n: int, all_: bool) -> list:
 
 
 def fetch(ctx: dict) -> list[Job]:
-    first = ctx.get("first_run", False)
+    first = ctx.get("first_run", False) or ctx.get("all_keywords", False)
     kws = config.KARIYERNET_KEYWORDS
     jobs: list[Job] = []
     for slug in config.KARIYERNET_FULL_LIST_SLUGS:
@@ -89,7 +89,8 @@ def parse_detail(page_html: str) -> str:
                 else:
                     break
             if crit:
-                text += "\n\nAday Kriterleri: " + "; ".join(crit)
+                # başa konur: kısaltılmış kayıtlarda ve LLM'de kriterler kaybolmasın
+                text = "Aday Kriterleri: " + "; ".join(crit) + "\n\n" + text
     if not text:
         node = jsonld.job_posting(page_html)
         text = jsonld.summary(node)["description"] if node else ""

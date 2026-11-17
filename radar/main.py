@@ -188,6 +188,7 @@ def scan(st: State, tg: Telegram) -> None:
         s = st.source(name)
         ctx = s.setdefault("ctx", {})
         ctx["first_run"] = first
+        ctx["all_keywords"] = os.getenv("FORCE_ALL") == "1"   # elle tetiklemede tüm anahtar kelimeler
         t0 = time.time()
         try:
             listing = mod.fetch(ctx)
@@ -196,6 +197,7 @@ def scan(st: State, tg: Telegram) -> None:
             health(st, tg, name, False, str(e))
             continue
         ctx.pop("first_run", None)
+        ctx.pop("all_keywords", None)
         if not listing and name != "youthall":
             health(st, tg, name, False, "0 ilan döndü (sayfa yapısı değişmiş olabilir)")
             continue

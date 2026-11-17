@@ -14,7 +14,7 @@ from . import config
 DETAILS_RETENTION_DAYS = 14
 
 DEFAULT = {
-    "version": 1,
+    "version": 2,
     "created": None,
     "seen": {},            # uid -> {t, title, company, url, status, score, msg}
     "dedupe": {},          # firma|başlık hash -> uid
@@ -35,6 +35,17 @@ class State:
         else:
             self.data = json.loads(json.dumps(DEFAULT))
             self.data["created"] = time.time()
+        self._migrate()
+
+    def _migrate(self) -> None:
+        if self.data.get("version", 1) < 2:
+            # v1'de "1-15 yıl" gibi aralıklar üst sınırdan okunuyordu: deneyim gerekçesiyle elenenler yeniden değerlendirilsin
+            for uid in [u for u, v in self.data["seen"].items() if "yıl deneyim" in (v.get("why") or "")]:
+                del self.data["seen"][uid]
+                self.data.get("details", {}).pop(uid, None)
+            live = set(self.data["seen"])
+            self.data["dedupe"] = {k: v for k, v in self.data["dedupe"].items() if v in live}
+        self.data["version"] = 2
 
     @property
     def first_run(self) -> bool:
