@@ -4933,6 +4933,75 @@
    "status": "dropped",
    "score": 0,
    "msg": null
+  },
+  "linkedin:4478268754": {
+   "t": 1794948363.4174516,
+   "title": "SENIOR ENTERPRISE NETWORK SERVICES PROFESSIONAL",
+   "company": "Turkcell",
+   "url": "https://www.linkedin.com/jobs/view/4478268754/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491226834": {
+   "t": 1794948365.9126916,
+   "title": "Solutions Engineer",
+   "company": "Cisco",
+   "url": "https://www.linkedin.com/jobs/view/4491226834/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4489441193": {
+   "t": 1794948367.8825014,
+   "title": "IT SYSTEM ADMINISTRATOR",
+   "company": "Human Kapital İnsan Kaynakları ve Danışmanlık Hiz.Ltd.",
+   "url": "https://www.linkedin.com/jobs/view/4489441193/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490494952": {
+   "t": 1794948370.2717767,
+   "title": "IT Uzmanı",
+   "company": "MGO GRUP",
+   "url": "https://www.linkedin.com/jobs/view/4490494952/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491288854": {
+   "t": 1794948372.030776,
+   "title": "Bulut Sistem Uzmanı",
+   "company": "Acibadem Healthcare Group",
+   "url": "https://www.linkedin.com/jobs/view/4491288854/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4467375962": {
+   "t": 1794948373.850061,
+   "title": "BT Microsoft ve Bulut Operasyonları Uzmanı",
+   "company": "Nobel İlaç",
+   "url": "https://www.linkedin.com/jobs/view/4467375962/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491590740": {
+   "t": 1794948375.9161532,
+   "title": "IT Supervisor",
+   "company": "Mandarin Oriental",
+   "url": "https://www.linkedin.com/jobs/view/4491590740/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -5481,17 +5550,24 @@
   "84338c34acfb4d4a": "kariyernet:3897723",
   "19ee72905f015ad9": "kariyernet:4583108",
   "ed63357753d08c64": "kariyernet:4583882",
-  "0e87e784eab5bc40": "kariyernet:4583884"
+  "0e87e784eab5bc40": "kariyernet:4583884",
+  "c6443677e25bd075": "linkedin:4478268754",
+  "88ded4c2960ed3dc": "linkedin:4491226834",
+  "5d0f478a475250c5": "linkedin:4489441193",
+  "bce66e84a96db541": "linkedin:4490494952",
+  "237e4da1b336ceae": "linkedin:4491288854",
+  "4724af64a72a2bae": "linkedin:4467375962",
+  "329fb882a54b9668": "linkedin:4491590740"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794947169.9788685,
+   "last_run": 1794948363.4171999,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794947169.9788697,
+   "last_ok": 1794948363.4172008,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
@@ -5542,7 +5618,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 7,
+   "rej_remote": 13,
    "rej_exp": 18
   }
  },
