@@ -189,6 +189,7 @@ def test_end_to_end_offline(tmp_path, monkeypatch, capsys):
     monkeypatch.setattr("radar.http.get", fake_get)
     monkeypatch.delenv("TELEGRAM_BOT_TOKEN", raising=False)
     monkeypatch.delenv("GEMINI_API_KEY", raising=False)
+    monkeypatch.delenv("GITHUB_ACTIONS", raising=False)
     monkeypatch.setenv("STATE_PATH", str(tmp_path / "state.json"))
     main.main()
     data = json.loads((tmp_path / "state.json").read_text())
