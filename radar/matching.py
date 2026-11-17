@@ -127,10 +127,6 @@ def classify(job: Job) -> bool:
             job.extra["reject"] = "uzaktan doğrulanamadı"
             return False
         job.work_mode = "Uzaktan"
-    reason = experience_reason(job)
-    if reason:
-        job.extra["reject"] = reason
-        return False
     tr = title_tracks(job)
     job.extra["track_from"] = "title"
     if not tr:
@@ -140,6 +136,11 @@ def classify(job: Job) -> bool:
         tr = description_tracks(job)
         job.extra["track_from"] = "description"
     if not tr:
+        return False
+    # deneyim kontrolü alan eşleşmesinden sonra: sayaçlar sadece ilgili ilanları saysın
+    reason = experience_reason(job)
+    if reason:
+        job.extra["reject"] = reason
         return False
     # "general" sadece başka alan yoksa kalsın
     if len(tr) > 1 and "general" in tr:
