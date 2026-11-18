@@ -6611,27 +6611,25 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794977150.668479,
+   "last_run": 1794978073.3003588,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794977150.6684804,
+   "last_ok": 1794978073.30036,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1794976294.0998416,
-   "fails": 1,
-   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
-   "last_ok": 1794974514.4797177,
+   "last_run": 1794978112.0058727,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1794978112.005874,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8,
-    "first_run": false,
-    "all_keywords": false
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
