@@ -7803,13 +7803,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795035686.061235,
+   "last_run": 1795036552.2624235,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795035686.0612364,
+   "last_ok": 1795036552.262425,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
