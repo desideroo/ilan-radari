@@ -6611,13 +6611,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794970878.7926323,
+   "last_run": 1794971784.1169572,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794970878.7926338,
+   "last_ok": 1794971784.1169584,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
