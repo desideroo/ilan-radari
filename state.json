@@ -7731,25 +7731,25 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795020353.922388,
+   "last_run": 1795021290.0689318,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795020353.9223893,
+   "last_ok": 1795021290.0689328,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795019523.856633,
+   "last_run": 1795021331.131009,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795019523.8566344,
+   "last_ok": 1795021331.1310103,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
