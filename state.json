@@ -6786,6 +6786,35 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4489395867": {
+   "t": 1795005952.7944872,
+   "title": "AI Manager & Proje Asistanı",
+   "company": "Daynex Yazılım A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4489395867/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491301003": {
+   "t": 1795005955.0411408,
+   "title": "Data & Insights Specialist",
+   "company": "BrandZone",
+   "url": "https://www.linkedin.com/jobs/view/4491301003/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "3+ yıl deneyim"
+  },
+  "linkedin:4491834663": {
+   "t": 1795005975.6456614,
+   "title": "Seller Experience Quality & Insights Specialist",
+   "company": "Trendyol Group",
+   "url": "https://www.linkedin.com/jobs/view/4491834663/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -7528,17 +7557,20 @@
   "af3aa8f5f3897087": "linkedin:4490891306",
   "d4df6caf56ed0b9a": "kariyernet:4599066",
   "3118cd277df321be": "kariyernet:4600096",
-  "77500077923bd5d4": "kariyernet:4599603"
+  "77500077923bd5d4": "kariyernet:4599603",
+  "3f7cd6f8d8e2b8af": "linkedin:4489395867",
+  "515233177f921ede": "linkedin:4491301003",
+  "1a4a3b4b1ebdb3cb": "linkedin:4491834663"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795005105.741661,
+   "last_run": 1795005952.7934227,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795005105.7416627,
+   "last_ok": 1795005952.793424,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
@@ -7599,8 +7631,8 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_exp": 29,
-   "rej_remote": 82
+   "rej_exp": 30,
+   "rej_remote": 83
   }
  },
  "details": {
@@ -9653,6 +9685,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Fly Work olarak geleceği bugünden inşa ediyoruz!\nYapay zekâ destekli mobil uygulamalar ve oyunlar geliştiriyor, yenilikçi teknolojilerle dijital ürünler üretiyoruz.\nGeliştirdiğimiz uygulama ve oyunların frontend ve backend süreçlerini uçtan uca yönetebilecek, sunucu altyapılarından yapay zekâ entegrasyonlarına kadar farklı alanlarda sorumluluk alabilecek bir Full Stack Developer arıyoruz!\n👩‍💻 Ne Yapıyoruz?\nFly Work olarak klasik bir yazılım şirketinden farklı olarak ürün odaklı çalışıyoruz.\nFlutter ile iOS ve Android uygulamaları geliştiriyor, Node.js ile güçlü backend altyapıları oluşturuyor "
+  },
+  "linkedin:4491301003": {
+   "t": 1795005955.04118,
+   "source": "linkedin",
+   "title": "Data & Insights Specialist",
+   "company": "BrandZone",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "3+ yıl deneyim",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "About BrandZone\nAt BrandZone, we turn retail and e-commerce data into actionable business insights. We support 100+ companies with analytics solutions that help leading brands and retailers understand their performance, competition, and growth opportunities.\nAbout the Role\nWe are looking for a Data & Insights Specialist who can turn complex data into meaningful insights, actionable recommendations, and professional presentations.\nYou will analyze retail and e-commerce data, identify trends and opportunities, and develop new analyses that bring value to our clients. We are looking for someone w"
+  },
+  "linkedin:4491834663": {
+   "t": 1795005975.6457033,
+   "source": "linkedin",
+   "title": "Seller Experience Quality & Insights Specialist",
+   "company": "Trendyol Group",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "About the Team\nAt Trendyol Core Commerce, we build innovative, data-driven strategies that power sustainable growth and global expansion.\nFrom seller experience to new market launches, we turn insights into action—fast. Our cross-functional teams shape the future of commerce with bold ideas, real-time impact, and a deep sense of ownership. In a fast-paced, collaborative environment, we grow together — as individuals and as a team.\nAbout The Role\nAs a Seller Experience Quality & Insights Professional, you will play a key role in improving seller experience and operational performance across mul"
   }
  },
  "pending": {}
