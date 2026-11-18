@@ -6984,6 +6984,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492052772": {
+   "t": 1795023097.6689363,
+   "title": "AI Solutions Developer",
+   "company": "Concentrix",
+   "url": "https://www.linkedin.com/jobs/view/4492052772/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -7747,52 +7757,53 @@
   "f4eabd0ec7a2a1f5": "kariyernet:4600360",
   "34fa8bd5905ec4b4": "kariyernet:4600266",
   "583bd257be2eb0db": "linkedin:4476346260",
-  "7c9ef2dbb8d6eacf": "linkedin:4476346259"
+  "7c9ef2dbb8d6eacf": "linkedin:4476346259",
+  "cb7ce9df9b16ebdb": "linkedin:4492052772"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795022153.8470662,
+   "last_run": 1795023095.0557015,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795022153.8470678,
+   "last_ok": 1795023095.0557034,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795021331.131009,
+   "last_run": 1795023137.9887843,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795021331.1310103,
+   "last_ok": 1795023137.9887862,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795019530.0346048,
+   "last_run": 1795023142.7138293,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795019530.034606,
+   "last_ok": 1795023142.713831,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795019537.0263696,
+   "last_run": 1795023147.986613,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795019537.0263708,
+   "last_ok": 1795023147.986614,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795015955.0696232,
+   "last_run": 1795023150.9320776,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795015955.0696247,
+   "last_ok": 1795023150.9320793,
    "alerted": false,
    "ctx": {}
   }
@@ -7819,7 +7830,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 30,
-   "rej_remote": 88
+   "rej_remote": 89
   }
  },
  "details": {
@@ -10025,6 +10036,23 @@
    "track_from": "title",
    "llm": {},
    "description": "·      Üniversitelerin ilgili bölümlerinden mezun,\n·      Alanında deneyime sahip,\n·      Eğitim teknolojilerini etkin kullanabilen,\n·      Takım çalışmasına yatkın ve yenilikçi,\nÖğrencilerle iletişimine dikkat eden,\nDil öğretimini misyon edinmiş,\nİspanyolca bilen takım arkadaşı aramaktayız."
+  },
+  "linkedin:4492052772": {
+   "t": 1795023097.6689723,
+   "source": "linkedin",
+   "title": "AI Solutions Developer",
+   "company": "Concentrix",
+   "location": "Kağıthane",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Concentrix Hakkında\nSektörünün lider markalarından Concentrix, bugünün dijital dünyasında insan odaklı müşteri deneyimleri tasarlıyor ve yönetiyor. Dünyada, 60 ülkede 400 binden fazla çalışanıyla hizmet veren Concentrix, Türkiye’de başta İstanbul, İzmir, Ankara, Van olmak üzere toplam 7 şehirde, 16 bini aşkın çalışan ile müşteri hizmet yönetimi ve deneyiminde fark yaratmaya devam etmektedir.\nTechnology Solutions ekibimize yeni bir çalışma arkadaşı arıyoruz.\nÇağrı merkezi ve müşteri deneyimi operasyonlarına yönelik yapay zeka, otomasyon ve sistem entegrasyonu çözümleri geliştiriyoruz. Bu çözüml"
   }
  },
  "pending": {}
