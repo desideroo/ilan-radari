@@ -6070,6 +6070,71 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4489756579": {
+   "t": 1794987063.4088535,
+   "title": "Veri Analitiği Yöneticisi",
+   "company": "Bilkom",
+   "url": "https://www.linkedin.com/jobs/view/4489756579/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4445644": {
+   "t": 1794987104.938014,
+   "title": "Finansal Güvence Saha Satış Danışmanı",
+   "company": "NEW HIRE HR İNSAN KAYNAKLARI EĞİTİM VE DANIŞMANLIK LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/new-hire-hr-insan-kaynaklari-egitim-ve-danismanlik-finansal-guvence-saha-satis-danismani-4445644",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4599798": {
+   "t": 1794987104.9382715,
+   "title": "Satış Temsilcisi",
+   "company": "Korbir Sosyal Hizmetler",
+   "url": "https://www.kariyer.net/is-ilani/korbir-sosyal-hizmetler-satis-temsilcisi-4599798",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4413301": {
+   "t": 1794987104.938377,
+   "title": "Satış ve Pazarlama Uzmanı",
+   "company": "Zoomlion Cifa Makine Sanayi ve Tic. A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/zoomlion-cifa-makine-sanayi-ve-tic-a-s-satis-ve-pazarlama-uzmani-4413301",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4599806": {
+   "t": 1794987108.78975,
+   "title": "Dağıtım Elemanı - Sevkiyatçı",
+   "company": "Korbir Sosyal Hizmetler",
+   "url": "https://www.kariyer.net/is-ilani/korbir-sosyal-hizmetler-dagitim-elemani-sevkiyatci-4599806",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4277667": {
+   "t": 1794987113.035786,
+   "title": "Part Time Saha Satış Destek Elemanı- Dönemsel",
+   "company": "Team Guerilla Marketing",
+   "url": "https://www.kariyer.net/is-ilani/team-guerilla-marketing-part-time-saha-satis-destek-elemani-donemsel-4277667",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "isbul:100947": {
+   "t": 1794987125.5363903,
+   "title": "Kurumsal Teknoloji ve Çözüm Satış Ortağı",
+   "company": "TÜRKBİT TEKNOLOJİ VE DİJİTAL HİZMETLER LTD ŞTİ.",
+   "url": "https://isbul.net/is-ilani/turkbit-teknoloji-ve-dijital-kurumsal-teknoloji-ve-cozum-satis-ortagi-100947",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -6735,52 +6800,59 @@
   "1485e8d49575308f": "linkedin:4490841693",
   "88651d106530534e": "linkedin:4478993002",
   "8d7e8383beb1b24c": "linkedin:4490861073",
-  "1cedc3dcb5528aba": "linkedin:4490841676"
+  "1cedc3dcb5528aba": "linkedin:4490841676",
+  "7692f9bf1960a509": "linkedin:4489756579",
+  "2feacf93aa787e47": "kariyernet:4445644",
+  "062fe1c11bd8ce1a": "kariyernet:4599798",
+  "8db32556b52c08a5": "kariyernet:4413301",
+  "aa9b2039c8df8560": "kariyernet:4599806",
+  "a48dc3eb3a48db2d": "kariyernet:4277667",
+  "f60cea3ca268ac76": "isbul:100947"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794986160.5768616,
+   "last_run": 1794987063.4083138,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794986160.5768633,
+   "last_ok": 1794987063.4083152,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1794985334.6450758,
+   "last_run": 1794987104.937763,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794985334.6450772,
+   "last_ok": 1794987104.9377646,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1794983527.4983437,
+   "last_run": 1794987118.5254538,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794983527.498345,
+   "last_ok": 1794987118.525455,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1794983532.6273887,
+   "last_run": 1794987122.6938288,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794983532.6273897,
+   "last_ok": 1794987122.6938295,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1794979930.394865,
+   "last_run": 1794987128.2543988,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794979930.3948665,
+   "last_ok": 1794987128.2543998,
    "alerted": false,
    "ctx": {}
   }
@@ -8469,6 +8541,40 @@
    "track_from": "",
    "llm": {},
    "description": "Coşkunöz Holding, 3000 çalışanıyla otomotiv, havacılık ve lojistik sektörlerinde faaliyet gösteriyor. Hem yurt içinde hem de yurt dışında toplamda 9 şirketimiz ve 14 üretim tesisimiz bulunuyor.\n1950'den beri, yer aldığımız tüm sektörlerde dünya çapındaki müşterilerimize en iyi ürün ve hizmetleri sunarak, sanayi tecrübemizi tüm paydaşlarımız için bir değere dönüştürüyoruz.\nSiz de geleceğe değer katan bu ekibin parçası olmak isterseniz,\nCoşkunöz Holding\nbünyesindeki\nYazılım Geliştirme Uzmanı\npozisyonumuz size göre olabilir.\nGenel Nitelikler\nÜniversitelerin Bilgisayar, Yazılım, Elektrik-Elektroni"
+  },
+  "kariyernet:4277667": {
+   "t": 1794987113.0358262,
+   "source": "kariyernet",
+   "title": "Part Time Saha Satış Destek Elemanı- Dönemsel",
+   "company": "Team Guerilla Marketing",
+   "location": "Karaman +76 il daha",
+   "work_mode": "İş Yerinde",
+   "posted": "9 gün",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Lise(Mezun)\n\nTüm özlük hakları Team Guerilla Marketing 'de olmak üzere;\nYeni projemiz de, Türkiye genelinde görev alacak Part-Time Saha Satış Destek Elemanları arıyoruz.\nBu pozisyonda görev alacak ekip arkadaşlarımız;\nTobacco Shop, Benzin İstasyonu, Tekel Bayii, Zincir Market, Büfe vb. noktalarda aktif olarak sahada bulunacak,\nTüketicilerden gelen ürün sorularını yanıtlayarak tüketici bilgilendirmesi yapacak,\nSahada marka temsilini doğru ve etkili şekilde gerçekleştirecektir.\nGenel Nitelikler\nEn az lise mezunu,\nİletişim ve ikna"
+  },
+  "isbul:100947": {
+   "t": 1794987125.5364344,
+   "source": "isbul",
+   "title": "Kurumsal Teknoloji ve Çözüm Satış Ortağı",
+   "company": "TÜRKBİT TEKNOLOJİ VE DİJİTAL HİZMETLER LTD ŞTİ.",
+   "location": "Türkiye Tümü",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Türkbit Teknoloji, işletmelerin dijital ve operasyonel ihtiyaçlarına uçtan uca çözüm sunan bir teknoloji şirketidir. Yazılım geliştirmeden donanım tedarikine, kurulumdan satış sonrası desteğe kadar sürecin tamamını kendi ekibimizle yürütürüz.\nÜrün ve hizmetlerimiz: kurumsal web siteleri ve e-ticaret altyapıları · personel mesai takibi, temizlik operasyon yönetimi ve QR kodlu güvenlik devriyesi gibi işletme yazılımları · turnike ve geçiş sistemleri, kartlı ve QR’lı terminaller · sunucu, hosting ve kurumsal e-posta · dijital pazarlama hizmetleri.\nPozisyon: Ürün ve hizmetlerimizi işletmelere tanı"
   }
  },
  "pending": {}
