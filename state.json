@@ -6881,6 +6881,43 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491848260": {
+   "t": 1795012280.570624,
+   "title": "Senior Data Scientist – Applied ML & GenAI",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4491848260/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4480035595": {
+   "t": 1795012280.5711868,
+   "title": "Senior E2E Test Engineer – Payments & Channels",
+   "company": "ING Hubs Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4480035595/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491301216": {
+   "t": 1795012280.5712976,
+   "title": "Kıdemli Yazılım Test ve Kalite Uzmanı",
+   "company": "ErikLabs",
+   "url": "https://www.linkedin.com/jobs/view/4491301216/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490886727": {
+   "t": 1795012283.1571326,
+   "title": "Üretken Yapay Zeka / LLM Mühendisi",
+   "company": "ICterra Bilgi ve İletişim Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4490886727/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -7633,44 +7670,50 @@
   "ee6f57f6f6c39dbe": "linkedin:4491831810",
   "e342340a31ef4d20": "linkedin:4490887775",
   "8bb4fd5ec562252a": "linkedin:4490899103",
-  "fcdfec840f6812bb": "linkedin:4490891465"
+  "fcdfec840f6812bb": "linkedin:4490891465",
+  "d3f975205d49bec6": "linkedin:4491848260",
+  "98196ee3cd91d244": "linkedin:4480035595",
+  "eee9e93d9eeb69cd": "linkedin:4491301216",
+  "f458554ae3f003ca": "linkedin:4490886727"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795011359.6120813,
+   "last_run": 1795012280.570505,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795011359.6120827,
+   "last_ok": 1795012280.5705068,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795010540.4978454,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795012317.9283786,
+   "fails": 1,
+   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
    "last_ok": 1795010540.4978466,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "elemannet": {
-   "last_run": 1795008718.1433477,
+   "last_run": 1795012323.3572338,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795008718.143349,
+   "last_ok": 1795012323.3572354,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795008723.5185604,
+   "last_run": 1795012330.7741106,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795008723.5185616,
+   "last_ok": 1795012330.7741113,
    "alerted": false,
    "ctx": {}
   },
@@ -7705,7 +7748,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 30,
-   "rej_remote": 86
+   "rej_remote": 87
   }
  },
  "details": {
@@ -9843,6 +9886,23 @@
    "track_from": "title",
    "llm": {},
    "description": "ICTERRA HAKKINDA\nICterra, Münih, İstanbul ve Ankara'da ofisleri bulunan küresel bir yazılım mühendisliği şirketidir. 30 yıllık yazılım geliştirme deneyimini teknoloji uzmanlığı ve kanıtlanmış metodolojilerle birleştirerek, küresel olarak birden fazla sektörde müşterilerimize yenilikçi çözümler sunuyoruz. 150'den fazla yazılım uzmanıyla, yazılım geliştirme ve test hizmetleri sağlayarak dünyanın en iyi BT ve savunma şirketleriyle stratejik ortaklıklar kuruyoruz.\nPerakende, hızlı tüketim ve üretim süreçlerine yönelik tahminleme ve makine öğrenmesi modellerini veri hazırlığından canlıya almaya kad"
+  },
+  "linkedin:4490886727": {
+   "t": 1795012283.1571746,
+   "source": "linkedin",
+   "title": "Üretken Yapay Zeka / LLM Mühendisi",
+   "company": "ICterra Bilgi ve İletişim Teknolojileri",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "ICTERRA HAKKINDA\nICterra, Münih, İstanbul ve Ankara'da ofisleri bulunan küresel bir yazılım mühendisliği şirketidir. 30 yıllık yazılım geliştirme deneyimini teknoloji uzmanlığı ve kanıtlanmış metodolojilerle birleştirerek, küresel olarak birden fazla sektörde müşterilerimize yenilikçi çözümler sunuyoruz. 150'den fazla yazılım uzmanıyla, yazılım geliştirme ve test hizmetleri sağlayarak dünyanın en iyi BT ve savunma şirketleriyle stratejik ortaklıklar kuruyoruz.\nKurumsal dokümanlar üzerinde çalışan chatbotlar ve doküman işleme otomasyonları gibi LLM tabanlı uygulamaları geliştirip canlıya alacak"
   }
  },
  "pending": {}
