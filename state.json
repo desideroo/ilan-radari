@@ -5843,6 +5843,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4490425295": {
+   "t": 1794960954.4819553,
+   "title": "Bilgi İşlem Birimi Personeli",
+   "company": "İstanbul Şişli Meslek Yüksekokulu",
+   "url": "https://www.linkedin.com/jobs/view/4490425295/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -6484,17 +6494,18 @@
   "b3e4f5610f4d8d22": "kariyernet:3968792",
   "06fba46afd3a8333": "kariyernet:4599389",
   "874f00b8784b89c3": "kariyernet:4587993",
-  "b619357d7b7caf10": "kariyernet:3025184"
+  "b619357d7b7caf10": "kariyernet:3025184",
+  "0c27bbca2dae9c20": "linkedin:4490425295"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794960081.5458765,
+   "last_run": 1794960952.0303366,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794960081.5458777,
+   "last_ok": 1794960952.030338,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -6556,7 +6567,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 29,
-   "rej_remote": 61
+   "rej_remote": 62
   }
  },
  "details": {
@@ -8003,6 +8014,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 1 - 24 yıl arası; Eğitim Seviyesi: İlk Öğretim(Mezun), Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Mezun), Doktora(Mezun); Yabancı Dil: Türkçe(Okuma : Ana Dil, Yazma : Ana Dil, Konuşma : Ana Dil)\n\nGürpilsan Plastik, dinamik bir çalışma ortamı sunan ve bünyesinde İnsan Kaynakları departmanı bulunan bir şirkettir. Plastik ambalaj ve film üretimi ile plastik atıkların geri kazanımı alanındaki faaliyetlerimiz kapsamında, üretim tesisimizde görevlendirilmek üzere\nVardiya Amiri / Üretim Sorumlusu\narayışımız bulunmaktadır.\nİş Tanımı\nPlastik ambalaj ve fil"
+  },
+  "linkedin:4490425295": {
+   "t": 1794960954.4819758,
+   "source": "linkedin",
+   "title": "Bilgi İşlem Birimi Personeli",
+   "company": "İstanbul Şişli Meslek Yüksekokulu",
+   "location": "Sarıyer",
+   "work_mode": "",
+   "posted": "2026-11-17",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "",
+   "llm": {},
+   "description": "Görev ve Sorumluluklar\n* Tüm elektronik sistemlerin kurulumunu, kablolamasını, işletimini, bakım ve onarım işlemlerini gerçekleştirmek.\n* PDKS (Personel Devam Kontrol Sistemi) sistemini takip etmek, kontrol etmek ve gerekli teknik desteği sağlamak.\n* Bilgisayarların format, kurulum, bakım, onarım ve arıza giderme işlemlerini gerçekleştirmek.\n* Active Directory üzerinden kullanıcı hesabı oluşturmak, kullanıcı yönetimini gerçekleştirmek ve parola sıfırlama işlemlerini yapmak.\n* Firewall, router, switch, access point ve network altyapısı hakkında bilgi sahibi olmak; ağ bağlantısı ve donanım kayna"
   }
  },
  "pending": {}
