@@ -6454,6 +6454,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4490873526": {
+   "t": 1794996101.3849971,
+   "title": "AYFTUR | Vize Operasyon Uzmanı",
+   "company": "AYF TUR",
+   "url": "https://www.linkedin.com/jobs/view/4490873526/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -7160,29 +7170,32 @@
   "9a1fc09e735c6271": "kariyernet:4568287",
   "8a94c1bc8f7a0787": "kariyernet:4495514",
   "e32be21de72cf534": "kariyernet:3986159",
-  "44040bebf058ad6b": "kariyernet:4572853"
+  "44040bebf058ad6b": "kariyernet:4572853",
+  "6ee9fdc5f4075c6a": "linkedin:4490873526"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794995158.3647053,
+   "last_run": 1794996099.1410067,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794995158.3647065,
+   "last_ok": 1794996099.141008,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1794994323.2228405,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1794996105.8492343,
+   "fails": 1,
+   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
    "last_ok": 1794994323.2228427,
    "alerted": false,
    "ctx": {
     "cursor": 4,
     "cur_konya": 4,
-    "cur_remote": 0
+    "cur_remote": 0,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "elemannet": {
@@ -7232,7 +7245,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 29,
-   "rej_remote": 77
+   "rej_remote": 78
   }
  },
  "details": {
@@ -9149,6 +9162,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 1 - 5 yıl arası; Eğitim Seviyesi: Lise(Öğrenci), Lise(Mezun), Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci)\n\nGi Group, iş gücü piyasasının gelişimi için hizmet veren, dünyanın önde gelen şirketlerinden biridir. Hizmet verdiği lokasyonlarda; dönemsel ve sürekli iş ilişkileri, seçme ve yerleştirme, insan kaynakları danışmanlığı, eğitim ve birçok ilgili tamamlayıcı alanda faaliyet göstermektedir.\nDanışmanlığını yapmakta olduğumuz Finansal Hizmetler sektöründe faaliyet gösteren firmamız için\nSaha Satış Elemanı\narayışımız mevcuttur.\nGenel Nitelikler\n• Tercihen "
+  },
+  "linkedin:4490873526": {
+   "t": 1794996101.385032,
+   "source": "linkedin",
+   "title": "AYFTUR | Vize Operasyon Uzmanı",
+   "company": "AYF TUR",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "",
+   "llm": {},
+   "description": "AYFTUR | Vize Operasyon Uzmanı\n1994’ten bu yana kurumsal seyahat yönetimi, toplantı ve etkinlik organizasyonları ve özel seyahat tasarımı alanlarında faaliyet gösteren AYFTUR olarak İstanbul ekibimize\nVize Operasyon Uzmanı\narıyoruz.\nBu rolde kurumsal müşterilerimizin, bireysel misafirlerimizin ve yurt dışına seyahat eden gruplarımızın vize başvurularını ilk bilgilendirmeden sonuç takibine kadar yöneteceksiniz.\nGörev ve sorumluluklar:\nBaşta\nSchengen, Birleşik Krallık ve ABD\nolmak üzere turistik ve ticari vize başvurularında misafirleri seyahat amacına uygun süreç ve evraklar hakkında bilgilendi"
   }
  },
  "pending": {}
