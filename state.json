@@ -6135,6 +6135,62 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4490872021": {
+   "t": 1794987955.0247397,
+   "title": "Mağaza Müdürü (Konya)",
+   "company": "Soylu Alışveriş Merkezleri A. Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4490872021/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491805552": {
+   "t": 1794987955.0251405,
+   "title": "Senior Quality Assurance Engineer",
+   "company": "Talentown Recruitment Agency - IT",
+   "url": "https://www.linkedin.com/jobs/view/4491805552/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491801842": {
+   "t": 1794987955.0256522,
+   "title": "Kıdemli Sistem Mühendisi",
+   "company": "Talentown Recruitment Agency - IT",
+   "url": "https://www.linkedin.com/jobs/view/4491801842/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4468523745": {
+   "t": 1794987955.0260994,
+   "title": "ERP and Enterprise Applications Manager",
+   "company": "Gizli",
+   "url": "https://www.linkedin.com/jobs/view/4468523745/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490856854": {
+   "t": 1794987957.658022,
+   "title": "Ağ Yönetimi Uzmanı | İstanbul/Hibrit",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4490856854/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490848801": {
+   "t": 1794987959.5415878,
+   "title": "Sistem Yönetimi Uzmanı (Çevresel Sistemler) | Finans Sektörü",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4490848801/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -6807,17 +6863,23 @@
   "8db32556b52c08a5": "kariyernet:4413301",
   "aa9b2039c8df8560": "kariyernet:4599806",
   "a48dc3eb3a48db2d": "kariyernet:4277667",
-  "f60cea3ca268ac76": "isbul:100947"
+  "f60cea3ca268ac76": "isbul:100947",
+  "0bdcae68b52af53b": "linkedin:4490872021",
+  "a7b1e973e7b01e81": "linkedin:4491805552",
+  "6cd480e0be496fd2": "linkedin:4491801842",
+  "dd976d27e8cfd546": "linkedin:4468523745",
+  "2373ffae552bd626": "linkedin:4490856854",
+  "65254f7c18a889c6": "linkedin:4490848801"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794987063.4083138,
+   "last_run": 1794987955.024621,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794987063.4083152,
+   "last_ok": 1794987955.0246227,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -6879,7 +6941,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 29,
-   "rej_remote": 69
+   "rej_remote": 71
   }
  },
  "details": {
@@ -8575,6 +8637,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Türkbit Teknoloji, işletmelerin dijital ve operasyonel ihtiyaçlarına uçtan uca çözüm sunan bir teknoloji şirketidir. Yazılım geliştirmeden donanım tedarikine, kurulumdan satış sonrası desteğe kadar sürecin tamamını kendi ekibimizle yürütürüz.\nÜrün ve hizmetlerimiz: kurumsal web siteleri ve e-ticaret altyapıları · personel mesai takibi, temizlik operasyon yönetimi ve QR kodlu güvenlik devriyesi gibi işletme yazılımları · turnike ve geçiş sistemleri, kartlı ve QR’lı terminaller · sunucu, hosting ve kurumsal e-posta · dijital pazarlama hizmetleri.\nPozisyon: Ürün ve hizmetlerimizi işletmelere tanı"
+  },
+  "linkedin:4490856854": {
+   "t": 1794987957.6580648,
+   "source": "linkedin",
+   "title": "Ağ Yönetimi Uzmanı | İstanbul/Hibrit",
+   "company": "Tein Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "",
+   "llm": {},
+   "description": "Ağ Yönetimi Uzmanı Arıyoruz!\nLokasyon: İstanbul (Hibrit)\nDeneyim: Minimum 5 Yıl\nBankacılık ve finans sektöründe görev alacak Ağ Yönetimi Uzmanı arıyoruz.\n🔴 Öncelikli ve Zorunlu Kriterler:\nBankacılık sektöründe ağ altyapısı deneyimi\nCisco Collaboration (CUCM, IPT, IP santral ve video konferans sistemleri)\nCisco ACI / APIC\nCisco ISE\nCisco SD-WAN\nF5 Load Balancer\nGenel Nitelikler\nBankacılık ve finans sektöründe ağ yönetimi deneyimine sahip\nCisco ağ teknolojileri (Switch, Router, Wireless vb.) ile çalışma deneyimli\nWAN/LAN ağ altyapılarının yönetimi, sürekliliğinin sağlanması ve iyileştirilmesi ko"
+  },
+  "linkedin:4490848801": {
+   "t": 1794987959.5416346,
+   "source": "linkedin",
+   "title": "Sistem Yönetimi Uzmanı (Çevresel Sistemler) | Finans Sektörü",
+   "company": "Tein Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "",
+   "llm": {},
+   "description": "Sistem Yönetimi Uzmanı (Çevresel Sistemler)\nFinans sektörünün önde gelen kurumlarından biri için deneyimli bir\nÇevresel Sistemler Yönetimi Uzmanı\narıyoruz.\nLokasyon:\nİstanbul\nÇalışma Modeli:\nHibrit\nDeneyim:\n+5 yıl\nSorumluluklar\nActive Directory ve yan servislerinin (KMS, DNS, GPO, DHCP, RDS, WDS, CA, BitLocker, NTP vb.) kurulum, yönetim, bakım, destek ve izleme işlemlerini yürütmek\nExchange Server, Veritas Enterprise Vault, CodeTwo, Microsoft Teams ve SMTP sistemlerinin yönetimini sağlamak\nFileOrbis, File Server ve Print Server yapılarının kurulum, bakım ve desteğini yapmak\nSystem Center Suite"
   }
  },
  "pending": {}
