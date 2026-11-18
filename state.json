@@ -7003,6 +7003,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492066489": {
+   "t": 1795025756.797578,
+   "title": "Senior Backend Developer",
+   "company": "Reliefers Digital",
+   "url": "https://www.linkedin.com/jobs/view/4492066489/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491301742": {
+   "t": 1795025759.2459419,
+   "title": "Ön Muhasebe Sorumlusu",
+   "company": "Cabplas",
+   "url": "https://www.linkedin.com/jobs/view/4491301742/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -7768,17 +7787,19 @@
   "583bd257be2eb0db": "linkedin:4476346260",
   "7c9ef2dbb8d6eacf": "linkedin:4476346259",
   "cb7ce9df9b16ebdb": "linkedin:4492052772",
-  "a549b6d7d36f2905": "linkedin:4491303484"
+  "a549b6d7d36f2905": "linkedin:4491303484",
+  "ca44fed5392c4d64": "linkedin:4492066489",
+  "a82b64c84d101a2b": "linkedin:4491301742"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795024893.7301657,
+   "last_run": 1795025756.796961,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795024893.7301672,
+   "last_ok": 1795025756.7969627,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
@@ -10063,6 +10084,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Concentrix Hakkında\nSektörünün lider markalarından Concentrix, bugünün dijital dünyasında insan odaklı müşteri deneyimleri tasarlıyor ve yönetiyor. Dünyada, 60 ülkede 400 binden fazla çalışanıyla hizmet veren Concentrix, Türkiye’de başta İstanbul, İzmir, Ankara, Van olmak üzere toplam 7 şehirde, 16 bini aşkın çalışan ile müşteri hizmet yönetimi ve deneyiminde fark yaratmaya devam etmektedir.\nTechnology Solutions ekibimize yeni bir çalışma arkadaşı arıyoruz.\nÇağrı merkezi ve müşteri deneyimi operasyonlarına yönelik yapay zeka, otomasyon ve sistem entegrasyonu çözümleri geliştiriyoruz. Bu çözüml"
+  },
+  "linkedin:4491301742": {
+   "t": 1795025759.2459805,
+   "source": "linkedin",
+   "title": "Ön Muhasebe Sorumlusu",
+   "company": "Cabplas",
+   "location": "Bornova",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Şirketimiz ve ilişkili tarafının günlük ön muhasebe süreçlerine destek olacak, düzenli ve dikkatli bir ekip arkadaşı arıyoruz. Pozisyon, düşük işlem hacmine sahip iki işletmenin kayıt, belge, ödeme ve tahsilat süreçlerinin takibini kapsamaktadır.\nGörev ve Sorumluluklar\n• Alış ve satış faturalarının kontrolüne, kaydına ve takibine destek olmak; e-Fatura, e-Arşiv ve e-İrsaliye süreçlerini takip etmek.\n• Müşteri ve tedarikçi cari hesaplarının güncel tutulmasına ve cari hesap mutabakatlarına destek olmak.\n• Tahsilat ve ödeme vadelerini takip etmek, ilgili listeleri hazırlamak ve finans ekibini bil"
   }
  },
  "pending": {}
