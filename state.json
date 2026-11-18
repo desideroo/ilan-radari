@@ -6647,6 +6647,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492006908": {
+   "t": 1795001491.3080266,
+   "title": "Ticari Faaliyetler Analiz ve Raporlama Uzmanı",
+   "company": "iGA Istanbul Airport",
+   "url": "https://www.linkedin.com/jobs/view/4492006908/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -7374,52 +7384,53 @@
   "0d347bb3675bc5e6": "kariyernet:4431343",
   "603e91199408a89a": "kariyernet:4594795",
   "6d121d209ca6952e": "kariyernet:4583956",
-  "37302513414fc87a": "kariyernet:2343579"
+  "37302513414fc87a": "kariyernet:2343579",
+  "c51256f6e886732b": "linkedin:4492006908"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795000555.165151,
+   "last_run": 1795001488.6998873,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795000555.1651528,
+   "last_ok": 1795001488.6998894,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1794999723.0433264,
+   "last_run": 1795001533.2118447,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794999723.0433283,
+   "last_ok": 1795001533.211847,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1794997939.0917861,
+   "last_run": 1795001538.4675992,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794997939.0917873,
+   "last_ok": 1795001538.4676003,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1794997944.0820441,
+   "last_run": 1795001542.1092086,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794997944.0820448,
+   "last_ok": 1795001542.1092098,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1794994344.3973944,
+   "last_run": 1795001545.5182476,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794994344.3973954,
+   "last_ok": 1795001545.5182495,
    "alerted": false,
    "ctx": {}
   }
@@ -7446,7 +7457,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 29,
-   "rej_remote": 79
+   "rej_remote": 80
   }
  },
  "details": {
@@ -9431,6 +9442,23 @@
    "track_from": "",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 3 - 25 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Yüksek Lisans(Mezun), Doktora(Mezun); Yabancı Dil: İngilizce(Okuma : İleri, Yazma : İleri, Konuşma : İleri)\n\nYDS / YÖKDİL İngilizce Eğitmeni\nBugüne kadar 15.000 öğrencinin eğitim yolculuğuna eşlik eden STRATEK Grup olarak alanında deneyimli, sınav sistemine hâkim, güçlü anlatım becerilerine sahip ve özgün eğitim içerikleri geliştirebilen\nYDS / YÖKDİL İngilizce Eğitmenleri\narıyoruz.\nAranan Nitelikler\nDaha önce YDS ve/veya YÖKDİL alanında eğitim vermiş, tercihen hâlen aktif olarak ders anlatan,\nYDS/YÖKDİL sınavlarını"
+  },
+  "linkedin:4492006908": {
+   "t": 1795001491.3080726,
+   "source": "linkedin",
+   "title": "Ticari Faaliyetler Analiz ve Raporlama Uzmanı",
+   "company": "iGA Istanbul Airport",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "İGA İstanbul Havalimanı,\nTürkiye Cumhuriyeti tarihinin en büyük altyapı projelerinden biri olarak 29 Ekim 2018 tarihinde faaliyete geçmiştir.\nTürkiye’nin dünyaya açılan kapısı\nolan havalimanı, Asya, Afrika ve Avrupa kıtalarını birbirine bağlayan önemli bir\nküresel merkez\nolarak faaliyet göstermektedir.\n76,5 milyon metrekarelik\nbir alana kurulu olan havalimanı, yıllık 90 milyon yolcuya hizmet veren terminaliyle toplamda\n200 milyon yolcu\nkapasitesine ulaşacak şekilde planlanmıştır.\nSkytrax tarafından “\n2023’ün En İyi Havalimanı\n”, “\nDünyanın En İyi Havalimanı Alışverişi\n” ve “\nDünyanın En İyi Ai"
   }
  },
  "pending": {}
