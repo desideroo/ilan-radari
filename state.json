@@ -7031,6 +7031,34 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4490865719": {
+   "t": 1795037492.63856,
+   "title": "E-ticaret Uzmanı",
+   "company": "DECORIUM",
+   "url": "https://www.linkedin.com/jobs/view/4490865719/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4585128": {
+   "t": 1795037533.6028516,
+   "title": "Kalite Kontrol ve Kalite Güvence Müdürü",
+   "company": "ETAP KOZMETİK KİMYA SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/etap-kozmetik-kimya-sanayi-ve-dis-ticaret-anonim-s-kalite-kontrol-ve-kalite-guvence-muduru-4585128",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4588621": {
+   "t": 1795037537.7071688,
+   "title": "Elektrik Otomasyon Teknikeri",
+   "company": "ETAP KOZMETİK KİMYA SANAYİ VE DIŞ TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/etap-kozmetik-kimya-sanayi-ve-dis-ticaret-anonim-s-elektrik-otomasyon-teknikeri-4588621",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7799,52 +7827,55 @@
   "a549b6d7d36f2905": "linkedin:4491303484",
   "ca44fed5392c4d64": "linkedin:4492066489",
   "a82b64c84d101a2b": "linkedin:4491301742",
-  "2860387b2b159314": "kariyernet:4583370"
+  "2860387b2b159314": "kariyernet:4583370",
+  "0e10d4a549bb728b": "linkedin:4490865719",
+  "e6897d783e66d2fa": "kariyernet:4585128",
+  "02f56b4dcd1c262c": "kariyernet:4588621"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795036552.2624235,
+   "last_run": 1795037490.5781362,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795036552.262425,
+   "last_ok": 1795037490.5781379,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795035727.0991156,
+   "last_run": 1795037533.5995817,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795035727.099117,
+   "last_ok": 1795037533.5995831,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795033916.1198678,
+   "last_run": 1795037543.3126414,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795033916.1198695,
+   "last_ok": 1795037543.3126423,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795033921.4983559,
+   "last_run": 1795037549.8607242,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795033921.498358,
+   "last_ok": 1795037549.860725,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795030323.0979013,
+   "last_run": 1795037552.9084187,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795030323.0979025,
+   "last_ok": 1795037552.9084194,
    "alerted": false,
    "ctx": {}
   }
@@ -7872,6 +7903,15 @@
    "irrelevant": 0,
    "rej_exp": 30,
    "rej_remote": 89
+  },
+  "2026-11-19": {
+   "sent": 0,
+   "dropped": 0,
+   "candidates": 0,
+   "applied": 0,
+   "saved": 0,
+   "irrelevant": 0,
+   "rej_remote": 1
   }
  },
  "details": {
@@ -10111,6 +10151,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Şirketimiz ve ilişkili tarafının günlük ön muhasebe süreçlerine destek olacak, düzenli ve dikkatli bir ekip arkadaşı arıyoruz. Pozisyon, düşük işlem hacmine sahip iki işletmenin kayıt, belge, ödeme ve tahsilat süreçlerinin takibini kapsamaktadır.\nGörev ve Sorumluluklar\n• Alış ve satış faturalarının kontrolüne, kaydına ve takibine destek olmak; e-Fatura, e-Arşiv ve e-İrsaliye süreçlerini takip etmek.\n• Müşteri ve tedarikçi cari hesaplarının güncel tutulmasına ve cari hesap mutabakatlarına destek olmak.\n• Tahsilat ve ödeme vadelerini takip etmek, ilgili listeleri hazırlamak ve finans ekibini bil"
+  },
+  "linkedin:4490865719": {
+   "t": 1795037492.6385925,
+   "source": "linkedin",
+   "title": "E-ticaret Uzmanı",
+   "company": "DECORIUM",
+   "location": "Pendik",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "Şirketimizin e-ticaret operasyonlarını büyütme hedefi doğrultusunda, E-Ticaret Uzmanı arayışımız bulunmaktadır.\nGenel Nitelikler\nÜniversitelerin ilgili bölümlerinden mezun,\nE-ticaret operasyon ve site yönetiminde\nen az 3 yıl aktif deneyimli\n(Senior adaylarda daha ileri seviye deneyim tercih sebebidir),\nMS Office programlarını iyi seviyede kullanabilen, tercihen\nMİKRO MRP bilgisine sahip\n,\nE-ticaret altyapı sağlayıcıları ile teknik süreçleri yönetebilecek,\nShopify, Beymen, Boyner, Trendyol, Hepsiburada ve Amazon\nplatformlarının altyapılarına hakim ve aktif kullanmış,\nXML entegrasyon süreçlerine"
   }
  },
  "pending": {}
