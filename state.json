@@ -7068,6 +7068,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491343321": {
+   "t": 1795043770.1524868,
+   "title": "Back End Developer",
+   "company": "URAR Space",
+   "url": "https://www.linkedin.com/jobs/view/4491343321/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -7840,17 +7850,18 @@
   "0e10d4a549bb728b": "linkedin:4490865719",
   "e6897d783e66d2fa": "kariyernet:4585128",
   "02f56b4dcd1c262c": "kariyernet:4588621",
-  "042222aac39e4e38": "linkedin:4492214071"
+  "042222aac39e4e38": "linkedin:4492214071",
+  "4f8320bc52da1816": "linkedin:4491343321"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795042883.1544316,
+   "last_run": 1795043768.210616,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795042883.1544328,
+   "last_ok": 1795043768.2106175,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
@@ -7921,7 +7932,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 1
+   "rej_remote": 2
   }
  },
  "details": {
@@ -10178,6 +10189,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Şirketimizin e-ticaret operasyonlarını büyütme hedefi doğrultusunda, E-Ticaret Uzmanı arayışımız bulunmaktadır.\nGenel Nitelikler\nÜniversitelerin ilgili bölümlerinden mezun,\nE-ticaret operasyon ve site yönetiminde\nen az 3 yıl aktif deneyimli\n(Senior adaylarda daha ileri seviye deneyim tercih sebebidir),\nMS Office programlarını iyi seviyede kullanabilen, tercihen\nMİKRO MRP bilgisine sahip\n,\nE-ticaret altyapı sağlayıcıları ile teknik süreçleri yönetebilecek,\nShopify, Beymen, Boyner, Trendyol, Hepsiburada ve Amazon\nplatformlarının altyapılarına hakim ve aktif kullanmış,\nXML entegrasyon süreçlerine"
+  },
+  "linkedin:4491343321": {
+   "t": 1795043770.152522,
+   "source": "linkedin",
+   "title": "Back End Developer",
+   "company": "URAR Space",
+   "location": "İzmit",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Company Description\nURAR Space is a creative technology studio focused on building digital experiences, brands, and products for a diverse range of clients. The team combines design, engineering, and innovation to deliver reliable, scalable, and engaging digital solutions. Working at URAR Space means collaborating in a multidisciplinary environment that values experimentation and high-quality craftsmanship. Team members are encouraged to explore new technologies and approaches to solve real-world problems. The studio offers opportunities to contribute directly to impactful projects in a fast-e"
   }
  },
  "pending": {}
