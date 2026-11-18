@@ -5908,6 +5908,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4597525": {
+   "t": 1794965512.797111,
+   "title": "Jcb Operatörü",
+   "company": "GP PROJE MÜHENDİSLİK MÜŞAVİRLİK A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/gp-proje-muhendislik-musavirlik-a-s-jcb-operatoru-4597525",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -6556,52 +6566,53 @@
   "335a9bb753d99e14": "kariyernet:4594681",
   "a7b9d6239ff8d9cb": "kariyernet:4586352",
   "683aedde136de028": "linkedin:4487803035",
-  "5eff79e65460615b": "kariyernet:4318285"
+  "5eff79e65460615b": "kariyernet:4318285",
+  "4d270e6b7cc45c45": "kariyernet:4597525"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794964549.3441541,
+   "last_run": 1794965467.4191926,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794964549.3441556,
+   "last_ok": 1794965467.4191945,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1794963714.013223,
+   "last_run": 1794965508.9798107,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794963714.0132244,
+   "last_ok": 1794965508.9798124,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1794961924.0002265,
+   "last_run": 1794965517.6934402,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794961924.0002284,
+   "last_ok": 1794965517.6934414,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1794961929.9930875,
+   "last_run": 1794965522.8337502,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794961929.9930882,
+   "last_ok": 1794965522.8337514,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1794958329.7545664,
+   "last_run": 1794965525.99311,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794958329.7545679,
+   "last_ok": 1794965525.9931111,
    "alerted": false,
    "ctx": {}
   }
@@ -8137,6 +8148,23 @@
     "work_mode": "onsite"
    },
    "description": "Döhler is a global producer, marketer and provider of technology-driven natural ingredients, ingredient systems and integrated solutions for the food and beverage industry. We provide our customers with a wide product range including natural flavours, natural colours and textures as well as healthy and functional ingredients for foods and beverages. Join Döhler and contribute with your vision and ideas to drive major projects. We are looking for talents who are committed to our ultimate customer focus and who are ready to deliver their best performance in a thriving environment.\nDöhler Turkey is looking for\n\"R&D Engineer\"\nto be employed in our\nKaraman Plant\nwith the following qualifications;\nYour Role:\nCarrying out new product development activities in colour section,\nGaining experience in the full cycle of development, from idea to product and conceptual design,\nMonitoring market trends and new technologies, and adapting accordingly,\nSupporting article and paper publication processes,\nManaging digital workflows and ensuring smooth progress of related tasks,\nParticipating in product release processes and first production runs in facilities,\nConducting and overseeing all quality control analyses during product development,\nPerforming and monitoring shelf-life tests for product formulations,\nCollaborating with Business Units through regular meetings and creating actionable business plans to address current issues,\nDemonstrating a solid understanding of market and customer needs,\nProvide technical support for scale-up activities, process development, and production flowchart revisions,\nLead technology transfer and commercialization activities, ensuring a smooth transition from laboratory to full-scale production.\nYour Profile:\nMaster’s or Bachelor’s degree in Food or Chemical Engineering,\nUp-to-date with industry innovations and trends,\nProficiency in MS Office; knowledge of SAP is a plus,\nExperience in article and paper publications (preferred),\nExcellent verbal and written communication skills in English."
+  },
+  "kariyernet:4597525": {
+   "t": 1794965512.797146,
+   "source": "kariyernet",
+   "title": "Jcb Operatörü",
+   "company": "GP PROJE MÜHENDİSLİK MÜŞAVİRLİK A.Ş.",
+   "location": "Karaman +81 il daha",
+   "work_mode": "İş Yerinde",
+   "posted": "2 gün",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: En az 3 yıl tecrübeli; Eğitim Seviyesi: İlk Öğretim(Mezun); Askerlik Durumu: Yapıldı\n\nAnkara'da bulunan şantiyelerimizde çalıştırılmak üzere;\n-En az 3 yıl deneyimli\n-Jcb (kırıcılı) kepçe kullanımında deneyimli\n-İlgili belge ve sertifikalara sahip (Operatörlük belgesi ve mesleki yeterlilik MYK)\n-Makinanın bakımlarını ve temizliğini yapabilecek\n-Vardiyalı çalışmada herhangi bir engeli bulunmayan\n-Erkek adaylar için askerlik hizmetini tamamlamış operatörler aramaktayız."
   }
  },
  "pending": {}
