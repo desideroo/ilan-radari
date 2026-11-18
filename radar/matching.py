@@ -130,11 +130,6 @@ def prefilter(job: Job) -> bool:
 def classify(job: Job) -> bool:
     """Detay okunduktan sonra: aday mı? Aday ise alan, puan ve uyarıları doldurur.
     Elenirse sebep job.extra['reject'] içine yazılır."""
-    if not in_city(job):
-        if not remote_verified(job):
-            job.extra["reject"] = "uzaktan doğrulanamadı"
-            return False
-        job.work_mode = "Uzaktan"
     tr = title_tracks(job)
     job.extra["track_from"] = "title"
     if not tr:
@@ -145,6 +140,12 @@ def classify(job: Job) -> bool:
         job.extra["track_from"] = "description"
     if not tr:
         return False
+    # konum ve deneyim kontrolü alan eşleşmesinden sonra: sayaçlar sadece ilgili ilanları saysın
+    if not in_city(job):
+        if not remote_verified(job):
+            job.extra["reject"] = "uzaktan doğrulanamadı"
+            return False
+        job.work_mode = "Uzaktan"
     # deneyim kontrolü alan eşleşmesinden sonra: sayaçlar sadece ilgili ilanları saysın
     reason = experience_reason(job)
     if reason:

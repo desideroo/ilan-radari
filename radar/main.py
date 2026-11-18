@@ -198,6 +198,8 @@ def scan(st: State, tg: Telegram) -> None:
             continue
         ctx.pop("first_run", None)
         ctx.pop("all_keywords", None)
+        for err in ctx.pop("partial_errors", []):
+            log(f"{name}: bir sayfa alınamadı (diğerleri tarandı): {err}")
         if not listing and name != "youthall":
             health(st, tg, name, False, "0 ilan döndü (sayfa yapısı değişmiş olabilir)")
             continue

@@ -58,17 +58,33 @@ def _rotate(ctx: dict, key: str, items: list, n: int, all_: bool) -> list:
 
 
 def fetch(ctx: dict) -> list[Job]:
+    """Tek bir sayfa bot korumasına (403) takılırsa diğer aramalara devam edilir;
+    kaynak ancak bütün istekler başarısız olursa hatalı sayılır."""
     first = ctx.get("first_run", False) or ctx.get("all_keywords", False)
     kws = config.KARIYERNET_KEYWORDS
-    jobs: list[Job] = []
+    urls: list[tuple[str, bool]] = []          # (url, sadece_uzaktan)
     for slug in config.KARIYERNET_FULL_LIST_SLUGS:
-        jobs += parse_list(http.get(f"{BASE}/is-ilanlari/{slug}", polite=3))
+        urls.append((f"{BASE}/is-ilanlari/{slug}", False))
     for slug in config.KARIYERNET_CITY_SLUGS:
         for kw in _rotate(ctx, f"cur_{slug}", kws, config.KARIYERNET_KW_PER_RUN, first):
-            jobs += parse_list(http.get(f"{BASE}/is-ilanlari/{slug}?kw={quote_plus(kw)}", polite=3))
+            urls.append((f"{BASE}/is-ilanlari/{slug}?kw={quote_plus(kw)}", False))
     for kw in _rotate(ctx, "cur_remote", kws, config.KARIYERNET_KW_PER_RUN, first):
-        found = parse_list(http.get(f"{BASE}/is-ilanlari/remote?kw={quote_plus(kw)}", polite=3))
-        jobs += [j for j in found if "uzaktan" in j.work_mode.lower() or "remote" in j.work_mode.lower()]
+        urls.append((f"{BASE}/is-ilanlari/remote?kw={quote_plus(kw)}", True))
+
+    jobs: list[Job] = []
+    errors = []
+    for url, remote_only in urls:
+        try:
+            found = parse_list(http.get(url, polite=3))
+        except http.FetchError as e:
+            errors.append(str(e))
+            continue
+        if remote_only:
+            found = [j for j in found if "uzaktan" in j.work_mode.lower() or "remote" in j.work_mode.lower()]
+        jobs += found
+    if errors and len(errors) == len(urls):
+        raise http.FetchError(errors[0])
+    ctx["partial_errors"] = errors
     return jobs
 
 

@@ -432,3 +432,32 @@ def test_migration_reopens_experience_rejections(tmp_path):
     st = State(p)
     assert "kariyernet:1" not in st.data["seen"] and "kariyernet:2" in st.data["seen"]
     assert st.data["dedupe"] == {"b": "kariyernet:2"} and st.data["version"] == 2
+
+
+def test_kariyernet_partial_block_tolerated(monkeypatch):
+    from radar import http as h
+    calls = []
+
+    def fake_get(url, **kw):
+        calls.append(url)
+        if "karaman" in url:
+            raise h.FetchError(f"{url} -> HTTP 403")
+        return fx("kariyernet_konya")
+    monkeypatch.setattr("radar.http.get", fake_get)
+    ctx = {}
+    jobs = kariyernet.fetch(ctx)
+    assert jobs and len(calls) == 1 + 2 * config.KARIYERNET_KW_PER_RUN
+    assert ctx["partial_errors"] and "403" in ctx["partial_errors"][0]
+
+
+def test_kariyernet_all_blocked_raises(monkeypatch):
+    from radar import http as h
+    monkeypatch.setattr("radar.http.get", lambda url, **kw: (_ for _ in ()).throw(h.FetchError("403")))
+    with pytest.raises(h.FetchError):
+        kariyernet.fetch({})
+
+
+def test_remote_reject_only_counts_relevant():
+    j = job("Garson", location="İstanbul, Türkiye", source="linkedin")
+    j.extra["remote_query"] = True
+    assert not matching.classify(j) and "reject" not in j.extra
