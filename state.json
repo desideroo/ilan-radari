@@ -5982,6 +5982,74 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4490835840": {
+   "t": 1794981705.2200747,
+   "title": "Senior QA Engineer",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4490835840/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491803273": {
+   "t": 1794981705.2206843,
+   "title": "IT Infrastructure Manager - (Infrastructure / Cloud / Data Centre)",
+   "company": "Stealth Startup",
+   "url": "https://www.linkedin.com/jobs/view/4491803273/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490843774": {
+   "t": 1794981706.9336922,
+   "title": "Laboratuvar Analisti",
+   "company": "TAHA GİYİM / LC Waikiki",
+   "url": "https://www.linkedin.com/jobs/view/4490843774/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490852466": {
+   "t": 1794981709.205657,
+   "title": "İhracat Uzmanı",
+   "company": "YİĞİT AKÜ",
+   "url": "https://www.linkedin.com/jobs/view/4490852466/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490852325": {
+   "t": 1794981711.496109,
+   "title": "Ağ Yönetimi Uzmanı",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4490852325/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490841693": {
+   "t": 1794981714.0071416,
+   "title": "Çevresel Sistemler Yönetimi Uzmanı | Hibrit",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4490841693/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4478993002": {
+   "t": 1794981716.0418148,
+   "title": "Information Systems Specialist",
+   "company": "Crs Soft",
+   "url": "https://www.linkedin.com/jobs/view/4478993002/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -6638,29 +6706,36 @@
   "8b59f5ce470a2676": "kariyernet:4586377",
   "e17da70eab55c4df": "kariyernet:4594925",
   "e06b22bbbf2ebf0f": "elemannet:4809896",
-  "13e48460796ce5d2": "elemannet:4809893"
+  "13e48460796ce5d2": "elemannet:4809893",
+  "878752aa8aa8c35b": "linkedin:4490835840",
+  "cb4f5ce84cac7779": "linkedin:4491803273",
+  "b1f04f5ab6a344be": "linkedin:4490843774",
+  "1a5d5a5b0f0d9b40": "linkedin:4490852466",
+  "7a80c324a03e8d29": "linkedin:4490852325",
+  "1485e8d49575308f": "linkedin:4490841693",
+  "88651d106530534e": "linkedin:4478993002"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794980758.898131,
+   "last_run": 1794981705.219274,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794980758.8981323,
+   "last_ok": 1794981705.219276,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1794979909.3813632,
+   "last_run": 1794981759.2763407,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794979909.381365,
+   "last_ok": 1794981759.2763433,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -6710,7 +6785,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 29,
-   "rej_remote": 62
+   "rej_remote": 67
   }
  },
  "details": {
@@ -8253,6 +8328,91 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun); Askerlik Durumu: Tecilli, Yapıldı\n\nDanışmanlığını yapmakta olduğumuz Türkiye'nin lider Banka - Sigorta ve FinTECH şirketleri arasında olan iş ortaklarımızın kadrolarında görevlendirilmek üzere; banka / sigorta ürünlerinin satışını sahada gerçekleştirecek, satış alanında kariyer hedefleyen ''Saha Satış Uzmanları'' arayışımız bulunmaktadır.\nGENEL NİTELİKLER\nFinans sektöründe kariyer hedefleyen,\nEn az önlisan"
+  },
+  "linkedin:4490843774": {
+   "t": 1794981706.9337337,
+   "source": "linkedin",
+   "title": "Laboratuvar Analisti",
+   "company": "TAHA GİYİM / LC Waikiki",
+   "location": "Küçükçekmece",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "",
+   "llm": {},
+   "description": "Avrupa'nın en başarılı 3 moda perakende markasından biri olma yolculuğumuzda \"\nİnorganik Laboratuvar Analisti\n” olarak Taha Giyim - LC Waikiki ekibize katılacak ekip arkadaşımızı arıyoruz!\nGenel Nitelikler\nÜniversitelerin 4 yıllık Kimya, Kimya Mühendisliği Lisans bölümlerinden mezun\nEn az 4 yıl laboratuvar deneyimine sahip\nTekstil sektöründe, Ekstrakte Edilebilir Ağır Metaller, Toplam Ağır Metal, Formaldehit analizlerinde tecrübeli\nİyi derecede ICP-MS bakım ve kullanım konularına hakim, HPLC ve UV Spektrofotometre cihazlarının kullanımında tecrübeli\nÖlçüm belirsizliği ve validasyon çalışmaları"
+  },
+  "linkedin:4490852466": {
+   "t": 1794981709.205703,
+   "source": "linkedin",
+   "title": "İhracat Uzmanı",
+   "company": "YİĞİT AKÜ",
+   "location": "Ankara",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "",
+   "llm": {},
+   "description": "Otomotiv Yan Sanayinin lider kuruluşlarından olan Ankara Merkezli firmamız, ileri teknoloji çözümlerini en etkin şekilde sunmayı ilke edinmiş ve odaklandığı alanlarda müşterilerin ihtiyaç ve beklentilerine yönelik hizmetler sunan uzman kadrosu ile faaliyet göstermektedir.\nSürekli büyüyen ailemizde görev almak üzere;\nÜniversitelerin ilgili bölümlerinden mezun (İşletme, İktisat, Uluslararası Ticaret, Lojistik, Dil-Edebiyat vb.)\nİleri düzeyde İngilizce bilgisine sahip,\nİhracat alanında minimum 2 yıl deneyimli,\nDış ticaret mevzuatına hâkim,\nSözlü ve yazılı iletişim, ikna ve koordinasyon becerileri"
+  },
+  "linkedin:4490852325": {
+   "t": 1794981711.4961653,
+   "source": "linkedin",
+   "title": "Ağ Yönetimi Uzmanı",
+   "company": "Tein Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "",
+   "llm": {},
+   "description": "Ağ Yönetimi Uzmanı\n📍\nLokasyon:\nİstanbul (Hibrit)\n📌\nDeneyim:\nMinimum 5 Yıl\nBankacılık ve finans sektöründe görev alacak\nAğ Yönetimi Uzmanı\narıyoruz.\nGenel Nitelikler\nBankacılık ve finans sektöründe ağ yönetimi deneyimine sahip\nCisco ağ teknolojileri (Switch, Router, Wireless vb.) ile çalışma deneyimli\nWAN/LAN ağ altyapılarının yönetimi, sürekliliğinin sağlanması ve iyileştirilmesi konusunda deneyimli\nKablosuz ağ (Wireless) kurulum, yönetim ve optimizasyonu konusunda bilgi sahibi\nNAC, TACACS+ ve erişim kontrol sistemleri hakkında deneyimli\nAğ performans analizi, izleme, raporlama ve problem çözm"
+  },
+  "linkedin:4490841693": {
+   "t": 1794981714.007189,
+   "source": "linkedin",
+   "title": "Çevresel Sistemler Yönetimi Uzmanı | Hibrit",
+   "company": "Tein Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "",
+   "llm": {},
+   "description": "Çevresel Sistemler Yönetimi Uzmanı\nİstanbul | Hibrit\n*Haftada 3 gün ofis\nGörev ve Sorumluluklar\nActive Directory ve bağlı servislerin (KMS, DNS, GPO, DHCP, RDS, WDS, CA, BitLocker, NTP vb.) kurulum, yönetim, bakım, destek ve izleme süreçlerini yürütmek\nExchange Server, Veritas Enterprise Vault, CodeTwo, Microsoft Teams ve SMTP sistemlerinin kurulum, yönetim, bakım ve izleme süreçlerini yönetmek\nFileOrbis, File Server ve Print Server sistemlerinin kurulum, yönetim ve operasyonel süreçlerini yürütmek\nSystem Center Suite (SCCM, WSUS, IIS vb.) ve istemci yönetim sistemlerinin kurulum, yönetim, bak"
+  },
+  "linkedin:4478993002": {
+   "t": 1794981716.0418572,
+   "source": "linkedin",
+   "title": "Information Systems Specialist",
+   "company": "Crs Soft",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "",
+   "llm": {},
+   "description": "Job Description\nAs an Information Systems Specialist, you will support the daily operations, maintenance, and reliability of the organization's IT infrastructure. You will work closely with the team to troubleshoot technical issues, assist with system administration, and contribute to IT projects while developing your technical expertise.\nExperience & Skills\nAssociate's or Bachelor's degree in Computer Engineering, Management Information Systems, Information Technology, or a related field.\n0–2 years of experience in IT, Information Systems, IT Support, or a related field, including relevant in"
   }
  },
  "pending": {}
