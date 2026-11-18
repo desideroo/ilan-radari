@@ -5954,6 +5954,34 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4594925": {
+   "t": 1794979913.708403,
+   "title": "Saha Satış Uzmanı - Banka / Sigorta",
+   "company": "ParlaRC Consulting",
+   "url": "https://www.kariyer.net/is-ilani/parlarc-consulting-saha-satis-uzmani-banka-sigorta-4594925",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "elemannet:4809896": {
+   "t": 1794979919.2132113,
+   "title": "Kalite Kontrol Personeli",
+   "company": "Mvd Makine Sanayi A. Ş.",
+   "url": "https://www.eleman.net/is-ilani/kalite-kontrol-personeli-i4809896",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4809893": {
+   "t": 1794979921.349985,
+   "title": "Makine Montaj Personeli",
+   "company": "Mvd Makine Sanayi A. Ş.",
+   "url": "https://www.eleman.net/is-ilani/makine-montaj-personeli-i4809893",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -6607,52 +6635,55 @@
   "c8795bb92433ddb9": "kariyernet:4594166",
   "aa4f2d6d349d8fda": "kariyernet:4350903",
   "69e75729cbfeff46": "kariyernet:4598467",
-  "8b59f5ce470a2676": "kariyernet:4586377"
+  "8b59f5ce470a2676": "kariyernet:4586377",
+  "e17da70eab55c4df": "kariyernet:4594925",
+  "e06b22bbbf2ebf0f": "elemannet:4809896",
+  "13e48460796ce5d2": "elemannet:4809893"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794978950.4962425,
+   "last_run": 1794979865.6889608,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794978950.4962437,
+   "last_ok": 1794979865.6889627,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1794978112.0058727,
+   "last_run": 1794979909.3813632,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794978112.005874,
+   "last_ok": 1794979909.381365,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1794976299.6276035,
+   "last_run": 1794979919.2130897,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794976299.6276057,
+   "last_ok": 1794979919.2130916,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1794976305.071765,
+   "last_run": 1794979927.1404827,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794976305.071766,
+   "last_ok": 1794979927.140484,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1794972716.6162868,
+   "last_run": 1794979930.394865,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794972716.6162877,
+   "last_ok": 1794979930.3948665,
    "alerted": false,
    "ctx": {}
   }
@@ -8205,6 +8236,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: En az 3 yıl tecrübeli; Eğitim Seviyesi: İlk Öğretim(Mezun); Askerlik Durumu: Yapıldı\n\nAnkara'da bulunan şantiyelerimizde çalıştırılmak üzere;\n-En az 3 yıl deneyimli\n-Jcb (kırıcılı) kepçe kullanımında deneyimli\n-İlgili belge ve sertifikalara sahip (Operatörlük belgesi ve mesleki yeterlilik MYK)\n-Makinanın bakımlarını ve temizliğini yapabilecek\n-Vardiyalı çalışmada herhangi bir engeli bulunmayan\n-Erkek adaylar için askerlik hizmetini tamamlamış operatörler aramaktayız."
+  },
+  "kariyernet:4594925": {
+   "t": 1794979913.7084436,
+   "source": "kariyernet",
+   "title": "Saha Satış Uzmanı - Banka / Sigorta",
+   "company": "ParlaRC Consulting",
+   "location": "Karaman +39 il daha",
+   "work_mode": "Hibrit",
+   "posted": "7 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun); Askerlik Durumu: Tecilli, Yapıldı\n\nDanışmanlığını yapmakta olduğumuz Türkiye'nin lider Banka - Sigorta ve FinTECH şirketleri arasında olan iş ortaklarımızın kadrolarında görevlendirilmek üzere; banka / sigorta ürünlerinin satışını sahada gerçekleştirecek, satış alanında kariyer hedefleyen ''Saha Satış Uzmanları'' arayışımız bulunmaktadır.\nGENEL NİTELİKLER\nFinans sektöründe kariyer hedefleyen,\nEn az önlisan"
   }
  },
  "pending": {}
