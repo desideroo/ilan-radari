@@ -6948,6 +6948,24 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "kariyernet:4600360": {
+   "t": 1795017720.6767907,
+   "title": "Maaş+Primli Kurumsal Finansal Satış Danışmanı /Kariyer Fırsatı",
+   "company": "PIRLANT GRUP SİGORTA ARA. HİZ. LTD. ŞTİ",
+   "url": "https://www.kariyer.net/is-ilani/pirlant-grup-sigorta-ara-hiz-ltd-sti-maasprimli-kurumsal-finansal-satis-danismani-kar-4600360",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4600266": {
+   "t": 1795017720.679372,
+   "title": "Freelance Müşteri Temsilcisi Almanca/Ingilizce",
+   "company": "Gizli Firma",
+   "url": "https://www.kariyer.net/is-ilani/gizli-firma-freelance-musteri-temsilcisi-almanca-ingilizce-4600266",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7707,29 +7725,31 @@
   "f458554ae3f003ca": "linkedin:4490886727",
   "bf66808bba1576b8": "kariyernet:4600290",
   "46bd81808ab73c29": "linkedin:4492040221",
-  "6a719ea29f6a3edc": "isbul:100953"
+  "6a719ea29f6a3edc": "isbul:100953",
+  "f4eabd0ec7a2a1f5": "kariyernet:4600360",
+  "34fa8bd5905ec4b4": "kariyernet:4600266"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795016761.607872,
+   "last_run": 1795017679.73787,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795016761.6078742,
+   "last_ok": 1795017679.7378714,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795015937.9817424,
+   "last_run": 1795017720.6766384,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795015937.981744,
+   "last_ok": 1795017720.676641,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
