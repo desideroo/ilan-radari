@@ -6842,6 +6842,35 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491831810": {
+   "t": 1795010486.21126,
+   "title": "Kıdemli Sap SD Danışmanı",
+   "company": "NTT DATA Business Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4491831810/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490887775": {
+   "t": 1795010488.8574145,
+   "title": "SAP FI/CO Uzmanı",
+   "company": "HD Holding",
+   "url": "https://www.linkedin.com/jobs/view/4490887775/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490899103": {
+   "t": 1795010498.518063,
+   "title": "SAP Module Executive/Expert – SD",
+   "company": "Hayat",
+   "url": "https://www.linkedin.com/jobs/view/4490899103/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -7590,29 +7619,32 @@
   "1a4a3b4b1ebdb3cb": "linkedin:4491834663",
   "59b7c8f2c25c0756": "kariyernet:4597425",
   "0ec50fcd64278129": "elemannet:4810454",
-  "4d30ed9b08bf6ed4": "youthall:cimsa-17"
+  "4d30ed9b08bf6ed4": "youthall:cimsa-17",
+  "ee6f57f6f6c39dbe": "linkedin:4491831810",
+  "e342340a31ef4d20": "linkedin:4490887775",
+  "8bb4fd5ec562252a": "linkedin:4490899103"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795009563.2578113,
+   "last_run": 1795010486.2111568,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795009563.257813,
+   "last_ok": 1795010486.211158,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795008712.4461977,
+   "last_run": 1795010540.4978454,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795008712.446199,
+   "last_ok": 1795010540.4978466,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -7662,7 +7694,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 30,
-   "rej_remote": 83
+   "rej_remote": 85
   }
  },
  "details": {
@@ -9749,6 +9781,40 @@
    "track_from": "description",
    "llm": {},
    "description": "About the Team\nAt Trendyol Core Commerce, we build innovative, data-driven strategies that power sustainable growth and global expansion.\nFrom seller experience to new market launches, we turn insights into action—fast. Our cross-functional teams shape the future of commerce with bold ideas, real-time impact, and a deep sense of ownership. In a fast-paced, collaborative environment, we grow together — as individuals and as a team.\nAbout The Role\nAs a Seller Experience Quality & Insights Professional, you will play a key role in improving seller experience and operational performance across mul"
+  },
+  "linkedin:4490887775": {
+   "t": 1795010488.8574457,
+   "source": "linkedin",
+   "title": "SAP FI/CO Uzmanı",
+   "company": "HD Holding",
+   "location": "Sarıyer",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Lezzetin gücüne inanan, enerjisiyle fark yaratan bir takıma katılmaya hazır mısın?\nHD Holding, “hakkıyla dışarıda yemek deneyimini herkes için ulaşılabilir kılmak” vizyonuyla Türkiye’nin dört bir yanında HD İskender, Pidem, Makarnam ve KFC markalarıyla lezzet yolculuğunu sürdürüyor.\n300’ü aşkın restoranımız ve 4.000’i aşkın ekip arkadaşımızla, Türkiye’nin en büyük yerli restoran zinciriyiz!\nBaşarımızın ardında;\nTemsil ettiğimiz mutfakların lideri olmak hedefimiz, birlikte büyüyen güçlü ekiplerimiz ve lezzeti bir yaşam biçimi haline getiren marka değerlerimiz var.\nŞimdi bu heyecana sen de ortak"
+  },
+  "linkedin:4490899103": {
+   "t": 1795010498.5181,
+   "source": "linkedin",
+   "title": "SAP Module Executive/Expert – SD",
+   "company": "Hayat",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Founded in 1987, Hayat operates in the fast-moving consumer goods (FMCG) sector, serving millions of consumers globally with 16 powerful brands. Hayat’s portfolio includes\nMolfix\nand\nBebem Natural\nin baby care;\nMolped\nin feminine care;\nJoly\n,\nEvony\n, and\nGoodcare\nin personal healthcare;\nBingo\n,\nGleen\n,\nTest\n, and\nHas\nin home care;\nPapia\n,\nFamilia\n,\nTeno\n, and\nFocus\nin tissue paper; and\nSholk\nin pet care. As the 4th largest branded diaper manufacturer in the world and the leading tissue producer in the Middle East, Eastern Europe, and Africa, Hayat employs over 10.000 people across its operatio"
   }
  },
  "pending": {}
