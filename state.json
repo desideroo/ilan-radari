@@ -6519,6 +6519,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4490868871": {
+   "t": 1794998762.9765992,
+   "title": "Senior Data Scientist",
+   "company": "Bentego",
+   "url": "https://www.linkedin.com/jobs/view/4490868871/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4468591402": {
+   "t": 1794998762.976844,
+   "title": "Senior Data Engineer / DWH Developer",
+   "company": "ICterra Bilgi ve İletişim Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4468591402/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7232,17 +7250,19 @@
   "e37d63f2efcc4a8c": "kariyernet:4587625",
   "982765221754fdbe": "kariyernet:4001656",
   "e5d91cdc08f8755a": "kariyernet:3977874",
-  "a39159d0160dd726": "kariyernet:4599946"
+  "a39159d0160dd726": "kariyernet:4599946",
+  "3696e42ad7bdb3b0": "linkedin:4490868871",
+  "a0300a59938152fe": "linkedin:4468591402"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794997882.8912838,
+   "last_run": 1794998762.9759786,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794997882.8912852,
+   "last_ok": 1794998762.97598,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
