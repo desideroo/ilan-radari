@@ -6928,6 +6928,26 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492040221": {
+   "t": 1795015895.6540883,
+   "title": "Network Uzmanı",
+   "company": "TCM Bilisim ve Danismanlik Hizmetleri",
+   "url": "https://www.linkedin.com/jobs/view/4492040221/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "isbul:100953": {
+   "t": 1795015951.7165391,
+   "title": "İspanyolca Öğretmeni",
+   "company": "ONUR ERDOĞAN - Let's Go Academy Dil Ve Kariyer Merkezi",
+   "url": "https://isbul.net/is-ilani/lets-go-academy-dil-ve-kariyer-merkezi-ispanyolca-ogretmeni-100953",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -7685,52 +7705,54 @@
   "98196ee3cd91d244": "linkedin:4480035595",
   "eee9e93d9eeb69cd": "linkedin:4491301216",
   "f458554ae3f003ca": "linkedin:4490886727",
-  "bf66808bba1576b8": "kariyernet:4600290"
+  "bf66808bba1576b8": "kariyernet:4600290",
+  "46bd81808ab73c29": "linkedin:4492040221",
+  "6a719ea29f6a3edc": "isbul:100953"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795014962.4013622,
+   "last_run": 1795015892.8759687,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795014962.4013634,
+   "last_ok": 1795015892.8759704,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795014135.6519814,
+   "last_run": 1795015937.9817424,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795014135.6519825,
+   "last_ok": 1795015937.981744,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795012323.3572338,
+   "last_run": 1795015943.4859893,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795012323.3572354,
+   "last_ok": 1795015943.4859908,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795012330.7741106,
+   "last_run": 1795015948.9684856,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795012330.7741113,
+   "last_ok": 1795015948.9684865,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795008726.2147975,
+   "last_run": 1795015955.0696232,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795008726.2147987,
+   "last_ok": 1795015955.0696247,
    "alerted": false,
    "ctx": {}
   }
@@ -7757,7 +7779,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 30,
-   "rej_remote": 87
+   "rej_remote": 88
   }
  },
  "details": {
@@ -9929,6 +9951,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: En az 2 yıl tecrübeli; Eğitim Seviyesi: Üniversite(Mezun)\n\nTürkiye’nin En İtibarlı Özel Okulu Doğa Koleji, Öğretmenleriyle Büyümeye Devam Ediyor!\n100’ü Aşkın Kampüs, Çeyrek Asırlık Deneyim ve Türkiye’nin En Güçlü Eğitim Ağı\nEğitim yolculuğumuzun merkezinde yalnızca akademik başarı değil; gelişim, karakter inşası ve geleceğe hazır bireyler yetiştirme sorumluluğu var.\nBu vizyonu birlikte büyüteceğimiz öğretmenlerle Türkiye’nin Doğa’sında eğitim kadromuzu genişletmek istiyoruz.\nKimleri Arıyoruz?\nÜniversitelerin '\nSınıf Öğretmenliği\n' veya '\nÜstün Zekalılar Öğretmenliği\n'"
+  },
+  "linkedin:4492040221": {
+   "t": 1795015895.654123,
+   "source": "linkedin",
+   "title": "Network Uzmanı",
+   "company": "TCM Bilisim ve Danismanlik Hizmetleri",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "📢\nNETWORK UZMANI ARIYORUZ!\nKurumsal müşterimizin ekibinde görevlendirilmek üzere, network ve ağ güvenliği alanında deneyimli, teknik bilgi ve tecrübesiyle ekibe katkı sağlayacak çalışma arkadaşı arıyoruz.\n🔹 Görev ve Sorumluluklar\nNetwork altyapısının kurulumu, yönetimi ve sürekliliğinin sağlanması,\nRouter ve Switch konfigürasyonlarının yapılması,\nFirewall yönetimi ve güvenlik politikalarının uygulanması,\nVPN, VLAN, LAN ve WAN yapılandırmalarının gerçekleştirilmesi,\nNetwork arızalarının analiz edilmesi ve giderilmesi,\nAğ güvenliği ve performansının takip edilmesi,\n🔹 Aranan Nitelikler\nNetwork al"
+  },
+  "isbul:100953": {
+   "t": 1795015951.7165809,
+   "source": "isbul",
+   "title": "İspanyolca Öğretmeni",
+   "company": "ONUR ERDOĞAN - Let's Go Academy Dil Ve Kariyer Merkezi",
+   "location": "Konya · Selçuklu",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "·      Üniversitelerin ilgili bölümlerinden mezun,\n·      Alanında deneyime sahip,\n·      Eğitim teknolojilerini etkin kullanabilen,\n·      Takım çalışmasına yatkın ve yenilikçi,\nÖğrencilerle iletişimine dikkat eden,\nDil öğretimini misyon edinmiş,\nİspanyolca bilen takım arkadaşı aramaktayız."
   }
  },
  "pending": {}
