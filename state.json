@@ -6294,6 +6294,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491795531": {
+   "t": 1794991554.1313803,
+   "title": "Senior Software Engineer (Turkey)",
+   "company": "Sezzle",
+   "url": "https://www.linkedin.com/jobs/view/4491795531/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -6983,17 +6992,18 @@
   "4bcb4bbd9dbcf0e2": "kariyernet:4599877",
   "16e37b05a5ad10c8": "kariyernet:4571696",
   "88af559e89b009c9": "kariyernet:4586297",
-  "7258a51c4dbf9efc": "kariyernet:2409743"
+  "7258a51c4dbf9efc": "kariyernet:2409743",
+  "8eee865c954131aa": "linkedin:4491795531"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794990668.7537782,
+   "last_run": 1794991554.1304398,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794990668.7537796,
+   "last_ok": 1794991554.1304414,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
