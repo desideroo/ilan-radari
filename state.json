@@ -6728,25 +6728,25 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794984350.980896,
+   "last_run": 1794985292.6613307,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794984350.9808974,
+   "last_ok": 1794985292.661332,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1794983521.9471622,
+   "last_run": 1794985334.6450758,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794983521.9471636,
+   "last_ok": 1794985334.6450772,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
