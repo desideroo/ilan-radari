@@ -7059,6 +7059,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492214071": {
+   "t": 1795041083.7110984,
+   "title": "Senior Software Engineer",
+   "company": "DFDS",
+   "url": "https://www.linkedin.com/jobs/view/4492214071/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7830,46 +7839,45 @@
   "2860387b2b159314": "kariyernet:4583370",
   "0e10d4a549bb728b": "linkedin:4490865719",
   "e6897d783e66d2fa": "kariyernet:4585128",
-  "02f56b4dcd1c262c": "kariyernet:4588621"
+  "02f56b4dcd1c262c": "kariyernet:4588621",
+  "042222aac39e4e38": "linkedin:4492214071"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795040177.835606,
+   "last_run": 1795041083.7109747,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795040177.8356087,
+   "last_ok": 1795041083.7109766,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795039351.0583081,
-   "fails": 1,
-   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
-   "last_ok": 1795037533.5995831,
+   "last_run": 1795041124.6656528,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795041124.6656544,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0,
-    "first_run": false,
-    "all_keywords": false
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795037543.3126414,
+   "last_run": 1795041130.214078,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795037543.3126423,
+   "last_ok": 1795041130.2140799,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795037549.8607242,
+   "last_run": 1795041135.9875593,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795037549.860725,
+   "last_ok": 1795041135.987561,
    "alerted": false,
    "ctx": {}
   },
