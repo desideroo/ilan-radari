@@ -7594,13 +7594,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795008671.8231153,
+   "last_run": 1795009563.2578113,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795008671.8231165,
+   "last_ok": 1795009563.257813,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -7640,7 +7640,7 @@
    "ctx": {}
   }
  },
- "tg_offset": 985447696,
+ "tg_offset": 985447702,
  "paused": false,
  "last_summary": "2026-11-17",
  "daily": {
