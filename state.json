@@ -6571,13 +6571,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794965467.4191926,
+   "last_run": 1794966361.985905,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794965467.4191945,
+   "last_ok": 1794966361.985906,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
