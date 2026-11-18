@@ -5890,6 +5890,24 @@
    "status": "dropped",
    "score": 10,
    "msg": null
+  },
+  "linkedin:4487803035": {
+   "t": 1794963673.6477127,
+   "title": "R&D Data Science Manager",
+   "company": "Hayat",
+   "url": "https://www.linkedin.com/jobs/view/4487803035/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4318285": {
+   "t": 1794963714.0134478,
+   "title": "Merchandiser (Tüm Türkiye)",
+   "company": "Beyaz Kağıt ve Hijyenik Temizlik Ürünleri Sanayi ve Ticaret A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/beyaz-kagit-ve-hijyenik-temizlik-urunleri-sanayi-v-merchandiser-tum-turkiye-4318285",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -6536,29 +6554,31 @@
   "52e750bbbf954ee7": "kariyernet:4383470",
   "503aced6dadadecc": "kariyernet:4590500",
   "335a9bb753d99e14": "kariyernet:4594681",
-  "a7b9d6239ff8d9cb": "kariyernet:4586352"
+  "a7b9d6239ff8d9cb": "kariyernet:4586352",
+  "683aedde136de028": "linkedin:4487803035",
+  "5eff79e65460615b": "kariyernet:4318285"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794962752.748119,
+   "last_run": 1794963673.6471944,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794962752.7481205,
+   "last_ok": 1794963673.6471958,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1794961909.6593163,
+   "last_run": 1794963714.013223,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794961909.659318,
+   "last_ok": 1794963714.0132244,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
