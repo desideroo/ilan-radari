@@ -6966,6 +6966,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4476346260": {
+   "t": 1795022153.8475332,
+   "title": "SAP BTP | Senior Consultant",
+   "company": "Deloitte",
+   "url": "https://www.linkedin.com/jobs/view/4476346260/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4476346259": {
+   "t": 1795022153.8476532,
+   "title": "SAP ABAP / FIORI | Consultant & Senior Consultant",
+   "company": "Deloitte",
+   "url": "https://www.linkedin.com/jobs/view/4476346259/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7727,17 +7745,19 @@
   "46bd81808ab73c29": "linkedin:4492040221",
   "6a719ea29f6a3edc": "isbul:100953",
   "f4eabd0ec7a2a1f5": "kariyernet:4600360",
-  "34fa8bd5905ec4b4": "kariyernet:4600266"
+  "34fa8bd5905ec4b4": "kariyernet:4600266",
+  "583bd257be2eb0db": "linkedin:4476346260",
+  "7c9ef2dbb8d6eacf": "linkedin:4476346259"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795021290.0689318,
+   "last_run": 1795022153.8470662,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795021290.0689328,
+   "last_ok": 1795022153.8470678,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
