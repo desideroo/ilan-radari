@@ -6464,6 +6464,61 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490863876": {
+   "t": 1794997882.891764,
+   "title": "Senior Full Stack Developer / Technical Lead",
+   "company": "Aegeis Bilişim Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4490863876/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4324664": {
+   "t": 1794997926.3131783,
+   "title": "Saha Müdürü",
+   "company": "FOX",
+   "url": "https://www.kariyer.net/is-ilani/fox-saha-muduru-4324664",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4587625": {
+   "t": 1794997926.3132913,
+   "title": "Home Office Müşteri Temsilcisi",
+   "company": "ROSE İNSAN KAYNAKLARI DANIŞMANLIK HİZMETLERİ TİCARET VE LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/rose-insan-kaynaklari-danismanlik-hizmetleri-ticar-home-office-musteri-temsilcisi-4587625",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4001656": {
+   "t": 1794997926.3133466,
+   "title": "Çağrı Merkezi Satış Müşteri Temsilcisi",
+   "company": "İhlas Pazarlama",
+   "url": "https://www.kariyer.net/is-ilani/ihlas-pazarlama-cagri-merkezi-satis-musteri-temsilcisi-4001656",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3977874": {
+   "t": 1794997930.2184045,
+   "title": "Servis Teknisyeni Türkiye Geneli",
+   "company": "İhlas Pazarlama",
+   "url": "https://www.kariyer.net/is-ilani/ihlas-pazarlama-servis-teknisyeni-turkiye-geneli-3977874",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "kariyernet:4599946": {
+   "t": 1794997933.7301717,
+   "title": "Sözleşmeli Denetim Uzmanı",
+   "company": "Gizli Firma",
+   "url": "https://www.kariyer.net/is-ilani/gizli-firma-sozlesmeli-denetim-uzmani-4599946",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7171,46 +7226,50 @@
   "8a94c1bc8f7a0787": "kariyernet:4495514",
   "e32be21de72cf534": "kariyernet:3986159",
   "44040bebf058ad6b": "kariyernet:4572853",
-  "6ee9fdc5f4075c6a": "linkedin:4490873526"
+  "6ee9fdc5f4075c6a": "linkedin:4490873526",
+  "ee72d9297ade7fe5": "linkedin:4490863876",
+  "70b1d2756aaf90a1": "kariyernet:4324664",
+  "e37d63f2efcc4a8c": "kariyernet:4587625",
+  "982765221754fdbe": "kariyernet:4001656",
+  "e5d91cdc08f8755a": "kariyernet:3977874",
+  "a39159d0160dd726": "kariyernet:4599946"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794996951.9563339,
+   "last_run": 1794997882.8912838,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794996951.9563353,
+   "last_ok": 1794997882.8912852,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1794996105.8492343,
-   "fails": 1,
-   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
-   "last_ok": 1794994323.2228427,
+   "last_run": 1794997926.3130968,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1794997926.3130982,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0,
-    "first_run": false,
-    "all_keywords": false
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1794994335.926289,
+   "last_run": 1794997939.0917861,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794994335.9262905,
+   "last_ok": 1794997939.0917873,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1794994341.3165748,
+   "last_run": 1794997944.0820441,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794994341.3165762,
+   "last_ok": 1794997944.0820448,
    "alerted": false,
    "ctx": {}
   },
@@ -9179,6 +9238,23 @@
    "track_from": "",
    "llm": {},
    "description": "AYFTUR | Vize Operasyon Uzmanı\n1994’ten bu yana kurumsal seyahat yönetimi, toplantı ve etkinlik organizasyonları ve özel seyahat tasarımı alanlarında faaliyet gösteren AYFTUR olarak İstanbul ekibimize\nVize Operasyon Uzmanı\narıyoruz.\nBu rolde kurumsal müşterilerimizin, bireysel misafirlerimizin ve yurt dışına seyahat eden gruplarımızın vize başvurularını ilk bilgilendirmeden sonuç takibine kadar yöneteceksiniz.\nGörev ve sorumluluklar:\nBaşta\nSchengen, Birleşik Krallık ve ABD\nolmak üzere turistik ve ticari vize başvurularında misafirleri seyahat amacına uygun süreç ve evraklar hakkında bilgilendi"
+  },
+  "kariyernet:3977874": {
+   "t": 1794997930.2184386,
+   "source": "kariyernet",
+   "title": "Servis Teknisyeni Türkiye Geneli",
+   "company": "İhlas Pazarlama",
+   "location": "Karaman +77 il daha",
+   "work_mode": "İş Yerinde",
+   "posted": "Son gün",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı, Muaf\n\nTemizlik ve sağlık sistemleri üretim ve satışında, sektör lideri olan Türkiye Geneli İhlas Yetkili Servis Bayiliklerinde tecrübeli ve dinamik kadrosuna yeni takım arkadaşları aramaktadır.\nTürkiye genelinde bulunan\nİhlas Yetkili Servis Bayilikleri\nmizde görevlendirilmek üzere Su Arıtma, Isıtma Soğutma Sistemleri, Temizlik Robotu ve Küçük Ev Aletlerinin kurulum, montaj, tamir ve bakım hizmetlerini yapabilecek takım arkadaşları "
   }
  },
  "pending": {}
