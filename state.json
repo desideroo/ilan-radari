@@ -7731,13 +7731,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795017679.73787,
+   "last_run": 1795018553.6656806,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795017679.7378714,
+   "last_ok": 1795018553.665682,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
