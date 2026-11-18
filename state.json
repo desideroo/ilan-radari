@@ -5945,6 +5945,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4586377": {
+   "t": 1794969106.6867037,
+   "title": "Dönemsel Kurye",
+   "company": "Aras Kargo",
+   "url": "https://www.kariyer.net/is-ilani/aras-kargo-donemsel-kurye-4586377",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -6597,44 +6606,45 @@
   "4d270e6b7cc45c45": "kariyernet:4597525",
   "c8795bb92433ddb9": "kariyernet:4594166",
   "aa4f2d6d349d8fda": "kariyernet:4350903",
-  "69e75729cbfeff46": "kariyernet:4598467"
+  "69e75729cbfeff46": "kariyernet:4598467",
+  "8b59f5ce470a2676": "kariyernet:4586377"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794968150.8511438,
+   "last_run": 1794969066.3187935,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794968150.851145,
+   "last_ok": 1794969066.318795,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1794967315.1166248,
+   "last_run": 1794969106.6865747,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794967315.116627,
+   "last_ok": 1794969106.6865766,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1794965517.6934402,
+   "last_run": 1794969112.5897484,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794965517.6934414,
+   "last_ok": 1794969112.5897496,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1794965522.8337502,
+   "last_run": 1794969117.8828137,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794965522.8337514,
+   "last_ok": 1794969117.8828146,
    "alerted": false,
    "ctx": {}
   },
