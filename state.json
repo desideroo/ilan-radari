@@ -6350,6 +6350,110 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4490876249": {
+   "t": 1794994271.085862,
+   "title": "Delivery Manager – SAP Project Delivery",
+   "company": "FIT Global",
+   "url": "https://www.linkedin.com/jobs/view/4490876249/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490852652": {
+   "t": 1794994271.0860221,
+   "title": "Ön Muhasebe Elemanı",
+   "company": "Seraplus Greenhouse",
+   "url": "https://www.linkedin.com/jobs/view/4490852652/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491791748": {
+   "t": 1794994273.7151005,
+   "title": "Sistem Uzmanı",
+   "company": "Keskinoğlu",
+   "url": "https://www.linkedin.com/jobs/view/4491791748/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490879001": {
+   "t": 1794994275.9151378,
+   "title": "Sistem ve Network Uzmanı",
+   "company": "MSC Mediterranean Shipping Company",
+   "url": "https://www.linkedin.com/jobs/view/4490879001/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490864627": {
+   "t": 1794994278.357667,
+   "title": "ERP SAHA VE DESTEK UZMANI",
+   "company": "BSS Teknoloji",
+   "url": "https://www.linkedin.com/jobs/view/4490864627/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490863754": {
+   "t": 1794994280.997729,
+   "title": "Ön Muhasebeci",
+   "company": "Green Pi Enerji π",
+   "url": "https://www.linkedin.com/jobs/view/4490863754/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4543769": {
+   "t": 1794994323.2230408,
+   "title": "Satış Danışmanı - Türkiye Geneli",
+   "company": "NE-SAÇ TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/ne-sac-tekstil-sanayi-ve-ticaret-limited-sirketi-satis-danismani-turkiye-geneli-4543769",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4568287": {
+   "t": 1794994323.2253065,
+   "title": "Yurtiçi Satış Yöneticisi (Endüstriyel Ürünler)",
+   "company": "Marsa Yağ Sanayi ve Ticaret AŞ.",
+   "url": "https://www.kariyer.net/is-ilani/marsa-yag-sanayi-ve-ticaret-as-yurtici-satis-yoneticisi-endustriyel-urunler-4568287",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4495514": {
+   "t": 1794994323.226467,
+   "title": "Cinsel Terapi Stajyeri",
+   "company": "TUNCA GROUP DANIŞMANLIK LİMİTED",
+   "url": "https://www.kariyer.net/is-ilani/tunca-group-danismanlik-limited-cinsel-terapi-stajyeri-4495514",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:3986159": {
+   "t": 1794994327.0539443,
+   "title": "Kurye",
+   "company": "Sürat Kargo",
+   "url": "https://www.kariyer.net/is-ilani/surat-kargo-kurye-3986159",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4572853": {
+   "t": 1794994330.8324323,
+   "title": "Saha Satış Elemanı",
+   "company": "GI GROUP AND WYSER TURKEY SEÇME VE YERLEŞTİRME A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/gi-group-and-wyser-turkey-secme-ve-yerlestirme-a-s-saha-satis-elemani-4572853",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -7045,52 +7149,63 @@
   "ba001c2e5749369a": "linkedin:4490866548",
   "18b1c30858051209": "linkedin:4490860747",
   "037eed0cc99bbff6": "linkedin:4490882005",
-  "a6adadf70c16c16d": "linkedin:4490880129"
+  "a6adadf70c16c16d": "linkedin:4490880129",
+  "2d26ecd712740843": "linkedin:4490876249",
+  "cd4401fef4f66ffa": "linkedin:4490852652",
+  "b076986784a7dd9b": "linkedin:4491791748",
+  "53c40859fe8eba29": "linkedin:4490879001",
+  "692363ad757a8e0e": "linkedin:4490864627",
+  "32ca0c9fd954759f": "linkedin:4490863754",
+  "0a3617dfb370d876": "kariyernet:4543769",
+  "9a1fc09e735c6271": "kariyernet:4568287",
+  "8a94c1bc8f7a0787": "kariyernet:4495514",
+  "e32be21de72cf534": "kariyernet:3986159",
+  "44040bebf058ad6b": "kariyernet:4572853"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1794993364.1442578,
+   "last_run": 1794994271.0850773,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794993364.1442592,
+   "last_ok": 1794994271.0850787,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1794992532.2670376,
+   "last_run": 1794994323.2228405,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794992532.2670395,
+   "last_ok": 1794994323.2228427,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1794990724.1775064,
+   "last_run": 1794994335.926289,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794990724.1775084,
+   "last_ok": 1794994335.9262905,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1794990729.2434087,
+   "last_run": 1794994341.3165748,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794990729.24341,
+   "last_ok": 1794994341.3165762,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1794987128.2543988,
+   "last_run": 1794994344.3973944,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1794987128.2543998,
+   "last_ok": 1794994344.3973954,
    "alerted": false,
    "ctx": {}
   }
@@ -7117,7 +7232,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_exp": 29,
-   "rej_remote": 73
+   "rej_remote": 77
   }
  },
  "details": {
@@ -8949,6 +9064,91 @@
    "track_from": "",
    "llm": {},
    "description": "Genel Nitelikler\nÜniversitelerin Bilgisayar Mühendisliği, Endüstri Mühendisliği, Yönetim Bilişim Sistemleri veya İstatistik bölümlerinden mezun,\nSigorta sektöründe; BT, İş Zekası (BI), Veri Yönetimi veya Raporlama departmanlarında en az 3 yıl deneyimli,\nRaporlama ve veri analizi ihtiyaçlarını karşılayabilecek ileri düzeyde SQL bilgisine sahip (Büyük veri setleri üzerinde analiz yapabilecek, ilişkisel veri tabanı mantığına hakim ve ileri seviye sorgulama tekniklerini kullanabilen)\nSigortacılık, reasürans işlemleri ve ay kapama süreçlerinin veri akış mantığına hakim,\nTercihen uçtan uca) sistem e"
+  },
+  "linkedin:4491791748": {
+   "t": 1794994273.7151415,
+   "source": "linkedin",
+   "title": "Sistem Uzmanı",
+   "company": "Keskinoğlu",
+   "location": "Akhisar",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "",
+   "llm": {},
+   "description": "Biz Kimiz ?\nMatlı Şirketler Grubu olarak yaklaşık 60 yıldır içindeyiz. Topraktan sofraya uzanan yolculuğumuzda; yemden yumurtaya, piliç etinden süt ve süt ürünlerine, gıda ve unlu mamullere kadar farklı alanlarda büyüyor, bugün 11 sektörde faaliyet gösteriyoruz.\nBu yolculuğun merkezinde, birlikte üreten ve gelişen çalışma arkadaşlarımız yer alıyor. Farklı deneyimlerin, yeni fikirlerin ve güçlü iş birliklerinin geleceğimizi şekillendirdiğine inanıyor; çalışma kültürümüzü de bu anlayışla geliştiriyoruz.\nKeskinoğlu Tavukçuluk\nbünyesinde görev almak üzere;\nSistem Uzmanı\nolarak ekibimize katılacak "
+  },
+  "linkedin:4490879001": {
+   "t": 1794994275.9151757,
+   "source": "linkedin",
+   "title": "Sistem ve Network Uzmanı",
+   "company": "MSC Mediterranean Shipping Company",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "",
+   "llm": {},
+   "description": "İş İlanı Hakkında\nMSC Grubu olarak Kara, Demir, Deniz Yolu Taşımacılığı, Depolama, Gemicilik, Limancılık, Bilgi Teknolojileri alanlarında gösterdiğimiz faaliyetler ve entegre lojistik hizmetleri ile sektörün öncüsü konumundayız. Hizmetlerimizin boyut ve çeşitliliğine rağmen, insana odaklı yaklaşımımızdan asla vazgeçmeyip ihtiyaca yönelik özel çözümler sunarken sistemlerle desteklediğimiz teknik bilgi ve becerilerimizi müşterilerimizle paylaşmaktan heyecan duyuyoruz.\nMedtec Bilgi Teknolojileri\nşirketimizin\nZincirlikuyu lokasyonunda\nbizimle birlikte çalışabilecek\n“Sistem ve Network Uzmanı”\narıyo"
+  },
+  "linkedin:4490864627": {
+   "t": 1794994278.3577015,
+   "source": "linkedin",
+   "title": "ERP SAHA VE DESTEK UZMANI",
+   "company": "BSS Teknoloji",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "",
+   "llm": {},
+   "description": "İş Açıklaması\nKadromuza katılacak olan takım arkadaşımız, Ambalaj Sektörü’nde ( kağıt, teneke, plastik, ahşap)\nfaaliyet gösteren müşterilerimize çözüm ürettiğimiz sektörel ERP yazılım programı kapsamında ERP Saha ve Destek Uzmanı pozisyonunda görev alacaktır. Müşterilerimize yerinde servis ile saha desteği ve eğitimi, sistem kurulumu, müşteri istekleri doğrultusunda talep analizleri gerçekleştirilecektir.\nİstenen Yetenek ve Uzmanlıklar\nÜniversitenin ilgili bölümlerden Mezun, (tercihen Endüstri Mühendisliği)\nMS SQL bilgisine sahip (olması tercih edilebilirliği arttıracaktır),\nBenzer pozisyonlar"
+  },
+  "linkedin:4490863754": {
+   "t": 1794994280.9977639,
+   "source": "linkedin",
+   "title": "Ön Muhasebeci",
+   "company": "Green Pi Enerji π",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "",
+   "llm": {},
+   "description": "📢\nÖN MUHASEBE UZMANI ARIYORUZGreen Pi\nEnerji bünyesinde görevlendirilmek üzere, ön muhasebe süreçlerine hakim ve\nLOGO ERP programını aktif olarak kullanabilen\nekip arkadaşı arıyoruz.Aranan Nitelikler\n• Ön muhasebe alanında deneyimli,\n•\nLOGO ERP programını iyi seviyede kullanabilen\n,\n• Tercihen\nLOGO Bulut ERP\nuygulamalarına hakim,\n• E-Fatura, E-Arşiv Fatura ve E-İrsaliye süreçlerini bilen,\n• Alış ve satış faturalarının sisteme girişini ve kontrolünü yapabilen,\n• Cari hesap takibi ve cari hesap mutabakatlarını gerçekleştirebilen,\n• Banka, kasa ve kredi kartı hareketlerinin takibini yapabilen,\n• "
+  },
+  "kariyernet:4572853": {
+   "t": 1794994330.8324726,
+   "source": "kariyernet",
+   "title": "Saha Satış Elemanı",
+   "company": "GI GROUP AND WYSER TURKEY SEÇME VE YERLEŞTİRME A.Ş.",
+   "location": "Karaman +6 il daha",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 1 - 5 yıl arası; Eğitim Seviyesi: Lise(Öğrenci), Lise(Mezun), Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci)\n\nGi Group, iş gücü piyasasının gelişimi için hizmet veren, dünyanın önde gelen şirketlerinden biridir. Hizmet verdiği lokasyonlarda; dönemsel ve sürekli iş ilişkileri, seçme ve yerleştirme, insan kaynakları danışmanlığı, eğitim ve birçok ilgili tamamlayıcı alanda faaliyet göstermektedir.\nDanışmanlığını yapmakta olduğumuz Finansal Hizmetler sektöründe faaliyet gösteren firmamız için\nSaha Satış Elemanı\narayışımız mevcuttur.\nGenel Nitelikler\n• Tercihen "
   }
  },
  "pending": {}
