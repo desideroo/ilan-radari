@@ -7834,6 +7834,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4490451523": {
+   "t": 1795122097.5921144,
+   "title": "Muhasebe & Finans Uzmanı",
+   "company": "Bircom İyi Teknolojiler.",
+   "url": "https://www.linkedin.com/jobs/view/4490451523/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -8687,29 +8697,32 @@
   "9f79a273976eb9b9": "linkedin:4492177799",
   "27bed32a03b3c6f5": "kariyernet:4601259",
   "e531d50d7483144e": "linkedin:4491633704",
-  "14d3cf7c5ab7379c": "linkedin:4491648420"
+  "14d3cf7c5ab7379c": "linkedin:4491648420",
+  "6916b4a3a686ee37": "linkedin:4490451523"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795121162.4993496,
+   "last_run": 1795122095.0906153,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795121162.4993517,
+   "last_ok": 1795122095.0906234,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795120356.6868505,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795122131.6767895,
+   "fails": 1,
+   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
    "last_ok": 1795120356.686852,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "elemannet": {
@@ -11684,6 +11697,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Logo Flow Proje  Uzmanı\nLineasoft Yazılım ve Danışmanlık\nolarak, büyüyen proje ekibimizde görevlendirilmek üzere\nLogo Flow süreç yönetimi ve yazılım geliştirme konularında deneyimli ekip arkadaşı\narıyoruz.\nAranan Nitelikler\nLogo Flow (BPM) platformunda proje geliştirme ve uygulama deneyimine sahip,\nLogo Flow üzerinde iş akışı tasarımı, form geliştirme, süreç modelleme ve yönetimi konularına hâkim,\nC# ve .NET teknolojileri konusunda bilgi ve deneyim sahibi,\nMicrosoft SQL Server, T-SQL, Stored Procedure ve veri tabanı işlemlerinde yetkin,\nREST API, Web Servis ve üçüncü parti sistem entegrasyonla"
+  },
+  "linkedin:4490451523": {
+   "t": 1795122097.5921507,
+   "source": "linkedin",
+   "title": "Muhasebe & Finans Uzmanı",
+   "company": "Bircom İyi Teknolojiler.",
+   "location": "Kağıthane",
+   "work_mode": "",
+   "posted": "2026-11-17",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Bircom 50 yılı aşkın süredir, insanların ihtiyaçlarını maksimum değerle karşılayarak ve onlara keyifli bir deneyim yaşatacak dünyaca ünlü markalara ait teknolojileri beğenilerine sunmak için çalışıyor.\nBu yolculukta bize eşlik etmek ister misiniz?\nMuhasebe & Finans Uzmanı\n📍 İstanbul ( Kağıthane )\n🏢 Bircom – Teknoloji & İletişim Çözümleri\nGenel Nitelikler\nÜniversitelerin İktisat, İşletme, Maliye, Muhasebe veya Finans bölümlerinden mezun\nEn az 4–6 yıl muhasebe ve finans alanında deneyimli\nİthalat yapan, stoklu çalışan şirketlerde görev almış\nMaliyet muhasebesi, bütçe ve finansal raporlama süreçl"
   }
  },
  "pending": {}
