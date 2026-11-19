@@ -7497,6 +7497,34 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492423609": {
+   "t": 1795089722.9846313,
+   "title": "Senior Software Engineer",
+   "company": "WTECHIN Yazılım Bilişim ve Danışmanlık",
+   "url": "https://www.linkedin.com/jobs/view/4492423609/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491615166": {
+   "t": 1795089722.9850738,
+   "title": "Pricing Analyst & Commercial Excellence Lead",
+   "company": "Trouw Nutrition Turkey",
+   "url": "https://www.linkedin.com/jobs/view/4491615166/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491381700": {
+   "t": 1795089724.8808432,
+   "title": "Performans İzleme Uzmanı",
+   "company": "Aydem Enerji",
+   "url": "https://www.linkedin.com/jobs/view/4491381700/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8314,29 +8342,34 @@
   "f2df22e11f5eda52": "linkedin:4471977588",
   "29b2e5a4ef697dcb": "linkedin:4491603506",
   "520b3b97c4dd9fe5": "linkedin:4432232262",
-  "8ff2aa479cdc30da": "linkedin:4492146621"
+  "8ff2aa479cdc30da": "linkedin:4492146621",
+  "792d628e2b82cfb4": "linkedin:4492423609",
+  "7bc2a245916b182e": "linkedin:4491615166",
+  "7179b89daa5db3e4": "linkedin:4491381700"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795088754.965413,
+   "last_run": 1795089722.9844859,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795088754.9654143,
+   "last_ok": 1795089722.9844875,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795087914.0374658,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795089759.4302006,
+   "fails": 1,
+   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
    "last_ok": 1795087914.0374682,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "elemannet": {
@@ -8395,7 +8428,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 19,
+   "rej_remote": 20,
    "rej_exp": 3
   }
  },
@@ -11090,6 +11123,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Vitelco, 2014 yılından bu yana Türkiye ve yurtdışındaki müşterilerine uçtan uca Bilişim Teknolojileri (BT) hizmetleri sunmaktadır. Yazılım Geliştirme, Test, DevOps ve BT Operasyonları gibi alanlarda hizmet sunmanın yanı sıra şirket kendi ürünlerini de geliştirmekte ve sektördeki lider çözümler için sistem entegratörü olarak faaliyet göstermektedir.\n“Çok Yönlülük” ve “İnovasyon” ilkeleriyle yönlendirilen Vitelco, müşterilerine kapsamlı, esnek ve katma değerli çözümler sunmayı hedeflemektedir.\nGerekli Yeterlilikler ve Beceriler\nÜniversitelerin Bilgisayar Mühendisliği ya da eşdeğer bölümlerinden "
+  },
+  "linkedin:4491381700": {
+   "t": 1795089724.880875,
+   "source": "linkedin",
+   "title": "Performans İzleme Uzmanı",
+   "company": "Aydem Enerji",
+   "location": "İzmir, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Aydem Enerji’de 40 yılı aşkın bir süredir ülkemizin sürdürülebilir geleceği için çevik, yenilikçi yaklaşımımızla elektrik üretimi, dağıtımı ve perakende alanlarında “hayat için enerji” üretiyor ve sektörümüzde imza attığımız pek çok ilkle fark yaratıyoruz.\nİşimizi “başarı” ile yaparak ve “hayata” dokunarak kurumu “geleceğe” taşırken, enerjimizin kaynağı olan çalışma arkadaşlarımız tarafından neden “Harika Bir İş Yeri” seçildiğimizi merak ediyorsan detaylara web sitemizden ve hakkında alanından ulaşabilirsin.\nSen de bu ekibin bir parçası olmak istiyorsan Aydem Holding bünyesinde “Performans İzl"
   }
  },
  "pending": {}
