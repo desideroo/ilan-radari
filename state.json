@@ -7844,6 +7844,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "kariyernet:4523981": {
+   "t": 1795123919.6350138,
+   "title": "Mağaza Satış Danışmanı",
+   "company": "SPX",
+   "url": "https://www.kariyer.net/is-ilani/spx-magaza-satis-danismani-4523981",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8698,54 +8707,53 @@
   "27bed32a03b3c6f5": "kariyernet:4601259",
   "e531d50d7483144e": "linkedin:4491633704",
   "14d3cf7c5ab7379c": "linkedin:4491648420",
-  "6916b4a3a686ee37": "linkedin:4490451523"
+  "6916b4a3a686ee37": "linkedin:4490451523",
+  "2e1791f3e34e50a1": "kariyernet:4523981"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795122952.011015,
+   "last_run": 1795123878.098576,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795122952.0110166,
+   "last_ok": 1795123878.0985782,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795122131.6767895,
-   "fails": 1,
-   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
-   "last_ok": 1795120356.686852,
+   "last_run": 1795123919.634886,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795123919.6348877,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4,
-    "first_run": false,
-    "all_keywords": false
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795120362.710564,
+   "last_run": 1795123924.6682882,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795120362.710565,
+   "last_ok": 1795123924.6682892,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795120369.1359432,
+   "last_run": 1795123929.3105848,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795120369.1359441,
+   "last_ok": 1795123929.3105862,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795116731.3724163,
+   "last_run": 1795123932.292258,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795116731.3724174,
+   "last_ok": 1795123932.2922592,
    "alerted": false,
    "ctx": {}
   }
