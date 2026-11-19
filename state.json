@@ -7862,6 +7862,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492506681": {
+   "t": 1795129300.8904366,
+   "title": "Senior AI Developer",
+   "company": "Massive Bio",
+   "url": "https://www.linkedin.com/jobs/view/4492506681/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8718,29 +8727,32 @@
   "14d3cf7c5ab7379c": "linkedin:4491648420",
   "6916b4a3a686ee37": "linkedin:4490451523",
   "2e1791f3e34e50a1": "kariyernet:4523981",
-  "a54b421ae1247bf9": "kariyernet:4584153"
+  "a54b421ae1247bf9": "kariyernet:4584153",
+  "59003b4cecd21b9a": "linkedin:4492506681"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795128355.9150193,
+   "last_run": 1795129300.8901563,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795128355.9150207,
+   "last_ok": 1795129300.8901575,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795127554.8010607,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795129334.1196537,
+   "fails": 1,
+   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
    "last_ok": 1795127554.8010626,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "elemannet": {
