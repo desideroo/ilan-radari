@@ -7124,6 +7124,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4600494": {
+   "t": 1795069933.6462831,
+   "title": "Senior Software Engineer",
+   "company": "Asis",
+   "url": "https://www.kariyer.net/is-ilani/asis-senior-software-engineer-4600494",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4412019": {
+   "t": 1795069937.367126,
+   "title": "Mekanik Bakım Mühendisi",
+   "company": "AKIŞ ASANSÖR MAKİNA MOTOR DÖKÜM SAN. VE TİC. LTD. ŞTİ.",
+   "url": "https://www.kariyer.net/is-ilani/akis-asansor-makina-motor-dokum-san-ve-tic-ltd-mekanik-bakim-muhendisi-4412019",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7902,44 +7920,46 @@
   "96ece5fee02140a3": "linkedin:4491373390",
   "6e7ed5e0964891bc": "linkedin:4491381092",
   "b2da0af1c414ba2a": "linkedin:4491378252",
-  "c48a444f26e00612": "linkedin:4491374476"
+  "c48a444f26e00612": "linkedin:4491374476",
+  "282077246045e2e1": "kariyernet:4600494",
+  "fb0bff418273eb95": "kariyernet:4412019"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795068975.5329084,
+   "last_run": 1795069892.3986225,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795068975.5329099,
+   "last_ok": 1795069892.398624,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795068126.2660487,
+   "last_run": 1795069933.6417966,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795068126.2660513,
+   "last_ok": 1795069933.6417985,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795066312.6514697,
+   "last_run": 1795069942.7254438,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795066312.6514714,
+   "last_ok": 1795069942.725445,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795066316.9937441,
+   "last_run": 1795069947.183593,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795066316.9937453,
+   "last_ok": 1795069947.183594,
    "alerted": false,
    "ctx": {}
   },
