@@ -8691,13 +8691,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795120294.5387294,
+   "last_run": 1795121162.4993496,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795120294.538731,
+   "last_ok": 1795121162.4993517,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
