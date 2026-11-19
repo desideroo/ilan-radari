@@ -8670,13 +8670,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795116677.6938124,
+   "last_run": 1795117580.9935129,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795116677.693814,
+   "last_ok": 1795117580.993515,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
