@@ -7468,6 +7468,25 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491603506": {
+   "t": 1795087870.1329079,
+   "title": "Network Kıdemli Uzmanı Arıyoruz/",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4491603506/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4432232262": {
+   "t": 1795087872.2788827,
+   "title": "Deutschsprachiger Software QA Spezialist",
+   "company": "adesso Turkey",
+   "url": "https://www.linkedin.com/jobs/view/4432232262/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8282,52 +8301,54 @@
   "99b599fecae0f675": "kariyernet:4600756",
   "3bda8cbf87ccb255": "linkedin:4491397725",
   "9a67e5a5933dbd52": "linkedin:4491393695",
-  "f2df22e11f5eda52": "linkedin:4471977588"
+  "f2df22e11f5eda52": "linkedin:4471977588",
+  "29b2e5a4ef697dcb": "linkedin:4491603506",
+  "520b3b97c4dd9fe5": "linkedin:4432232262"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795086987.8205905,
+   "last_run": 1795087870.132419,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795086987.820592,
+   "last_ok": 1795087870.1324205,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795086129.5108137,
+   "last_run": 1795087914.0374658,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795086129.510816,
+   "last_ok": 1795087914.0374682,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795084340.7135575,
+   "last_run": 1795087920.3254945,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795084340.7135587,
+   "last_ok": 1795087920.3254955,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795084345.9448195,
+   "last_run": 1795087924.5025473,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795084345.9448204,
+   "last_ok": 1795087924.5025482,
    "alerted": false,
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795080751.5879416,
+   "last_run": 1795087927.8947566,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795080751.5879426,
+   "last_ok": 1795087927.8947582,
    "alerted": false,
    "ctx": {}
   }
@@ -8363,7 +8384,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 17,
+   "rej_remote": 18,
    "rej_exp": 3
   }
  },
@@ -11024,6 +11045,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.\nThis type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.\nTHE ROLE\nWe are seeking an experienced Sales O"
+  },
+  "linkedin:4432232262": {
+   "t": 1795087872.2789176,
+   "source": "linkedin",
+   "title": "Deutschsprachiger Software QA Spezialist",
+   "company": "adesso Turkey",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Wir suchen einen deutschsprachigen Software QA Specialist für unser dynamisches und eigenverantwortliches Team, das Produkte auf Unternehmensebene für lokale und globale Märkte liefert.\nLassen Sie uns gemeinsam\nIhre Zukunft gestalten!\nWo Sie\nprogrammieren, wachsen und andere inspirieren\nkönnen.\nWas wir suchen?\n· Agiles Umfeld mit einem ausgeprägten Verständnis für Qualitätssicherung und Testprozesse sowie einem Fokus auf Innovation und kontinuierliche Verbesserung von Testabläufen\n· Erfahrung im API-Testing mit Tools wie Postman oder SoapUI\n· Erfahrung mit Software-Lebenszyklus-Management, Dok"
   }
  },
  "pending": {}
