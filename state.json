@@ -8410,25 +8410,29 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795092352.654921,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795093313.0117059,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=data+scientist&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795092352.6549225,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
-   "last_run": 1795091508.7078037,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795093347.6258352,
+   "fails": 1,
+   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
    "last_ok": 1795091508.7078054,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "elemannet": {
