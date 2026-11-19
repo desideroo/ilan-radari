@@ -7439,6 +7439,35 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491397725": {
+   "t": 1795086989.811579,
+   "title": "İhracat Görevlisi",
+   "company": "Hidroliksan Halim Usta",
+   "url": "https://www.linkedin.com/jobs/view/4491397725/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491393695": {
+   "t": 1795086991.834206,
+   "title": "Çalışan İlişkileri ve Raporlama Uzmanı",
+   "company": "Setur",
+   "url": "https://www.linkedin.com/jobs/view/4491393695/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4471977588": {
+   "t": 1795086993.5538497,
+   "title": "Sales Operations Business Partner (METCA)",
+   "company": "Everpure",
+   "url": "https://www.linkedin.com/jobs/view/4471977588/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8250,17 +8279,20 @@
   "9e4c5db468fa0910": "linkedin:4430476964",
   "59992e58aff7bf4d": "linkedin:4492139381",
   "a045a8aac14aa4f7": "linkedin:4491307000",
-  "99b599fecae0f675": "kariyernet:4600756"
+  "99b599fecae0f675": "kariyernet:4600756",
+  "3bda8cbf87ccb255": "linkedin:4491397725",
+  "9a67e5a5933dbd52": "linkedin:4491393695",
+  "f2df22e11f5eda52": "linkedin:4471977588"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795086085.319207,
+   "last_run": 1795086987.8205905,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795086085.3192084,
+   "last_ok": 1795086987.820592,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
@@ -8331,7 +8363,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 15,
+   "rej_remote": 17,
    "rej_exp": 3
   }
  },
@@ -10958,6 +10990,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Rightyon olarak perakende analitiği, IoT ve uç yapay zekâ (edge AI) alanlarında ürünler geliştiriyoruz. Büyüyen backend ekibimize, öğrenmeye istekli ve gerçek ürünler üzerinde sorumluluk almak isteyen bir Junior Java Developer arıyoruz.\nNeler yapacaksın?\n* Java ve Spring Boot ile backend servisleri geliştirmek ve mevcut servislerin bakımını yapmak\n* REST API’ler tasarlamak, yazmak ve belgelemek\n* Sensör ve cihazlardan gelen verileri işleyen servislerde (Kafka, MQTT) görev almak\n* Birim testleri yazmak, kod incelemelerine (code review) katılmak\n* Kıdemli ekip arkadaşlarınla birlikte hata ayıkla"
+  },
+  "linkedin:4491393695": {
+   "t": 1795086991.8342433,
+   "source": "linkedin",
+   "title": "Çalışan İlişkileri ve Raporlama Uzmanı",
+   "company": "Setur",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Biz Setur’da çalışma arkadaşlarımızın hayatına her zaman değer katarız. Onlara sınırların ötesinde deneyimler yaşatırız. Mutluluklarına, heyecanlarına, hüzünlerine, yorgunluklarına ortak oluruz.\nMutluluk bizim için bir varış noktası değil, bir yolculuktur. Bu yolculukların dönüm noktalarından biri olan Çalışan İlişkileri ekibimizde “Çalışan İlişkileri ve Raporlama Uzmanı’’ olarak kariyerine devam etmek istiyorsan bu pozisyon tam sana göre!\nİş Tanımı\nRaporlama süreçlerini yürütmek, standartlaştırmak ve geliştirmek.\nPersonel bütçesi ve iş gücü maliyetlerine ilişkin analiz ve raporlamaları hazırl"
+  },
+  "linkedin:4471977588": {
+   "t": 1795086993.5538857,
+   "source": "linkedin",
+   "title": "Sales Operations Business Partner (METCA)",
+   "company": "Everpure",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {},
+   "description": "Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the companies defining the next era of technology - hyperscalers, AI labs, the AI hardware supply chain, data platform providers, and the broader AI ecosystem.\nThis type of work—work that changes the world—is what the tech industry was founded on. So, if you're ready to seize the endless opportunities and leave your mark, come join us.\nTHE ROLE\nWe are seeking an experienced Sales O"
   }
  },
  "pending": {}
