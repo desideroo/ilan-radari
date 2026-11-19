@@ -8233,13 +8233,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795084288.0901105,
+   "last_run": 1795085189.809134,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795084288.0901122,
+   "last_ok": 1795085189.8091362,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
