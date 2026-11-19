@@ -7238,6 +7238,43 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "kariyernet:4600473": {
+   "t": 1795077111.659988,
+   "title": "Genel Muhasebe Elemanı",
+   "company": "ELV AKÜ SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/elv-aku-sanayi-ve-ticaret-anonim-sirketi-genel-muhasebe-elemani-4600473",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4600531": {
+   "t": 1795077111.6609492,
+   "title": "Dış Ticaret Müdürü",
+   "company": "GEÇGEL METAL DÖKÜM MAK.OTOM.SAN.TİC.LTD.ŞTİ.",
+   "url": "https://www.kariyer.net/is-ilani/gecgel-metal-dokum-mak-otom-san-tic-ltd-sti-dis-ticaret-muduru-4600531",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4600416": {
+   "t": 1795077115.7375047,
+   "title": "Dış Ticaret Operasyon Sorumlusu",
+   "company": "DOĞRULAR EV ÜRÜNLERİ A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/dogrular-ev-urunleri-a-s-dis-ticaret-operasyon-sorumlusu-4600416",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4600614": {
+   "t": 1795077119.1190367,
+   "title": "Planlama Mühendisi",
+   "company": "Aselsan Konya",
+   "url": "https://www.kariyer.net/is-ilani/aselsan-konya-planlama-muhendisi-4600614",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "6+ yıl deneyim"
   }
  },
  "dedupe": {
@@ -8028,44 +8065,48 @@
   "31f1aae91ff0e9ac": "linkedin:4492289837",
   "405bb531df6333ed": "linkedin:4492409133",
   "58abf589cae44142": "linkedin:4492401414",
-  "24064eb0cf70356c": "linkedin:4491376965"
+  "24064eb0cf70356c": "linkedin:4491376965",
+  "37eab335f1851b43": "kariyernet:4600473",
+  "64c30fd95aac4d20": "kariyernet:4600531",
+  "f78b9e2d363d8bbf": "kariyernet:4600416",
+  "b3dfe276bea6db9c": "kariyernet:4600614"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795076158.11157,
+   "last_run": 1795077069.0541115,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795076158.1115716,
+   "last_ok": 1795077069.0541134,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795075320.3858266,
+   "last_run": 1795077111.6581385,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795075320.385828,
+   "last_ok": 1795077111.6581407,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795073525.7961195,
+   "last_run": 1795077124.5659003,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795073525.796121,
+   "last_ok": 1795077124.565902,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795073530.8205676,
+   "last_run": 1795077130.5601983,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795073530.8205683,
+   "last_ok": 1795077130.5601997,
    "alerted": false,
    "ctx": {}
   },
@@ -8109,7 +8150,8 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 8
+   "rej_remote": 8,
+   "rej_exp": 1
   }
  },
  "details": {
@@ -10502,6 +10544,23 @@
    "track_from": "title",
    "llm": {},
    "description": "1957’den günümüze Türkiye’nin milli servetini ekonomiye kazandıran, Koç Topluluğu Enerji Grubu’nun köklü temsilcisi Demir Export olarak; 4 farklı lokasyonda 3.000’i aşkın çalışanımızla madencilik sektörüne yön veriyoruz.\n#Başkamadencilik mottosuyla; Dünya Doğa ve Doğal Kaynakları Koruma Birliği, Ramsar Sözleşmesi ve UNESCO kriterlerini çalışma prensiplerimizin merkezine koyuyor, doğaya ve geleceğe değer katan bir sorumlulukla hareket ediyoruz. Bu vizyonu paylaşacak,\nİspir İşletmesi\n’nde görev alacak \"\nMuhasebe Uzmanı\n\" arıyoruz.\nGENEL NİTELİKLER\nÜniversitelerin ilgili bölümlerinden mezun,\nMuha"
+  },
+  "kariyernet:4600614": {
+   "t": 1795077119.119075,
+   "source": "kariyernet",
+   "title": "Planlama Mühendisi",
+   "company": "Aselsan Konya",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "6+ yıl deneyim",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "description",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 6 - 15 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci), Doktora(Mezun)\n\nSavunma Sanayi sektöründe öncelikle silah ve silah sistemleri alanında maliyet, kalite ve teslimat performansı ile ilk akla gelen güvenilir bir stratejik partner olmak vizyonuyla yola çıkan ve Türk Silahlı Kuvvetleri' nin üretim ve ürün geliştirme ihtiyaçlarının milli imkanlarla karşılanmasına yönelik stratejinin güçlendirilmesi maksadı ile kurulan ASELSAN Konya, Türkiye’ nin en güçlü sanayi kuruluşlarından biri olma yolunda hızla ilerl"
   }
  },
  "pending": {}
