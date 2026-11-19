@@ -7637,6 +7637,25 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491399164": {
+   "t": 1795096874.4351263,
+   "title": "Network Kıdemli Uzman",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4491399164/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4601068": {
+   "t": 1795096920.835705,
+   "title": "Makine Mühendisi",
+   "company": "Özdöken Tarım Makinaları San.Tic.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/ozdoken-tarim-makinalari-san-tic-a-s-makine-muhendisi-4601068",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -8469,29 +8488,31 @@
   "d4f6979f8709671d": "elemannet:4811282",
   "4cab0cf5178502e6": "linkedin:4491617464",
   "efe2675ed4a8cdd2": "linkedin:4491620352",
-  "2e012b166f0d361d": "linkedin:4481893848"
+  "2e012b166f0d361d": "linkedin:4481893848",
+  "6d49705efc15d1a8": "linkedin:4491399164",
+  "c2338e39a59fb786": "kariyernet:4601068"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795095959.4195359,
+   "last_run": 1795096874.434687,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795095959.4195373,
+   "last_ok": 1795096874.4346886,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795095120.9112318,
+   "last_run": 1795096916.9519832,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795095120.9112334,
+   "last_ok": 1795096916.951985,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -11330,6 +11351,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Full Stack Developer (Junior) – Kocaeli / İzmit (Ofisten)\nKendine güveniyorsan, devamını oku.\nYeteneğinin farkında olan, ama onu nereye taşıyacağını henüz bulamamış birini arıyoruz.\nBir şeyler yapmış, kod yazmış, belki bir proje çıkarmış olabilirsin. Ama asıl istediğin, gerçek işlerin içinde büyümek. Bir ürünün yazılımından SEO’suna, reklamından kullanıcıya ulaşmasına kadar her aşamasını görmek istiyorsun.\nBiz eğitim, sağlık, e-ticaret ve daha birçok alanda yıllardır yazılım geliştiriyoruz. Bugün Türkiye’de ve yurt dışında yapay zekâ projeleri üzerindeyiz.\nSana hazır bir gelecek vaat etmiyoruz"
+  },
+  "kariyernet:4601068": {
+   "t": 1795096920.8357453,
+   "source": "kariyernet",
+   "title": "Makine Mühendisi",
+   "company": "Özdöken Tarım Makinaları San.Tic.A.Ş.",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 1 - 8 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Ehliyet: B sınıfı\n\nAR-GE sektöründe faaliyet gösteren firmamızda, yenilikçi projelerde görev alacak ve mühendislik çözümleri geliştirebilecek bir Makine Mühendisi arıyoruz. Bu pozisyonda, ileri düzey mühendislik bilgilerinizi kullanarak, dinamik ve hızlı tempolu projelerde liderlik yapacak, takım arkadaşlarınızla iş birliği içinde çalışacak ve şirketimizin teknoloji altyapısını iyileştirmek için katkı sağlayacaksınız.\nGenel Nitelikler\nÜniversitelerin Makine Mühendisliği bölümlerinden mezun\nEn az 1, en fazla 15 yıl M"
   }
  },
  "pending": {}
