@@ -7294,6 +7294,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4481321012": {
+   "t": 1795079763.5758736,
+   "title": "Full Stack Developer",
+   "company": "Innovance Consultancy",
+   "url": "https://www.linkedin.com/jobs/view/4481321012/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8090,17 +8100,18 @@
   "f78b9e2d363d8bbf": "kariyernet:4600416",
   "b3dfe276bea6db9c": "kariyernet:4600614",
   "9f98f31fd5b42e46": "linkedin:4479421607",
-  "a0b74f4db35858ec": "linkedin:4492135408"
+  "a0b74f4db35858ec": "linkedin:4492135408",
+  "e9030872a9fe4654": "linkedin:4481321012"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795078904.3295424,
+   "last_run": 1795079761.718236,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795078904.3295438,
+   "last_ok": 1795079761.7182374,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
@@ -8171,7 +8182,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 9,
+   "rej_remote": 10,
    "rej_exp": 1
   }
  },
@@ -10599,6 +10610,23 @@
    "track_from": "title",
    "llm": {},
    "description": "At Hepsiburada, we are driven by our mission to improve people's lives by developing innovative products and services. Prioritizing customer satisfaction, we offer over 280 million products across more than 30 categories. Through our marketplace model, we bring together over 100,000 businesses. With Türkiye’s and the region's largest Smart Operations Center, industry-leading R&D initiatives, and innovative solutions, we contribute significantly to the growth of the e-commerce ecosystem. For the past two years, we have proudly held the title of Turkey's most recommended e-commerce platform.\nThr"
+  },
+  "linkedin:4481321012": {
+   "t": 1795079763.5759125,
+   "source": "linkedin",
+   "title": "Full Stack Developer",
+   "company": "Innovance Consultancy",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "We are looking for a highly skilled and experienced\n\"Full Stack Developer\"\n. The job is hybrid and we expect the candidates to be in İstanbul. Join us if you have a penchant for developing solutions with cutting-edge applications for a better world.\nWhat Are The Required Qualifications?\nBachelor’s degree in Computer Engineering or related fields\n5+ years of professional software development experience with Java and Angular\nStrong experience with Java 17 and Hibernate/JPA\nSolid Angular experience in large, enterprise-scale applications\nExperience in RESTful & SOAP service technologies\nStrong kn"
   }
  },
  "pending": {}
