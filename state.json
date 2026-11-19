@@ -7608,6 +7608,35 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491617464": {
+   "t": 1795095959.4199748,
+   "title": "İş Zekası ve Raporlama Kıdemli Uzmanı",
+   "company": "KoçSistem",
+   "url": "https://www.linkedin.com/jobs/view/4491617464/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491620352": {
+   "t": 1795095961.5672257,
+   "title": "Data Science Specialist",
+   "company": "Otobid",
+   "url": "https://www.linkedin.com/jobs/view/4491620352/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4481893848": {
+   "t": 1795095963.3841045,
+   "title": "Tam Zamanlı Öğrenci",
+   "company": "97 Yazılım",
+   "url": "https://www.linkedin.com/jobs/view/4481893848/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8437,17 +8466,20 @@
   "6d97ef00e981908a": "isbul:100981",
   "094b1b9b9dd03cfe": "kariyernet:4116870",
   "ee984c024fb5ce58": "elemannet:4811309",
-  "d4f6979f8709671d": "elemannet:4811282"
+  "d4f6979f8709671d": "elemannet:4811282",
+  "4cab0cf5178502e6": "linkedin:4491617464",
+  "efe2675ed4a8cdd2": "linkedin:4491620352",
+  "2e012b166f0d361d": "linkedin:4481893848"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795095078.8548625,
+   "last_run": 1795095959.4195359,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795095078.8548641,
+   "last_ok": 1795095959.4195373,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
@@ -8518,7 +8550,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 21,
+   "rej_remote": 23,
    "rej_exp": 3
   }
  },
@@ -11264,6 +11296,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Yemek, Servis"
+  },
+  "linkedin:4491620352": {
+   "t": 1795095961.5672553,
+   "source": "linkedin",
+   "title": "Data Science Specialist",
+   "company": "Otobid",
+   "location": "Ataşehir",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "sahibinden.com, one of Türkiye’s leading platforms for buying and selling second-hand vehicles, continues to make life easier for its users with nearly 25 years of industry expertise and innovative solutions such as S-Araç Tedarik Sistemi and Otobid, developed in line with evolving customer needs.\nThrough S-Araç Tedarik Sistemi, professional buyers in the second-hand vehicle market can access a wide range of vehicles via a transparent and reliable platform. With Otobid, individual vehicle owners can sell their cars easily, quickly, and at a competitive market value through an online auction pl"
+  },
+  "linkedin:4481893848": {
+   "t": 1795095963.3841348,
+   "source": "linkedin",
+   "title": "Tam Zamanlı Öğrenci",
+   "company": "97 Yazılım",
+   "location": "İzmit",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Stajyer",
+   "track_from": "description",
+   "llm": {},
+   "description": "Full Stack Developer (Junior) – Kocaeli / İzmit (Ofisten)\nKendine güveniyorsan, devamını oku.\nYeteneğinin farkında olan, ama onu nereye taşıyacağını henüz bulamamış birini arıyoruz.\nBir şeyler yapmış, kod yazmış, belki bir proje çıkarmış olabilirsin. Ama asıl istediğin, gerçek işlerin içinde büyümek. Bir ürünün yazılımından SEO’suna, reklamından kullanıcıya ulaşmasına kadar her aşamasını görmek istiyorsun.\nBiz eğitim, sağlık, e-ticaret ve daha birçok alanda yıllardır yazılım geliştiriyoruz. Bugün Türkiye’de ve yurt dışında yapay zekâ projeleri üzerindeyiz.\nSana hazır bir gelecek vaat etmiyoruz"
   }
  },
  "pending": {}
