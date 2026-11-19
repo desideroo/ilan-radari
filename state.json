@@ -8649,13 +8649,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795109481.1153357,
+   "last_run": 1795110380.0118172,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795109481.1153374,
+   "last_ok": 1795110380.0118186,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
