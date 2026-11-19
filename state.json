@@ -7392,6 +7392,34 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491600468": {
+   "t": 1795084288.0907462,
+   "title": "kıdemli sistem yöneticisi",
+   "company": "Sağlık Yayıncılık",
+   "url": "https://www.linkedin.com/jobs/view/4491600468/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4430476964": {
+   "t": 1795084293.2570064,
+   "title": "AMS Verification Engineer",
+   "company": "Renesas Electronics",
+   "url": "https://www.linkedin.com/jobs/view/4430476964/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "kıdem: Orta-Üst Düzey Yönetici"
+  },
+  "linkedin:4492139381": {
+   "t": 1795084360.25035,
+   "title": "Product Scientist",
+   "company": "Bolt Insight",
+   "url": "https://www.linkedin.com/jobs/view/4492139381/",
+   "status": "dropped",
+   "score": 15,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8198,44 +8226,47 @@
   "871b18039ef13120": "linkedin:4491602048",
   "4601d24b3e940820": "kariyernet:4559093",
   "393885d5b6690fae": "kariyernet:4600651",
-  "e0446f02ec9db7d5": "linkedin:4491395351"
+  "e0446f02ec9db7d5": "linkedin:4491395351",
+  "c9f9b2072965df44": "linkedin:4491600468",
+  "9e4c5db468fa0910": "linkedin:4430476964",
+  "59992e58aff7bf4d": "linkedin:4492139381"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795083370.4198782,
+   "last_run": 1795084288.0901105,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795083370.4198797,
+   "last_ok": 1795084288.0901122,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795082526.0578535,
+   "last_run": 1795084335.1980486,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795082526.057855,
+   "last_ok": 1795084335.19805,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795080743.2768364,
+   "last_run": 1795084340.7135575,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795080743.2768373,
+   "last_ok": 1795084340.7135587,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795080748.1480205,
+   "last_run": 1795084345.9448195,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795080748.1480215,
+   "last_ok": 1795084345.9448204,
    "alerted": false,
    "ctx": {}
   },
@@ -8275,12 +8306,12 @@
   "2026-11-19": {
    "sent": 0,
    "dropped": 0,
-   "candidates": 0,
+   "candidates": 1,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
    "rej_remote": 14,
-   "rej_exp": 1
+   "rej_exp": 3
   }
  },
  "details": {
@@ -10843,6 +10874,52 @@
    "track_from": "title",
    "llm": {},
    "description": "Key Responsibilities\nDesign and develop AI agents and LLM-based applications.\nBuild AI-powered sales, CRM, and communication automation systems.\nIntegrate AI models with WhatsApp Business, APIs, and internal platforms.\nDevelop scalable AI infrastructure and automated workflows.\nRequirements\nStrong Python programming skills.\nExperience with OpenAI, Claude, Gemini, and LLM technologies.\nKnowledge of LangChain, LangGraph, RAG, and AI agents.\nExperience with n8n, Make, REST APIs, and databases.\nAbility to independently design and develop AI solutions.\nMinimum 2 years of relevant experience."
+  },
+  "linkedin:4430476964": {
+   "t": 1795084293.257041,
+   "source": "linkedin",
+   "title": "AMS Verification Engineer",
+   "company": "Renesas Electronics",
+   "location": "Greater Istanbul",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-17",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "kıdem: Orta-Üst Düzey Yönetici",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "Job Description\nWe are looking for an AMS Verification Engineer to join our team based in Istanbul.\nResponsibilities\nVerification of analog/mixed-signal systems.\nImplement test cases at IC and system level.\nDevelop event driven models for analog IC components and verify them.\nWork in collaboration with other teams and engineers.\nQualifications\nA degree in Electrical Engineering, Electronics, Information Technology or similar.\nUnderstanding both power management and related auxiliary circuitry: switching converters, linear converters, reference circuitry, bandgaps, data converters, and/or clock"
+  },
+  "linkedin:4492139381": {
+   "t": 1795084360.2504573,
+   "source": "linkedin",
+   "title": "Product Scientist",
+   "company": "Bolt Insight",
+   "location": "Ataşehir",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-16",
+   "tracks": [
+    "ai",
+    "fullstack"
+   ],
+   "rule_score": 30,
+   "reject": "",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {
+    "score": 15,
+    "cv": "02_Yapay_Zeka",
+    "summary": "Bolt Insight bünyesinde pazar araştırmaları için yapay zeka personası ve dijital ikizler inşa edecek Product Scientist aranmaktadır. LangChain, LangGraph, LLM ajanları, istatistiksel model doğrulama ve Python odaklı bir roldür.",
+    "why": "Adayın LLM ajanları, RAG mimarileri ve makine öğrenimi modelleri üzerine proje ve akademik çalışmaları mevcuttur.",
+    "gaps": "5 yıldan fazla veri bilimi/uygulamalı ML deneyimi ve prodüksiyon seviyesinde LLM ürün geliştirme geçmişi eksiktir.",
+    "military_required": false,
+    "min_years": 5,
+    "work_mode": "remote"
+   },
+   "description": "About The Role\nWe’re looking for a scientist who treats a model as a product. You want to know who will rely on its output and what decision it supports before choosing an architecture, and you measure success by whether researchers trust and use the result, not by whether the model shipped.\nAt Bolt Insight, our platform helps product, marketing and research teams understand their customers through AI-moderated interviews, real-time chat, media analysis and research insights. The Simulation Suite is our next big step: AI Personas, Digital Twins and synthetic respondents that let teams explore consumer behaviour faster, at lower cost and at a scale real fieldwork can’t reach.\nIn market research, a synthetic respondent is only useful if the industry can trust it, so every release passes a methodology gate before it reaches customers. As Product Scientist, you decide what the Simulation Suite should become scientifically, and you build and validate it yourself. You’ll own the technical direction and roadmap together with Product, Research and Engineering, and spend most of your time hands-on with data and models.\nWhat You’ll Be Doing\nBuild and prototype the models. Persona and twin construction, calibration against real survey and interview data, prompt and agent design, retrieval and evaluation pipelines. You’ll write and review code and pair with engineers on the path to production.\nDefine and run validation. Design the evidence we need to prove a twin or persona is good enough: benchmarks against ground-truth studies, distributional fidelity, consistency, bias and drift checks. Build our synthetic validation framework and an evidence pack aligned with ESOMAR and MRS guidance, and work with our methodology team to pass the release gate.\nOwn the Simulation Suite roadmap. Turn bets into clear, shippable increments: category-specific Digital Twins, the Digital Twins MVP for pilot clients, agentic quantitative segments, always-on synthetic panels and moderated focus groups, and eventually multi-category, self-serve twin creation. Prioritise, write crisp specs and keep the work moving.\nMake the trade-offs explicit. Decide what is good enough for a pilot versus GA, and where synthetic data complements real fieldwork and where it shouldn’t replace it. Communicate those limits honestly to customers and internal teams.\nWork with LLMs in production. Build on OpenAI, Claude and Gemini using LangChain and LangGraph, and evaluate with Langfuse. Balance quality, latency "
   }
  },
  "pending": {}
