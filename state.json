@@ -7777,6 +7777,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4490438808": {
+   "t": 1795103182.3290656,
+   "title": "IT Engineer - Specialization EDI",
+   "company": "HUGO BOSS",
+   "url": "https://www.linkedin.com/jobs/view/4490438808/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8624,17 +8634,18 @@
   "b24271512ef50c6d": "kariyernet:1860339",
   "37b99f88aee0fd40": "linkedin:4491608797",
   "70ce42e1ddb947c4": "linkedin:4492165182",
-  "0c09d8038f4823cf": "kariyernet:4596893"
+  "0c09d8038f4823cf": "kariyernet:4596893",
+  "96519335f1e41319": "linkedin:4490438808"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795102274.5193636,
+   "last_run": 1795103180.5798783,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795102274.5193648,
+   "last_ok": 1795103180.5798795,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
@@ -8705,7 +8716,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 25,
+   "rej_remote": 26,
    "rej_exp": 3
   }
  },
@@ -11570,6 +11581,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: En az 3 yıl tecrübeli; Eğitim Seviyesi: Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun); Yabancı Dil: İngilizce(Okuma : İyi, Yazma : İyi, Konuşma : İyi)\n\nETAP KOZMETİK KİMYA SAN. VE DIŞ TİC. A.Ş., %100 yerli sermayesiyle Konya'daki üretim tesisinde toz, sıvı, asit, kapsül deterjan ve kozmetik ürünlerinin yerli üretimini gerçekleştiren, sektörünün öncü firmalarından biridir.\nSatın Alma\nekibimizde görevlendirilmek üzere Satın Alma Uzmanı arıyoruz.\nGörev tanımı:\nYurtiçi ve yurtdışı tedarikçilerden, üretim ve planlamaların doğrultusunda b"
+  },
+  "linkedin:4490438808": {
+   "t": 1795103182.329098,
+   "source": "linkedin",
+   "title": "IT Engineer - Specialization EDI",
+   "company": "HUGO BOSS",
+   "location": "Gaziemir",
+   "work_mode": "",
+   "posted": "2026-11-17",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {},
+   "description": "Our vision is to establish HUGO BOSS as the leading premium tech-driven fashion platform worldwide and to be one of the top 100 global brands. At HUGO BOSS, we work as a team to apply our knowledge, skills and experience together and create a diversity of ideas and solutions. What unites us? We love fashion, we change fashion!\nAt HUGO BOSS, you have the opportunity to contribute your personality, ideas and creativity — because only when we break new ground together can we create something unique. Become part of our team of more than 19.000 employees worldwide and shape your future at HUGO BOSS"
   }
  },
  "pending": {}
