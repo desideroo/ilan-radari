@@ -7324,6 +7324,34 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491395318": {
+   "t": 1795081570.7609277,
+   "title": "Kıdemli Network Uzmanı",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4491395318/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491384664": {
+   "t": 1795081570.7609751,
+   "title": "Network Kıdemli Uzman | Ankara",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4491384664/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492293822": {
+   "t": 1795081573.2803385,
+   "title": "Sistem ve Network Uzmanı",
+   "company": "RÖNESANS HOLDİNG",
+   "url": "https://www.linkedin.com/jobs/view/4492293822/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8123,17 +8151,20 @@
   "a0b74f4db35858ec": "linkedin:4492135408",
   "e9030872a9fe4654": "linkedin:4481321012",
   "6879d583835c0ebb": "linkedin:4491395308",
-  "baa1f042086b877e": "kariyernet:4600628"
+  "baa1f042086b877e": "kariyernet:4600628",
+  "5f84ef6414ca8a62": "linkedin:4491395318",
+  "6ea87ea927baafa3": "linkedin:4491384664",
+  "2471ce7fd6304898": "linkedin:4492293822"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795080691.2483711,
+   "last_run": 1795081570.7604234,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795080691.2483726,
+   "last_ok": 1795081570.7604249,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -8204,7 +8235,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 11,
+   "rej_remote": 12,
    "rej_exp": 1
   }
  },
@@ -10683,6 +10714,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Lise(Mezun)\n\nMarka Elçisi (Tam Zamanlı - Tüm Türkiye)\nŞirket Tanımı:\nHakman Elektronik; BaByliss, Ulike ve Laurastar gibi dünya lideri teknolojileri Türkiye pazarındaki tüketicilerle buluşturan, müşteri memnuniyetini ve kaliteli hizmet anlayışını ilke edinmiş lider distribütör firmadır.Büyüyen organizasyonumuzda, premium markalarımızın perakende satış noktalarındaki yüzü olacak, dinamik ve satış odaklı \"Tam Zamanlı Marka Elçileri\" arıyoruz.\nİş Tanımı\nSatış noktalarında tüketicileri güler yüzle karşılamak.\nMüşterilerin ihtiyaçla"
+  },
+  "linkedin:4492293822": {
+   "t": 1795081573.2803707,
+   "source": "linkedin",
+   "title": "Sistem ve Network Uzmanı",
+   "company": "RÖNESANS HOLDİNG",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Biz Kimiz?\n1993 yılında kurulan Rönesans Holding, bugün Türkiye, Avrupa, Orta Asya ve Afrika’yı kapsayan geniş bir coğrafyada; inşaat, gayrimenkul, enerji, endüstri ve sağlık alanlarında ana müteahhit ve yatırımcı olarak faaliyet göstermektedir.\n40.000’i aşkın çalışanı ve 60’tan fazla milletten oluşan güçlü ve çok kültürlü ekibiyle Rönesans, dünyanın en büyük müteahhitlik şirketleri arasında yer almakta; sürdürülebilir bir gelecek inşa etme vizyonuyla yenilikçi ve küresel ölçekteki mühendislik projelerini hayata geçirmeye devam etmektedir.\nAdaylardan Beklentilerimiz\nŞirketimizin Kuzey Marmara "
   }
  },
  "pending": {}
