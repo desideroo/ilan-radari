@@ -7815,6 +7815,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491633704": {
+   "t": 1795118508.4246907,
+   "title": "Mağaza Görsel Uzmanı",
+   "company": "Vayro Tekstil",
+   "url": "https://www.linkedin.com/jobs/view/4491633704/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8666,29 +8675,30 @@
   "96519335f1e41319": "linkedin:4490438808",
   "2c1c575c3ddc066d": "linkedin:4475799384",
   "9f79a273976eb9b9": "linkedin:4492177799",
-  "27bed32a03b3c6f5": "kariyernet:4601259"
+  "27bed32a03b3c6f5": "kariyernet:4601259",
+  "e531d50d7483144e": "linkedin:4491633704"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795117580.9935129,
+   "last_run": 1795118505.8056924,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795117580.993515,
+   "last_ok": 1795118505.8056948,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795116718.1465778,
+   "last_run": 1795118549.134919,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795116718.1465797,
+   "last_ok": 1795118549.1349213,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
