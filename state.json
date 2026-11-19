@@ -7152,6 +7152,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4466545516": {
+   "t": 1795072559.4706266,
+   "title": "Network Technology Technical Architect (Hybrid)",
+   "company": "Amaris Consulting | Part of Mantu",
+   "url": "https://www.linkedin.com/jobs/view/4466545516/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -7933,17 +7942,18 @@
   "c48a444f26e00612": "linkedin:4491374476",
   "282077246045e2e1": "kariyernet:4600494",
   "fb0bff418273eb95": "kariyernet:4412019",
-  "cc654cc5500a565d": "linkedin:4491368998"
+  "cc654cc5500a565d": "linkedin:4491368998",
+  "10f3300fe3296771": "linkedin:4466545516"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795071709.4158866,
+   "last_run": 1795072559.4700613,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795071709.4158878,
+   "last_ok": 1795072559.4700623,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
