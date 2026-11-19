@@ -7352,6 +7352,36 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491602048": {
+   "t": 1795082484.9143531,
+   "title": "Financial Planning and Analysis Supervisor",
+   "company": "Honda Türkiye A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491602048/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4559093": {
+   "t": 1795082529.4530845,
+   "title": "Bordro ve Özlük İşleri Uzmanı",
+   "company": "KENTPAR OTOMOTİV YEDEK PARÇA ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/kentpar-otomotiv-yedek-parca-anonim-sirketi-bordro-ve-ozluk-isleri-uzmani-4559093",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "kariyernet:4600651": {
+   "t": 1795082533.2652962,
+   "title": "Freelance Tele-Satış Yetkilisi - İngilizce",
+   "company": "Gizli Firma",
+   "url": "https://www.kariyer.net/is-ilani/gizli-firma-freelance-tele-satis-yetkilisi-ingilizce-4600651",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -8154,29 +8184,32 @@
   "baa1f042086b877e": "kariyernet:4600628",
   "5f84ef6414ca8a62": "linkedin:4491395318",
   "6ea87ea927baafa3": "linkedin:4491384664",
-  "2471ce7fd6304898": "linkedin:4492293822"
+  "2471ce7fd6304898": "linkedin:4492293822",
+  "871b18039ef13120": "linkedin:4491602048",
+  "4601d24b3e940820": "kariyernet:4559093",
+  "393885d5b6690fae": "kariyernet:4600651"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795081570.7604234,
+   "last_run": 1795082482.564291,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795081570.7604249,
+   "last_ok": 1795082482.564293,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795080734.6192644,
+   "last_run": 1795082526.0578535,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795080734.6192658,
+   "last_ok": 1795082526.057855,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -8235,7 +8268,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 12,
+   "rej_remote": 13,
    "rej_exp": 1
   }
  },
@@ -10731,6 +10764,57 @@
    "track_from": "title",
    "llm": {},
    "description": "Biz Kimiz?\n1993 yılında kurulan Rönesans Holding, bugün Türkiye, Avrupa, Orta Asya ve Afrika’yı kapsayan geniş bir coğrafyada; inşaat, gayrimenkul, enerji, endüstri ve sağlık alanlarında ana müteahhit ve yatırımcı olarak faaliyet göstermektedir.\n40.000’i aşkın çalışanı ve 60’tan fazla milletten oluşan güçlü ve çok kültürlü ekibiyle Rönesans, dünyanın en büyük müteahhitlik şirketleri arasında yer almakta; sürdürülebilir bir gelecek inşa etme vizyonuyla yenilikçi ve küresel ölçekteki mühendislik projelerini hayata geçirmeye devam etmektedir.\nAdaylardan Beklentilerimiz\nŞirketimizin Kuzey Marmara "
+  },
+  "linkedin:4491602048": {
+   "t": 1795082484.914392,
+   "source": "linkedin",
+   "title": "Financial Planning and Analysis Supervisor",
+   "company": "Honda Türkiye A.Ş.",
+   "location": "Aliağa",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "Job Description\nLead and coordinate the budgeting process across departments.\nAnalyze financial trends, variances, and performance metrics to support business decisions.\nEnsure timely completion of month-end and year-end closing processes.\nMaintain accurate records of direct and indirect costs.\nMonitor actual costs versus budgeted figures and perform variance analysis\nIdentify cost drivers and implement cost control procedures and policies.\nConduct cost-benefit analyses for proposed investments.\nDeliver monthly and quarterly performance reviews to senior management.\nPrepare detailed cost repor"
+  },
+  "kariyernet:4559093": {
+   "t": 1795082529.4531295,
+   "source": "kariyernet",
+   "title": "Bordro ve Özlük İşleri Uzmanı",
+   "company": "KENTPAR OTOMOTİV YEDEK PARÇA ANONİM ŞİRKETİ",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 2 - 25 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı, Muaf; Ehliyet: B sınıfı\n\nGENEL NİTELİKLER\nEğitim:\nÜniversitelerin İktisat, İşletme, Çalışma Ekonomisi ve Endüstri İlişkileri, Endüstri Mühendisliği veya ilgili bölümlerinden mezun.\nDeneyim:\nBordro ve Özlük İşleri alanında en az 3 yıl deneyimli\nMevzuat Bilgisi:\n4857 Sayılı İş Kanunu, SGK ve ilgili iş hukuku mevzuatına hakim, güncel gelişmeleri takip eden,\nAR-GE Merkezi:\nAR-GE Merkezi bordro ve takip süreçlerini takip edebilecek,\nTeşvik Yönetimi:\nGüncel bordro ve istihd"
+  },
+  "kariyernet:4600651": {
+   "t": 1795082533.265335,
+   "source": "kariyernet",
+   "title": "Freelance Tele-Satış Yetkilisi - İngilizce",
+   "company": "Gizli Firma",
+   "location": "İstanbul(Avr.)",
+   "work_mode": "Uzaktan / Remote",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Freelance olarak, tamamı İngilizce iletişim yürütülen müşteri süreçlerimizde görev alacak, uzaktan çalışabilecek ekip arkadaşları arıyoruz.\nİleri seviyede sözlü ve yazılı\nİngilizce\niletişim becerisine sahip,\nTercihen çağrı merkezi, müşteri hizmetleri, satış ya da benzer alanlarda deneyimli,\nMüşteri memnuniyeti ve\nmüşteri odaklı\nçalışma anlayışına sahip,\nSözlü ifade ve\netkili iletişim\nbecerileri güçlü, diksiyonu düzgün,\nProblem çözme\nve çözüm üretme becerileri gelişmiş,\nİkna edicilik\nve\nikna kabiliyeti\nyüksek, hedef odaklı çalışabilen,\nTakım çalışmasına yatkın, iş birliğine açık ve\ntakımla iyi "
   }
  },
  "pending": {}
