@@ -8410,13 +8410,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795091467.4176357,
+   "last_run": 1795092352.654921,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795091467.4176373,
+   "last_ok": 1795092352.6549225,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
