@@ -8467,6 +8467,54 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491922670": {
+   "t": 1795186908.2341344,
+   "title": "Data Analyst",
+   "company": "Apilex",
+   "url": "https://www.linkedin.com/jobs/view/4491922670/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491934254": {
+   "t": 1795186910.4212265,
+   "title": "Data Scientist",
+   "company": "Loom Games",
+   "url": "https://www.linkedin.com/jobs/view/4491934254/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4482476294": {
+   "t": 1795186912.5860958,
+   "title": "Analiz & Raporlama Uzman Yardımcısı",
+   "company": "MUDO",
+   "url": "https://www.linkedin.com/jobs/view/4482476294/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4601946": {
+   "t": 1795186952.59895,
+   "title": "Proje Yöneticisi",
+   "company": "Koyuncu Grup",
+   "url": "https://www.kariyer.net/is-ilani/koyuncu-grup-proje-yoneticisi-4601946",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4601882": {
+   "t": 1795186971.50621,
+   "title": "Software Engineer - Open To People With Disabilities",
+   "company": "EPAM SYSTEMS TURKEY YAZILIM GELİŞTİRME LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/epam-systems-turkey-yazilim-gelistirme-limited-sir-software-engineer-open-to-people-with-disabiliti-4601882",
+   "status": "sent",
+   "score": 40,
+   "msg": 61
   }
  },
  "dedupe": {
@@ -9388,29 +9436,34 @@
   "b6111a4221e4f160": "linkedin:4491930273",
   "368fde77935b0738": "linkedin:4490868537",
   "7b95ed8ad324fde7": "elemannet:4812068",
-  "c103c77db0398f50": "elemannet:4812077"
+  "c103c77db0398f50": "elemannet:4812077",
+  "d83c7a6bbf7f1613": "linkedin:4491922670",
+  "bd3da17bb009fc96": "linkedin:4491934254",
+  "96a690b4562b3fe8": "linkedin:4482476294",
+  "c5829f9e1d67c75f": "kariyernet:4601946",
+  "8b2fb3e49cd5d79e": "kariyernet:4601882"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795185966.3131924,
+   "last_run": 1795186898.4500086,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795185966.3131938,
+   "last_ok": 1795186898.4500105,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795184256.8679554,
+   "last_run": 1795186952.5961046,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795184256.8679576,
+   "last_ok": 1795186952.596107,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -9473,13 +9526,13 @@
    "rej_exp": 3
   },
   "2026-11-20": {
-   "sent": 1,
+   "sent": 2,
    "dropped": 1,
-   "candidates": 2,
+   "candidates": 3,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 13
+   "rej_remote": 16
   }
  },
  "details": {
@@ -12807,6 +12860,85 @@
    "track_from": "title",
    "llm": {},
    "description": "Gıda üretim sektöründe faaliyet gösteren Afyon/Sultandağı fabrikamızın muhasebe departmanında görevlendirilmek üzere, muhasebe süreçlerine hâkim, analitik düşünebilen ve ekip çalışmasına yatkın Muhasebe Uzmanı arıyoruz.\nGörev ve Sorumluluklar\nGünlük muhasebe kayıtlarının mevzuata ve şirket prosedürlerine uygun şekilde gerçekleştirilmesi.\nAlış, satış, gider ve masraf faturalarının kontrolü ve muhasebeleştirilmesi.\nCari hesap kayıtlarının takibi ve mutabakat işlemlerinin yapılması.\nBanka, kasa ve ödeme hareketlerinin muhasebe kayıtlarının gerçekleştirilmesi.\nE-Fatura, E-Arşiv ve E-Defter süreçle"
+  },
+  "linkedin:4491922670": {
+   "t": 1795186908.234166,
+   "source": "linkedin",
+   "title": "Data Analyst",
+   "company": "Apilex",
+   "location": "Şişli",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Apilex is an AI-native legal operating system that manages lawyers' entire legal workflows end to end, powered by AI systems purpose-built for each jurisdiction's legal framework. We bring legal research, drafting of pleadings and contracts, document analysis, and case preparation together in a single experience. We currently operate in France, Turkey, and Germany, and we aim to extend the growth we've achieved in our current markets to Brazil, Spain, and Italy.\nWe achieved this growth entirely bootstrapped, without raising any external investment, making us one of the fastest go-to-market suc"
+  },
+  "linkedin:4491934254": {
+   "t": 1795186910.4212751,
+   "source": "linkedin",
+   "title": "Data Scientist",
+   "company": "Loom Games",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "About Loom Games\nLoom Games is an Istanbul-based mobile game studio, and our superpower is discovering new, unique puzzle mechanics. We're a small, ambitious team, which means every person here has real impact. We're now growing the team to take Pixel Flow! to the next level and to build the next hits that will define Loom Games.\nThe Role\nAs a\nData Scientist\n, you'll be the analytical engine behind the game. You'll find the insights that shape levels, LiveOps and monetization, build models that predict player behavior, and make experimentation the way we decide. You'll work closely with produc"
+  },
+  "linkedin:4482476294": {
+   "t": 1795186912.586133,
+   "source": "linkedin",
+   "title": "Analiz & Raporlama Uzman Yardımcısı",
+   "company": "MUDO",
+   "location": "Şişli",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "GENEL NİTELİKLER VE İŞ TANIMI\n1964 yılında Beyoğlu Fitaş Pasajı’nda 12 metrekarelik bir dükkanda başlayan maceramıza, Türkiye’nin 27 ilinde 1.400’ü aşkın çalışanımız ve 90.000 m²’nin üzerinde satış alanına sahip yaklaşık 120 mağazamızda devam ediyoruz.\nSizi de, yaratıcı ve müşterilerinin beklentilerini anlayan güçlü ekibimizin bir parçası olmaya davet ediyoruz.\nMudo ekibi olarak, Mecidiyeköy ofisimizde yer alan\nGiyim-Merkezi Planlama\nbiriminde görevlendirilmek üzere\n“Analiz & Raporlama Uzman Yardımcısı\"\narıyoruz.\nÜniversitelerin Endüstri Mühendisliği, İstatistik, Ekonometri, İşletme veya İktis"
+  },
+  "kariyernet:4601882": {
+   "t": 1795186971.506374,
+   "source": "kariyernet",
+   "title": "Software Engineer - Open To People With Disabilities",
+   "company": "EPAM SYSTEMS TURKEY YAZILIM GELİŞTİRME LİMİTED ŞİRKETİ",
+   "location": "Antalya",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [
+    "fullstack"
+   ],
+   "rule_score": 75,
+   "reject": "",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {
+    "score": 40,
+    "cv": "03_Full_Stack",
+    "summary": "EPAM, engelli adayların başvurusuna açık olarak uzaktan çalışacak farklı seviyelerde yazılım mühendisleri aramaktadır. Pozisyon yazılım geliştirme, API ve veri tabanı entegrasyonu, bulut ve CI/CD süreçlerini kapsamaktadır.",
+    "why": "Adayın nesne yönelimli programlama, REST API, SQL, Git ve Docker yetkinlikleri ile B2 seviye İngilizcesi ilanın teknik temel şartlarıyla örtüşmektedir.",
+    "gaps": "İlan engelli kadrosu kapsamındadır (adayın engelli statüsü bulunmamaktadır); bulut platformları (AWS/Azure) tecrübesi eksiktir.",
+    "military_required": false,
+    "min_years": 0,
+    "work_mode": "remote"
+   },
+   "description": "Software Engineer Positions - Open to People with Disabilities\nWe welcome applications from people with disabilities.\nAbout the Role\nEPAM is looking for talented software professionals to be evaluated across different departments. We particularly encourage applications from people with disabilities, and candidates at junior, mid and senior levels are all welcome. Your experience level will be assessed based on your skills and background.\nYou will join product and platform teams serving our clients, working alongside software engineers, data engineers, QA specialists and DevOps experts to turn client needs into reliable, scalable software.\nResponsibilities\nUnderstand client needs and translate them into software requirements\nDesign, build and maintain client-facing interfaces as well as server-side services and APIs\nBuild and maintain databases, data pipelines and system integrations\nDevelop and run automated tests, and contribute to solutions that improve software quality\nBuild, deploy and monitor applications in cloud and container environments\nContribute to data-driven and AI-enabled features where relevant to the project\nTake part in CI/CD, version control and agile development practices\nCommunicate effectively within your team and with clients\nRequirements\nExperience in software development (assessed by level), with a solid foundation in at least one programming language\nHands-on experience with at least one programming language and framework\nExperience with Git and version control\nDatabase and SQL knowledge\nUnderstanding of REST API concepts\nStrong problem-solving skills and a willingness to keep learning\nExcellent written and spoken English (B2+ level)\nNice to Have\nExperience with cloud platforms (AWS, Azure, GCP)\nKnowledge of container technologies (Docker, Kubernetes)\nExperience with test automation and CI/CD tools\nOpen source contributions or personal projects\nCertifications\nWhat We Offer\nContinuous learning: diverse projects, an assessment center for objective competency review, a personal development plan, mentoring and leadership programs, certification support, access to more than 2,500 internal courses, and English courses taught by certified teachers\nCorporate benefits: extra leave days and referral bonuses\nCompensation: competitive pay in USD, regular salary and performance reviews\nHealth: private health insurance and well-being events\nWorkplace: recreation areas, kitchens, tea, coffee and snacks, sports equipment, game consoles, IT equipme"
   }
  },
  "pending": {}
