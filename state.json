@@ -8151,6 +8151,62 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492565925": {
+   "t": 1795173361.5270216,
+   "title": "Head of Brand & Digital Growth",
+   "company": "Ödeal",
+   "url": "https://www.linkedin.com/jobs/view/4492565925/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491906625": {
+   "t": 1795173361.5272071,
+   "title": "Senior Java Developer",
+   "company": "i2i Systems",
+   "url": "https://www.linkedin.com/jobs/view/4491906625/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491922042": {
+   "t": 1795173363.815141,
+   "title": "Muhasebe Personeli",
+   "company": "Ercan Oto",
+   "url": "https://www.linkedin.com/jobs/view/4491922042/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4491920091": {
+   "t": 1795173366.2840323,
+   "title": "Mobil Backend Geliştirici",
+   "company": "ICterra Bilgi ve İletişim Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4491920091/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4601584": {
+   "t": 1795173407.567838,
+   "title": "Proje Müdürü",
+   "company": "Gizli Firma",
+   "url": "https://www.kariyer.net/is-ilani/gizli-firma-proje-muduru-4601584",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4383466": {
+   "t": 1795173407.5678928,
+   "title": "Özel Bankacılık Portföy Yöneticisi",
+   "company": "Anadolubank",
+   "url": "https://www.kariyer.net/is-ilani/anadolubank-ozel-bankacilik-portfoy-yoneticisi-4383466",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9038,29 +9094,35 @@
   "6743998b7d8f2ee5": "linkedin:4491907091",
   "8bd564939042b5eb": "linkedin:4491915151",
   "55335a82bebf9139": "linkedin:4482878601",
-  "046c819ff4051c20": "linkedin:4491602361"
+  "046c819ff4051c20": "linkedin:4491602361",
+  "7421ccc1ee3c1b70": "linkedin:4492565925",
+  "bb2c7eddf23bd4ec": "linkedin:4491906625",
+  "aa434896cdfd6800": "linkedin:4491922042",
+  "2e14d026c6c911c4": "linkedin:4491920091",
+  "5d818346191ed268": "kariyernet:4601584",
+  "f7c7ffda0c7509e4": "kariyernet:4383466"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795172503.690026,
+   "last_run": 1795173361.5264611,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795172503.6900275,
+   "last_ok": 1795173361.5264633,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795171612.1596634,
+   "last_run": 1795173407.56767,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795171612.1596656,
+   "last_ok": 1795173407.567672,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -9129,7 +9191,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 7
+   "rej_remote": 8
   }
  },
  "details": {
@@ -12259,6 +12321,40 @@
    "track_from": "title",
    "llm": {},
    "description": "ARANAN NİTELİKLER\nÜniversitelerin Bilgisayar Mühendisliği, Elektronik Mühendisliği gibi 4 yıllık Teknik bölümlerinden mezun,\nAnkara'da ikamet eden(Zorunlu),\nBilgi güvenliği ve benzer pozisyonlarda en az 5 yıl deneyimli,\nGüvenlik tabanlı çözümlerin tasarımlarında ve saha uygulamalarında tecrübe sahibi,\nFirewall, Switch, Router, Bulut Ortamları Güvenliği yönetiminde tecrübeli,\nWindows işletim sistemleri, Linux işletim sistemleri, Sanallaştırma altyapıları, Microservice mimarileri (Docker, Kubernates) yönetiminde deneyimli,\nKritik sistemleri analiz edebilecek ve sistemlerin sıkılaştırma aksiyonla"
+  },
+  "linkedin:4491922042": {
+   "t": 1795173363.815171,
+   "source": "linkedin",
+   "title": "Muhasebe Personeli",
+   "company": "Ercan Oto",
+   "location": "Elazığ, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "MUHASEBE PERSONELİ ARANIYOR\nERCAN OTO | ELAZIĞ\nErcan Oto bünyesinde görevlendirilmek üzere, muhasebe süreçlerine hâkim, alanında deneyimli, dikkatli, sorumluluk bilinci yüksek ve iş disiplinine sahip çalışma arkadaşı arıyoruz.\nGÖREV VE SORUMLULUKLAR\n- Günlük muhasebe ve finansal kayıt işlemlerini yürütmek,\n- Alış ve satış faturalarının kontrolünü ve takibini sağlamak,\n- Cari hesap mutabakatlarını gerçekleştirmek,\n- Tahsilat ve ödeme süreçlerini takip etmek,\n- Muhasebe evraklarının düzenli şekilde arşivlenmesini sağlamak,\n- İlgili birimlerle koordineli çalışarak muhasebe süreçlerini yürütmek.\nA"
+  },
+  "linkedin:4491920091": {
+   "t": 1795173366.2840714,
+   "source": "linkedin",
+   "title": "Mobil Backend Geliştirici",
+   "company": "ICterra Bilgi ve İletişim Teknolojileri",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "ICterra, Münih, İstanbul ve Ankara'da ofisleri bulunan küresel bir yazılım mühendisliği şirketidir. 30 yıllık yazılım geliştirme deneyimini teknoloji uzmanlığı ve kanıtlanmış metodolojilerle birleştirerek, küresel olarak birden fazla sektörde müşterilerimize yenilikçi çözümler sunuyoruz. 200'den fazla yazılım uzmanıyla, yazılım geliştirme ve test hizmetleri sağlayarak dünyanın en iyi BT ve savunma şirketleriyle stratejik ortaklıklar kuruyoruz.\nFinans sektöründe faaliyet gösteren müşterimiz ile birlikte yürütmüş olduğumuz projelerimiz için\nMobil Backend Geliştirici\nolarak müşteri lokasyonundan "
   }
  },
  "pending": {}
