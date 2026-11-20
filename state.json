@@ -7928,6 +7928,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4408649": {
+   "t": 1795159013.6907065,
+   "title": "Yurtdışı Tır Şoförü",
+   "company": "Sertrans Uluslararası Nakliyat ve Tic. A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/sertrans-uluslararasi-nakliyat-ve-tic-a-s-yurtdisi-tir-soforu-4408649",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4601371": {
+   "t": 1795159027.978502,
+   "title": "Kariyer.Netle Mülakat 101",
+   "company": "Kariyer Etkinlikleri",
+   "url": "https://www.kariyer.net/is-ilani/kariyer-etkinlikleri-kariyer-netle-mulakat-101-4601371",
+   "status": "dropped",
+   "score": 10,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8791,13 +8809,15 @@
   "838a299323141c06": "linkedin:4492799133",
   "60a7948106066b7d": "linkedin:4491900098",
   "e0f58f763fa852ce": "linkedin:4491185796",
-  "4057f2250d48312f": "isbul:101014"
+  "4057f2250d48312f": "isbul:101014",
+  "107dd3a01366708a": "kariyernet:4408649",
+  "1b20bb51da8c890e": "kariyernet:4601371"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795158099.852997,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Odoo&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
+   "last_run": 1795158972.9723692,
+   "fails": 2,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
    "last_ok": 1795157160.553247,
    "alerted": false,
    "ctx": {
@@ -8807,15 +8827,15 @@
    }
   },
   "kariyernet": {
-   "last_run": 1795157199.506175,
+   "last_run": 1795159013.6901815,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795157199.5061767,
+   "last_ok": 1795159013.6901832,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -8879,8 +8899,8 @@
   },
   "2026-11-20": {
    "sent": 0,
-   "dropped": 0,
-   "candidates": 0,
+   "dropped": 1,
+   "candidates": 1,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
@@ -11867,6 +11887,34 @@
    "track_from": "title",
    "llm": {},
    "description": "Sistem Yönetimi Uzmanı (Çevresel Sistemler)\nFinans sektörünün önde gelen kurumlarından biri için deneyimli bir\nÇevresel Sistemler Yönetimi Uzmanı\narıyoruz.\nLokasyon:\nİstanbul\nÇalışma Modeli:\nHibrit\nDeneyim:\n+5 yıl\nSorumluluklar\nActive Directory ve yan servislerinin (KMS, DNS, GPO, DHCP, RDS, WDS, CA, BitLocker, NTP vb.) kurulum, yönetim, bakım, destek ve izleme işlemlerini yürütmek\nExchange Server, Veritas Enterprise Vault, CodeTwo, Microsoft Teams ve SMTP sistemlerinin yönetimini sağlamak\nFileOrbis, File Server ve Print Server yapılarının kurulum, bakım ve desteğini yapmak\nSystem Center Suite"
+  },
+  "kariyernet:4601371": {
+   "t": 1795159027.9785864,
+   "source": "kariyernet",
+   "title": "Kariyer.Netle Mülakat 101",
+   "company": "Kariyer Etkinlikleri",
+   "location": "Adana",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [
+    "fullstack"
+   ],
+   "rule_score": 45,
+   "reject": "",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "description",
+   "llm": {
+    "score": 10,
+    "cv": "06_Genel",
+    "summary": "Kariyer.net tarafından düzenlenen online Mülakat 101 ve CV hazırlama semineridir. Etkili özgeçmiş hazırlama teknikleri ve mülakat süreçleri hakkında bilgilendirme sunulmaktadır.",
+    "why": "Yeni mezun bir aday olarak mülakat becerilerini geliştirmeye yönelik bir etkinlik olsa da gerçek bir iş pozisyonu değildir.",
+    "gaps": "Gerçek bir istihdam veya bilişim pozisyonu sunmamaktadır, online eğitim etkinliğidir.",
+    "military_required": false,
+    "min_years": 0,
+    "work_mode": "remote"
+   },
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci), Doktora(Mezun)\n\n'Kariyer.net'le Mülakat 101'\nkonulu online eğitimiyle Kariyer.net, şimdi seninle!\nProfesyonel ve etkili özgeçmiş (CV) hazırlama teknikleri\nİnsan kaynakları uzmanlarının özgeçmişte önem verdikleri noktalar\nFarklı mülakat yöntemleri neler?\nMülakat öncesinde, anında ve sonrasında yapılması gerekenler neler?\nMülakatlarda beden dilini nasıl daha etkin kullanabilirsin?\nHepsi ve daha fazlası için  '\nKariyer.net'le Mülakat 101\n'\nonline seminerine katıl, aklına takılan soruları canlı yayında sor, kariyerinde fark yarat!\nKariyer yolculuğun boyunca Kariyer.net her zaman seninle!\nHadi hemen ilana başvur ve yol arkadaşlığımızı başlat!\nTarih:\n23\nKasım 2026, Pazartesi\nSaat:\n17:30"
   }
  },
  "pending": {}
