@@ -7955,6 +7955,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4584157": {
+   "t": 1795160811.3562226,
+   "title": "Mağaza Müdürü- Konya Enntepe AVM",
+   "company": "Nocturne",
+   "url": "https://www.kariyer.net/is-ilani/nocturne-magaza-muduru-konya-enntepe-avm-4584157",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8821,44 +8830,47 @@
   "4057f2250d48312f": "isbul:101014",
   "107dd3a01366708a": "kariyernet:4408649",
   "1b20bb51da8c890e": "kariyernet:4601371",
-  "5f065f8dddf3c930": "linkedin:4491901343"
+  "5f065f8dddf3c930": "linkedin:4491901343",
+  "42b415c539bb760e": "kariyernet:4584157"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795159872.0571184,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795160770.904184,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
    "last_ok": 1795159872.0571198,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 14,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
-   "last_run": 1795159013.6901815,
+   "last_run": 1795160811.3540747,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795159013.6901832,
+   "last_ok": 1795160811.3540769,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795157205.4423554,
+   "last_run": 1795160817.2255058,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795157205.4423568,
+   "last_ok": 1795160817.2255077,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795157211.2836132,
+   "last_run": 1795160822.3729022,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795157211.2836144,
+   "last_ok": 1795160822.3729033,
    "alerted": false,
    "ctx": {}
   },
