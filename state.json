@@ -8319,6 +8319,43 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "elemannet:4812041": {
+   "t": 1795182419.029454,
+   "title": "Elektrik Pano İmalat Elemanı",
+   "company": "Erpamak",
+   "url": "https://www.eleman.net/is-ilani/elektrik-pano-imalat-elemani-i4812041",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4812032": {
+   "t": 1795182420.97589,
+   "title": "Cnc Torna Ve Dikey İşleme Merkezi Operatörleri",
+   "company": "Erpamak",
+   "url": "https://www.eleman.net/is-ilani/cnc-torna-ve-dikey-isleme-merkezi-operatorleri-i4812032",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "isbul:101041": {
+   "t": 1795182428.0600312,
+   "title": "Makine Montaj Elemanı",
+   "company": "Özkoç İlave Dingil Sanayi ve Tic. Limited Şti.",
+   "url": "https://isbul.net/is-ilani/ozkoc-ilave-dingil-sanayi-ve-tic-limited-sti-makine-montaj-elemani-101041",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4601799": {
+   "t": 1795182445.2199378,
+   "title": "Software Engineer - Open To People With Disabilities (All Roles and Experience Levels)",
+   "company": "EPAM SYSTEMS TURKEY YAZILIM GELİŞTİRME LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/epam-systems-turkey-yazilim-gelistirme-limited-sir-software-engineer-open-to-people-with-disabiliti-4601799",
+   "status": "sent",
+   "score": 55,
+   "msg": 60
   }
  },
  "dedupe": {
@@ -9224,44 +9261,48 @@
   "62f9e79b817d2427": "linkedin:4492584458",
   "456b9d8cc96999be": "linkedin:4492449542",
   "f25344706087551d": "linkedin:4492925171",
-  "20b82c3534d57b19": "linkedin:4491923557"
+  "20b82c3534d57b19": "linkedin:4491923557",
+  "d727165a8b8e2ff0": "elemannet:4812041",
+  "882e0136cac82560": "elemannet:4812032",
+  "c5c5176b00653781": "isbul:101041",
+  "42954eaefe56fb1d": "kariyernet:4601799"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795181431.5695276,
+   "last_run": 1795182366.705394,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795181431.569529,
+   "last_ok": 1795182366.7053957,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795180603.0773113,
+   "last_run": 1795182406.9771602,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795180603.0773132,
+   "last_ok": 1795182406.977162,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795178830.2785163,
+   "last_run": 1795182416.2483673,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795178830.2785184,
+   "last_ok": 1795182416.248369,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795178834.3876727,
+   "last_run": 1795182425.3153796,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795178834.387674,
+   "last_ok": 1795182425.315381,
    "alerted": false,
    "ctx": {}
   },
@@ -9309,9 +9350,9 @@
    "rej_exp": 3
   },
   "2026-11-20": {
-   "sent": 0,
+   "sent": 1,
    "dropped": 1,
-   "candidates": 1,
+   "candidates": 2,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
@@ -12547,6 +12588,51 @@
    "track_from": "description",
    "llm": {},
    "description": "GENEL NİTELİKLER\n• Tercihen üniversitelerin Mühendislik veya ilgili bölümlerinden mezun (Bilgisayar, Yazılım, Endüstri, Matematik, Yönetim Bilişim Sistemleri, Ekonomi vb.)\n• SAP Finansal Modüllerde (özellikle FI/AA/CO) en az 3 yıl deneyim sahibi,\n• SAP ECC ve/veya SAP S/4HANA projelerinde süreç yönetimi ve uygulama deneyimine sahip,\n• SAP Finansal süreçlerinde uçtan uca analiz, tasarım, geliştirme, iyileştirme ve optimizasyon çalışmalarını yürütebilen,\n• SAP Finansal süreçlerde customizing (SPRO) uygulamaları konusunda deneyimli,\n• Finansal veri yapıları, muhasebe mevzuatı ve süreçlerine hakim"
+  },
+  "elemannet:4812032": {
+   "t": 1795182420.975929,
+   "source": "elemannet",
+   "title": "Cnc Torna Ve Dikey İşleme Merkezi Operatörleri",
+   "company": "Erpamak",
+   "location": "Konya - Karatay",
+   "work_mode": "",
+   "posted": "",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Prim, Yemek, Servis, Özel Sağlık Sigortası"
+  },
+  "kariyernet:4601799": {
+   "t": 1795182445.2200744,
+   "source": "kariyernet",
+   "title": "Software Engineer - Open To People With Disabilities (All Roles and Experience Levels)",
+   "company": "EPAM SYSTEMS TURKEY YAZILIM GELİŞTİRME LİMİTED ŞİRKETİ",
+   "location": "Antalya",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [
+    "fullstack"
+   ],
+   "rule_score": 75,
+   "reject": "",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {
+    "score": 55,
+    "cv": "03_Full_Stack",
+    "summary": "EPAM bünyesinde farklı seviyelerde değerlendirilmek üzere bulut, API ve modern yazılım pratikleriyle çalışacak yazılım mühendisleri aranmaktadır. Pozisyon uzaktan çalışma modelinde olup engelli adayların başvurusuna öncelik verilmektedir.",
+    "why": "Adayın nesne yönelimli diller (C#, Python), REST API, SQL ve Docker konularındaki bilgisi junior seviyedeki teknik gereksinimlerle örtüşmektedir.",
+    "gaps": "İlan öncelikli olarak engelli adaylara yöneliktir; adayın bulut bilişim platformları (AWS/Azure) deneyimi bulunmamaktadır.",
+    "military_required": false,
+    "min_years": 0,
+    "work_mode": "remote"
+   },
+   "description": "Software Engineer Positions - Open to People with Disabilities\nWe welcome applications from people with disabilities.\nAbout the Role\nEPAM is looking for talented software professionals to be evaluated across different departments. We particularly encourage applications from people with disabilities, and candidates at junior, mid and senior levels are all welcome. Your experience level will be assessed based on your skills and background.\nYou will join product and platform teams serving our clients, working alongside software engineers, data engineers, QA specialists and DevOps experts to turn client needs into reliable, scalable software.\nResponsibilities\nUnderstand client needs and translate them into software requirements\nDesign, build and maintain client-facing interfaces as well as server-side services and APIs\nBuild and maintain databases, data pipelines and system integrations\nDevelop and run automated tests, and contribute to solutions that improve software quality\nBuild, deploy and monitor applications in cloud and container environments\nContribute to data-driven and AI-enabled features where relevant to the project\nTake part in CI/CD, version control and agile development practices\nCommunicate effectively within your team and with clients\nRequirements\nExperience in software development (assessed by level), with a solid foundation in at least one programming language\nHands-on experience with at least one programming language and framework\nExperience with Git and version control\nDatabase and SQL knowledge\nUnderstanding of REST API concepts\nStrong problem-solving skills and a willingness to keep learning\nExcellent written and spoken English (B2+ level)\nNice to Have\nExperience with cloud platforms (AWS, Azure, GCP)\nKnowledge of container technologies (Docker, Kubernetes)\nExperience with test automation and CI/CD tools\nOpen source contributions or personal projects\nCertifications\nWhat We Offer\nContinuous learning: diverse projects, an assessment center for objective competency review, a personal development plan, mentoring and leadership programs, certification support, access to more than 2,500 internal courses, and English courses taught by certified teachers\nCorporate benefits: extra leave days and referral bonuses\nCompensation: competitive pay in USD, regular salary and performance reviews\nHealth: private health insurance and well-being events\nWorkplace: recreation areas, kitchens, tea, coffee and snacks, sports equipment, game consoles, IT equipme"
   }
  },
  "pending": {}
