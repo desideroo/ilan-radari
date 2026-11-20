@@ -8422,6 +8422,51 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491934154": {
+   "t": 1795185966.3136563,
+   "title": "Kıdemli Yazılım Geliştirme Uzmanı",
+   "company": "DEVA Holding A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491934154/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491930273": {
+   "t": 1795185966.313749,
+   "title": "Senior Python Developer",
+   "company": "COM Digital",
+   "url": "https://www.linkedin.com/jobs/view/4491930273/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490868537": {
+   "t": 1795185966.3139243,
+   "title": "openBIM Integration Architect",
+   "company": "Depixen",
+   "url": "https://www.linkedin.com/jobs/view/4490868537/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4812068": {
+   "t": 1795185974.132315,
+   "title": "Argon Kaynakçısı",
+   "company": "Erpamak",
+   "url": "https://www.eleman.net/is-ilani/argon-kaynakcisi-i4812068",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4812077": {
+   "t": 1795185976.1414847,
+   "title": "Makine Montaj Personeli",
+   "company": "Erpamak",
+   "url": "https://www.eleman.net/is-ilani/makine-montaj-personeli-i4812077",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9338,17 +9383,22 @@
   "95d402ce948f74b8": "linkedin:4491902689",
   "ca797b8cea84e4d6": "linkedin:4491920768",
   "6dd0ab29b6f4656d": "linkedin:4491385364",
-  "eeaad4338bf71530": "linkedin:4491920653"
+  "eeaad4338bf71530": "linkedin:4491920653",
+  "ac37a2ea6d6593d2": "linkedin:4491934154",
+  "b6111a4221e4f160": "linkedin:4491930273",
+  "368fde77935b0738": "linkedin:4490868537",
+  "7b95ed8ad324fde7": "elemannet:4812068",
+  "c103c77db0398f50": "elemannet:4812077"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795185083.1005552,
+   "last_run": 1795185966.3131924,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795185083.1005569,
+   "last_ok": 1795185966.3131938,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
@@ -9364,18 +9414,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795182416.2483673,
+   "last_run": 1795185971.8722289,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795182416.248369,
+   "last_ok": 1795185971.8722308,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795182425.3153796,
+   "last_run": 1795185981.333251,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795182425.315381,
+   "last_ok": 1795185981.333252,
    "alerted": false,
    "ctx": {}
   },
