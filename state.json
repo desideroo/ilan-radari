@@ -8018,6 +8018,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491694956": {
+   "t": 1795168966.558009,
+   "title": "SAP FI Support Specialist (S/4HANA Public Cloud)",
+   "company": "NTT DATA Business Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4491694956/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491631950": {
+   "t": 1795168968.2575016,
+   "title": "Teknik İşler Ofis Görevlisi",
+   "company": "SUINOVA",
+   "url": "https://www.linkedin.com/jobs/view/4491631950/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8891,19 +8910,19 @@
   "83bab5d2e6638ed2": "linkedin:4491908024",
   "363707e311321d5a": "linkedin:4492299652",
   "3a6e0db5c51fd70c": "linkedin:4491696602",
-  "5610a37e08f9cc88": "youthall:bilimvirusu-15"
+  "5610a37e08f9cc88": "youthall:bilimvirusu-15",
+  "61d43b0c13f9f36f": "linkedin:4491694956",
+  "a3d22f07efb4a5c5": "linkedin:4491631950"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795167988.0284834,
-   "fails": 2,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=QA&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795166210.7298725,
+   "last_run": 1795168957.6312582,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795168957.6312602,
    "alerted": false,
    "ctx": {
-    "cursor": 2,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 8
    }
   },
   "kariyernet": {
@@ -8984,7 +9003,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 2
+   "rej_remote": 3
   }
  },
  "details": {
@@ -11995,6 +12014,23 @@
     "work_mode": "remote"
    },
    "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci), Doktora(Mezun)\n\n'Kariyer.net'le Mülakat 101'\nkonulu online eğitimiyle Kariyer.net, şimdi seninle!\nProfesyonel ve etkili özgeçmiş (CV) hazırlama teknikleri\nİnsan kaynakları uzmanlarının özgeçmişte önem verdikleri noktalar\nFarklı mülakat yöntemleri neler?\nMülakat öncesinde, anında ve sonrasında yapılması gerekenler neler?\nMülakatlarda beden dilini nasıl daha etkin kullanabilirsin?\nHepsi ve daha fazlası için  '\nKariyer.net'le Mülakat 101\n'\nonline seminerine katıl, aklına takılan soruları canlı yayında sor, kariyerinde fark yarat!\nKariyer yolculuğun boyunca Kariyer.net her zaman seninle!\nHadi hemen ilana başvur ve yol arkadaşlığımızı başlat!\nTarih:\n23\nKasım 2026, Pazartesi\nSaat:\n17:30"
+  },
+  "linkedin:4491694956": {
+   "t": 1795168966.5580494,
+   "source": "linkedin",
+   "title": "SAP FI Support Specialist (S/4HANA Public Cloud)",
+   "company": "NTT DATA Business Solutions",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "NTT DATA Business Solutions combines the power, global competencies and sectoral expertise of NTT DATA Group, one of the world's top 10 IT solution providers with 190 thousand employees, with local experience. The company, which realizes more than 30 thousand projects worldwide every year with more than 10 thousand employees in more than 30 countries and has been transforming trust into value for 34 years, has been operating in Turkey since 2000.\nAs a technology service provider that draws its strength from innovation and its team of 2,500 experts in Turkey, it supports end-to-end digital tran"
   }
  },
  "pending": {}
