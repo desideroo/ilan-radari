@@ -8310,6 +8310,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491923557": {
+   "t": 1795181431.5696123,
+   "title": "Makine Mühendisi",
+   "company": "Özgür Kavaklı İnşaat",
+   "url": "https://www.linkedin.com/jobs/view/4491923557/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9214,17 +9223,18 @@
   "15a91d36e57ae993": "linkedin:4491923413",
   "62f9e79b817d2427": "linkedin:4492584458",
   "456b9d8cc96999be": "linkedin:4492449542",
-  "f25344706087551d": "linkedin:4492925171"
+  "f25344706087551d": "linkedin:4492925171",
+  "20b82c3534d57b19": "linkedin:4491923557"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795180561.5635445,
+   "last_run": 1795181431.5695276,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795180561.5635464,
+   "last_ok": 1795181431.569529,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -9256,10 +9266,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795174316.4475665,
+   "last_run": 1795181435.2314868,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795174316.4475682,
+   "last_ok": 1795181435.231488,
    "alerted": false,
    "ctx": {}
   }
