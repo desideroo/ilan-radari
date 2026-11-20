@@ -7919,6 +7919,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "isbul:101014": {
+   "t": 1795157211.283758,
+   "title": "Çağrı Merkezi Personeli ( Almanca)",
+   "company": "RAZ TELEKOM.İLETİŞİM HİZ SAN.TİC.LTD ŞTİ",
+   "url": "https://isbul.net/is-ilani/raz-telekomunikasyon-almanca-cagri-cagri-merkezi-personeli-almanca-101014",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8781,44 +8790,45 @@
   "4daa5f10a52b2920": "linkedin:4491694475",
   "838a299323141c06": "linkedin:4492799133",
   "60a7948106066b7d": "linkedin:4491900098",
-  "e0f58f763fa852ce": "linkedin:4491185796"
+  "e0f58f763fa852ce": "linkedin:4491185796",
+  "4057f2250d48312f": "isbul:101014"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795156264.80419,
+   "last_run": 1795157160.5532455,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795156264.8041918,
+   "last_ok": 1795157160.553247,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795155411.5851607,
+   "last_run": 1795157199.506175,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795155411.5851624,
+   "last_ok": 1795157199.5061767,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795153625.2045534,
+   "last_run": 1795157205.4423554,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795153625.2045546,
+   "last_ok": 1795157205.4423568,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795153629.9238095,
+   "last_run": 1795157211.2836132,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795153629.9238107,
+   "last_ok": 1795157211.2836144,
    "alerted": false,
    "ctx": {}
   },
