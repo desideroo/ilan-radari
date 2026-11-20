@@ -9622,15 +9622,15 @@
    }
   },
   "kariyernet": {
-   "last_run": 1795204927.4711092,
+   "last_run": 1795206695.5866387,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795204927.4711115,
+   "last_ok": 1795206695.5866404,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
