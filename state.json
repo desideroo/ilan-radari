@@ -9612,27 +9612,25 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795211179.8791249,
-   "fails": 2,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795209362.370041,
+   "last_run": 1795212109.8079076,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795212109.8079095,
    "alerted": false,
    "ctx": {
-    "cursor": 12,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795210363.8319113,
+   "last_run": 1795212151.9012988,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795210363.8319137,
+   "last_ok": 1795212151.9013002,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
