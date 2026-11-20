@@ -8743,13 +8743,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795149953.8044803,
+   "last_run": 1795150882.7787945,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795149953.8044817,
+   "last_ok": 1795150882.7787964,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
