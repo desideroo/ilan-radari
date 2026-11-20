@@ -9486,13 +9486,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795190501.860134,
+   "last_run": 1795191377.4672813,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795190501.8601358,
+   "last_ok": 1795191377.4672835,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
