@@ -7871,6 +7871,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4490888025": {
+   "t": 1795140093.86636,
+   "title": "Radar Sistem Mühendisi",
+   "company": "Aselsan",
+   "url": "https://www.linkedin.com/jobs/view/4490888025/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8728,29 +8738,30 @@
   "6916b4a3a686ee37": "linkedin:4490451523",
   "2e1791f3e34e50a1": "kariyernet:4523981",
   "a54b421ae1247bf9": "kariyernet:4584153",
-  "59003b4cecd21b9a": "linkedin:4492506681"
+  "59003b4cecd21b9a": "linkedin:4492506681",
+  "4871137d4ba5ca4e": "linkedin:4490888025"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795139152.1752982,
+   "last_run": 1795140091.5072246,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795139152.1753001,
+   "last_ok": 1795140091.5072262,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795138317.1610105,
+   "last_run": 1795140132.8654654,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795138317.1610126,
+   "last_ok": 1795140132.865467,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -8811,6 +8822,15 @@
    "irrelevant": 0,
    "rej_remote": 28,
    "rej_exp": 3
+  },
+  "2026-11-20": {
+   "sent": 0,
+   "dropped": 0,
+   "candidates": 0,
+   "applied": 0,
+   "saved": 0,
+   "irrelevant": 0,
+   "rej_remote": 1
   }
  },
  "details": {
@@ -11742,6 +11762,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Bircom 50 yılı aşkın süredir, insanların ihtiyaçlarını maksimum değerle karşılayarak ve onlara keyifli bir deneyim yaşatacak dünyaca ünlü markalara ait teknolojileri beğenilerine sunmak için çalışıyor.\nBu yolculukta bize eşlik etmek ister misiniz?\nMuhasebe & Finans Uzmanı\n📍 İstanbul ( Kağıthane )\n🏢 Bircom – Teknoloji & İletişim Çözümleri\nGenel Nitelikler\nÜniversitelerin İktisat, İşletme, Maliye, Muhasebe veya Finans bölümlerinden mezun\nEn az 4–6 yıl muhasebe ve finans alanında deneyimli\nİthalat yapan, stoklu çalışan şirketlerde görev almış\nMaliyet muhasebesi, bütçe ve finansal raporlama süreçl"
+  },
+  "linkedin:4490888025": {
+   "t": 1795140093.8663926,
+   "source": "linkedin",
+   "title": "Radar Sistem Mühendisi",
+   "company": "Aselsan",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "ASELSAN Radar ve Elektronik Harp Sistemleri Sektör Başkanlığı İstanbul Teknopark yerleşkesinde görevlendirilmek üzere bize güç katacak;\nüniversitelerin Elektrik-Elektronik, Elektronik ve Haberleşme Mühendisliği bölümlerinden mezun\nRadar Sistem Mühendisi\nçalışma arkadaşları arıyoruz.\nBU POZİSYONDA EN ÖNEM VERDİĞİMİZ YETKİNLİKLER VE DENEYİMLER\nRF/Mikrodalga, Anten, Sinyal İşleme, Haberleşme veya Kontrol alanlarından en az birinde uzmanlaşmış,\nRadar alanında sistemin hem bütününe hem detaylarına hâkim olabilecek bilgi, tecrübe veya öğrenme motivasyonu sahibi,\nMATLAB/Simulink kullanabilen.\nSENDEN "
   }
  },
  "pending": {}
