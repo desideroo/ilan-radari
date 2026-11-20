@@ -7946,6 +7946,15 @@
    "status": "dropped",
    "score": 10,
    "msg": null
+  },
+  "linkedin:4491901343": {
+   "t": 1795159872.0573065,
+   "title": "Software Manager",
+   "company": "Nozzle - Ship Management Software",
+   "url": "https://www.linkedin.com/jobs/view/4491901343/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8811,19 +8820,18 @@
   "e0f58f763fa852ce": "linkedin:4491185796",
   "4057f2250d48312f": "isbul:101014",
   "107dd3a01366708a": "kariyernet:4408649",
-  "1b20bb51da8c890e": "kariyernet:4601371"
+  "1b20bb51da8c890e": "kariyernet:4601371",
+  "5f065f8dddf3c930": "linkedin:4491901343"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795158972.9723692,
-   "fails": 2,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795157160.553247,
+   "last_run": 1795159872.0571184,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795159872.0571198,
    "alerted": false,
    "ctx": {
-    "cursor": 8,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -8855,10 +8863,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795152694.193029,
+   "last_run": 1795159874.951494,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795152694.1930306,
+   "last_ok": 1795159874.9514952,
    "alerted": false,
    "ctx": {}
   }
