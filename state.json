@@ -7910,6 +7910,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491185796": {
+   "t": 1795155369.9276488,
+   "title": "Solution Architect - AI SDLC with GitHub & Microsoft",
+   "company": "EPAM Systems",
+   "url": "https://www.linkedin.com/jobs/view/4491185796/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8771,29 +8780,30 @@
   "4871137d4ba5ca4e": "linkedin:4490888025",
   "4daa5f10a52b2920": "linkedin:4491694475",
   "838a299323141c06": "linkedin:4492799133",
-  "60a7948106066b7d": "linkedin:4491900098"
+  "60a7948106066b7d": "linkedin:4491900098",
+  "e0f58f763fa852ce": "linkedin:4491185796"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795154482.042969,
+   "last_run": 1795155369.9270961,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795154482.0429707,
+   "last_ok": 1795155369.9270976,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795153619.0562928,
+   "last_run": 1795155411.5851607,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795153619.0562947,
+   "last_ok": 1795155411.5851624,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
