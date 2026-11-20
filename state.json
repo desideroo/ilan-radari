@@ -8037,6 +8037,54 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491385358": {
+   "t": 1795170679.6643288,
+   "title": "Technical Architect",
+   "company": "RDC Partner",
+   "url": "https://www.linkedin.com/jobs/view/4491385358/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491798495": {
+   "t": 1795170679.6653924,
+   "title": "Senior dbt Developer (Analytics Engineer)",
+   "company": "Proxify",
+   "url": "https://www.linkedin.com/jobs/view/4491798495/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492572412": {
+   "t": 1795170689.3147798,
+   "title": "Jr.Product Analyst",
+   "company": "Hepsiburada",
+   "url": "https://www.linkedin.com/jobs/view/4492572412/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4467067232": {
+   "t": 1795170691.1519966,
+   "title": "HR Operations Analytics Specialist",
+   "company": "Concentrix",
+   "url": "https://www.linkedin.com/jobs/view/4467067232/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4491906268": {
+   "t": 1795170711.6457987,
+   "title": "Data Scientist Supervisor",
+   "company": "Anadolu Efes",
+   "url": "https://www.linkedin.com/jobs/view/4491906268/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -8912,17 +8960,22 @@
   "3a6e0db5c51fd70c": "linkedin:4491696602",
   "5610a37e08f9cc88": "youthall:bilimvirusu-15",
   "61d43b0c13f9f36f": "linkedin:4491694956",
-  "a3d22f07efb4a5c5": "linkedin:4491631950"
+  "a3d22f07efb4a5c5": "linkedin:4491631950",
+  "93f77a9b73c87da1": "linkedin:4491385358",
+  "126a062779dec9f0": "linkedin:4491798495",
+  "51f781d6d1522b16": "linkedin:4492572412",
+  "5b8aad0f98d5fcb0": "linkedin:4467067232",
+  "22d5c712ca42dd8e": "linkedin:4491906268"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795168957.6312582,
+   "last_run": 1795170679.664083,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795168957.6312602,
+   "last_ok": 1795170679.6640847,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -9003,7 +9056,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 3
+   "rej_remote": 5
   }
  },
  "details": {
@@ -12031,6 +12084,57 @@
    "track_from": "title",
    "llm": {},
    "description": "NTT DATA Business Solutions combines the power, global competencies and sectoral expertise of NTT DATA Group, one of the world's top 10 IT solution providers with 190 thousand employees, with local experience. The company, which realizes more than 30 thousand projects worldwide every year with more than 10 thousand employees in more than 30 countries and has been transforming trust into value for 34 years, has been operating in Turkey since 2000.\nAs a technology service provider that draws its strength from innovation and its team of 2,500 experts in Turkey, it supports end-to-end digital tran"
+  },
+  "linkedin:4492572412": {
+   "t": 1795170689.3148122,
+   "source": "linkedin",
+   "title": "Jr.Product Analyst",
+   "company": "Hepsiburada",
+   "location": "Sancaktepe",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "At Hepsiburada, we are driven by our mission to improve people's lives by developing innovative products and services. Prioritizing customer satisfaction, we offer over 280 million products across more than 30 categories. Through our marketplace model, we bring together over 100,000 businesses. With Türkiye’s and the region's largest Smart Operations Center, industry-leading R&D initiatives, and innovative solutions, we contribute significantly to the growth of the e-commerce ecosystem. For the past two years, we have proudly held the title of Türkiye's most recommended e-commerce platform.\nTh"
+  },
+  "linkedin:4467067232": {
+   "t": 1795170691.152031,
+   "source": "linkedin",
+   "title": "HR Operations Analytics Specialist",
+   "company": "Concentrix",
+   "location": "Sarıyer",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Concentrix Hakkında,\nSektörünün lider markalarından Concentrix, bugünün dijital dünyasında insan odaklı müşteri deneyimleri tasarlıyor ve yönetiyor. Dünyada, 60 ülkede 400 binden fazla çalışanıyla hizmet veren Concentrix, Türkiye’de başta İstanbul, İzmir, Ankara, Van olmak üzere toplam 7 şehirde, 17 bini aşkın çalışan ile müşteri hizmet yönetimi ve deneyiminde fark yaratmaya devam etmektedir.\nGenel Nitelikler\nTercihen Matematik, Mühendislik, Ekonomi gibi bölümlerden mezun,\nEn az 1 yıl tecrübeli,\nİleri seviyede İngilizce bilen ve aktif kullanan,\nÇalışkan, yüksek resilience sahibi, iş takibi güç"
+  },
+  "linkedin:4491906268": {
+   "t": 1795170711.645831,
+   "source": "linkedin",
+   "title": "Data Scientist Supervisor",
+   "company": "Anadolu Efes",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Would you like to be part of Anadolu Efes?\nLet's get to know each other!\nAt Anadolu Efes, we contribute to social and cultural development wherever we operate and enrich the moments that bring people together. While doing so, we focus on creating sustainable value and making a positive impact in the communities we serve.\nOur story began in 1969, when two entrepreneurs decided to pursue their vision.\nToday, we are an international beverage company reaching millions of consumers. With a heritage spanning more than half a century and an export network extending to nearly 70 countries, we continue"
   }
  },
  "pending": {}
