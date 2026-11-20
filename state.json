@@ -8743,15 +8743,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795147325.8251543,
-   "fails": 2,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=Odoo&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795145499.7178378,
+   "last_run": 1795148593.0351136,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795148593.035115,
    "alerted": false,
    "ctx": {
-    "cursor": 8,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 14
    }
   },
   "kariyernet": {
