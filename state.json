@@ -8552,6 +8552,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491929536": {
+   "t": 1795192295.5900788,
+   "title": "Senior Full-Stack Developer",
+   "company": "Efsora",
+   "url": "https://www.linkedin.com/jobs/view/4491929536/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9482,29 +9491,30 @@
   "b2b8b02906c31929": "linkedin:4492946370",
   "c911b510ca36269c": "linkedin:4491617329",
   "ce5b929595cf5d83": "linkedin:4491802886",
-  "b8ba731475d606b6": "linkedin:4492805105"
+  "b8ba731475d606b6": "linkedin:4492805105",
+  "0e88d471cba9e1b2": "linkedin:4491929536"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795191377.4672813,
+   "last_run": 1795192295.5899558,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795191377.4672835,
+   "last_ok": 1795192295.5899568,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795190542.3695335,
+   "last_run": 1795192337.1321905,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795190542.3695357,
+   "last_ok": 1795192337.132192,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
