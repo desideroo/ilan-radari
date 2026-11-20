@@ -8656,6 +8656,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491955255": {
+   "t": 1795202216.7172682,
+   "title": "Satış Elemanı",
+   "company": "Yeşilmarka Sağlıklı Yaşam Ürünleri San. ve Tic. Ltd. Şti.",
+   "url": "https://www.linkedin.com/jobs/view/4491955255/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -9597,17 +9607,18 @@
   "3a0054342c529e05": "linkedin:4492969706",
   "d8d480e6ab423343": "linkedin:4492180619",
   "a07532257b80d906": "linkedin:4491914888",
-  "647fa7dfadcc79da": "linkedin:4444908536"
+  "647fa7dfadcc79da": "linkedin:4444908536",
+  "9b951330a94f771f": "linkedin:4491955255"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795201290.6919134,
+   "last_run": 1795202207.7719188,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795201290.691915,
+   "last_ok": 1795202207.77192,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -13197,6 +13208,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Who we are?\nIt’s time to turn on bright mode. Let’s meet!\nWe are a software company that produces niche technologies with an innovative, dynamic, and added-value understanding to the leading companies in its field, serving in different sectors in Turkey and abroad. For starters, the first thing you should know is that Crs is an umbrella organization. Our e-transformation brand, e-dünya, offers digital solutions on a single platform. Our game brand Corvus Jay provides players of all ages and backgrounds with captivating, humorous, and artistic games that transcend the ordinary and deliver unfor"
+  },
+  "linkedin:4491955255": {
+   "t": 1795202216.7173085,
+   "source": "linkedin",
+   "title": "Satış Elemanı",
+   "company": "Yeşilmarka Sağlıklı Yaşam Ürünleri San. ve Tic. Ltd. Şti.",
+   "location": "Antalya, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "-"
   }
  },
  "pending": {}
