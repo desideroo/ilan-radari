@@ -8732,13 +8732,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795136476.0956075,
+   "last_run": 1795137381.1383595,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795136476.0956092,
+   "last_ok": 1795137381.138361,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
