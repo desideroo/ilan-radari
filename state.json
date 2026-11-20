@@ -8094,6 +8094,63 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491905274": {
+   "t": 1795172503.6902795,
+   "title": "Senior AI & LLM Engineer",
+   "company": "Nuevo Softwarehouse",
+   "url": "https://www.linkedin.com/jobs/view/4491905274/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490856560": {
+   "t": 1795172503.6906352,
+   "title": "SENIOR MOBILE NETWORK OPERATIONS & INFRASTRUCTURE PLANNING PROFESSIONAL",
+   "company": "Turkcell",
+   "url": "https://www.linkedin.com/jobs/view/4490856560/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491907091": {
+   "t": 1795172506.2259884,
+   "title": "Gayrimenkul Danışmanı Olun",
+   "company": "Realty World Yıldız Gayrimenkul",
+   "url": "https://www.linkedin.com/jobs/view/4491907091/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491915151": {
+   "t": 1795172508.2177205,
+   "title": "QA & Test Automation Engineer",
+   "company": "EVAM",
+   "url": "https://www.linkedin.com/jobs/view/4491915151/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4482878601": {
+   "t": 1795172510.217709,
+   "title": "Test ve Laboratuar Uzmanı",
+   "company": "PANOD",
+   "url": "https://www.linkedin.com/jobs/view/4482878601/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491602361": {
+   "t": 1795172512.7286136,
+   "title": "Çözüm Mimarı",
+   "company": "SecHard",
+   "url": "https://www.linkedin.com/jobs/view/4491602361/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -8975,19 +9032,23 @@
   "51f781d6d1522b16": "linkedin:4492572412",
   "5b8aad0f98d5fcb0": "linkedin:4467067232",
   "22d5c712ca42dd8e": "linkedin:4491906268",
-  "7d134f480a70f42b": "kariyernet:3466347"
+  "7d134f480a70f42b": "kariyernet:3466347",
+  "f56d14180dd999b1": "linkedin:4491905274",
+  "f23c409ba9e021d0": "linkedin:4490856560",
+  "6743998b7d8f2ee5": "linkedin:4491907091",
+  "8bd564939042b5eb": "linkedin:4491915151",
+  "55335a82bebf9139": "linkedin:4482878601",
+  "046c819ff4051c20": "linkedin:4491602361"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795171571.8793802,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795170679.6640847,
+   "last_run": 1795172503.690026,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795172503.6900275,
    "alerted": false,
    "ctx": {
-    "cursor": 14,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -9068,7 +9129,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 5
+   "rej_remote": 7
   }
  },
  "details": {
@@ -12147,6 +12208,57 @@
    "track_from": "title",
    "llm": {},
    "description": "Would you like to be part of Anadolu Efes?\nLet's get to know each other!\nAt Anadolu Efes, we contribute to social and cultural development wherever we operate and enrich the moments that bring people together. While doing so, we focus on creating sustainable value and making a positive impact in the communities we serve.\nOur story began in 1969, when two entrepreneurs decided to pursue their vision.\nToday, we are an international beverage company reaching millions of consumers. With a heritage spanning more than half a century and an export network extending to nearly 70 countries, we continue"
+  },
+  "linkedin:4491915151": {
+   "t": 1795172508.217734,
+   "source": "linkedin",
+   "title": "QA & Test Automation Engineer",
+   "company": "EVAM",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Who we are\nAt Evam, we're reshaping how enterprises engage with their customers, enabling real-time, data-driven interactions at scale. From our HQ in London and offices in Amsterdam,Istanbul and Sofia we help leading Telcos, banks, and global brands connect with over 500 million people every month, delivering the right message at the right moment. Our AI-powered event processing engine and real-time machine learning capabilities turn complex customer data into instant, personalized experiences that drive measurable business outcomes across every channel.\nRecognized as a Forbes Türkiye Top 50 "
+  },
+  "linkedin:4482878601": {
+   "t": 1795172510.2177238,
+   "source": "linkedin",
+   "title": "Test ve Laboratuar Uzmanı",
+   "company": "PANOD",
+   "location": "Gebze",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "PAVO GROUP,\nteknolojik gelişmeleri sürekli takip eden, bu gelişmeleri ürün ve hizmetlerine yansıtarak öncü olmaya çalışan, kendisine ve çevresine değer katan, ekibiyle birlikte temel değerleri koruyan, tercih edilen işletme olma hedefiyle ilerlemektedir. Etik kurallarından, iş ahlakından ve dürüstlüğünden taviz vermeden pazarda ortak olmayı hedefleyen Pavo Group; Aviyonik Sistemler, Veri Merkezi & Altyapı Çözümleri, Katma Değerli Endüstriyel Yapılar ve Bilgi Teknolojileri, Yapay Zeka, Siber Güvenlik, Ethernet Çözümleri, savunma ve sivil sektörde sistem entegratörü olarak yerli ve yabancı strat"
+  },
+  "linkedin:4491602361": {
+   "t": 1795172512.72863,
+   "source": "linkedin",
+   "title": "Çözüm Mimarı",
+   "company": "SecHard",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "ARANAN NİTELİKLER\nÜniversitelerin Bilgisayar Mühendisliği, Elektronik Mühendisliği gibi 4 yıllık Teknik bölümlerinden mezun,\nAnkara'da ikamet eden(Zorunlu),\nBilgi güvenliği ve benzer pozisyonlarda en az 5 yıl deneyimli,\nGüvenlik tabanlı çözümlerin tasarımlarında ve saha uygulamalarında tecrübe sahibi,\nFirewall, Switch, Router, Bulut Ortamları Güvenliği yönetiminde tecrübeli,\nWindows işletim sistemleri, Linux işletim sistemleri, Sanallaştırma altyapıları, Microservice mimarileri (Docker, Kubernates) yönetiminde deneyimli,\nKritik sistemleri analiz edebilecek ve sistemlerin sıkılaştırma aksiyonla"
   }
  },
  "pending": {}
