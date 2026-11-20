@@ -8301,6 +8301,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492925171": {
+   "t": 1795180561.563773,
+   "title": "Senior Software Developer-Python/Go",
+   "company": "Acronis",
+   "url": "https://www.linkedin.com/jobs/view/4492925171/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9204,29 +9213,30 @@
   "3adf766fea7a947a": "linkedin:4457486610",
   "15a91d36e57ae993": "linkedin:4491923413",
   "62f9e79b817d2427": "linkedin:4492584458",
-  "456b9d8cc96999be": "linkedin:4492449542"
+  "456b9d8cc96999be": "linkedin:4492449542",
+  "f25344706087551d": "linkedin:4492925171"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795179713.9573488,
+   "last_run": 1795180561.5635445,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795179713.9573505,
+   "last_ok": 1795180561.5635464,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795178824.079273,
+   "last_run": 1795180603.0773113,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795178824.0792754,
+   "last_ok": 1795180603.0773132,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
