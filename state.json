@@ -9269,13 +9269,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795182366.705394,
+   "last_run": 1795183295.4587274,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795182366.7053957,
+   "last_ok": 1795183295.4587295,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
