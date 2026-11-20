@@ -8895,42 +8895,42 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795167096.994957,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=data+analyst&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
+   "last_run": 1795167988.0284834,
+   "fails": 2,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=QA&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795166210.7298725,
    "alerted": false,
    "ctx": {
-    "cursor": 16,
+    "cursor": 2,
     "first_run": false,
     "all_keywords": false
    }
   },
   "kariyernet": {
-   "last_run": 1795166252.4382176,
+   "last_run": 1795168029.7651608,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795166252.4382198,
+   "last_ok": 1795168029.7651632,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795164421.4649258,
+   "last_run": 1795168035.5025692,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795164421.4649282,
+   "last_ok": 1795168035.5025718,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795164425.8732712,
+   "last_run": 1795168040.9194555,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795164425.8732722,
+   "last_ok": 1795168040.9194567,
    "alerted": false,
    "ctx": {}
   },
