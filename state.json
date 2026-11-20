@@ -9146,13 +9146,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795175186.808163,
+   "last_run": 1795176075.4636712,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795175186.8081641,
+   "last_ok": 1795176075.463673,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
