@@ -9496,13 +9496,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795194110.9222677,
+   "last_run": 1795194982.346178,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795194110.9222693,
+   "last_ok": 1795194982.3461792,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
