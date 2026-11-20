@@ -8570,6 +8570,53 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4474845770": {
+   "t": 1795196786.588662,
+   "title": "Lead Technical Support Specialist (Experience as Windows Server, Database, VMware, Storage & Backup Administrator)",
+   "company": "SITA",
+   "url": "https://www.linkedin.com/jobs/view/4474845770/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492971407": {
+   "t": 1795196786.5889964,
+   "title": "Application Engineering Manager IMEA, Paper Packaging",
+   "company": "Henkel",
+   "url": "https://www.linkedin.com/jobs/view/4492971407/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491836174": {
+   "t": 1795196788.469606,
+   "title": "Kalite Güvence Asistanı (Tarsus)",
+   "company": "FİLE Market",
+   "url": "https://www.linkedin.com/jobs/view/4491836174/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492557406": {
+   "t": 1795196790.8259282,
+   "title": "Kalite Güvence Uzmanı - SAP",
+   "company": "Sanovel İlaç",
+   "url": "https://www.linkedin.com/jobs/view/4492557406/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491928865": {
+   "t": 1795196792.6849225,
+   "title": "Data Migration Expert",
+   "company": "iSoftStone",
+   "url": "https://www.linkedin.com/jobs/view/4491928865/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9502,17 +9549,22 @@
   "ce5b929595cf5d83": "linkedin:4491802886",
   "b8ba731475d606b6": "linkedin:4492805105",
   "0e88d471cba9e1b2": "linkedin:4491929536",
-  "e44b9bd06f0a82ad": "linkedin:4492967481"
+  "e44b9bd06f0a82ad": "linkedin:4492967481",
+  "8fa0e1ec2d8494ec": "linkedin:4474845770",
+  "82ceae04b8ae2885": "linkedin:4492971407",
+  "b6f329cf3911acab": "linkedin:4491836174",
+  "cdf9505180b80ae4": "linkedin:4492557406",
+  "93c4e10c9b192509": "linkedin:4491928865"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795195873.8785682,
+   "last_run": 1795196786.5879803,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795195873.8785703,
+   "last_ok": 1795196786.587982,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -9528,18 +9580,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795193178.19377,
+   "last_run": 1795196798.4288652,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795193178.1937716,
+   "last_ok": 1795196798.428867,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795193183.3425431,
+   "last_run": 1795196803.922238,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795193183.3425443,
+   "last_ok": 1795196803.9222395,
    "alerted": false,
    "ctx": {}
   },
@@ -9593,7 +9645,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 17
+   "rej_remote": 19
   }
  },
  "details": {
@@ -13017,6 +13069,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Sompo Sigorta A.Ş. is one of the subsidiary of Sompo Japan Insurance Inc., which operates with 77.400 employees in the world as a pioneer in the sector with its technological infrastructure, product range created by considering customer needs, and customer-centered service approach, is looking for “Actuarial Data Scientist / Pricing Analyst” to take part in its growing team.\nJob Description :\nOur pricing and tariff management team is expanding and we are hiring for multiple roles with varying levels of experience.\nThese roles mainly include: data preparation, data analysis, modeling, model imp"
+  },
+  "linkedin:4492557406": {
+   "t": 1795196790.8259654,
+   "source": "linkedin",
+   "title": "Kalite Güvence Uzmanı - SAP",
+   "company": "Sanovel İlaç",
+   "location": "Silivri",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "1983 yılında kurulan Türk ilaç sektörünün lider şirketlerinden Sanovel;\ngüçlü Ar-Ge’si, 60’tan fazla marka, 180’i aşkın üründen oluşan geniş ürün portföyü ve yaklaşık 1.750 kişiden\noluşan özel insan kaynağı ile\ntoplumların bir ömür sağlığı için çalışmaya devam etmektedir. Türkiye’nin köklü ilaç şirketlerinden olan Sanovel, y\nılda 200 milyon kutu ilaç üretim kapasitesine, EU GMP (İyi Üretim Uygulamaları) sertifikasına ve US FDA (Amerikan Gıda ve İlaç Kurumu)\nonayına sahiptir.\nKüresel bir ilaç şirketi olma vizyonuyla çalışmalarını sürdüren Sanovel, ürünlerini\n5 kıtada 50’den fazla ülkeye\nulaştır"
+  },
+  "linkedin:4491928865": {
+   "t": 1795196792.6849551,
+   "source": "linkedin",
+   "title": "Data Migration Expert",
+   "company": "iSoftStone",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "Description\nData Migration Expert\nTukey, İstanbul | Hybrid | Definite Term |\nAbout The Role\nThe Data Migration Expert will support the SAP transformation program by preparing, validating, reconciling, and improving data for migration from legacy systems to the target environment.\nThe role requires strong hands-on SQL capability and experience in data migration, data quality, and business validation.\nWhat We Are Looking For\nStrong hands-on SQL skills, including complex queries, joins, reconciliation, and exception analysis.\nProven experience in SAP / ERP data migration projects.\nExperience with"
   }
  },
  "pending": {}
