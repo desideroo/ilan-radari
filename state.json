@@ -8561,6 +8561,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492967481": {
+   "t": 1795195873.8793132,
+   "title": "Customer Insights & Analytics Senior Specialist",
+   "company": "iGA Istanbul Airport",
+   "url": "https://www.linkedin.com/jobs/view/4492967481/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9492,29 +9501,30 @@
   "c911b510ca36269c": "linkedin:4491617329",
   "ce5b929595cf5d83": "linkedin:4491802886",
   "b8ba731475d606b6": "linkedin:4492805105",
-  "0e88d471cba9e1b2": "linkedin:4491929536"
+  "0e88d471cba9e1b2": "linkedin:4491929536",
+  "e44b9bd06f0a82ad": "linkedin:4492967481"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795194982.346178,
+   "last_run": 1795195873.8785682,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795194982.3461792,
+   "last_ok": 1795195873.8785703,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795194151.7027984,
+   "last_run": 1795195914.0935662,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795194151.7028003,
+   "last_ok": 1795195914.093568,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -9534,10 +9544,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795188713.7789185,
+   "last_run": 1795195917.0929725,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795188713.77892,
+   "last_ok": 1795195917.0929737,
    "alerted": false,
    "ctx": {}
   }
