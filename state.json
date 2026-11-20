@@ -9612,13 +9612,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795210321.8220506,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=software+developer&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
+   "last_run": 1795211179.8791249,
+   "fails": 2,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=backend&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795209362.370041,
    "alerted": false,
    "ctx": {
-    "cursor": 6,
+    "cursor": 12,
     "first_run": false,
     "all_keywords": false
    }
@@ -9636,18 +9636,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795207608.1218565,
+   "last_run": 1795211184.778492,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795207608.121859,
+   "last_ok": 1795211184.7784941,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795207613.839274,
+   "last_run": 1795211189.579951,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795207613.8392758,
+   "last_ok": 1795211189.5799532,
    "alerted": false,
    "ctx": {}
   },
