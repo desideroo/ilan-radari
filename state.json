@@ -7964,6 +7964,51 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491900191": {
+   "t": 1795161712.0792665,
+   "title": "Senior System Specialist (Infra)",
+   "company": "Eti",
+   "url": "https://www.linkedin.com/jobs/view/4491900191/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491606139": {
+   "t": 1795161714.7592993,
+   "title": "Yönetim Sistemleri Uzmanı",
+   "company": "OYAK Maden Metalürji",
+   "url": "https://www.linkedin.com/jobs/view/4491606139/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491908024": {
+   "t": 1795161717.4127812,
+   "title": "Anten Test ve Doğrulama Mühendisi",
+   "company": "Aselsan",
+   "url": "https://www.linkedin.com/jobs/view/4491908024/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492299652": {
+   "t": 1795161719.2920249,
+   "title": "Akıllı Ulaşım Sistemleri Uzmanı",
+   "company": "RÖNESANS HOLDİNG",
+   "url": "https://www.linkedin.com/jobs/view/4492299652/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491696602": {
+   "t": 1795161721.34652,
+   "title": "Bulut Sistem Yönetimi Uzmanı (4+)",
+   "company": "SmartICT Bilişim A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491696602/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -8831,19 +8876,22 @@
   "107dd3a01366708a": "kariyernet:4408649",
   "1b20bb51da8c890e": "kariyernet:4601371",
   "5f065f8dddf3c930": "linkedin:4491901343",
-  "42b415c539bb760e": "kariyernet:4584157"
+  "42b415c539bb760e": "kariyernet:4584157",
+  "7e2d7a7c0c0d62ce": "linkedin:4491900191",
+  "2a118188cf2c187c": "linkedin:4491606139",
+  "83bab5d2e6638ed2": "linkedin:4491908024",
+  "363707e311321d5a": "linkedin:4492299652",
+  "3a6e0db5c51fd70c": "linkedin:4491696602"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795160770.904184,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795159872.0571198,
+   "last_run": 1795161712.0783455,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795161712.078347,
    "alerted": false,
    "ctx": {
-    "cursor": 14,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 0
    }
   },
   "kariyernet": {
