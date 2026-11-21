@@ -8675,6 +8675,26 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491977130": {
+   "t": 1795219306.601801,
+   "title": "Yazılım Mühendisi",
+   "company": "Aria Green",
+   "url": "https://www.linkedin.com/jobs/view/4491977130/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491935101": {
+   "t": 1795219308.5499196,
+   "title": "Associate Data Analytics Consultant - New Graduate (Entry Level)",
+   "company": "SnA Consulting",
+   "url": "https://www.linkedin.com/jobs/view/4491935101/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "kıdem: Orta-Üst Düzey Yönetici"
   }
  },
  "dedupe": {
@@ -9618,29 +9638,31 @@
   "a07532257b80d906": "linkedin:4491914888",
   "647fa7dfadcc79da": "linkedin:4444908536",
   "9b951330a94f771f": "linkedin:4491955255",
-  "a176efc502248c88": "linkedin:4493203359"
+  "a176efc502248c88": "linkedin:4493203359",
+  "af5e1fa63d8c77b0": "linkedin:4491977130",
+  "fb9f56208ab49eb1": "linkedin:4491935101"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795218401.6613631,
+   "last_run": 1795219297.809369,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795218401.661365,
+   "last_ok": 1795219297.809371,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795217554.0196004,
+   "last_run": 1795219350.513478,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795217554.0196016,
+   "last_ok": 1795219350.51348,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -9710,6 +9732,16 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_remote": 21
+  },
+  "2026-11-21": {
+   "sent": 0,
+   "dropped": 0,
+   "candidates": 0,
+   "applied": 0,
+   "saved": 0,
+   "irrelevant": 0,
+   "rej_remote": 1,
+   "rej_exp": 1
   }
  },
  "details": {
@@ -13235,6 +13267,40 @@
    "track_from": "title",
    "llm": {},
    "description": "-"
+  },
+  "linkedin:4491977130": {
+   "t": 1795219306.601832,
+   "source": "linkedin",
+   "title": "Yazılım Mühendisi",
+   "company": "Aria Green",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Ar-Ge Projesi İçin Uzman Arayışı\nAria Green Danışmanlık olarak hazırladığımız Ar-Ge projesinin desteklenmesi halinde görev almak üzere aşağıdaki alanlarda uzmanlarla iş birliği yapmayı planlıyoruz.\n1. Teknik Lider / Yazılım Mühendisi\nİlgili mühendislik alanlarında en az lisans mezunu\nYazılım mimarisi, backend geliştirme, API ve veri tabanı yönetiminde deneyimli\nYazılım geliştirme süreçlerini yönetebilecek\n2. Yapay Zeka ve Veri Mühendisi\nİlgili alanlarda en az lisans mezunu\nPython, makine öğrenmesi ve veri işleme konularında deneyimli\nYapay zeka modellerinin geliştirilmesi, test edilmesi ve ent"
+  },
+  "linkedin:4491935101": {
+   "t": 1795219308.5499513,
+   "source": "linkedin",
+   "title": "Associate Data Analytics Consultant - New Graduate (Entry Level)",
+   "company": "SnA Consulting",
+   "location": "İstanbul",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "kıdem: Orta-Üst Düzey Yönetici",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "About the job\nSnA is a business analytics consultancy with its resources actively engaged in client deliverables. SnA helps blue-chip clients in Banking, Insurance, Telco, Retail, and Energy understand their transaction-level history & conduct predictive analysis. SnA team combines skillsets in three key areas: business strategy, applied statistics, and database techniques. In the past fifteen years, SnA has completed over 300+ advanced analytics engagements with high-profile clients in the EMEA region.\nWe’re looking for recent graduates to join our analytics consulting team. Ideal candidates "
   }
  },
  "pending": {}
