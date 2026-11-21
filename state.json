@@ -8848,6 +8848,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4488207192": {
+   "t": 1795259787.4162982,
+   "title": "Kalite Güvence Yöneticisi",
+   "company": "Akşeker Tarım Et Entegre Tesisleri",
+   "url": "https://www.linkedin.com/jobs/view/4488207192/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9809,17 +9818,18 @@
   "2bb27f5cfe406b10": "linkedin:4491844422",
   "1b073016114c688a": "linkedin:4492153431",
   "2c2a6e17ca4be29a": "linkedin:4490871471",
-  "7e96e55825ea9c2d": "kariyernet:4602059"
+  "7e96e55825ea9c2d": "kariyernet:4602059",
+  "be9c174bccd7811e": "linkedin:4488207192"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795258897.5404892,
+   "last_run": 1795259787.4162083,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795258897.540491,
+   "last_ok": 1795259787.41621,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
