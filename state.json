@@ -9977,13 +9977,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795276897.4449165,
+   "last_run": 1795277799.7371995,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795276897.4449182,
+   "last_ok": 1795277799.7372012,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
