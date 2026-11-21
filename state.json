@@ -8791,6 +8791,34 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492565153": {
+   "t": 1795250777.6325202,
+   "title": "Satış Danışmanı",
+   "company": "KTÜ GENÇ YEŞİLAY",
+   "url": "https://www.linkedin.com/jobs/view/4492565153/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491855504": {
+   "t": 1795250779.467048,
+   "title": "SATCOM Field Engineer (Modems, Amplifiers, Antenna Control) for NATO with security clearance",
+   "company": "WLG",
+   "url": "https://www.linkedin.com/jobs/view/4491855504/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491844422": {
+   "t": 1795250788.7821712,
+   "title": "Albaraka Ödeme Kuruluşu A.Ş. (Monera) – Sistem Operasyon Mühendisi (IT Ops / DevOps)",
+   "company": "Albaraka Türk",
+   "url": "https://www.linkedin.com/jobs/view/4491844422/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9746,19 +9774,20 @@
   "1cf4f834c0df3929": "linkedin:4491615783",
   "6a745f6a80276e28": "youthall:aselsan-10",
   "06c26be5a16aa519": "linkedin:4492056431",
-  "e9fb41f5eca6dfed": "linkedin:4491933281"
+  "e9fb41f5eca6dfed": "linkedin:4491933281",
+  "559051d3f542dbca": "linkedin:4492565153",
+  "aeda27f027557aa3": "linkedin:4491855504",
+  "2bb27f5cfe406b10": "linkedin:4491844422"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795249887.885061,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795248978.4130218,
+   "last_run": 1795250777.6322196,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795250777.6322212,
    "alerted": false,
    "ctx": {
-    "cursor": 14,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -9774,18 +9803,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795247181.5123055,
+   "last_run": 1795250794.2206643,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795247181.5123072,
+   "last_ok": 1795250794.2206662,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795247186.915442,
+   "last_run": 1795250798.3648336,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795247186.9154427,
+   "last_ok": 1795250798.3648348,
    "alerted": false,
    "ctx": {}
   },
@@ -9848,7 +9877,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 6,
+   "rej_remote": 7,
    "rej_exp": 1
   }
  },
@@ -13539,6 +13568,23 @@
    "track_from": "description",
    "llm": {},
    "description": "TEI olarak 1985’ten günümüze; havacılık motorları alanında sektöre sunduğumuz yüksek kaliteli ürün, hizmetler ile uluslararası arenada dünya çapında bir üretici ve küresel bir tasarım merkezi konumundayız. Bu güçlü konumumuzdan hareketle kendimizi\nGücün Kaynağı\nolarak tanımlıyoruz. Küresel havacılığa sunduğumuz katkılar ve Türkiye’nin havacılık serüvenine kazandırdığımız ilkler ile başarı hikâyeleri yazmaya devam ediyor; parça ve modül üretimi, motor montaj, test ve bakım, onarım, revizyon, motor tasarımı ve ürün geliştirme alanlarında mükemmeli hedefliyoruz.\nTürk Havacılık Uzay Sanayii, GE Ae"
+  },
+  "linkedin:4491844422": {
+   "t": 1795250788.7822251,
+   "source": "linkedin",
+   "title": "Albaraka Ödeme Kuruluşu A.Ş. (Monera) – Sistem Operasyon Mühendisi (IT Ops / DevOps)",
+   "company": "Albaraka Türk",
+   "location": "Ümraniye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Albaraka Ödeme Kuruluşu A.Ş., 6493 sayılı Ödeme Ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri Ve Elektronik Para Kuruluşları Hakkında Kanun’a uyumlu olarak 28 Eylül 2023 tarihi itibarı ile Türkiye Cumhuriyeti Merkez Bankası lisanslı ödeme kuruluşudur.\nÖdemeye aracılık etmek, pazaryerleri ve işletmeler için ödeme platformu sunmak, TCMB tarafından sunulan ödeme yöntemlerinin tamamını desteklemek, bireysel kullanıcılara cüzdan ve ödeme araçları sunmak gibi çeşitli konularda hizmetler ve çözümler üretir.\nAlbaraka Ödeme Kuruluşu A.Ş. (Monera) için\nSistem Operasyon Mühendisi (IT Ops / DevO"
   }
  },
  "pending": {}
