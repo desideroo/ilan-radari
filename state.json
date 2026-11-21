@@ -9644,13 +9644,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795219297.809369,
+   "last_run": 1795220166.2893019,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795219297.809371,
+   "last_ok": 1795220166.2893033,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
