@@ -8969,6 +8969,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491852789": {
+   "t": 1795273289.1456313,
+   "title": "Satellite Communications Technician (RF, Baseband, Antenna Systems) for NATO with security clearance",
+   "company": "WLG",
+   "url": "https://www.linkedin.com/jobs/view/4491852789/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9943,29 +9952,30 @@
   "d8508165306088f1": "linkedin:4492902681",
   "0d27ba7865860030": "linkedin:4492317218",
   "018435b57aa21749": "linkedin:4491319900",
-  "63c9000038cd71a8": "linkedin:4491685834"
+  "63c9000038cd71a8": "linkedin:4491685834",
+  "c428f3a9aab71de1": "linkedin:4491852789"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795272391.927003,
+   "last_run": 1795273287.1651497,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795272391.9270046,
+   "last_ok": 1795273287.165151,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795271556.6098151,
+   "last_run": 1795273331.9455583,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795271556.6098166,
+   "last_ok": 1795273331.9455597,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
