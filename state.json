@@ -8950,6 +8950,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491319900": {
+   "t": 1795268779.4517856,
+   "title": "Yapay Zeka Analisti",
+   "company": "CBOT Open",
+   "url": "https://www.linkedin.com/jobs/view/4491319900/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9922,17 +9932,18 @@
   "6d582c260bae6e62": "linkedin:4492306224",
   "39d6cfbef2e5fee0": "linkedin:4426088219",
   "d8508165306088f1": "linkedin:4492902681",
-  "0d27ba7865860030": "linkedin:4492317218"
+  "0d27ba7865860030": "linkedin:4492317218",
+  "018435b57aa21749": "linkedin:4491319900"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795267881.2463892,
+   "last_run": 1795268777.6565452,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795267881.2463913,
+   "last_ok": 1795268777.656547,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -9948,18 +9959,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795265169.3102264,
+   "last_run": 1795268784.2948523,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795265169.310228,
+   "last_ok": 1795268784.294854,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795265173.7563262,
+   "last_run": 1795268793.1932583,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795265173.7563274,
+   "last_ok": 1795268793.1932592,
    "alerted": false,
    "ctx": {}
   },
@@ -10022,7 +10033,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 8,
+   "rej_remote": 9,
    "rej_exp": 1
   }
  },
@@ -13815,6 +13826,23 @@
    "track_from": "title",
    "llm": {},
    "description": "About Atos\nAtos is a global leader in digital transformation with c. 78,000 employees and annual revenue of c. € 10 billion. European number one in cybersecurity, cloud and high-performance computing, the Group provides tailored end-to-end solutions for all industries in 68 countries. A pioneer in decarbonization services and products, Atos is committed to a secure and decarbonized digital for its clients. Atos is a SE (Societas Europaea) and listed on Euronext Paris.\nThe purpose of Atos is to help design the future of the information space. Its expertise and services support the development o"
+  },
+  "linkedin:4491319900": {
+   "t": 1795268779.4518166,
+   "source": "linkedin",
+   "title": "Yapay Zeka Analisti",
+   "company": "CBOT Open",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "CBOT Open\nCBOT Open olarak, yapay zekâ teknolojilerinin geliştirilmesini ve farklı kullanım alanlarında yaygınlaşmasını destekleyen bir ekosistem oluşturuyoruz.Yapay zekâ alanındaki gelişmeleri yakından takip eden, yeni teknolojileri araştırmaya ve uygulamaya ilgi duyan, analitik düşünme becerileri güçlü bir\nYapay Zekâ Analisti\narıyoruz.\nGörev ve Sorumluluklar\nÜretken yapay zekâ (Generative AI), büyük dil modelleri (LLM) ve AI Agent teknolojileri üzerine araştırmalar gerçekleştirmek.\nFarklı sektörlerdeki iş süreçlerini analiz ederek yapay zekâ kullanım senaryoları oluşturmak.\nYapay zekâ tabanl"
   }
  },
  "pending": {}
