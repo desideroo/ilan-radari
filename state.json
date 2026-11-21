@@ -8987,6 +8987,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492148757": {
+   "t": 1795275975.9356794,
+   "title": "Lead - Accounting",
+   "company": "Beko Corporate",
+   "url": "https://www.linkedin.com/jobs/view/4492148757/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9963,17 +9972,18 @@
   "018435b57aa21749": "linkedin:4491319900",
   "63c9000038cd71a8": "linkedin:4491685834",
   "c428f3a9aab71de1": "linkedin:4491852789",
-  "f2be2cde4415280c": "linkedin:4469416589"
+  "f2be2cde4415280c": "linkedin:4469416589",
+  "c5b20cad88395a27": "linkedin:4492148757"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795275089.9440486,
+   "last_run": 1795275975.9349804,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795275089.94405,
+   "last_ok": 1795275975.9349818,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -9989,18 +9999,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795272398.6805413,
+   "last_run": 1795275982.2318652,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795272398.6805432,
+   "last_ok": 1795275982.2318673,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795272402.8240387,
+   "last_run": 1795275986.8833547,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795272402.8240404,
+   "last_ok": 1795275986.8833559,
    "alerted": false,
    "ctx": {}
   },
