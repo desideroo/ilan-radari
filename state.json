@@ -8773,6 +8773,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492056431": {
+   "t": 1795247165.9381642,
+   "title": "Line Lead",
+   "company": "Philip Morris International",
+   "url": "https://www.linkedin.com/jobs/view/4492056431/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491933281": {
+   "t": 1795247175.5046608,
+   "title": "Operasyon Güvenliği ve Altyapı Güvenliği Uzmanı (Security Operations & Infrastructure Security Specialist)",
+   "company": "EGEMSOFT - Egem Bilgi İletişim Ticaret A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491933281/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9726,17 +9744,19 @@
   "3e45b68e00d26bfe": "linkedin:4491935157",
   "ba54c234f2babf2c": "linkedin:4491686964",
   "1cf4f834c0df3929": "linkedin:4491615783",
-  "6a745f6a80276e28": "youthall:aselsan-10"
+  "6a745f6a80276e28": "youthall:aselsan-10",
+  "06c26be5a16aa519": "linkedin:4492056431",
+  "e9fb41f5eca6dfed": "linkedin:4491933281"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795246277.420269,
+   "last_run": 1795247165.9374492,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795246277.4202707,
+   "last_ok": 1795247165.9374504,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -9752,18 +9772,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795243562.7053344,
+   "last_run": 1795247181.5123055,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795243562.7053368,
+   "last_ok": 1795247181.5123072,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795243567.310793,
+   "last_run": 1795247186.915442,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795243567.3107944,
+   "last_ok": 1795247186.9154427,
    "alerted": false,
    "ctx": {}
   },
