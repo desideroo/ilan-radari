@@ -8884,6 +8884,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4602073": {
+   "t": 1795266134.307102,
+   "title": "Makine Mühendisi",
+   "company": "GLOBAL ULUSLARARASI METAL SAN. TİC.LTD.ŞTİ",
+   "url": "https://www.kariyer.net/is-ilani/global-uluslararasi-metal-san-tic-ltd-sti-makine-muhendisi-4602073",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -9849,29 +9859,30 @@
   "be9c174bccd7811e": "linkedin:4488207192",
   "e7abbcee7e3af2f0": "linkedin:4492923175",
   "457047f2dab58757": "linkedin:4486649434",
-  "d8cff54d60a504f0": "linkedin:4492283940"
+  "d8cff54d60a504f0": "linkedin:4492283940",
+  "0fb72201a9ba6e47": "kariyernet:4602073"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795265162.86741,
+   "last_run": 1795266089.782982,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795265162.8674123,
+   "last_ok": 1795266089.782984,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795264341.512702,
+   "last_run": 1795266130.3099658,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795264341.512704,
+   "last_ok": 1795266130.3099675,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -13694,6 +13705,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 25 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Askerlik Durumu: Yapıldı; Ehliyet: B sınıfı\n\nŞirketimizin tohum satış - pazarlama alanında aktif rol alabilecek ;\nZiraat Mühendisliği Fakültesi mezunu (Tercihen Tarla Bitkileri, Bitki Koruma Bölümleri),\nTercihen Tarla Bitkileri (Bölgeye göre  Buğday, Arpa ,Yem Bitkileri , Mısır ve Ayçiçeği) üretimi, yetiştiriciliği ve\ntohum satış\nı\nkonusunda en az 2 yıl tecrübeli,\nVeri analizi, raporlama, sosyal medya kullanımı ve sunum tekniklerine hakim,\nÜretici arazilerinde, pazarlama ve teknik destek sağlama faaliyetleri göster"
+  },
+  "kariyernet:4602073": {
+   "t": 1795266134.3071449,
+   "source": "kariyernet",
+   "title": "Makine Mühendisi",
+   "company": "GLOBAL ULUSLARARASI METAL SAN. TİC.LTD.ŞTİ",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 2 - 99 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Ön Lisans(Mezun); Askerlik Durumu: Yapıldı, Muaf\n\nGlobal Uluslararası Metal San. Tic. Ltd. Şti. (Global Metal), metal imalat sektöründe faaliyet gösteren ve lift ile tank teknolojileri için makine parçası üretiminde uzmanlaşmış bir üretim firmasıdır. Almanya’daki müşterilere hizmet veren şirketimiz; lazer kesim, büküm, talaşlı imalat ve yoğunlukla kaynaklı parçalar üreten, ISO 9001 ve DIN EN 1090 standartlarına uyumlu, gelişmekte olan bir yapıya sahiptir.\nBu yapı içinde kendi gelişimine göre\nkalite, üretim veya pla"
   }
  },
  "pending": {}
