@@ -8819,6 +8819,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492153431": {
+   "t": 1795252573.587533,
+   "title": "Software Support Intern",
+   "company": "Arvato",
+   "url": "https://www.linkedin.com/jobs/view/4492153431/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9777,17 +9786,18 @@
   "e9fb41f5eca6dfed": "linkedin:4491933281",
   "559051d3f542dbca": "linkedin:4492565153",
   "aeda27f027557aa3": "linkedin:4491855504",
-  "2bb27f5cfe406b10": "linkedin:4491844422"
+  "2bb27f5cfe406b10": "linkedin:4491844422",
+  "1b073016114c688a": "linkedin:4492153431"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795251709.936422,
+   "last_run": 1795252573.587078,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795251709.9364238,
+   "last_ok": 1795252573.58708,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
