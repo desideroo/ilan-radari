@@ -10082,9 +10082,9 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795292180.8415978,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=software+developer&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
+   "last_run": 1795293093.0025008,
+   "fails": 2,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
    "last_ok": 1795291300.7869005,
    "alerted": false,
    "ctx": {
@@ -10094,15 +10094,15 @@
    }
   },
   "kariyernet": {
-   "last_run": 1795291341.952836,
+   "last_run": 1795293134.9463818,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795291341.952838,
+   "last_ok": 1795293134.9463835,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
