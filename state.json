@@ -8701,9 +8701,10 @@
    "title": "Full Stack Engineer",
    "company": "BEHIND24 | Intelligence-Driven Cyber Defense",
    "url": "https://www.linkedin.com/jobs/view/4472181843/",
-   "status": "sent",
+   "status": "applied",
    "score": 78,
-   "msg": 63
+   "msg": 63,
+   "fb_t": 1795282767.9818466
   },
   "linkedin:4491906480": {
    "t": 1795239133.7169,
@@ -10086,7 +10087,7 @@
    "ctx": {}
   }
  },
- "tg_offset": 985447702,
+ "tg_offset": 985447703,
  "paused": false,
  "last_summary": "2026-11-20",
  "daily": {
@@ -10133,7 +10134,7 @@
    "sent": 1,
    "dropped": 0,
    "candidates": 1,
-   "applied": 0,
+   "applied": 1,
    "saved": 0,
    "irrelevant": 0,
    "rej_remote": 11,
