@@ -9054,6 +9054,25 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491901592": {
+   "t": 1795284961.772471,
+   "title": "KALİTE KONTROL MÜDÜRÜ",
+   "company": "Adalı Makina",
+   "url": "https://www.linkedin.com/jobs/view/4491901592/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492747934": {
+   "t": 1795284963.6671946,
+   "title": "KALİTE MÜHENDİSİ",
+   "company": "OSTİM OSB İstihdam Ofisi",
+   "url": "https://www.linkedin.com/jobs/view/4492747934/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10037,17 +10056,19 @@
   "271058fb5888e72a": "linkedin:4492458360",
   "138bb20617bc9aa1": "linkedin:4491604079",
   "e218309ff7931323": "linkedin:4492559409",
-  "b483b4d085056688": "linkedin:4492916689"
+  "b483b4d085056688": "linkedin:4492916689",
+  "3f65d470e0df545b": "linkedin:4491901592",
+  "f5a07d487d4f6f81": "linkedin:4492747934"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795284113.7733543,
+   "last_run": 1795284961.7719738,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795284113.773356,
+   "last_ok": 1795284961.7719755,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -13998,6 +14019,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Company Description\nLet's turn visions into reality. At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people's lives. Our areas of activity are every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility or industry. Our promise to our associates is rock-solid: we grow together, we enjoy our work, and we inspire each other. Join in and feel the difference.\nJob Description\nYour Contribution to Something Big\nSupport the SAP S/4HANA transformatio"
+  },
+  "linkedin:4492747934": {
+   "t": 1795284963.667233,
+   "source": "linkedin",
+   "title": "KALİTE MÜHENDİSİ",
+   "company": "OSTİM OSB İstihdam Ofisi",
+   "location": "Kazan",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş Tanimi\nPERVAN MAKİNA bünyesinde çalıştırılmak üzere\nKalite Mühendisi\narayışımız mevcuttur. İlan detayları aşağıdaki gibidir:\nÜretim süreçlerinde giriş kalite, proses kalite ve final kalite kontrollerini yürütmek.\nÜretimi gerçekleştirilen parçaların teknik resim, ölçü, tolerans ve müşteri şartnamelerine uygunluğunu denetlemek.\nKumpas, mikrometre, mihengir, komparatör ve benzeri ölçüm ekipmanlarını etkin şekilde kullanmak.\nCNC işleme ve sac metal imalat süreçlerinde ürün uygunluğunu takip etmek.\nÖlçüm raporlarını, kontrol planlarını ve kalite kayıtlarını hazırlamak.\nÜrün ve proses uygunsuzlu"
   }
  },
  "pending": {}
