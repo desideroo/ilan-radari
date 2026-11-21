@@ -9016,6 +9016,43 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492458360": {
+   "t": 1795282271.6403267,
+   "title": "Channel Sales Manager, Turkey",
+   "company": "TXOne Networks",
+   "url": "https://www.linkedin.com/jobs/view/4492458360/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491604079": {
+   "t": 1795282271.64074,
+   "title": "Araştırma Geliştirme Yöneticisi",
+   "company": "Peops İnsan Kaynakları Hiz. ve Dan. Ltd. Şti.",
+   "url": "https://www.linkedin.com/jobs/view/4491604079/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492559409": {
+   "t": 1795282273.6572862,
+   "title": "SATCOM Technical Support Specialist",
+   "company": "NextLink Group",
+   "url": "https://www.linkedin.com/jobs/view/4492559409/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492916689": {
+   "t": 1795282282.7408879,
+   "title": "Smart Start Business Analyst",
+   "company": "ACCA Careers",
+   "url": "https://www.linkedin.com/jobs/view/4492916689/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9995,29 +10032,33 @@
   "f2be2cde4415280c": "linkedin:4469416589",
   "c5b20cad88395a27": "linkedin:4492148757",
   "5623b18992eb9937": "linkedin:4492315411",
-  "0958a04220a91b73": "linkedin:4492302934"
+  "0958a04220a91b73": "linkedin:4492302934",
+  "271058fb5888e72a": "linkedin:4492458360",
+  "138bb20617bc9aa1": "linkedin:4491604079",
+  "e218309ff7931323": "linkedin:4492559409",
+  "b483b4d085056688": "linkedin:4492916689"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795281386.0574658,
+   "last_run": 1795282271.6401439,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795281386.057468,
+   "last_ok": 1795282271.6401453,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795280545.7956579,
+   "last_run": 1795282323.4552999,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795280545.79566,
+   "last_ok": 1795282323.4553022,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -10037,10 +10078,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795275132.4149582,
+   "last_run": 1795282326.2406073,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795275132.4149597,
+   "last_ok": 1795282326.2406082,
    "alerted": false,
    "ctx": {}
   }
@@ -10095,7 +10136,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 10,
+   "rej_remote": 11,
    "rej_exp": 1
   }
  },
@@ -13939,6 +13980,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Çok ajanlı LLM sistemleri kurmuş, RAG mimarilerini production ortamında çalıştırmış ve model fine-tuning süreçlerini uçtan uca yürütmüş bir mühendis arıyoruz. Mimariyi sıfırdan kuracak kişi siz olacaksınız.\nHakkımızda\nDiagnis, sağlık alanında yapay zeka tabanlı ürünler geliştiren bir teknoloji şirketidir. Üzerinde çalışacağınız sistem ve ürünlerimize dair detaylı bilgiyi ilk görüşmede paylaşıyoruz.\nSorumluluklar\nÇok ajanlı LLM mimarisinin tasarımı ve kurulumu: ajan orkestrasyonu, yönlendirme, çelişki tespiti, konsensüs mekanizmaları\nAlan-özel Türkçe dil modeli geliştirilmesi: veri seti hazırlı"
+  },
+  "linkedin:4492916689": {
+   "t": 1795282282.740919,
+   "source": "linkedin",
+   "title": "Smart Start Business Analyst",
+   "company": "ACCA Careers",
+   "location": "Bursa",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Company Description\nLet's turn visions into reality. At Bosch, we shape the future by inventing high-quality technologies and services that spark enthusiasm and enrich people's lives. Our areas of activity are every bit as diverse as our outstanding Bosch teams around the world. Their creativity is the key to innovation through connected living, mobility or industry. Our promise to our associates is rock-solid: we grow together, we enjoy our work, and we inspire each other. Join in and feel the difference.\nJob Description\nYour Contribution to Something Big\nSupport the SAP S/4HANA transformatio"
   }
  },
  "pending": {}
