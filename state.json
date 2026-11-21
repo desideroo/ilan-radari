@@ -8704,6 +8704,16 @@
    "status": "sent",
    "score": 78,
    "msg": 63
+  },
+  "linkedin:4491906480": {
+   "t": 1795239133.7169,
+   "title": "Teknik Destek Uzmanı",
+   "company": "Veri Yazilim Proje Danismanlık Hiz. San. ve Tic. A.S.",
+   "url": "https://www.linkedin.com/jobs/view/4491906480/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9650,29 +9660,30 @@
   "a176efc502248c88": "linkedin:4493203359",
   "af5e1fa63d8c77b0": "linkedin:4491977130",
   "fb9f56208ab49eb1": "linkedin:4491935101",
-  "a3b655d1dcdc3515": "linkedin:4472181843"
+  "a3b655d1dcdc3515": "linkedin:4472181843",
+  "665c489cd78e85d2": "linkedin:4491906480"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795238191.3688455,
+   "last_run": 1795239131.1281738,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795238191.3688471,
+   "last_ok": 1795239131.1281753,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795237336.0829597,
+   "last_run": 1795239173.8188992,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795237336.0829616,
+   "last_ok": 1795239173.8189013,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -9692,10 +9703,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795231928.4360654,
+   "last_run": 1795239177.1056476,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795231928.436067,
+   "last_ok": 1795239177.105649,
    "alerted": false,
    "ctx": {}
   }
@@ -9750,7 +9761,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 1,
+   "rej_remote": 2,
    "rej_exp": 1
   }
  },
@@ -13339,6 +13350,23 @@
     "work_mode": "remote"
    },
    "description": "Çalışma Modeli:\nRemote\nPozisyon Hakkında\nBehind24 bünyesinde görev alacak, modern web teknolojilerine hâkim, frontend ve backend geliştirme süreçlerinde aktif rol üstlenebilecek bir Full-Stack Software Engineer arıyoruz.\nBu pozisyonda görev alacak ekip arkadaşımız; ölçeklenebilir web uygulamalarının geliştirilmesi, backend servislerinin tasarlanması, API mimarilerinin oluşturulması, veritabanı optimizasyonu ve yazılım altyapısının sürdürülebilir şekilde geliştirilmesinden sorumlu olacaktır.\nGörev ve Sorumluluklar\nModern frontend teknolojileri kullanarak performanslı ve responsive web uygulamaları geliştirmek.\nBackend servisleri, RESTful API ve mikroservis mimarileri tasarlamak ve geliştirmek.\nUygulama mimarisi ve yazılım bileşenlerinin geliştirilmesine katkıda bulunmak.\nPostgreSQL, MySQL, MongoDB gibi veritabanı sistemlerinin tasarım ve optimizasyonunu gerçekleştirmek.\nThird-Party servislerle API entegrasyonları geliştirmek.\nAsenkron görev yönetimi, veri işleme ve otomasyon süreçlerini geliştirmek.\nUygulama performansı, güvenlik ve ölçeklenebilirlik iyileştirmeleri yapmak.\nKod kalitesi, test süreçleri ve yazılım standartlarını gözetmek.\nGit tabanlı versiyon kontrol ve CI/CD süreçlerini yürütmek.\nTeknik dokümantasyon hazırlamak ve ekip içi geliştirme süreçlerine katkı sağlamak.\nAranan Nitelikler\nFull-Stack yazılım geliştirme konusunda deneyim sahibi olmak.\nJavaScript / TypeScript dillerine hâkim olmak.\nReact ve Next.js teknolojileriyle deneyim sahibi olmak.\nNode.js veya Python ile backend geliştirme deneyimi.\nRESTful API tasarımı ve geliştirme konusunda bilgi sahibi olmak.\nSQL ve NoSQL veritabanlarıyla çalışma deneyimi.\nGit ve modern yazılım geliştirme süreçlerine hâkim olmak.\nDocker ve container teknolojileri hakkında bilgi sahibi olmak.\nClean Code, SOLID ve yazılım tasarım prensiplerine aşina olmak.\nAnalitik düşünme ve problem çözme becerilerine sahip olmak.\nTercih Sebebi Olacak Yetkinlikler\nMicroservices Architecture deneyimi.\nRedis, RabbitMQ veya Kafka bilgisi.\nElasticsearch / OpenSearch deneyimi.\nKubernetes ve cloud altyapıları hakkında bilgi sahibi olmak.\nWebSocket ve real-time uygulama geliştirme deneyimi.\nAutomated Testing ve CI/CD süreçlerinde deneyim.\nApplication Security ve Secure Coding prensiplerine hâkimiyet.\nÇalışma Modeli\nTamamen uzaktan çalışma (Fully Remote).\nEsnek ve sonuç odaklı çalışma yaklaşımı.\nTeknik gelişimi ve sürekli öğrenmeyi destekleyen ekip kültürü."
+  },
+  "linkedin:4491906480": {
+   "t": 1795239133.716941,
+   "source": "linkedin",
+   "title": "Teknik Destek Uzmanı",
+   "company": "Veri Yazilim Proje Danismanlık Hiz. San. ve Tic. A.S.",
+   "location": "Bornova",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "TEKNİK DESTEK UZMANI\nKERZZ Hakkında\nKERZZ olarak, köklü teknoloji deneyimimizi yenilikçi çözümlerle birleştirerek işletmelerin dijital dönüşümüne katkı sağlıyoruz.\nBaşta restoran, kafe ve otel işletmeleri olmak üzere konuk ağırlama ve hizmet sektörüne yönelik geliştirdiğimiz web tabanlı ve bulut tabanlı uygulamalar, POS sistemleri, mobil çözümler, entegrasyon teknolojileri ve yapay zekâ destekli analiz platformlarıyla işletmelerin operasyonel süreçlerini dijitalleştiriyoruz.\nSipariş ve satış yönetiminden stok ve maliyet kontrolüne, ödeme sistemlerinden merkezi raporlamaya kadar farklı iş süreç"
   }
  },
  "pending": {}
