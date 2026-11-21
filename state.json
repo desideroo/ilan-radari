@@ -9082,6 +9082,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "elemannet:4810475": {
+   "t": 1795286781.9171972,
+   "title": "Engelli Personel (Genel Başvuru)",
+   "company": "İHLAS PAZARLAMA",
+   "url": "https://www.eleman.net/is-ilani/engelli-personel-genel-basvuru-i4810475",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10068,17 +10077,18 @@
   "b483b4d085056688": "linkedin:4492916689",
   "3f65d470e0df545b": "linkedin:4491901592",
   "f5a07d487d4f6f81": "linkedin:4492747934",
-  "c62b97349909d9ff": "linkedin:4492326094"
+  "c62b97349909d9ff": "linkedin:4492326094",
+  "25d37f97009eda4b": "elemannet:4810475"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795285902.4405665,
+   "last_run": 1795286776.3388658,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795285902.4405682,
+   "last_ok": 1795286776.3388672,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -10094,18 +10104,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795283184.893692,
+   "last_run": 1795286781.916579,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795283184.8936934,
+   "last_ok": 1795286781.916581,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795283189.9764593,
+   "last_run": 1795286786.7026758,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795283189.9764605,
+   "last_ok": 1795286786.702677,
    "alerted": false,
    "ctx": {}
   },
