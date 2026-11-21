@@ -42,7 +42,9 @@ class Job:
 
     @property
     def dedupe_key(self) -> str:
-        raw = norm(self.company) + "|" + norm(self.title)
+        # parantez içleri atılır: "X (All Roles)" ile "X" aynı ilan sayılsın
+        title = re.sub(r"\([^)]*\)", " ", self.title)
+        raw = norm(self.company) + "|" + norm(title)
         return hashlib.sha1(raw.encode()).hexdigest()[:16]
 
     @property

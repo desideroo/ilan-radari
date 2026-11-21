@@ -133,6 +133,21 @@ def test_system_admin_not_excluded():
     assert not matching.title_excluded(job("Sistem Yöneticisi"))
 
 
+@pytest.mark.parametrize("title", [
+    "Software Engineer - Open To People With Disabilities (All Roles and Experience Levels)",
+    "Software Engineer - Open To People With Disabilities",
+    "Engelli Kadrosu - Yazılım Uzmanı",
+    "Bilgi İşlem Personeli (EKPSS)",
+])
+def test_disability_quota_titles_excluded(title):
+    assert matching.title_excluded(job(title))
+
+
+def test_inclusive_statement_in_description_not_excluded():
+    j = job("Yazılım Geliştirici", desc="We welcome applications from people with disabilities.")
+    assert not matching.title_excluded(j) and matching.classify(j)
+
+
 def test_company_exclude():
     assert matching.title_excluded(job("Yazılım Mühendisi", company="Omuz Omuza Engelsiz İnsan Kaynakları"))
 
@@ -461,3 +476,9 @@ def test_remote_reject_only_counts_relevant():
     j = job("Garson", location="İstanbul, Türkiye", source="linkedin")
     j.extra["remote_query"] = True
     assert not matching.classify(j) and "reject" not in j.extra
+
+
+def test_dedupe_ignores_parenthetical():
+    a = job("Software Engineer - Open To X (All Roles and Experience Levels)", sid="1", company="EPAM")
+    b = job("Software Engineer - Open To X", sid="2", company="EPAM")
+    assert a.dedupe_key == b.dedupe_key

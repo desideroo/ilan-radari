@@ -125,7 +125,9 @@ NON_IT_TITLES = [
 ]
 
 # Firma adında ya da başlıkta bunlar geçen ilanlar elenir (engelli kadrosu ilanları gibi)
-COMPANY_OR_TITLE_EXCLUDE = [r"engelli", r"engelsiz"]
+COMPANY_OR_TITLE_EXCLUDE = [
+    r"engelli", r"engelsiz", r"ekpss", r"ozel politika", r"disabilit", r"disabled", r"handicap",
+]
 
 # "management trainee" içindeki "manager" yanlış elemesin diye bu ifadeler muaf
 TITLE_EXCLUDE_EXCEPT = [r"management trainee", r"yonetici adayi", r"manager trainee"]

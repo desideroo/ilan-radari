@@ -91,6 +91,9 @@ Her ilan için JSON döndür:
 - military_required: ilanda "askerliğini tamamlamış/muaf" şartı varsa true
 - min_years: ilanda ŞART olarak istenen minimum iş deneyimi yılı. "Tercihen" yazanlar ve staj sayılmaz. Yoksa 0.
 - work_mode: ilan metnine göre çalışma şekli: "remote" (tamamen uzaktan), "hybrid", "onsite" ya da yazmıyorsa "unknown"
+İlan özellikle engelli adaylara yönelik bir kadroysa (engelli kadrosu, EKPSS, "open to people with disabilities"
+gibi başlık ya da şartlar) 0 puan ver: aday bu kapsamda değil. Sadece genel bir "engelli adayların başvurusunu da
+memnuniyetle karşılarız" cümlesi içeren normal ilanları bu yüzden düşürme.
 Aday yeni mezun ve tam zamanlı iş deneyimi yok: 2 yıl ve üstü deneyim şartı olan ya da kıdemli/uzman seviye
 (senior, lead, 3+ yıl) ilanlara en fazla 20 puan ver.
 Uydurma bilgi yazma; sadece ilanda yazanı kullan.
