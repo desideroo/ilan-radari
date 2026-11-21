@@ -9654,13 +9654,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795230086.414976,
+   "last_run": 1795230968.0043144,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795230086.4149776,
+   "last_ok": 1795230968.0043156,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
