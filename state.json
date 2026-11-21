@@ -8754,6 +8754,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491615783": {
+   "t": 1795244511.6239302,
+   "title": "Stok Yönetimi Uzmanı",
+   "company": "TEI - TUSAŞ Motor Sanayii A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491615783/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9705,29 +9715,30 @@
   "4afd762563d1354f": "linkedin:4492549933",
   "cf373c6ed1c096b9": "linkedin:4491869493",
   "3e45b68e00d26bfe": "linkedin:4491935157",
-  "ba54c234f2babf2c": "linkedin:4491686964"
+  "ba54c234f2babf2c": "linkedin:4491686964",
+  "1cf4f834c0df3929": "linkedin:4491615783"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795243557.839608,
+   "last_run": 1795244509.4214265,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795243557.8396099,
+   "last_ok": 1795244509.4214277,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795242749.480557,
+   "last_run": 1795244553.8594868,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795242749.4805589,
+   "last_ok": 1795244553.8594885,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -9805,7 +9816,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 5,
+   "rej_remote": 6,
    "rej_exp": 1
   }
  },
@@ -13479,6 +13490,23 @@
    "track_from": "title",
    "llm": {},
    "description": "We create amazing games that rank at the top on both iOS and Android, loved and played by over 150 million fans worldwide!\nCheck out our smash-hit games:\n-\nCritical Strike\n-\nPolygun Arena\nIn this role, we deeply care about your passion for building high-quality PvP experiences. We highly encourage you to\nget familiar with both of our games before you apply and complete your application only if you're genuinely excited\nto create responsive gameplay, tackle real-time multiplayer challenges, and deliver competitive experiences that millions of players can enjoy every day.\nResponsibilities\nContrib"
+  },
+  "linkedin:4491615783": {
+   "t": 1795244511.6239688,
+   "source": "linkedin",
+   "title": "Stok Yönetimi Uzmanı",
+   "company": "TEI - TUSAŞ Motor Sanayii A.Ş.",
+   "location": "Eskişehir, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "TEI olarak 1985’ten günümüze; havacılık motorları alanında sektöre sunduğumuz yüksek kaliteli ürün, hizmetler ile uluslararası arenada dünya çapında bir üretici ve küresel bir tasarım merkezi konumundayız. Bu güçlü konumumuzdan hareketle kendimizi\nGücün Kaynağı\nolarak tanımlıyoruz. Küresel havacılığa sunduğumuz katkılar ve Türkiye’nin havacılık serüvenine kazandırdığımız ilkler ile başarı hikâyeleri yazmaya devam ediyor; parça ve modül üretimi, motor montaj, test ve bakım, onarım, revizyon, motor tasarımı ve ürün geliştirme alanlarında mükemmeli hedefliyoruz.\nTürk Havacılık Uzay Sanayii, GE Ae"
   }
  },
  "pending": {}
