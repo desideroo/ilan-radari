@@ -8857,6 +8857,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492923175": {
+   "t": 1795261572.4286203,
+   "title": "Solutions Architect Assistant",
+   "company": "Elite HR Consultancy",
+   "url": "https://www.linkedin.com/jobs/view/4492923175/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -9819,17 +9828,18 @@
   "1b073016114c688a": "linkedin:4492153431",
   "2c2a6e17ca4be29a": "linkedin:4490871471",
   "7e96e55825ea9c2d": "kariyernet:4602059",
-  "be9c174bccd7811e": "linkedin:4488207192"
+  "be9c174bccd7811e": "linkedin:4488207192",
+  "e7abbcee7e3af2f0": "linkedin:4492923175"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795260684.3892028,
+   "last_run": 1795261572.4282544,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795260684.3892047,
+   "last_ok": 1795261572.4282558,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
@@ -9845,18 +9855,18 @@
    }
   },
   "elemannet": {
-   "last_run": 1795257999.4555686,
+   "last_run": 1795261577.9167814,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795257999.4555705,
+   "last_ok": 1795261577.9167826,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795258006.7294176,
+   "last_run": 1795261583.2073889,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795258006.7294183,
+   "last_ok": 1795261583.20739,
    "alerted": false,
    "ctx": {}
   },
