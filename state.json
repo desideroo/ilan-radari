@@ -8714,6 +8714,36 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492549933": {
+   "t": 1795240897.466313,
+   "title": "Bütçe Planlama Uzmanı",
+   "company": "Akiş GYO",
+   "url": "https://www.linkedin.com/jobs/view/4492549933/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4491869493": {
+   "t": 1795240899.5979702,
+   "title": "Quality Engineer Associate (Equipment NPI)",
+   "company": "The Goodyear Tire & Rubber Company",
+   "url": "https://www.linkedin.com/jobs/view/4491869493/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491935157": {
+   "t": 1795240901.5100038,
+   "title": "Bulut Sistem Yönetimi Uzmanı (Cloud Systems, Storage, Database & Disaster Recovery Specialist)",
+   "company": "EGEMSOFT - Egem Bilgi İletişim Ticaret A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491935157/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9661,29 +9691,32 @@
   "af5e1fa63d8c77b0": "linkedin:4491977130",
   "fb9f56208ab49eb1": "linkedin:4491935101",
   "a3b655d1dcdc3515": "linkedin:4472181843",
-  "665c489cd78e85d2": "linkedin:4491906480"
+  "665c489cd78e85d2": "linkedin:4491906480",
+  "4afd762563d1354f": "linkedin:4492549933",
+  "cf373c6ed1c096b9": "linkedin:4491869493",
+  "3e45b68e00d26bfe": "linkedin:4491935157"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795239131.1281738,
+   "last_run": 1795240895.5377052,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795239131.1281753,
+   "last_ok": 1795240895.5377066,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795239173.8188992,
+   "last_run": 1795240942.3140154,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795239173.8189013,
+   "last_ok": 1795240942.3140168,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -9761,7 +9794,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 2,
+   "rej_remote": 4,
    "rej_exp": 1
   }
  },
@@ -13367,6 +13400,57 @@
    "track_from": "title",
    "llm": {},
    "description": "TEKNİK DESTEK UZMANI\nKERZZ Hakkında\nKERZZ olarak, köklü teknoloji deneyimimizi yenilikçi çözümlerle birleştirerek işletmelerin dijital dönüşümüne katkı sağlıyoruz.\nBaşta restoran, kafe ve otel işletmeleri olmak üzere konuk ağırlama ve hizmet sektörüne yönelik geliştirdiğimiz web tabanlı ve bulut tabanlı uygulamalar, POS sistemleri, mobil çözümler, entegrasyon teknolojileri ve yapay zekâ destekli analiz platformlarıyla işletmelerin operasyonel süreçlerini dijitalleştiriyoruz.\nSipariş ve satış yönetiminden stok ve maliyet kontrolüne, ödeme sistemlerinden merkezi raporlamaya kadar farklı iş süreç"
+  },
+  "linkedin:4492549933": {
+   "t": 1795240897.4663436,
+   "source": "linkedin",
+   "title": "Bütçe Planlama Uzmanı",
+   "company": "Akiş GYO",
+   "location": "Üsküdar",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Akkök Holding bünyesinde 2005 yılında kurulan\nAkiş GYO\n, holdingin stratejik iş alanları arasında konumlandırdığı\ngayrimenkul\nsektöründeki deneyim ve uzmanlığını\n“Her işimizin temelinde mutluluğunuz var.”\nilkesiyle sektöründe kalitesi ile farklılaşan projeleri hayata geçirmeyi hedeflemektedir.\n2011 yılında açılan\nAkbatı\nAlışveriş Merkezi ile yakaladığı önemli başarı sonrası,\nAkasya\n’nın 2014 yılında tamamlanması ile önemli bir projeye daha imza atmıştır. 2017 yılında SAF GYO ile birleşen Akiş GYO, bu birleşme ile birlikte gayrimenkul sektöründeki yerini bir kat daha sağlamlaştırmıştır. Türkiye"
+  },
+  "linkedin:4491869493": {
+   "t": 1795240899.5980074,
+   "source": "linkedin",
+   "title": "Quality Engineer Associate (Equipment NPI)",
+   "company": "The Goodyear Tire & Rubber Company",
+   "location": "Sakarya, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-18",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Location:\nAdapazarı, Sakarya (On-site) I Full-time\nAbout Goodyear\nWe’re dedicated to producing, innovating, and servicing the best tires in the world. For over 125 years, Goodyear has led the way in developing smart solutions that shape the future of mobility. Today, we’re one global team united by bold thinking, relentless drive, and a passion to exceed expectations. If you’re ready to embrace change and make an impact in your career, let’s go.\nWhy This Role Matters\nAs a Quality Engineer Associate (Equipment), you will play a key role in maintaining equipments (curing and basic building) for "
+  },
+  "linkedin:4491935157": {
+   "t": 1795240901.510047,
+   "source": "linkedin",
+   "title": "Bulut Sistem Yönetimi Uzmanı (Cloud Systems, Storage, Database & Disaster Recovery Specialist)",
+   "company": "EGEMSOFT - Egem Bilgi İletişim Ticaret A.Ş.",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Egemsoft olarak savunma sanayii sektörünün önde gelen firmalarından birinde görevlendirilmek üzere; AWS Cloud ortamlarında sistem altyapısı, depolama, veri tabanı ve yedekleme yönetimi süreçlerini uçtan uca yönetecek, yüksek erişilebilirlik ile Disaster Recovery (DR) ve Business Continuity mimarilerinde deneyimli\nBulut Sistem Yönetimi Uzmanı\narıyoruz.\nAranan Nitelikler\nÜniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri veya ilgili bölümlerinden mezun,\nAWS Cloud ortamlarında sistem altyapısı, depolama, veri tabanı ve yedekleme yönetimi konularında profesyonel çalı"
   }
  },
  "pending": {}
