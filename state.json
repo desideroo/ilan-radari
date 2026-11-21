@@ -8744,6 +8744,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491686964": {
+   "t": 1795242705.460867,
+   "title": "Game Developer - New Grad",
+   "company": "Vertigo Games",
+   "url": "https://www.linkedin.com/jobs/view/4491686964/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -9694,29 +9704,30 @@
   "665c489cd78e85d2": "linkedin:4491906480",
   "4afd762563d1354f": "linkedin:4492549933",
   "cf373c6ed1c096b9": "linkedin:4491869493",
-  "3e45b68e00d26bfe": "linkedin:4491935157"
+  "3e45b68e00d26bfe": "linkedin:4491935157",
+  "ba54c234f2babf2c": "linkedin:4491686964"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795241784.0058045,
+   "last_run": 1795242695.5568793,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795241784.005806,
+   "last_ok": 1795242695.5568814,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795240942.3140154,
+   "last_run": 1795242749.480557,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795240942.3140168,
+   "last_ok": 1795242749.4805589,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -9794,7 +9805,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 4,
+   "rej_remote": 5,
    "rej_exp": 1
   }
  },
@@ -13451,6 +13462,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Egemsoft olarak savunma sanayii sektörünün önde gelen firmalarından birinde görevlendirilmek üzere; AWS Cloud ortamlarında sistem altyapısı, depolama, veri tabanı ve yedekleme yönetimi süreçlerini uçtan uca yönetecek, yüksek erişilebilirlik ile Disaster Recovery (DR) ve Business Continuity mimarilerinde deneyimli\nBulut Sistem Yönetimi Uzmanı\narıyoruz.\nAranan Nitelikler\nÜniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri veya ilgili bölümlerinden mezun,\nAWS Cloud ortamlarında sistem altyapısı, depolama, veri tabanı ve yedekleme yönetimi konularında profesyonel çalı"
+  },
+  "linkedin:4491686964": {
+   "t": 1795242705.4609046,
+   "source": "linkedin",
+   "title": "Game Developer - New Grad",
+   "company": "Vertigo Games",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "We create amazing games that rank at the top on both iOS and Android, loved and played by over 150 million fans worldwide!\nCheck out our smash-hit games:\n-\nCritical Strike\n-\nPolygun Arena\nIn this role, we deeply care about your passion for building high-quality PvP experiences. We highly encourage you to\nget familiar with both of our games before you apply and complete your application only if you're genuinely excited\nto create responsive gameplay, tackle real-time multiplayer challenges, and deliver competitive experiences that millions of players can enjoy every day.\nResponsibilities\nContrib"
   }
  },
  "pending": {}
