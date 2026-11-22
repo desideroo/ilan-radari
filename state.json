@@ -9708,6 +9708,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4483356396": {
+   "t": 1795375884.5365286,
+   "title": "Planlama Direktörü",
+   "company": "Yataş Grup",
+   "url": "https://www.linkedin.com/jobs/view/4483356396/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10761,17 +10770,18 @@
   "9391fd6f49a027dc": "linkedin:4492363400",
   "cd5fd6e8877a849d": "kariyernet:4602093",
   "fd2b1de00782913c": "linkedin:4492352957",
-  "214c31e7ec61026b": "linkedin:4493313475"
+  "214c31e7ec61026b": "linkedin:4493313475",
+  "2a7ee2ca5353e6a2": "linkedin:4483356396"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795374953.9020295,
+   "last_run": 1795375884.5362325,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795374953.9020312,
+   "last_ok": 1795375884.536234,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -10803,10 +10813,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795368682.63243,
+   "last_run": 1795375887.480101,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795368682.6324313,
+   "last_ok": 1795375887.4801023,
    "alerted": false,
    "ctx": {}
   }
