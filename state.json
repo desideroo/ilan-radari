@@ -9550,6 +9550,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492351820": {
+   "t": 1795365074.689002,
+   "title": "Web & Marketing Analyst (B2C)",
+   "company": "AirAdvisor",
+   "url": "https://www.linkedin.com/jobs/view/4492351820/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493382242": {
+   "t": 1795365076.8341675,
+   "title": "Unity Developer",
+   "company": "Skyloft",
+   "url": "https://www.linkedin.com/jobs/view/4493382242/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10586,17 +10605,19 @@
   "41e316d87341f40b": "linkedin:4481890459",
   "beb4518a2237a679": "linkedin:4492922166",
   "1d155e2fd80218fb": "linkedin:4492957125",
-  "2aa0ffc75cc30cb7": "linkedin:4492893496"
+  "2aa0ffc75cc30cb7": "linkedin:4492893496",
+  "6b6f7e8a822044fa": "linkedin:4492351820",
+  "22252060891bea1a": "linkedin:4493382242"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795364155.0797274,
+   "last_run": 1795365074.6882455,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795364155.0797288,
+   "last_ok": 1795365074.6882472,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -10696,7 +10717,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 16
+   "rej_remote": 17
   }
  },
  "details": {
@@ -14935,6 +14956,23 @@
    "track_from": "title",
    "llm": {},
    "description": "ZİMEK MAKİNA\n’’PLC YAZILIM - OTOMASYON PERSONELİ’’\nİŞ İLANI\nDenizli'de Mermer Makinaları imalatı yapan ve sektöründe lider olan şirketimiz bünyesinde görevlendirilmek üzere\n’’PLC YAZILIM - OTOMASYON PERSONELİ’’\narayışımız bulunmaktadır.\nGENEL NİTELİKLER:\nİlgili okulların Elektrik/Elektronik bölümünden mezun olmuş,\nPLC Programlama ve otomasyon konusunda orta ileri seviyede bilgisi olan,\nEndüstriyel Otomasyon konusunda deneyimli ve ST, IL , Ladder programlama dillerine aşina,\nMakineyi devreye alma, makine arızaları ve hız kontrol cihazlarında tecrübeli\nElektrik/Elektronik otomasyon malzemelerini"
+  },
+  "linkedin:4493382242": {
+   "t": 1795365076.8342092,
+   "source": "linkedin",
+   "title": "Unity Developer",
+   "company": "Skyloft",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Skyloft ekibine katılacak, mobil oyun geliştirme konusunda deneyimli bir Unity Developer arıyoruz.\nBu rolde oyun prototiplerinin geliştirilmesinden canlı projelerin iyileştirilmesine kadar tüm teknik süreçlerde aktif sorumluluk alacak; AI ve MCP tabanlı geliştirme araçlarını günlük çalışma düzeninin doğal bir parçası olarak kullanacaksın.\nGörev ve sorumluluklar\nUnity ve C# kullanarak mobil oyun sistemleri geliştirmek\nGameplay, UI, ekonomi, progression ve meta sistemlerini uygulamak\nMevcut projelerde performans analizi ve optimizasyon yapmak\nÜçüncü taraf SDK, analitik, reklam ve uygulama içi sa"
   }
  },
  "pending": {}
