@@ -9747,6 +9747,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492356725": {
+   "t": 1795381293.9046428,
+   "title": "Accounting Specialist (Engelli)",
+   "company": "Hayat",
+   "url": "https://www.linkedin.com/jobs/view/4492356725/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10804,17 +10813,18 @@
   "2a7ee2ca5353e6a2": "linkedin:4483356396",
   "1efc35121eeb1f38": "linkedin:4493282372",
   "88cd8bb77dc1f486": "linkedin:4492361641",
-  "f6f8ef307762d8c5": "linkedin:4488580147"
+  "f6f8ef307762d8c5": "linkedin:4488580147",
+  "c904d5f55eaccfba": "linkedin:4492356725"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795380368.3796358,
+   "last_run": 1795381293.90367,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795380368.3796377,
+   "last_ok": 1795381293.9036715,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
