@@ -9727,6 +9727,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492361641": {
+   "t": 1795378577.3625488,
+   "title": "Red Team Operator-TS/SCI",
+   "company": "SIXGEN",
+   "url": "https://www.linkedin.com/jobs/view/4492361641/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10782,29 +10792,30 @@
   "fd2b1de00782913c": "linkedin:4492352957",
   "214c31e7ec61026b": "linkedin:4493313475",
   "2a7ee2ca5353e6a2": "linkedin:4483356396",
-  "1efc35121eeb1f38": "linkedin:4493282372"
+  "1efc35121eeb1f38": "linkedin:4493282372",
+  "88cd8bb77dc1f486": "linkedin:4492361641"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795377684.117009,
+   "last_run": 1795378567.5793898,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795377684.1170104,
+   "last_ok": 1795378567.5793912,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795376795.9448915,
+   "last_run": 1795378617.4438515,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795376795.944893,
+   "last_ok": 1795378617.4438534,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -15233,6 +15244,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Pervan Makina bünyesinde, üretim süreçlerimizin kalite standartlarına uygunluğunu sağlamak ve ölçüm faaliyetlerini yürütmek üzere\nCMM Operatörü\narayışımız bulunmaktadır.\nAranan Nitelikler\nTercihen Makine, Mekatronik veya ilgili teknik bölümlerden mezun,\nHEXAGON marka CMM (Koordinat Ölçüm Cihazı) kullanımı konusunda deneyimli,\nPC-DMIS ölçüm yazılımını aktif olarak kullanabilen, ölçüm programlarını çalıştırabilen ve tercihen program oluşturma/düzenleme deneyimine sahip,\nTeknik resim okuma, ölçülendirme ve toleranslandırma konularında bilgi sahibi,\nGeometrik boyutlandırma ve toleranslandırma (GD&"
+  },
+  "linkedin:4492361641": {
+   "t": 1795378577.362584,
+   "source": "linkedin",
+   "title": "Red Team Operator-TS/SCI",
+   "company": "SIXGEN",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs.\nSIXGEN’s mission is to deliver agile, mission-ready cybersecurity solutions that empower government and critical infrastructure organizations to stay ahead of advanced cyber threats. We combine innovation, deep expertise, and cutting-edge capabilities to uncover vulnerabilities, protect vital systems, and ensure operational superiority in an ever-evolving digital landscape.\nPosition Overview\nPosition: Senior Red Team Operator\nJob Type: Full-time\nLocation: REMOTE- up to 10% travel\nClearance Requirem"
   }
  },
  "pending": {}
