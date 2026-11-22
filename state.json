@@ -9196,6 +9196,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491614465": {
+   "t": 1795333571.509276,
+   "title": "SORUMLU MAKİNE DEĞERLEME UZMANI ARIYORUZ",
+   "company": "4A Danışmanlık ve Gayrimenkul Değerleme A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4491614465/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10194,44 +10203,45 @@
   "8bacc3587b96cb77": "linkedin:4491923686",
   "84a7d730f1a9828f": "linkedin:4492345397",
   "7197629f6520ab08": "linkedin:4492782929",
-  "8a949a1ea83ae4e7": "linkedin:4491900429"
+  "8a949a1ea83ae4e7": "linkedin:4491900429",
+  "6b3ba33bd9caea1f": "linkedin:4491614465"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795332671.9496086,
+   "last_run": 1795333569.4464464,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795332671.9496098,
+   "last_ok": 1795333569.4464474,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795331802.3098648,
+   "last_run": 1795333611.549948,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795331802.3098674,
+   "last_ok": 1795333611.5499494,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795330011.7251763,
+   "last_run": 1795333618.254426,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795330011.7251778,
+   "last_ok": 1795333618.2544272,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795330016.5186732,
+   "last_run": 1795333622.7065814,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795330016.5186744,
+   "last_ok": 1795333622.706582,
    "alerted": false,
    "ctx": {}
   },
