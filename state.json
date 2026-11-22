@@ -10134,13 +10134,15 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795311966.6176982,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795312893.7298832,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
    "last_ok": 1795311966.6176999,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 4,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
