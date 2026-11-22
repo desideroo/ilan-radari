@@ -10775,40 +10775,40 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795375884.5362325,
+   "last_run": 1795376753.2833693,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795375884.536234,
+   "last_ok": 1795376753.2833707,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795375004.2101953,
+   "last_run": 1795376795.9448915,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795375004.2101967,
+   "last_ok": 1795376795.944893,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795373201.4995482,
+   "last_run": 1795376801.9458323,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795373201.4995499,
+   "last_ok": 1795376801.9458337,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795373206.1403277,
+   "last_run": 1795376805.980736,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795373206.1403291,
+   "last_ok": 1795376805.9807372,
    "alerted": false,
    "ctx": {}
   },
