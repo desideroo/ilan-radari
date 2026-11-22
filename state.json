@@ -9717,6 +9717,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493282372": {
+   "t": 1795377685.7996218,
+   "title": "CMM OPERATÖRÜ",
+   "company": "OSTİM OSB İstihdam Ofisi",
+   "url": "https://www.linkedin.com/jobs/view/4493282372/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10771,17 +10781,18 @@
   "cd5fd6e8877a849d": "kariyernet:4602093",
   "fd2b1de00782913c": "linkedin:4492352957",
   "214c31e7ec61026b": "linkedin:4493313475",
-  "2a7ee2ca5353e6a2": "linkedin:4483356396"
+  "2a7ee2ca5353e6a2": "linkedin:4483356396",
+  "1efc35121eeb1f38": "linkedin:4493282372"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795376753.2833693,
+   "last_run": 1795377684.117009,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795376753.2833707,
+   "last_ok": 1795377684.1170104,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -15205,6 +15216,23 @@
    "track_from": "title",
    "llm": {},
    "description": "INSPECCO BELGELENDİRME ve GÖZETİM HİZMETLERİ A.Ş., Türk Akreditasyon Kurumu (TÜRKAK) tarafından akredite edilmiş, belgelendirme ve gözetim alanında hizmet veren bir kurum olup,\nŞirketimizin Kırıkkale’de devam eden projelerinde görevlendirilmek üzere, aşağıda belirtilen niteliklere sahip\n“Periyodik Muayene Uzmanı / Elektrik Mühendisi”\narayışımız bulunmaktadır.\nİş Tanımı\nElektrik tesisatları, topraklama sistemleri, paratoner sistemleri, pano ve ekipmanlar vb. alanlarda periyodik kontrol işlemlerini gerçekleştirebilecek,\nKontrol ettiği ekipmanların sorumluluğunu alabilecek,\nKontroller sırasında y"
+  },
+  "linkedin:4493282372": {
+   "t": 1795377685.7996612,
+   "source": "linkedin",
+   "title": "CMM OPERATÖRÜ",
+   "company": "OSTİM OSB İstihdam Ofisi",
+   "location": "Kazan",
+   "work_mode": "",
+   "posted": "2026-11-21",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Pervan Makina bünyesinde, üretim süreçlerimizin kalite standartlarına uygunluğunu sağlamak ve ölçüm faaliyetlerini yürütmek üzere\nCMM Operatörü\narayışımız bulunmaktadır.\nAranan Nitelikler\nTercihen Makine, Mekatronik veya ilgili teknik bölümlerden mezun,\nHEXAGON marka CMM (Koordinat Ölçüm Cihazı) kullanımı konusunda deneyimli,\nPC-DMIS ölçüm yazılımını aktif olarak kullanabilen, ölçüm programlarını çalıştırabilen ve tercihen program oluşturma/düzenleme deneyimine sahip,\nTeknik resim okuma, ölçülendirme ve toleranslandırma konularında bilgi sahibi,\nGeometrik boyutlandırma ve toleranslandırma (GD&"
   }
  },
  "pending": {}
