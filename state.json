@@ -9176,6 +9176,26 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492782929": {
+   "t": 1795331758.713688,
+   "title": "Supply Chain Planning & Purchasing Specialist",
+   "company": "Avolta",
+   "url": "https://www.linkedin.com/jobs/view/4492782929/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491900429": {
+   "t": 1795331760.752804,
+   "title": "Maliyet Muhasebesi Uzmanı",
+   "company": "ZSR Ammunition",
+   "url": "https://www.linkedin.com/jobs/view/4491900429/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10172,31 +10192,31 @@
   "459383b1eced7ddc": "linkedin:4492588308",
   "c67579bdcb0f89c2": "linkedin:4492516775",
   "8bacc3587b96cb77": "linkedin:4491923686",
-  "84a7d730f1a9828f": "linkedin:4492345397"
+  "84a7d730f1a9828f": "linkedin:4492345397",
+  "7197629f6520ab08": "linkedin:4492782929",
+  "8a949a1ea83ae4e7": "linkedin:4491900429"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795330900.9989018,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=business+intelligence&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795329960.9161189,
+   "last_run": 1795331756.2516208,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795331756.251623,
    "alerted": false,
    "ctx": {
-    "cursor": 18,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795330005.9652085,
+   "last_run": 1795331802.3098648,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795330005.9652102,
+   "last_ok": 1795331802.3098674,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -10284,7 +10304,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 4
+   "rej_remote": 5
   }
  },
  "details": {
@@ -14229,6 +14249,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Müşterilerimize özel mobil uygulama ve web platformu geliştirecek bir Yazılım Geliştirici arıyoruz.\nAtalay Yazılım olarak şirketlere özel mobil uygulama, web platformu, B2B bayi sistemi ve yapay zekâ çözümleri geliştiriyoruz. Ofisimiz Fulya'da, BTM Polat Tower'da.\nBu rol\nLaravel tabanlı API ve yönetim panelleri geliştirmek.\nReact Native (Expo) ile iOS ve Android uygulamaları yazmak, mağazaya çıkarmak.\nNext.js ile web siteleri ve müşteri panelleri kurmak.\nMüşteri taleplerini anlayıp test edilmiş, canlıya çıkan işe çevirmek.\nKimi arıyoruz\nEn az 2 yıl profesyonel yazılım geliştirme deneyimi.\nLara"
+  },
+  "linkedin:4492782929": {
+   "t": 1795331758.7137265,
+   "source": "linkedin",
+   "title": "Supply Chain Planning & Purchasing Specialist",
+   "company": "Avolta",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Journey On!\nAre you ready to be part of our Travel Experience Revolution?\nWho we are?\nAvolta is the world’s Leading Travel Experience Player – the product of the Dufry-Autogrill business combination. With complementary strengths in global travel retail, convenience and food & beverage, the newly combined industry titans address 2.3 billion passengers in more than 75 countries in 5,500 outlets across 1,200 airports, motorways, cruise lines, seaports, railway stations and other locations across six continents. With the traveler at our core, we are creating value for all our stakeholders includin"
+  },
+  "linkedin:4491900429": {
+   "t": 1795331760.7528434,
+   "source": "linkedin",
+   "title": "Maliyet Muhasebesi Uzmanı",
+   "company": "ZSR Ammunition",
+   "location": "Balıkesir, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "ZSR, 550'ye yakın ekip üyesinin ortak çalışmasıyla dünyanın genelinde ordular, kolluk kuvvetleri, hobi amaçlı ve sporcu atıcılar dahil olmak üzere müşterilerine yüksek teknolojiye dayalı çözümler sunmaktadır.\nİnsana, sürece ve teknolojiye yaptığı yatırımların avantajını kullanan ZSR, uluslararası bir oyuncu olmayı başararak büyüme stratejisini sürdürmektedir.\nBütçe ve Finansal Raporlama Biriminde görev alacak Maliyet Muhasebesi Uzmanı arayışımız bulunmaktadır.\nARANAN NİTELİKLER\nÜniversitelerin Muhasebe, Maliye, İşletme, İktisat veya ilgili bölümlerinden mezun,\nÜretim firmalarında Maliyet Muhas"
   }
  },
  "pending": {}
