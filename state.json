@@ -9353,6 +9353,34 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493357801": {
+   "t": 1795347089.265383,
+   "title": "Senior Strategy (Microstrategy) Consultant",
+   "company": "DataNotion",
+   "url": "https://www.linkedin.com/jobs/view/4493357801/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493367176": {
+   "t": 1795347091.3582013,
+   "title": "End User Support Technician",
+   "company": "Spektrum",
+   "url": "https://www.linkedin.com/jobs/view/4493367176/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4435991471": {
+   "t": 1795347093.4141743,
+   "title": "Credit Risk Modeling Professionals",
+   "company": "Deloitte",
+   "url": "https://www.linkedin.com/jobs/view/4435991471/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10368,17 +10396,20 @@
   "41c0b6c1d60e2ebe": "linkedin:4492784625",
   "bccb4b4dde571473": "linkedin:4491903500",
   "95eef53a54c6476c": "linkedin:4492336928",
-  "2d02a2b83d0ac9f6": "linkedin:4438719462"
+  "2d02a2b83d0ac9f6": "linkedin:4438719462",
+  "ddcceccf81533e9a": "linkedin:4493357801",
+  "cb1a55387c6058e9": "linkedin:4493367176",
+  "a25db6d20e76c83c": "linkedin:4435991471"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795346160.6289597,
+   "last_run": 1795347089.2641256,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795346160.6289613,
+   "last_ok": 1795347089.2641273,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -10410,10 +10441,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795339887.8307633,
+   "last_run": 1795347096.4749756,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795339887.830766,
+   "last_ok": 1795347096.4749768,
    "alerted": false,
    "ctx": {}
   }
@@ -10478,7 +10509,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 8
+   "rej_remote": 9
   }
  },
  "details": {
@@ -14581,6 +14612,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Join Eaton, a global leader where equality and inclusivity are at the heart of our mission. Here, everyone is valued and belongs. Be part of a team that delivers cutting-edge, energy-efficient solutions, making a tangible impact on the world. We empower our customers to manage electrical, hydraulic, and mechanical energy more effectively, safely, and sustainably. At Eaton, we’re dedicated to enhancing quality of life and protecting the environment with our innovative energy management technologies and services.\nOur EMEA Business Service Center (BSC) in Budapest is Eaton’s largest office in the"
+  },
+  "linkedin:4435991471": {
+   "t": 1795347093.4142082,
+   "source": "linkedin",
+   "title": "Credit Risk Modeling Professionals",
+   "company": "Deloitte",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-19",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Deloitte provides industry-leading Audit & Assurance, Tax & Legal, Strategy, Risk & Transactions, and Technology & Transformation services to nearly 90% of the Fortune Global 500® and thousands of private companies.\nWith more than 470,000 professionals worldwide, we work together every day to make an impact that matters — delivering measurable and lasting results that help reinforce public trust in capital markets, enable our clients to transform and thrive, and lead the way toward a stronger economy, a more equitable society, and a more sustainable world.\nBuilding on its more than 180 years o"
   }
  },
  "pending": {}
