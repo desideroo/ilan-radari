@@ -75,6 +75,8 @@ TRACKS = {
             r"system admin", r"sysadmin", r"bt destek", r"it support", r"it specialist", r"help ?desk",
             r"bilgi islem", r"\bbt (uzmani|sorumlusu|personeli|teknisyeni)", r"\bcisco\b", r"\bdevops\b",
             r"siber guvenlik", r"cyber security", r"teknik destek uzmani",
+            r"yardim masasi", r"end user support", r"desktop support", r"son kullanici destek",
+            r"(system|technical) support (specialist|engineer|technician|analyst)", r"sistem analisti", r"hosting destek",
         ],
     },
     "general": {

@@ -482,3 +482,12 @@ def test_dedupe_ignores_parenthetical():
     a = job("Software Engineer - Open To X (All Roles and Experience Levels)", sid="1", company="EPAM")
     b = job("Software Engineer - Open To X", sid="2", company="EPAM")
     assert a.dedupe_key == b.dedupe_key
+
+
+@pytest.mark.parametrize("title", [
+    "End User Support Technician", "Yardım Masası Sistem Analisti", "Hosting Destek Uzmanı",
+    "System Support Specialist",
+])
+def test_it_support_titles_recognized(title):
+    j = job(title)
+    assert "network" in matching.title_tracks(j)
