@@ -9477,6 +9477,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4437802251": {
+   "t": 1795356079.9746482,
+   "title": "TMEA Business Intelligence Team Leader",
+   "company": "Aviagen",
+   "url": "https://www.linkedin.com/jobs/view/4437802251/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10505,17 +10514,18 @@
   "c70754a985ffddc5": "linkedin:4458402561",
   "c2ca54e474935c54": "linkedin:4493353824",
   "92c0bd79d38f123a": "linkedin:4491698372",
-  "5466e0adbbc06736": "linkedin:4491616811"
+  "5466e0adbbc06736": "linkedin:4491616811",
+  "f005ccfc5ecaf5e7": "linkedin:4437802251"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795355155.350586,
+   "last_run": 1795356079.973796,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795355155.3505871,
+   "last_ok": 1795356079.9737973,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
