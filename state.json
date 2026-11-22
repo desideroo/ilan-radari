@@ -9205,6 +9205,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492321468": {
+   "t": 1795335421.6482399,
+   "title": "AI Kreatif Üretim ve Otomasyon Uzmanı (AI Creative Producer & Automation Specialist)",
+   "company": "FURNOO LONDON",
+   "url": "https://www.linkedin.com/jobs/view/4492321468/",
+   "status": "sent",
+   "score": 58,
+   "msg": 65
   }
  },
  "dedupe": {
@@ -10204,29 +10213,30 @@
   "84a7d730f1a9828f": "linkedin:4492345397",
   "7197629f6520ab08": "linkedin:4492782929",
   "8a949a1ea83ae4e7": "linkedin:4491900429",
-  "6b3ba33bd9caea1f": "linkedin:4491614465"
+  "6b3ba33bd9caea1f": "linkedin:4491614465",
+  "ae779a24ee77557e": "linkedin:4492321468"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795334490.610973,
+   "last_run": 1795335361.7251437,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795334490.6109743,
+   "last_ok": 1795335361.725145,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795333611.549948,
+   "last_run": 1795335404.4490948,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795333611.5499494,
+   "last_ok": 1795335404.4490962,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -10308,9 +10318,9 @@
    "rej_exp": 1
   },
   "2026-11-22": {
-   "sent": 0,
+   "sent": 1,
    "dropped": 0,
-   "candidates": 0,
+   "candidates": 1,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
@@ -14293,6 +14303,34 @@
    "track_from": "title",
    "llm": {},
    "description": "ZSR, 550'ye yakın ekip üyesinin ortak çalışmasıyla dünyanın genelinde ordular, kolluk kuvvetleri, hobi amaçlı ve sporcu atıcılar dahil olmak üzere müşterilerine yüksek teknolojiye dayalı çözümler sunmaktadır.\nİnsana, sürece ve teknolojiye yaptığı yatırımların avantajını kullanan ZSR, uluslararası bir oyuncu olmayı başararak büyüme stratejisini sürdürmektedir.\nBütçe ve Finansal Raporlama Biriminde görev alacak Maliyet Muhasebesi Uzmanı arayışımız bulunmaktadır.\nARANAN NİTELİKLER\nÜniversitelerin Muhasebe, Maliye, İşletme, İktisat veya ilgili bölümlerinden mezun,\nÜretim firmalarında Maliyet Muhas"
+  },
+  "linkedin:4492321468": {
+   "t": 1795335421.6483648,
+   "source": "linkedin",
+   "title": "AI Kreatif Üretim ve Otomasyon Uzmanı (AI Creative Producer & Automation Specialist)",
+   "company": "FURNOO LONDON",
+   "location": "Türkiye",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-21",
+   "tracks": [
+    "ai"
+   ],
+   "rule_score": 60,
+   "reject": "",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {
+    "score": 58,
+    "cv": "02_Yapay_Zeka",
+    "summary": "Furnoo London, e-ticaret reklam süreçlerini ölçeklendirmek amacıyla uzaktan çalışacak bir AI kreatif üretim ve otomasyon uzmanı aramaktadır. Pozisyon; fal.ai, Kling ve Runway gibi üretken yapay zekâ araçlarıyla reklam içerikleri üretmeyi ve n8n/Make üzerinden API tabanlı otomasyon sistemleri kurmayı kapsamaktadır.",
+    "why": "Adayın yapay zekâ, REST API entegrasyonu ve Python ile otomasyon konularındaki teknik altyapısı rolün gereksinimlerine temel oluşturmaktadır.",
+    "gaps": "Üretken yapay zekâ video/görsel araçları (Runway, Kling vb.), n8n/Make iş akışları ve reklam kreatif tasarımı alanında somut deneyim eksikliği.",
+    "military_required": false,
+    "min_years": 0,
+    "work_mode": "remote"
+   },
+   "description": "Şirket:\nFurnoo London\nÇalışma Şekli:\nUzaktan (Remote)\nPozisyon:\nTam Zamanlı / Uzun Vadeli İş Birliği\nÜcret:\nAylık 1.000–1.500 USD (Deneyime göre)\nFurnoo London Hakkında\nFurnoo London, modern ve tasarım odaklı aydınlatma ürünleri sunan, uluslararası pazarlarda faaliyet gösteren ve hızla büyüyen bir e-ticaret markasıdır.\nDijital pazarlama ve kreatif üretim süreçlerimizi ölçeklendirmek amacıyla ekibimize\nAI Kreatif Üretim ve Otomasyon Uzmanı\narıyoruz.\nBu pozisyon, geleneksel bir grafik tasarım veya yalnızca teknik otomasyon geliştirme rolü değildir.\nAmacımız; yapay zekâ destekli görsel ve video üretimini otomasyon teknolojileriyle birleştirerek yüksek hacimli, kaliteli ve sürdürülebilir bir reklam üretim sistemi oluşturmaktır.\nAradığımız kişi, bu sistemin hem kurulmasından hem de günlük olarak işletilmesinden sorumlu olacaktır.\nGörev ve Sorumluluklar\n1. Yapay Zekâ ile Kreatif Üretimi\nfal.ai, Kling, Runway, Nano Banana ve benzeri yapay zekâ araçlarıyla reklam görselleri ve videoları üretmek.\nMevcut ürün fotoğraflarımızı kullanarak gerçekçi yaşam alanları, ürün sunumları ve farklı reklam konseptleri oluşturmak.\nKreatif ekibimiz tarafından hazırlanan brief'leri, reklam açılarını ve referansları üretime dönüştürmek.\nÜrünlerin gerçek tasarımını, malzemelerini, renklerini ve ölçülerini koruyarak yüksek kaliteli içerikler üretmek.\nKreatifleri Meta ve Pinterest reklamlarına uygun 9:16, 4:5 ve 1:1 formatlarında hazırlamak.\nÜretilen görsel ve videoların kalite kontrolünü ve gerekli revizyonlarını gerçekleştirmek.\n2. AI Otomasyon Sisteminin Kurulması ve Geliştirilmesi\nn8n, Make veya benzeri platformlarla otomatik kreatif üretim iş akışları oluşturmak.\nGörsel ve video üretim modellerini API aracılığıyla otomasyon sistemine entegre etmek.\nÜrün kataloğumuzu, marka yönergelerimizi, kreatif brief'lerimizi ve referanslarımızı üretim süreçlerine bağlamak.\nTek bir brief üzerinden birden fazla reklam varyasyonu oluşturabilen sistemler geliştirmek.\nVideo düzenleme, altyazı, metin yerleşimi, farklı formatlara uyarlama ve dosyalama süreçlerini mümkün olduğunca otomatikleştirmek.\nOtomasyon sisteminin performansını, üretim maliyetlerini ve çıktı kalitesini takip ederek sürekli iyileştirmek.\nYeni AI modellerini ve otomasyon araçlarını araştırarak uygun olanları mevcut sisteme dahil etmek.\n3. Kreatif Operasyon ve Üretim Yönetimi\nKreatif ekibimizle birlikte haftalık üretim planlarını uygulamak.\nSistem geliştikçe haftalık yaklaşık 50 kaliteli kreatif çıktısı üretebilecek kapasiteye ulaşm"
   }
  },
  "pending": {}
