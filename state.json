@@ -9765,6 +9765,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492352996": {
+   "t": 1795390266.8371649,
+   "title": "Jr. Threat Hunter/Purple Team Operator-S clearance",
+   "company": "SIXGEN",
+   "url": "https://www.linkedin.com/jobs/view/4492352996/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10824,17 +10834,18 @@
   "88cd8bb77dc1f486": "linkedin:4492361641",
   "f6f8ef307762d8c5": "linkedin:4488580147",
   "c904d5f55eaccfba": "linkedin:4492356725",
-  "92c1078e2828fe3d": "linkedin:4492376075"
+  "92c1078e2828fe3d": "linkedin:4492376075",
+  "87c62bb96e8e8c99": "linkedin:4492352996"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795389359.377645,
+   "last_run": 1795390264.5417783,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795389359.3776467,
+   "last_ok": 1795390264.54178,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -10866,10 +10877,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795383084.4097173,
+   "last_run": 1795390270.102916,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795383084.4097188,
+   "last_ok": 1795390270.1029174,
    "alerted": false,
    "ctx": {}
   }
@@ -15309,6 +15320,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Eğitici ekibimizi genişletiyoruz!\nArtan kurumsal eğitim taleplerini karşılamak ve yeni gelişim projelerinde birlikte çalışmak üzere, deneyimli eğitmenlerle ekibimizi genişletmek istiyoruz.\nOrganizasyonlarda\nkişisel gelişim, mesleki gelişim, yönetim ve liderlik\nkonularında eğitim veren eğitici danışmanlar arıyoruz.\nÖzellikle şirketlerde iç eğitici olarak görev yapan, saha deneyimini eğitim ortamına taşıyan ve birikimini farklı kurumlarla paylaşmak isteyen profesyonellerle tanışmayı hedefliyoruz.\nİçeriklerini kurumların ihtiyaçlarına göre uyarlayabilen; vaka, rol canlandırma ve dijital enstrüman"
+  },
+  "linkedin:4492352996": {
+   "t": 1795390266.8372009,
+   "source": "linkedin",
+   "title": "Jr. Threat Hunter/Purple Team Operator-S clearance",
+   "company": "SIXGEN",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs.\nJunior Threat Hunter / Purple Team Operator\nSIXGEN's mission is to deliver agile, mission-ready cybersecurity solutions that empower government and critical infrastructure organizations to stay ahead of advanced cyber threats. We combine innovation, deep expertise, and leading technical capabilities to uncover vulnerabilities, protect vital systems, and strengthen operational resilience.\nPosition Overview\nPosition: Junior Threat Hunter / Purple Team Operator\nJob Type: Full Time\nLocation: Remote wit"
   }
  },
  "pending": {}
