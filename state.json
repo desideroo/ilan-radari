@@ -10154,13 +10154,15 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795319178.5285604,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795320124.9831417,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=.NET&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795319178.5285616,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
