@@ -9737,6 +9737,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4488580147": {
+   "t": 1795380377.7922611,
+   "title": "Kurumsal Eğitmen",
+   "company": "Yodea",
+   "url": "https://www.linkedin.com/jobs/view/4488580147/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10793,44 +10803,45 @@
   "214c31e7ec61026b": "linkedin:4493313475",
   "2a7ee2ca5353e6a2": "linkedin:4483356396",
   "1efc35121eeb1f38": "linkedin:4493282372",
-  "88cd8bb77dc1f486": "linkedin:4492361641"
+  "88cd8bb77dc1f486": "linkedin:4492361641",
+  "f6f8ef307762d8c5": "linkedin:4488580147"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795379463.2016265,
+   "last_run": 1795380368.3796358,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795379463.2016282,
+   "last_ok": 1795380368.3796377,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795378617.4438515,
+   "last_run": 1795380421.1963284,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795378617.4438534,
+   "last_ok": 1795380421.1963303,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795376801.9458323,
+   "last_run": 1795380427.454058,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795376801.9458337,
+   "last_ok": 1795380427.4540596,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795376805.980736,
+   "last_run": 1795380433.1352572,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795376805.9807372,
+   "last_ok": 1795380433.1352584,
    "alerted": false,
    "ctx": {}
   },
@@ -15261,6 +15272,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Listed on CyberJobs.cc, a job board for cybersecurity jobs from the team behind AITraining.jobs.\nSIXGEN’s mission is to deliver agile, mission-ready cybersecurity solutions that empower government and critical infrastructure organizations to stay ahead of advanced cyber threats. We combine innovation, deep expertise, and cutting-edge capabilities to uncover vulnerabilities, protect vital systems, and ensure operational superiority in an ever-evolving digital landscape.\nPosition Overview\nPosition: Senior Red Team Operator\nJob Type: Full-time\nLocation: REMOTE- up to 10% travel\nClearance Requirem"
+  },
+  "linkedin:4488580147": {
+   "t": 1795380377.792293,
+   "source": "linkedin",
+   "title": "Kurumsal Eğitmen",
+   "company": "Yodea",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Eğitici ekibimizi genişletiyoruz!\nArtan kurumsal eğitim taleplerini karşılamak ve yeni gelişim projelerinde birlikte çalışmak üzere, deneyimli eğitmenlerle ekibimizi genişletmek istiyoruz.\nOrganizasyonlarda\nkişisel gelişim, mesleki gelişim, yönetim ve liderlik\nkonularında eğitim veren eğitici danışmanlar arıyoruz.\nÖzellikle şirketlerde iç eğitici olarak görev yapan, saha deneyimini eğitim ortamına taşıyan ve birikimini farklı kurumlarla paylaşmak isteyen profesyonellerle tanışmayı hedefliyoruz.\nİçeriklerini kurumların ihtiyaçlarına göre uyarlayabilen; vaka, rol canlandırma ve dijital enstrüman"
   }
  },
  "pending": {}
