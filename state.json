@@ -9241,6 +9241,51 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4459803408": {
+   "t": 1795337164.158374,
+   "title": "IT /OT Manager",
+   "company": "Magna International",
+   "url": "https://www.linkedin.com/jobs/view/4459803408/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491902192": {
+   "t": 1795337164.1584425,
+   "title": "Performans ve Dijital Pazarlama Uzmanı",
+   "company": "FLO Group",
+   "url": "https://www.linkedin.com/jobs/view/4491902192/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492904055": {
+   "t": 1795337166.2101767,
+   "title": "Hosting Destek Uzmanı",
+   "company": "IHS Telekom",
+   "url": "https://www.linkedin.com/jobs/view/4492904055/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492330215": {
+   "t": 1795337170.3941445,
+   "title": "Sunucu",
+   "company": "Alpha Future Agency",
+   "url": "https://www.linkedin.com/jobs/view/4492330215/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492439607": {
+   "t": 1795337239.8775494,
+   "title": "Site Reliability Engineer",
+   "company": "Firefly",
+   "url": "https://www.linkedin.com/jobs/view/4492439607/",
+   "status": "sent",
+   "score": 85,
+   "msg": 66
   }
  },
  "dedupe": {
@@ -10244,44 +10289,49 @@
   "ae779a24ee77557e": "linkedin:4492321468",
   "ec1303ea5ee47f25": "linkedin:4492345511",
   "240992d187924708": "linkedin:4493153285",
-  "6a6fa6049d971b82": "linkedin:4491395727"
+  "6a6fa6049d971b82": "linkedin:4491395727",
+  "3797711dfddbd711": "linkedin:4459803408",
+  "0ac7a169819817bf": "linkedin:4491902192",
+  "3b0674e58dcc6a93": "linkedin:4492904055",
+  "611aa465f59e9146": "linkedin:4492330215",
+  "304934fe883f1a3d": "linkedin:4492439607"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795336267.0300138,
+   "last_run": 1795337164.1577053,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795336267.030015,
+   "last_ok": 1795337164.1577065,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795335404.4490948,
+   "last_run": 1795337213.70857,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795335404.4490962,
+   "last_ok": 1795337213.7085714,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795333618.254426,
+   "last_run": 1795337218.9121401,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795333618.2544272,
+   "last_ok": 1795337218.9121413,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795333622.7065814,
+   "last_run": 1795337224.126648,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795333622.706582,
+   "last_ok": 1795337224.1266494,
    "alerted": false,
    "ctx": {}
   },
@@ -10348,9 +10398,9 @@
    "rej_exp": 1
   },
   "2026-11-22": {
-   "sent": 1,
+   "sent": 2,
    "dropped": 0,
-   "candidates": 1,
+   "candidates": 2,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
@@ -14361,6 +14411,34 @@
     "work_mode": "remote"
    },
    "description": "Şirket:\nFurnoo London\nÇalışma Şekli:\nUzaktan (Remote)\nPozisyon:\nTam Zamanlı / Uzun Vadeli İş Birliği\nÜcret:\nAylık 1.000–1.500 USD (Deneyime göre)\nFurnoo London Hakkında\nFurnoo London, modern ve tasarım odaklı aydınlatma ürünleri sunan, uluslararası pazarlarda faaliyet gösteren ve hızla büyüyen bir e-ticaret markasıdır.\nDijital pazarlama ve kreatif üretim süreçlerimizi ölçeklendirmek amacıyla ekibimize\nAI Kreatif Üretim ve Otomasyon Uzmanı\narıyoruz.\nBu pozisyon, geleneksel bir grafik tasarım veya yalnızca teknik otomasyon geliştirme rolü değildir.\nAmacımız; yapay zekâ destekli görsel ve video üretimini otomasyon teknolojileriyle birleştirerek yüksek hacimli, kaliteli ve sürdürülebilir bir reklam üretim sistemi oluşturmaktır.\nAradığımız kişi, bu sistemin hem kurulmasından hem de günlük olarak işletilmesinden sorumlu olacaktır.\nGörev ve Sorumluluklar\n1. Yapay Zekâ ile Kreatif Üretimi\nfal.ai, Kling, Runway, Nano Banana ve benzeri yapay zekâ araçlarıyla reklam görselleri ve videoları üretmek.\nMevcut ürün fotoğraflarımızı kullanarak gerçekçi yaşam alanları, ürün sunumları ve farklı reklam konseptleri oluşturmak.\nKreatif ekibimiz tarafından hazırlanan brief'leri, reklam açılarını ve referansları üretime dönüştürmek.\nÜrünlerin gerçek tasarımını, malzemelerini, renklerini ve ölçülerini koruyarak yüksek kaliteli içerikler üretmek.\nKreatifleri Meta ve Pinterest reklamlarına uygun 9:16, 4:5 ve 1:1 formatlarında hazırlamak.\nÜretilen görsel ve videoların kalite kontrolünü ve gerekli revizyonlarını gerçekleştirmek.\n2. AI Otomasyon Sisteminin Kurulması ve Geliştirilmesi\nn8n, Make veya benzeri platformlarla otomatik kreatif üretim iş akışları oluşturmak.\nGörsel ve video üretim modellerini API aracılığıyla otomasyon sistemine entegre etmek.\nÜrün kataloğumuzu, marka yönergelerimizi, kreatif brief'lerimizi ve referanslarımızı üretim süreçlerine bağlamak.\nTek bir brief üzerinden birden fazla reklam varyasyonu oluşturabilen sistemler geliştirmek.\nVideo düzenleme, altyazı, metin yerleşimi, farklı formatlara uyarlama ve dosyalama süreçlerini mümkün olduğunca otomatikleştirmek.\nOtomasyon sisteminin performansını, üretim maliyetlerini ve çıktı kalitesini takip ederek sürekli iyileştirmek.\nYeni AI modellerini ve otomasyon araçlarını araştırarak uygun olanları mevcut sisteme dahil etmek.\n3. Kreatif Operasyon ve Üretim Yönetimi\nKreatif ekibimizle birlikte haftalık üretim planlarını uygulamak.\nSistem geliştikçe haftalık yaklaşık 50 kaliteli kreatif çıktısı üretebilecek kapasiteye ulaşm"
+  },
+  "linkedin:4492439607": {
+   "t": 1795337239.877664,
+   "source": "linkedin",
+   "title": "Site Reliability Engineer",
+   "company": "Firefly",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-19",
+   "tracks": [
+    "fullstack"
+   ],
+   "rule_score": 30,
+   "reject": "",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {
+    "score": 85,
+    "cv": "01_Ag_Altyapi",
+    "summary": "Firefly, bulut altyapısının sürekliliğini sağlama, CI/CD süreçlerini geliştirme ve dahili BT operasyonlarını yönetme odaklı Site Reliability Engineer aramaktadır. Pozisyonda Linux, Docker, Kubernetes, Python/Bash betikleme ve izleme/otomasyon araçları kullanılmaktadır.",
+    "why": "Adayın Linux, Docker, Python bilgisi ve BT altyapı/destek staj tecrübeleri, ilanın uzaktan çalışma modeli ve stajları geçerli sayan 0-2 yıl şartı ile oldukça iyi örtüşmektedir.",
+    "gaps": "GCP bulut platformu, Kubernetes, Terraform/Ansible ve Prometheus/Grafana izleme araçları konusunda pratik deneyim eksikliği.",
+    "military_required": false,
+    "min_years": 0,
+    "work_mode": "remote"
+   },
+   "description": "FIREFLY\nFueled by the most advanced tracking, measurement, and optimization capabilities available in the out-of-home industry, Firefly is an innovative data-first ad network delivering the most relevant messages at the most relevant moments using car top and in-car solutions. Our proprietary screens deliver dynamic content based on location-based, GPS-enabled triggers. We empower brands to efficiently engage consumers in major markets across the U.S. including New York City, Chicago, Las Vegas, San Francisco, Los Angeles, and Miami.\nFirefly empowers our employees to thrive by embracing their\nauthentic selves\n, fostering a culture of individuality, and celebrating diversity. We believe that when you can be yourself at work, you can bring your best to the table. We value your\nunique perspectives and contributions,\nrecognizing that every idea, no matter how unconventional, has the potential to drive\ninnovation\nand progress.\nJoin us, and discover a workplace where you can truly be yourself, make a meaningful impact, and boldly explore new horizons.\nDrive the light, accelerate innovation, steer with authenticity!\nWe’re hiring a Site Reliability Engineer to help keep Firefly’s platform reliable and support day-to-day internal IT operations. You’ll work with senior engineers to monitor and troubleshoot services on Google Cloud, make improvements to our deployment and infrastructure workflows, and automate repetitive tasks. You’ll also help employees get the devices and access they need and manage routine IT requests through Jira.\nMAIN RESPONSIBILITIES:\nSupport troubleshooting of issues on application and service level.\nEngage in and improve the whole lifecycle of services, from inception and design, through deployment, operation, and refinement.\nAssist in platform engineering analysis, design, installation, and deployment.\nWork towards improving our platform engineering processes and procedures.\nDevelop and demonstrate detailed, proactive ownership for supported systems, including monitoring and documentation.\nContribute to best practice solutions for entire infrastructure.\nOwn IT operations processes: device procurement and setup, employee onboarding and offboarding, and access provisioning/revocation across all company systems.\nHandle and track infrastructure and IT requests through Jira.\nManage user accounts, permissions, and licenses across company tools, and keep hardware and access inventory up to date.\nREQUIREMENTS:\n0–2 years of experience in SRE, DevOps,"
   }
  },
  "pending": {}
