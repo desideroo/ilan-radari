@@ -9138,6 +9138,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492588308": {
+   "t": 1795313795.1994858,
+   "title": "Senior AI Engineer (Internal Tools & Agents)",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4492588308/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492516775": {
+   "t": 1795313795.1997223,
+   "title": "Senior MES Engineer",
+   "company": "Accenture",
+   "url": "https://www.linkedin.com/jobs/view/4492516775/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10130,31 +10148,31 @@
   "7d49b543505fe415": "kariyernet:4415168",
   "de22fb7f0a982f07": "kariyernet:4402878",
   "0a57df77d7784cd3": "linkedin:4492953021",
-  "2c4f24bdbadbcef8": "linkedin:4491902868"
+  "2c4f24bdbadbcef8": "linkedin:4491902868",
+  "459383b1eced7ddc": "linkedin:4492588308",
+  "c67579bdcb0f89c2": "linkedin:4492516775"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795312893.7298832,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795311966.6176999,
+   "last_run": 1795313795.1987696,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795313795.1987715,
    "alerted": false,
    "ctx": {
-    "cursor": 4,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795312007.6641011,
+   "last_run": 1795313835.7072053,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795312007.6641037,
+   "last_ok": 1795313835.7072074,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
