@@ -9214,6 +9214,33 @@
    "status": "sent",
    "score": 58,
    "msg": 65
+  },
+  "linkedin:4492345511": {
+   "t": 1795336267.0302413,
+   "title": "Senior Full-Stack Developer",
+   "company": "LangueEdu",
+   "url": "https://www.linkedin.com/jobs/view/4492345511/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493153285": {
+   "t": 1795336269.3786001,
+   "title": "Revenue Analyst - Leased Hotels Türkiye",
+   "company": "Accor",
+   "url": "https://www.linkedin.com/jobs/view/4493153285/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4491395727": {
+   "t": 1795336271.6335585,
+   "title": "Credit Risk Control Assistant Vice President",
+   "company": "ING Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4491395727/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10214,17 +10241,20 @@
   "7197629f6520ab08": "linkedin:4492782929",
   "8a949a1ea83ae4e7": "linkedin:4491900429",
   "6b3ba33bd9caea1f": "linkedin:4491614465",
-  "ae779a24ee77557e": "linkedin:4492321468"
+  "ae779a24ee77557e": "linkedin:4492321468",
+  "ec1303ea5ee47f25": "linkedin:4492345511",
+  "240992d187924708": "linkedin:4493153285",
+  "6a6fa6049d971b82": "linkedin:4491395727"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795335361.7251437,
+   "last_run": 1795336267.0300138,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795335361.725145,
+   "last_ok": 1795336267.030015,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
