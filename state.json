@@ -9532,6 +9532,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492957125": {
+   "t": 1795359700.8789172,
+   "title": "Quantitative Research Intern - Crisis Response and Resilience Portfolio - Office Based",
+   "company": "UNDP Careers",
+   "url": "https://www.linkedin.com/jobs/view/4492957125/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10566,17 +10575,18 @@
   "ed94b78619a484f4": "linkedin:4488844011",
   "ff68c5540cae856e": "linkedin:4482106780",
   "41e316d87341f40b": "linkedin:4481890459",
-  "beb4518a2237a679": "linkedin:4492922166"
+  "beb4518a2237a679": "linkedin:4492922166",
+  "1d155e2fd80218fb": "linkedin:4492957125"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795358764.6003304,
+   "last_run": 1795359700.87857,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795358764.6003315,
+   "last_ok": 1795359700.8785715,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
