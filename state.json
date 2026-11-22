@@ -9486,6 +9486,43 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492348717": {
+   "t": 1795356967.705521,
+   "title": "İngilizce Bilen Sağlık Turizmi Satış Danışmanı (Estetik & Diş & Tüp Bebek)",
+   "company": "Ahmet Yardımcı Academy",
+   "url": "https://www.linkedin.com/jobs/view/4492348717/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4488844011": {
+   "t": 1795356967.7057798,
+   "title": "Business Development Manager",
+   "company": "Wyser",
+   "url": "https://www.linkedin.com/jobs/view/4488844011/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4482106780": {
+   "t": 1795356967.7058873,
+   "title": "Maliyet ve Raporlama Müdürü",
+   "company": "Vakko L'Atelier",
+   "url": "https://www.linkedin.com/jobs/view/4482106780/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4481890459": {
+   "t": 1795356970.3745828,
+   "title": "PLC YAZILIM - OTOMASYON PERSONELİ",
+   "company": "ZIMEK MACHINE",
+   "url": "https://www.linkedin.com/jobs/view/4481890459/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10515,29 +10552,33 @@
   "c2ca54e474935c54": "linkedin:4493353824",
   "92c0bd79d38f123a": "linkedin:4491698372",
   "5466e0adbbc06736": "linkedin:4491616811",
-  "f005ccfc5ecaf5e7": "linkedin:4437802251"
+  "f005ccfc5ecaf5e7": "linkedin:4437802251",
+  "cf3944bc43d143af": "linkedin:4492348717",
+  "ed94b78619a484f4": "linkedin:4488844011",
+  "ff68c5540cae856e": "linkedin:4482106780",
+  "41e316d87341f40b": "linkedin:4481890459"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795356079.973796,
+   "last_run": 1795356967.7051747,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795356079.9737973,
+   "last_ok": 1795356967.7051764,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795355200.1316342,
+   "last_run": 1795357011.3328152,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795355200.131636,
+   "last_ok": 1795357011.332817,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -10625,7 +10666,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 15
+   "rej_remote": 16
   }
  },
  "details": {
@@ -14847,6 +14888,23 @@
    "track_from": "title",
    "llm": {},
    "description": "TEI olarak 1985’ten günümüze; havacılık motorları alanında sektöre sunduğumuz yüksek kaliteli ürün, hizmetler ile uluslararası arenada dünya çapında bir üretici ve küresel bir tasarım merkezi konumundayız. Bu güçlü konumumuzdan hareketle kendimizi\nGücün Kaynağı\nolarak tanımlıyoruz. Küresel havacılığa sunduğumuz katkılar ve Türkiye’nin havacılık serüvenine kazandırdığımız ilkler ile başarı hikâyeleri yazmaya devam ediyor; parça ve modül üretimi, motor montaj, test ve bakım, onarım, revizyon, motor tasarımı ve ürün geliştirme alanlarında mükemmeli hedefliyoruz.\nTürk Havacılık Uzay Sanayii, GE Ae"
+  },
+  "linkedin:4481890459": {
+   "t": 1795356970.3746219,
+   "source": "linkedin",
+   "title": "PLC YAZILIM - OTOMASYON PERSONELİ",
+   "company": "ZIMEK MACHINE",
+   "location": "Denizli",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "ZİMEK MAKİNA\n’’PLC YAZILIM - OTOMASYON PERSONELİ’’\nİŞ İLANI\nDenizli'de Mermer Makinaları imalatı yapan ve sektöründe lider olan şirketimiz bünyesinde görevlendirilmek üzere\n’’PLC YAZILIM - OTOMASYON PERSONELİ’’\narayışımız bulunmaktadır.\nGENEL NİTELİKLER:\nİlgili okulların Elektrik/Elektronik bölümünden mezun olmuş,\nPLC Programlama ve otomasyon konusunda orta ileri seviyede bilgisi olan,\nEndüstriyel Otomasyon konusunda deneyimli ve ST, IL , Ladder programlama dillerine aşina,\nMakineyi devreye alma, makine arızaları ve hız kontrol cihazlarında tecrübeli\nElektrik/Elektronik otomasyon malzemelerini"
   }
  },
  "pending": {}
