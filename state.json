@@ -9569,6 +9569,97 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492358525": {
+   "t": 1795365954.782911,
+   "title": "Kalite Kontrol Sorumlusu",
+   "company": "Güral Elektrik Malzemeleri",
+   "url": "https://www.linkedin.com/jobs/view/4492358525/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492946224": {
+   "t": 1795365956.5143113,
+   "title": "Uzman Sayısal Tasarım Doğrulama Mühendisi",
+   "company": "STG Mühendislik",
+   "url": "https://www.linkedin.com/jobs/view/4492946224/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "isbul:100558": {
+   "t": 1795366011.8672893,
+   "title": "Franchise Satış ve Yatırımcı İlişkileri Temsilcisi",
+   "company": "AZEM EĞİTİM DANIŞMANLIĞI",
+   "url": "https://isbul.net/is-ilani/azem-egitim-franchise-satis-ve-yatirimci-iliskileri-temsilcisi-100558",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100563": {
+   "t": 1795366011.8673308,
+   "title": "Japonca Öğretmeni (Native&Türk)",
+   "company": "MEDİKASEV YABANCI DİLLER KURSU",
+   "url": "https://isbul.net/is-ilani/medikasev-yabanci-diller-kursu-japonca-ogretmeni-nativeturk-100563",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100577": {
+   "t": 1795366011.8673897,
+   "title": "Endüstri Mühendisi Kaynak ve Hammadde Planlama Görevlisi",
+   "company": "MAYAFİX GIDA SANAYİ VE TİC. A.Ş.",
+   "url": "https://isbul.net/is-ilani/mayafix-gida-endustri-muhendisi-kaynak-ve-hammadde-planlama-gorevlisi-100577",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100684": {
+   "t": 1795366011.8674252,
+   "title": "Özel Ürün Pazarlama",
+   "company": "Ersan Çınar-Anadolu Ziraat",
+   "url": "https://isbul.net/is-ilani/gebze-ziraat-1-ozel-urun-pazarlama-100684",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100705": {
+   "t": 1795366011.867461,
+   "title": "Lojistik Satış Uzmanı",
+   "company": "KESKİNLER DAĞITIM VE LOJİSTİK",
+   "url": "https://isbul.net/is-ilani/keskinler-dagitim-ve-lojistik-lojistik-satis-uzmani-100705",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100731": {
+   "t": 1795366011.8674958,
+   "title": "Yardımcı Oyuncu - Figüran Günlük Ek İş",
+   "company": "Fuat Artun",
+   "url": "https://isbul.net/is-ilani/fuat-artun-yardimci-oyuncu-figuran-gunluk-ek-is-100731",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100735": {
+   "t": 1795366011.8675323,
+   "title": "Proje ve Dosya Bazlı Çalışacak Avukat",
+   "company": "TARGET DİMARK BİLİŞİM HİZ.LTD ŞTİ",
+   "url": "https://isbul.net/is-ilani/target-dimark-proje-ve-dosya-bazli-avukatlik-hizmeti-is-birligi-100735",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100810": {
+   "t": 1795366011.867571,
+   "title": "Araç Satış ve Kiralama Personeli",
+   "company": "GPC CAR RENTAL OTOMOTİV TİC.LTD ŞTİ",
+   "url": "https://isbul.net/is-ilani/fpc-car-rental-arac-satis-ve-kiralama-personeli-100810",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10607,44 +10698,54 @@
   "1d155e2fd80218fb": "linkedin:4492957125",
   "2aa0ffc75cc30cb7": "linkedin:4492893496",
   "6b6f7e8a822044fa": "linkedin:4492351820",
-  "22252060891bea1a": "linkedin:4493382242"
+  "22252060891bea1a": "linkedin:4493382242",
+  "0cfe7af6101570a5": "linkedin:4492358525",
+  "4ab651d2f506b937": "linkedin:4492946224",
+  "e964e08adba4ce64": "isbul:100558",
+  "c057548b6793d80b": "isbul:100563",
+  "5115c1a03e077511": "isbul:100577",
+  "08f14fb315f37b76": "isbul:100684",
+  "82c9150745c5f8f7": "isbul:100705",
+  "e497c0d522e3bb67": "isbul:100731",
+  "7efca6ae783a3b16": "isbul:100735",
+  "1e66da352f70e940": "isbul:100810"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795365074.6882455,
+   "last_run": 1795365954.7822816,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795365074.6882472,
+   "last_ok": 1795365954.7822833,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795364196.3536093,
+   "last_run": 1795365998.638615,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795364196.3536112,
+   "last_ok": 1795365998.6386166,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795362420.470077,
+   "last_run": 1795366004.7617767,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795362420.4700782,
+   "last_ok": 1795366004.7617779,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795362424.5634792,
+   "last_run": 1795366011.8669796,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795362424.5634804,
+   "last_ok": 1795366011.8669808,
    "alerted": false,
    "ctx": {}
   },
@@ -14973,6 +15074,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Skyloft ekibine katılacak, mobil oyun geliştirme konusunda deneyimli bir Unity Developer arıyoruz.\nBu rolde oyun prototiplerinin geliştirilmesinden canlı projelerin iyileştirilmesine kadar tüm teknik süreçlerde aktif sorumluluk alacak; AI ve MCP tabanlı geliştirme araçlarını günlük çalışma düzeninin doğal bir parçası olarak kullanacaksın.\nGörev ve sorumluluklar\nUnity ve C# kullanarak mobil oyun sistemleri geliştirmek\nGameplay, UI, ekonomi, progression ve meta sistemlerini uygulamak\nMevcut projelerde performans analizi ve optimizasyon yapmak\nÜçüncü taraf SDK, analitik, reklam ve uygulama içi sa"
+  },
+  "linkedin:4492946224": {
+   "t": 1795365956.5143483,
+   "source": "linkedin",
+   "title": "Uzman Sayısal Tasarım Doğrulama Mühendisi",
+   "company": "STG Mühendislik",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Savunma Sanayi alanında faaliyet gösteren firmamızda alanında deneyimli, belirtilen kriterlere uyan siz değerli adaylarımızı\nUZMAN SAYISAL TASARIM DOĞRULAMA MÜHENDİSİ\npozisyonunda görev almak üzere şirketimize davet ediyor ve yeni bir kariyer yolu sunuyoruz.\nGenel Nitelikler\nÜniversitelerin Elektrik-Elektronik, Elektronik ve Haberleşme veya Elektronik Mühendisliği lisans bölümlerinden mezun olmak,\nSayısal tasarım doğrulama konusunda\n3 yıl ve üzeri\ndeneyime sahip olmak,\nUART, Ethernet, CAN, I2C, SPI haberleşme arayüzlerinin tasarımı ve doğrulanması konuları hakkında tecrübe sahibi olmak,\nSystem"
   }
  },
  "pending": {}
