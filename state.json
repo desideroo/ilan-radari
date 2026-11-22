@@ -9119,6 +9119,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492953021": {
+   "t": 1795306574.1554732,
+   "title": "AI Engineer (Platform)",
+   "company": "Playrix",
+   "url": "https://www.linkedin.com/jobs/view/4492953021/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10109,29 +10119,30 @@
   "25d37f97009eda4b": "elemannet:4810475",
   "3faee8ce8d303952": "linkedin:4492305679",
   "7d49b543505fe415": "kariyernet:4415168",
-  "de22fb7f0a982f07": "kariyernet:4402878"
+  "de22fb7f0a982f07": "kariyernet:4402878",
+  "0a57df77d7784cd3": "linkedin:4492953021"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795305689.4402685,
+   "last_run": 1795306571.9036186,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795305689.4402702,
+   "last_ok": 1795306571.9036202,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795304812.3770154,
+   "last_run": 1795306616.0519252,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795304812.3770173,
+   "last_ok": 1795306616.051927,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -10219,7 +10230,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 1
+   "rej_remote": 2
   }
  },
  "details": {
@@ -14113,6 +14124,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Indie Souls Studio\nis an indie game studio founded by senior people with more than ten years of experience each in their own field, backed by private investment. Our goal is to make high-quality, original games that reach hundreds of thousands of players on PC and consoles. Our first game,\nDinoBones: Tidy Up the Museum\n, is out on Steam and we reached more than 100k copies in a month. Next up are different games: cozy games, co-op games, ideas that do not have a name yet. We are not tied to one genre. The one thing we are tied to is a feeling: calm, curious games that are satisfying to finish."
+  },
+  "linkedin:4492953021": {
+   "t": 1795306574.1555068,
+   "source": "linkedin",
+   "title": "AI Engineer (Platform)",
+   "company": "Playrix",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Playrix\n— одна из самых успешных компаний по разработке мобильных игр в мире. По доходам среди всех мобильных приложений мы входим в топ-3 в мире, а в Европе мы первые. Наши игры установили 2,3 миллиарда раз (треть населения Земли), каждый день в них играет более 30 миллионов людей по всему миру!\nКоманды разработки для нас\n– ядро компании, благодаря которому наши игры растут и развиваются уже больше 20 лет.\nМы строим\nAI-first инженерную культуру\n, где AI – полноценная часть разработки: создаем агентные воркфлоу, внедряем новые инструменты и постоянно ищем способы двигаться быстрее без компроми"
   }
  },
  "pending": {}
