@@ -9381,6 +9381,44 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492187360": {
+   "t": 1795347978.1745958,
+   "title": "Kalite Müdürü",
+   "company": "Yörsan",
+   "url": "https://www.linkedin.com/jobs/view/4492187360/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492567850": {
+   "t": 1795347980.4929395,
+   "title": "Bütçe ve Raporlama Uzmanı",
+   "company": "Aytemiz",
+   "url": "https://www.linkedin.com/jobs/view/4492567850/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491914935": {
+   "t": 1795347982.7983978,
+   "title": "AIT / Spacecraft Electrical Engineer",
+   "company": "Baryonic Space",
+   "url": "https://www.linkedin.com/jobs/view/4491914935/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4433238790": {
+   "t": 1795347984.8360262,
+   "title": "Network and Cyber-Security Administrator",
+   "company": "Siemens",
+   "url": "https://www.linkedin.com/jobs/view/4433238790/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10399,44 +10437,48 @@
   "2d02a2b83d0ac9f6": "linkedin:4438719462",
   "ddcceccf81533e9a": "linkedin:4493357801",
   "cb1a55387c6058e9": "linkedin:4493367176",
-  "a25db6d20e76c83c": "linkedin:4435991471"
+  "a25db6d20e76c83c": "linkedin:4435991471",
+  "0343339e7190fb70": "linkedin:4492187360",
+  "d9d90ba0ea7d09fd": "linkedin:4492567850",
+  "cbda54e9c2145397": "linkedin:4491914935",
+  "982dde78f6df146f": "linkedin:4433238790"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795347089.2641256,
+   "last_run": 1795347978.1737792,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795347089.2641273,
+   "last_ok": 1795347978.1737804,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795346201.4045737,
+   "last_run": 1795348023.9193733,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795346201.4045756,
+   "last_ok": 1795348023.919375,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795344430.2760773,
+   "last_run": 1795348030.0166373,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795344430.2760794,
+   "last_ok": 1795348030.0166388,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795344436.7456439,
+   "last_run": 1795348035.0356636,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795344436.7456455,
+   "last_ok": 1795348035.0356648,
    "alerted": false,
    "ctx": {}
   },
@@ -10509,7 +10551,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 9
+   "rej_remote": 11
   }
  },
  "details": {
@@ -14629,6 +14671,40 @@
    "track_from": "description",
    "llm": {},
    "description": "Deloitte provides industry-leading Audit & Assurance, Tax & Legal, Strategy, Risk & Transactions, and Technology & Transformation services to nearly 90% of the Fortune Global 500® and thousands of private companies.\nWith more than 470,000 professionals worldwide, we work together every day to make an impact that matters — delivering measurable and lasting results that help reinforce public trust in capital markets, enable our clients to transform and thrive, and lead the way toward a stronger economy, a more equitable society, and a more sustainable world.\nBuilding on its more than 180 years o"
+  },
+  "linkedin:4492567850": {
+   "t": 1795347980.4929748,
+   "source": "linkedin",
+   "title": "Bütçe ve Raporlama Uzmanı",
+   "company": "Aytemiz",
+   "location": "Kadıköy",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aytemiz’de enerjisini geleceğe dönüştürmek isteyen yetenekleri arıyoruz. Sen de dinamik ekibimizin bir parçası olmak ister misin?\nGenel Nitelikler\nFinans, Ekonomi, İşletme, Muhasebe veya ilgili bölümlerden lisans mezunu olmak.\nExcel ve MS Office uygulamalarına ileri seviyede hâkim olmak.\nGüçlü analitik düşünme becerisine sahip olmak; karmaşık finansal verileri yorumlayabilmek ve anlaşılır analizler sunabilmek.\nİngilizce dilinde ileri seviyede yazılı ve sözlü iletişim becerisine sahip olmak.\nAkaryakıt dağıtımı, enerji veya ilgili sektörlerde deneyim sahibi olmak tercih sebebidir.\nBütçeleme, Rap"
+  },
+  "linkedin:4433238790": {
+   "t": 1795347984.8360627,
+   "source": "linkedin",
+   "title": "Network and Cyber-Security Administrator",
+   "company": "Siemens",
+   "location": "Ankara",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "\"Siemens Smart Infrastructure\" – Grid Software; SI GSW\nis mainly focused on Development and Execution of Software Solutions for Energy Automation Smart Grid Products.\nAs being the integral part of Siemens Grid Software Turkey, Grid Control Engineering group is mainly focused on Software Solution & Implementation of Grid Control segment product. To accomplish the mission of the group, the candidate will perform as a\nNetwork and Cyber-Security Administrator\nfor projects in Grid Software Area.\nWhat are my responsibilities?\nDesign secure industrial network architectures in line with cybersecurity "
   }
  },
  "pending": {}
