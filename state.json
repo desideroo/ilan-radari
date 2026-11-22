@@ -10166,15 +10166,15 @@
    }
   },
   "kariyernet": {
-   "last_run": 1795319218.217974,
+   "last_run": 1795320974.5607946,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795319218.2179759,
+   "last_ok": 1795320974.5607963,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
