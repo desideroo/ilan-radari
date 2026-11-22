@@ -10154,13 +10154,15 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795313795.1987696,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795314728.9465303,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=machine+learning&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795313795.1987715,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
