@@ -9334,6 +9334,25 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492336928": {
+   "t": 1795342573.7314436,
+   "title": "Bilgisayar Mühendisliği IME Stajyeri",
+   "company": "dengeX",
+   "url": "https://www.linkedin.com/jobs/view/4492336928/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4438719462": {
+   "t": 1795342576.2815561,
+   "title": "EMEA Growth & Transformation Process Excellence Specialist",
+   "company": "Eaton",
+   "url": "https://www.linkedin.com/jobs/view/4438719462/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10347,29 +10366,31 @@
   "535fb5409e5c9ce6": "linkedin:4492030668",
   "a83e0046e7f0692f": "linkedin:4492451413",
   "41c0b6c1d60e2ebe": "linkedin:4492784625",
-  "bccb4b4dde571473": "linkedin:4491903500"
+  "bccb4b4dde571473": "linkedin:4491903500",
+  "95eef53a54c6476c": "linkedin:4492336928",
+  "2d02a2b83d0ac9f6": "linkedin:4438719462"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795341689.034824,
+   "last_run": 1795342573.7311106,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795341689.0348253,
+   "last_ok": 1795342573.731112,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795340799.5615733,
+   "last_run": 1795342616.3761992,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795340799.5615757,
+   "last_ok": 1795342616.376201,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -10457,7 +10478,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 7
+   "rej_remote": 8
   }
  },
  "details": {
@@ -14543,6 +14564,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Migros’ta İyi Geleceği Birlikte Tasarlayalım!\n🧡\nHayat bir alışveriş bizim için, mutluluk alıp, mutluluk verdiğimiz... Raflarımız ödül ve başarılarla dolu… 20 yıldır “Türkiye’nin En Beğenilen Perakende Şirketi” seçilmek, Türkiye’nin ilk sadakat programını yaratmak, Türk perakende müşterisini kasiyersiz kasa ile tanıştırmak, Perakende sektöründe ilk AR-GE merkezini kurmak başarılarımızdan sadece birkaç tanesidir.\nMigroslular olarak biz, Perakendenin geçmişine ve geleceğine çok meraklıyız!\nTürkiye’de modern perakende sektörünün öncüsü olarak, 1954’ten bu yana bizim işimiz, iyi geleceği tasarlamak"
+  },
+  "linkedin:4438719462": {
+   "t": 1795342576.2815921,
+   "source": "linkedin",
+   "title": "EMEA Growth & Transformation Process Excellence Specialist",
+   "company": "Eaton",
+   "location": "Ankara",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {},
+   "description": "Join Eaton, a global leader where equality and inclusivity are at the heart of our mission. Here, everyone is valued and belongs. Be part of a team that delivers cutting-edge, energy-efficient solutions, making a tangible impact on the world. We empower our customers to manage electrical, hydraulic, and mechanical energy more effectively, safely, and sustainably. At Eaton, we’re dedicated to enhancing quality of life and protecting the environment with our innovative energy management technologies and services.\nOur EMEA Business Service Center (BSC) in Budapest is Eaton’s largest office in the"
   }
  },
  "pending": {}
