@@ -9419,6 +9419,35 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491912698": {
+   "t": 1795354292.5480728,
+   "title": "Yardım Masası Sistem Analisti",
+   "company": "Anadolubank",
+   "url": "https://www.linkedin.com/jobs/view/4491912698/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492553804": {
+   "t": 1795354302.4184923,
+   "title": "Yazılım Bakım & Destek Mühendisi / Uzman Mühendisi - Ankara",
+   "company": "Miorec İnsan Kaynakları A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4492553804/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4458402561": {
+   "t": 1795354304.201253,
+   "title": "SAP Consultant",
+   "company": "Atos",
+   "url": "https://www.linkedin.com/jobs/view/4458402561/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10441,19 +10470,20 @@
   "0343339e7190fb70": "linkedin:4492187360",
   "d9d90ba0ea7d09fd": "linkedin:4492567850",
   "cbda54e9c2145397": "linkedin:4491914935",
-  "982dde78f6df146f": "linkedin:4433238790"
+  "982dde78f6df146f": "linkedin:4433238790",
+  "aa5586fe7bc9e250": "linkedin:4491912698",
+  "82cba1475b60393b": "linkedin:4492553804",
+  "c70754a985ffddc5": "linkedin:4458402561"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795353387.9538379,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=yapay+zeka&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795352488.1108289,
+   "last_run": 1795354290.064196,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795354290.0641975,
    "alerted": false,
    "ctx": {
-    "cursor": 16,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -10485,10 +10515,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795347096.4749756,
+   "last_run": 1795354307.3605595,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795347096.4749768,
+   "last_ok": 1795354307.3605618,
    "alerted": false,
    "ctx": {}
   }
@@ -10553,7 +10583,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 11
+   "rej_remote": 13
   }
  },
  "details": {
@@ -14707,6 +14737,40 @@
    "track_from": "title",
    "llm": {},
    "description": "\"Siemens Smart Infrastructure\" – Grid Software; SI GSW\nis mainly focused on Development and Execution of Software Solutions for Energy Automation Smart Grid Products.\nAs being the integral part of Siemens Grid Software Turkey, Grid Control Engineering group is mainly focused on Software Solution & Implementation of Grid Control segment product. To accomplish the mission of the group, the candidate will perform as a\nNetwork and Cyber-Security Administrator\nfor projects in Grid Software Area.\nWhat are my responsibilities?\nDesign secure industrial network architectures in line with cybersecurity "
+  },
+  "linkedin:4492553804": {
+   "t": 1795354302.4185345,
+   "source": "linkedin",
+   "title": "Yazılım Bakım & Destek Mühendisi / Uzman Mühendisi - Ankara",
+   "company": "Miorec İnsan Kaynakları A.Ş.",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Danışmanlığını yapmakta olduğumuz, savunma sanayi alanında faaliyet gösteren müşterimiz için Ankara lokasyonunda görev alacak\n\"Yazılım Bakım & Destek Mühendisi / Uzman Mühendisi\"\narayışımız bulunmaktadır.\nAranan Nitelikler\nÜniversitelerin 4 yıllık fakültelerin Bilgisayar Mühendisliği veya Yazılım Mühendisliği bölümlerinden mezun olmak,\nMS Office programlarını etkin şekilde kullanabilmek (özellikle Excel, Word ve PowerPoint),\nUzman Mühendis kadrosu için en az 3 yıl ilgili iş deneyimine sahip olmak,\nAnalitik düşünme ve raporlama becerisine sahip olmak,\nİletişim becerileri güçlü ve takım çalışmas"
+  },
+  "linkedin:4458402561": {
+   "t": 1795354304.2012827,
+   "source": "linkedin",
+   "title": "SAP Consultant",
+   "company": "Atos",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "About Atos\nThe future is our choice\nAtos is a global leader in digital transformation with 82,000 employees in 70 countries and annual revenue of EUR 12 billion. European number one in Cloud, Cybersecurity and High-Performance Computing, the Group provides end-to-end Orchestrated Hybrid Cloud, Big Data, Business Applications and Digital Workplace solutions. The Group is the Worldwide Information Technology Partner for the Olympic & Paralympic Games. Atos is a SE (Societas Europaea), listed on the CAC40 Paris stock index.\nThe purpose of Atos is to help design the future of the information space"
   }
  },
  "pending": {}
