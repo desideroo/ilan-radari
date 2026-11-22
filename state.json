@@ -9324,6 +9324,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491903500": {
+   "t": 1795341691.2461305,
+   "title": "Migros Kontrol Laboratuvarı Kalite Yönetim Sorumlusu",
+   "company": "Migros Ticaret",
+   "url": "https://www.linkedin.com/jobs/view/4491903500/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10336,17 +10346,18 @@
   "6bd25513f64780a2": "linkedin:4492572711",
   "535fb5409e5c9ce6": "linkedin:4492030668",
   "a83e0046e7f0692f": "linkedin:4492451413",
-  "41c0b6c1d60e2ebe": "linkedin:4492784625"
+  "41c0b6c1d60e2ebe": "linkedin:4492784625",
+  "bccb4b4dde571473": "linkedin:4491903500"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795340760.171246,
+   "last_run": 1795341689.034824,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795340760.1712472,
+   "last_ok": 1795341689.0348253,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -10446,7 +10457,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 6
+   "rej_remote": 7
   }
  },
  "details": {
@@ -14515,6 +14526,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Gıda sektöründe faaliyet gösteren şirketimizin\nİstanbul/Kabataş Merkez Ofisi'nde\ngörevlendirilmek üzere\nSatınalma Uzmanı\narayışımız bulunmaktadır.\nİş Tanımı\nŞirketin ihtiyaç duyduğu mal ve hizmetlerin satınalma ve tedarik süreçlerini yürütmek,\nMevcut tedarikçilerle ilişkileri yönetmek ve alternatif tedarikçi araştırmaları gerçekleştirmek,\nFiyat tekliflerini toplamak, karşılaştırmak ve müzakere süreçlerini yürütmek,\nSatınalma süreçlerini kalite, maliyet ve termin hedefleri doğrultusunda etkin şekilde yönetmek,\nSatınalma siparişlerini oluşturmak ve siparişten teslimata kadar olan süreçleri takip"
+  },
+  "linkedin:4491903500": {
+   "t": 1795341691.246173,
+   "source": "linkedin",
+   "title": "Migros Kontrol Laboratuvarı Kalite Yönetim Sorumlusu",
+   "company": "Migros Ticaret",
+   "location": "Serik",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Migros’ta İyi Geleceği Birlikte Tasarlayalım!\n🧡\nHayat bir alışveriş bizim için, mutluluk alıp, mutluluk verdiğimiz... Raflarımız ödül ve başarılarla dolu… 20 yıldır “Türkiye’nin En Beğenilen Perakende Şirketi” seçilmek, Türkiye’nin ilk sadakat programını yaratmak, Türk perakende müşterisini kasiyersiz kasa ile tanıştırmak, Perakende sektöründe ilk AR-GE merkezini kurmak başarılarımızdan sadece birkaç tanesidir.\nMigroslular olarak biz, Perakendenin geçmişine ve geleceğine çok meraklıyız!\nTürkiye’de modern perakende sektörünün öncüsü olarak, 1954’ten bu yana bizim işimiz, iyi geleceği tasarlamak"
   }
  },
  "pending": {}
