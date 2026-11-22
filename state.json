@@ -9756,6 +9756,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492376075": {
+   "t": 1795386685.002179,
+   "title": "Senior Machine Learning Engineer/GenAI",
+   "company": "Orbina",
+   "url": "https://www.linkedin.com/jobs/view/4492376075/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10814,17 +10823,18 @@
   "1efc35121eeb1f38": "linkedin:4493282372",
   "88cd8bb77dc1f486": "linkedin:4492361641",
   "f6f8ef307762d8c5": "linkedin:4488580147",
-  "c904d5f55eaccfba": "linkedin:4492356725"
+  "c904d5f55eaccfba": "linkedin:4492356725",
+  "92c1078e2828fe3d": "linkedin:4492376075"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795385786.6085591,
+   "last_run": 1795386685.001442,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795385786.6085603,
+   "last_ok": 1795386685.0014439,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
