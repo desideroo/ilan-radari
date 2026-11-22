@@ -9156,6 +9156,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4491923686": {
+   "t": 1795328174.040868,
+   "title": "Aviyonik Yazılım Test Mühendisi",
+   "company": "Miltron",
+   "url": "https://www.linkedin.com/jobs/view/4491923686/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10150,29 +10160,30 @@
   "0a57df77d7784cd3": "linkedin:4492953021",
   "2c4f24bdbadbcef8": "linkedin:4491902868",
   "459383b1eced7ddc": "linkedin:4492588308",
-  "c67579bdcb0f89c2": "linkedin:4492516775"
+  "c67579bdcb0f89c2": "linkedin:4492516775",
+  "8bacc3587b96cb77": "linkedin:4491923686"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795327287.5217767,
+   "last_run": 1795328171.4232144,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795327287.521778,
+   "last_ok": 1795328171.4232159,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795326411.5286036,
+   "last_run": 1795328217.6490998,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795326411.5286052,
+   "last_ok": 1795328217.649102,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -10260,7 +10271,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 2
+   "rej_remote": 3
   }
  },
  "details": {
@@ -14171,6 +14182,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Playrix\n— одна из самых успешных компаний по разработке мобильных игр в мире. По доходам среди всех мобильных приложений мы входим в топ-3 в мире, а в Европе мы первые. Наши игры установили 2,3 миллиарда раз (треть населения Земли), каждый день в них играет более 30 миллионов людей по всему миру!\nКоманды разработки для нас\n– ядро компании, благодаря которому наши игры растут и развиваются уже больше 20 лет.\nМы строим\nAI-first инженерную культуру\n, где AI – полноценная часть разработки: создаем агентные воркфлоу, внедряем новые инструменты и постоянно ищем способы двигаться быстрее без компроми"
+  },
+  "linkedin:4491923686": {
+   "t": 1795328174.0409026,
+   "source": "linkedin",
+   "title": "Aviyonik Yazılım Test Mühendisi",
+   "company": "Miltron",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "GENEL NİTELİKLER\nÜniversitelerin Elektrik/Elektronik, Yazılım, Bilgisayar Mühendisliği veya benzeri ilgili mühendislik bölümlerinden mezun,\nSavunma ve havacılık sektöründe, aviyonik sistemlerde yazılım test/doğrulama alanında\nen az 2 yıl\ntecrübeli,\nDO‑178C ya da benzeri havacılık standartlarında deneyim sahibi olmak,\nTest otomasyonu ve test framework’leri konusunda deneyim,\nTest kapsamı raporlama, MC/DC ve coverage analiz bilgisi,\nSorumluluk almayı ve takım çalışmasını seven, analitik ve çözüm odaklı,\nTest terminolojisine, test süreçlerine ve test yaşam döngüsüne hakim,\nHata takip ve raporlama"
   }
  },
  "pending": {}
