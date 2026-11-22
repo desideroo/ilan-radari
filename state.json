@@ -9166,6 +9166,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492345397": {
+   "t": 1795329963.2141345,
+   "title": "Backend Geliştirici",
+   "company": "Atalay Yazılım",
+   "url": "https://www.linkedin.com/jobs/view/4492345397/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10161,44 +10171,45 @@
   "2c4f24bdbadbcef8": "linkedin:4491902868",
   "459383b1eced7ddc": "linkedin:4492588308",
   "c67579bdcb0f89c2": "linkedin:4492516775",
-  "8bacc3587b96cb77": "linkedin:4491923686"
+  "8bacc3587b96cb77": "linkedin:4491923686",
+  "84a7d730f1a9828f": "linkedin:4492345397"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795329069.4569936,
+   "last_run": 1795329960.9161174,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795329069.4569962,
+   "last_ok": 1795329960.9161189,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795328217.6490998,
+   "last_run": 1795330005.9652085,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795328217.649102,
+   "last_ok": 1795330005.9652102,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795326417.7602746,
+   "last_run": 1795330011.7251763,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795326417.7602756,
+   "last_ok": 1795330011.7251778,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795326422.0977921,
+   "last_run": 1795330016.5186732,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795326422.0977933,
+   "last_ok": 1795330016.5186744,
    "alerted": false,
    "ctx": {}
   },
@@ -10271,7 +10282,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 3
+   "rej_remote": 4
   }
  },
  "details": {
@@ -14199,6 +14210,23 @@
    "track_from": "title",
    "llm": {},
    "description": "GENEL NİTELİKLER\nÜniversitelerin Elektrik/Elektronik, Yazılım, Bilgisayar Mühendisliği veya benzeri ilgili mühendislik bölümlerinden mezun,\nSavunma ve havacılık sektöründe, aviyonik sistemlerde yazılım test/doğrulama alanında\nen az 2 yıl\ntecrübeli,\nDO‑178C ya da benzeri havacılık standartlarında deneyim sahibi olmak,\nTest otomasyonu ve test framework’leri konusunda deneyim,\nTest kapsamı raporlama, MC/DC ve coverage analiz bilgisi,\nSorumluluk almayı ve takım çalışmasını seven, analitik ve çözüm odaklı,\nTest terminolojisine, test süreçlerine ve test yaşam döngüsüne hakim,\nHata takip ve raporlama"
+  },
+  "linkedin:4492345397": {
+   "t": 1795329963.2141712,
+   "source": "linkedin",
+   "title": "Backend Geliştirici",
+   "company": "Atalay Yazılım",
+   "location": "Şişli",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Müşterilerimize özel mobil uygulama ve web platformu geliştirecek bir Yazılım Geliştirici arıyoruz.\nAtalay Yazılım olarak şirketlere özel mobil uygulama, web platformu, B2B bayi sistemi ve yapay zekâ çözümleri geliştiriyoruz. Ofisimiz Fulya'da, BTM Polat Tower'da.\nBu rol\nLaravel tabanlı API ve yönetim panelleri geliştirmek.\nReact Native (Expo) ile iOS ve Android uygulamaları yazmak, mağazaya çıkarmak.\nNext.js ile web siteleri ve müşteri panelleri kurmak.\nMüşteri taleplerini anlayıp test edilmiş, canlıya çıkan işe çevirmek.\nKimi arıyoruz\nEn az 2 yıl profesyonel yazılım geliştirme deneyimi.\nLara"
   }
  },
  "pending": {}
