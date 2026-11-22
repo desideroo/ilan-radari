@@ -10445,25 +10445,27 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795352488.1108272,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795353387.9538379,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=yapay+zeka&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795352488.1108289,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
-   "last_run": 1795351613.3755696,
+   "last_run": 1795353429.6366525,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795351613.3755715,
+   "last_ok": 1795353429.6366556,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
