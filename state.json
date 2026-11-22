@@ -9688,6 +9688,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492352957": {
+   "t": 1795374102.2578733,
+   "title": "Raporlama Uzmanı",
+   "company": "CS Systems Kalite ve Mühendislik Hizmetleri",
+   "url": "https://www.linkedin.com/jobs/view/4492352957/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -10739,17 +10749,18 @@
   "1e66da352f70e940": "isbul:100810",
   "2722e0e4c766c8a5": "linkedin:4493380509",
   "9391fd6f49a027dc": "linkedin:4492363400",
-  "cd5fd6e8877a849d": "kariyernet:4602093"
+  "cd5fd6e8877a849d": "kariyernet:4602093",
+  "fd2b1de00782913c": "linkedin:4492352957"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795373153.7655065,
+   "last_run": 1795374100.5160606,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795373153.7655091,
+   "last_ok": 1795374100.516062,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -10849,7 +10860,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 18
+   "rej_remote": 19
   }
  },
  "details": {
@@ -15139,6 +15150,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Bilgisayar Mühendisi – ERP\nSamsu Börek olarak şubelerimizde, üretim tesisimizde, depomuzda ve merkez ofisimizde kullandığımız ERP sisteminin geliştirilmesine katkı sağlayacak bir ekip arkadaşı arıyoruz.\nYeni mezun ve kariyerinin başındaki adayların başvurularına açığız.\nERP deneyimi şartı aramıyoruz. Yazılım ve veri tabanı temeli olan, iş süreçlerini merak eden ve öğrendiklerini uygulamaya istekli adaylarla tanışmak isteriz.\nBu rolde neler yapacaksınız?\nSatış, stok, üretim, sevkiyat ve insan kaynakları ekiplerinden gelen ERP ihtiyaçlarını anlamak ve geliştirme çalışmalarına katkı sağlamak\nSQL "
+  },
+  "linkedin:4492352957": {
+   "t": 1795374102.257911,
+   "source": "linkedin",
+   "title": "Raporlama Uzmanı",
+   "company": "CS Systems Kalite ve Mühendislik Hizmetleri",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-22",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş Tanımı\nŞirketimizin satış ve lojistik süreçleri arasındaki koordinasyonu sağlayacak, operasyonun merkezinde yer alarak tüm veri akışını yönetecek ve karar alma süreçlerine ışık tutacak\nSatış ve Lojistik Raporlama Uzmanı\narayışımız bulunmaktadır.\nSorumluluklar\nSatış ve lojistik departmanları arasında güçlü bir iletişim ve iş akışı köprüsü kurmak,\nSatış koordinasyonu süreçlerini satış yönetimi ile yakın iş birliği içinde yürütmek,\nFarklı kaynaklardan gelen lojistik ve ticari verileri harmanlamak, analiz etmek ve anlaşılır grafikler/sunumlar halinde raporlamak,\nMS Access\ntabanlı veri tabanları"
   }
  },
  "pending": {}
