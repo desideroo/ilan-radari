@@ -10773,6 +10773,80 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492604824": {
+   "t": 1795446993.986623,
+   "title": "Mağaza Müdür Yardımcısı",
+   "company": "Yeni Koza",
+   "url": "https://www.linkedin.com/jobs/view/4492604824/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4442845327": {
+   "t": 1795446993.9867778,
+   "title": "Uzun Dönem Stajyer / Satış Temsilcisi",
+   "company": "Yazgan Sigorta",
+   "url": "https://www.linkedin.com/jobs/view/4442845327/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492617425": {
+   "t": 1795446993.9869652,
+   "title": "Kıdemli Databricks Danışmanı – Azure Bulut",
+   "company": "KORneXt Yazılım Danışmanlık ve Dış Tic. Ltd. Şti.",
+   "url": "https://www.linkedin.com/jobs/view/4492617425/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492606846": {
+   "t": 1795446993.9875097,
+   "title": "Senior Network Administrator",
+   "company": "Avenga",
+   "url": "https://www.linkedin.com/jobs/view/4492606846/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492611497": {
+   "t": 1795446996.5164363,
+   "title": "Quality Assurance Specialist",
+   "company": "TEKNOROT OTOMOTİV ÜRÜNLERİ SAN.VE TİC.A.Ş",
+   "url": "https://www.linkedin.com/jobs/view/4492611497/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492619472": {
+   "t": 1795446998.538931,
+   "title": "SERVICE RELIABILITY ENGINEER",
+   "company": "Turkcell",
+   "url": "https://www.linkedin.com/jobs/view/4492619472/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492626093": {
+   "t": 1795447000.272172,
+   "title": "Sistem Destek Uzman Yardımcısı",
+   "company": "Inforra Bilgi Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4492626093/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4486123387": {
+   "t": 1795447009.2845817,
+   "title": "Operations & Delivery Engineer",
+   "company": "Kron",
+   "url": "https://www.linkedin.com/jobs/view/4486123387/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -11938,29 +12012,37 @@
   "f47394e9975db598": "kariyernet:4602875",
   "c7f59d50375e500c": "kariyernet:4602899",
   "e3b76b084fc74aa3": "linkedin:4492618401",
-  "0d40cb1d74adee3a": "linkedin:4447268794"
+  "0d40cb1d74adee3a": "linkedin:4447268794",
+  "ae797ee3cffda681": "linkedin:4492604824",
+  "e2e80ef43c401a4a": "linkedin:4442845327",
+  "b588efb1903e6e7c": "linkedin:4492617425",
+  "b7cc745f576ece63": "linkedin:4492606846",
+  "d27b0ca145e676e8": "linkedin:4492611497",
+  "8d5b03559748a250": "linkedin:4492619472",
+  "50d95b228a807eb8": "linkedin:4492626093",
+  "706a35cbf5463a49": "linkedin:4486123387"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795446086.7873015,
+   "last_run": 1795446993.98643,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795446086.7873034,
+   "last_ok": 1795446993.9864318,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795445218.8936894,
+   "last_run": 1795447050.9759908,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795445218.8936913,
+   "last_ok": 1795447050.9759932,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -12057,7 +12139,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 35,
+   "rej_remote": 37,
    "rej_exp": 3
   }
  },
@@ -17379,6 +17461,40 @@
    "track_from": "title",
    "llm": {},
    "description": "About us\nWe were founded in 2017 with the motivation to reach people globally by giving them unique and unforgettable experiences with disruptive products. Our games have reached over 3.5 billion people. This could only be done by gathering exceptional talent and creating a culture to enhance team spirit and creativity. We are looking for passionate teammates to join our team!\nAbout the role\nThe more technology evolves, the more it shapes our lives. We’re looking for AI enthusiasts who are passionate about exploring new technologies and creating innovative, effective solutions to improve the w"
+  },
+  "linkedin:4492611497": {
+   "t": 1795446996.5164783,
+   "source": "linkedin",
+   "title": "Quality Assurance Specialist",
+   "company": "TEKNOROT OTOMOTİV ÜRÜNLERİ SAN.VE TİC.A.Ş",
+   "location": "Düzce, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Quality Assurance Specialist – Teknorot\nOEM ve yedek parça pazarlarına üretim yapan Teknorot, Kalite Direktörlüğü bünyesinde görev alacak Kalite Güvence Uzmanı arıyor.\nAranan nitelikler\n•    İlgili mühendislik bölümlerinden lisans mezunu\n•    Otomotiv OEM ve/veya Tier 1 firmalarda en az 2 yıl kalite deneyimi\n•    IATF 16949 ve ISO 9001 bilgisi ve denetim deneyimi\n•    APQP, PPAP, FMEA, MSA, SPC ve 8D uygulama deneyimi\n•    En az B1 seviyesinde İngilizce\nİş tanımı\n•    IATF 16949 / ISO 9001 kalite yönetim sistemini sürdürmek ve dış denetimlere hazırlamak\n•    İç denetimleri planlamak ve yürütme"
+  },
+  "linkedin:4492626093": {
+   "t": 1795447000.2722116,
+   "source": "linkedin",
+   "title": "Sistem Destek Uzman Yardımcısı",
+   "company": "Inforra Bilgi Teknolojileri",
+   "location": "Ataşehir",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "2018 yılından beri Inforra Bilgi Teknolojileri olarak, iş ortaklarımıza en güncel teknolojileri kullanarak katma değerli çözümler sunuyoruz. Finanstan lojistiğe, üretimden perakendeye, sağlıktan savunma sanayine kadar geniş bir yelpazedeki sektörlerin lider firmaları için geliştirdiğimiz projelerle, onların verimliliğini ve rekabet gücünü artırıyoruz. Genç ve profesyonel kadromuzla, Türkiye'nin teknoloji alanındaki gelişimine katkı sağlamayı hedeflemekteyiz.\nEkibimizde yetiştirilmek üzere\n\"Sistem Destek Uzman Yardımcısı\"\ndanışman olarak görev alacak, Intune ve SCCM alanında kariyer hedefleyen,"
   }
  },
  "pending": {}
