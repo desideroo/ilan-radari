@@ -9775,6 +9775,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4491903614": {
+   "t": 1795392091.4092655,
+   "title": "Kıdemli İş Analisti | Ankara (Hibrit)",
+   "company": "Ithinka Information Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4491903614/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10835,17 +10844,18 @@
   "f6f8ef307762d8c5": "linkedin:4488580147",
   "c904d5f55eaccfba": "linkedin:4492356725",
   "92c1078e2828fe3d": "linkedin:4492376075",
-  "87c62bb96e8e8c99": "linkedin:4492352996"
+  "87c62bb96e8e8c99": "linkedin:4492352996",
+  "3683bba6c426494a": "linkedin:4491903614"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795391174.9471726,
+   "last_run": 1795392091.4088967,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795391174.9471738,
+   "last_ok": 1795392091.408898,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
