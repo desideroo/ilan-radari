@@ -10619,6 +10619,25 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4472017039": {
+   "t": 1795438902.773589,
+   "title": "Senior iOS Developer / Platform",
+   "company": "AppNation",
+   "url": "https://www.linkedin.com/jobs/view/4472017039/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492399975": {
+   "t": 1795438904.4604487,
+   "title": "Ön Muhasebe Sorumlusu .",
+   "company": "Automaster Car Care",
+   "url": "https://www.linkedin.com/jobs/view/4492399975/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -11768,17 +11787,19 @@
   "12f8924ca7f5758f": "linkedin:4268014860",
   "222318a2aaa0b034": "linkedin:4492395998",
   "967af00fc3b80b59": "linkedin:4492600718",
-  "6bf8a73283311d7a": "kariyernet:4602688"
+  "6bf8a73283311d7a": "kariyernet:4602688",
+  "f7d7fb4e32b8cf77": "linkedin:4472017039",
+  "f58f1c5d19c40cdb": "linkedin:4492399975"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795437975.3491054,
+   "last_run": 1795438902.7728586,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795437975.3491075,
+   "last_ok": 1795438902.77286,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -17039,6 +17060,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Mezun)\n\nWürth Türkiye\nolarak 800'den fazla kişiden oluşan ekibimiz, birçok ildeki 30’dan fazla mağazamız ve irtibat bürolarımız ile Türkiye'nin her köşesinde müşterilerine hizmet veren satışta lider, global bir şirketiz. Ayrıca, düzenli olarak güncellenen internet sitemiz aracılığıyla binlerce ürün çeşidine, teknik bilgilere, kimyasal ürün raporlarına her zaman ulaşabilirsiniz.\nTüm Würth ürünleri, dünya standartlarına uygun olarak üretilmektedir.\nISO 9001:2015\nsertifikamızla bu kalite standartlarını koruyoruz. 125.000"
+  },
+  "linkedin:4492399975": {
+   "t": 1795438904.460483,
+   "source": "linkedin",
+   "title": "Ön Muhasebe Sorumlusu .",
+   "company": "Automaster Car Care",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Otomotiv bakım sektöründe kaliteyi, güveni ve yenilikçiliği aynı çatı altında buluşturan Automaster Car Care, 2005 yılından bu yana müşterilerine ve iş ortaklarına değer katmaya devam ediyor. Bugün 21 yıllık sektör deneyimi, 600 kişilik güçlü ekibi ve Türkiye genelindeki yaygın hizmet ağıyla, otomotiv bakım alanında güvenilir ve öncü markalar arasında yer almanın gururunu yaşıyoruz.\nNeta Otomotiv Kimyevi Maddeler San. ve Tic. A.Ş. bünyesinde faaliyet gösteren Automaster Car Care; İstanbul, Ankara, Bursa, Çorum, Aksaray, Samsun ve Muğla'daki operasyonlarıyla her yıl binlerce araca profesyonel ç"
   }
  },
  "pending": {}
