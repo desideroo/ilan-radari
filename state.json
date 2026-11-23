@@ -10753,6 +10753,26 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492618401": {
+   "t": 1795446088.7623217,
+   "title": "CRM ve Müşteri Analitiği Uzmanı",
+   "company": "Vakko",
+   "url": "https://www.linkedin.com/jobs/view/4492618401/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4447268794": {
+   "t": 1795446090.6112394,
+   "title": "AI Engineer",
+   "company": "Good Job Games",
+   "url": "https://www.linkedin.com/jobs/view/4447268794/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -11916,17 +11936,19 @@
   "0b2ab2546688e227": "linkedin:4492346487",
   "89564959c7fe001b": "linkedin:4492619257",
   "f47394e9975db598": "kariyernet:4602875",
-  "c7f59d50375e500c": "kariyernet:4602899"
+  "c7f59d50375e500c": "kariyernet:4602899",
+  "e3b76b084fc74aa3": "linkedin:4492618401",
+  "0d40cb1d74adee3a": "linkedin:4447268794"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795445173.814105,
+   "last_run": 1795446086.7873015,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795445173.8141074,
+   "last_ok": 1795446086.7873034,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -12035,7 +12057,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 33,
+   "rej_remote": 35,
    "rej_exp": 3
   }
  },
@@ -17323,6 +17345,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Muhasebe ve Finans Uzmanı\nLokasyon:\nLevent / Büyükdere Caddesi – İstanbul\nÇalışma Şekli:\nTam zamanlı\nLevent Büyükdere Caddesi, Duran İş Merkezi’nde bulunan; lüks araç kiralama, VIP ulaşım, şehir turları, havalimanı transfer hizmetleri ve otopark işletmeciliği alanlarında 37 yıldır faaliyet gösteren, teknoloji ve yazılım inovasyonuyla büyüyen şirketimizin Mali İşler ekibinde görev alacak Muhasebe Görevlisi arıyoruz.\nBu rolde neler yapacaksınız?\nBu pozisyon yalnızca veri girişi yapılan klasik bir muhasebe rolü değildir. Operasyon, tahsilat, faturalama, POS hareketleri ve cari hesap süreçlerinin "
+  },
+  "linkedin:4492618401": {
+   "t": 1795446088.7623608,
+   "source": "linkedin",
+   "title": "CRM ve Müşteri Analitiği Uzmanı",
+   "company": "Vakko",
+   "location": "Üsküdar",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Genel Nitelikler\nÜniversitelerin Matematik, İstatistik, Ekonometri, Endüstri Mühendisliği, Bilgisayar Mühendisliği vb. bölümlerinden mezun,\nCRM, müşteri analitiği veya veri analitiği alanlarında minimum 4 yıl deneyimli,\nPower BI, SQL, Python ve ileri seviyede Excel bilgisine sahip,\nCRM, ERP, CDP veya benzeri iş sistemleriyle çalışma deneyimine sahip,\nTercihen Microsoft Dynamics Cloud bilgisine sahip,\nVeri modelleme, KPI, raporlama ve dashboard geliştirme konularında yetkin,\nGüçlü analitik düşünme ve problem çözme becerilerine sahip,\nTeknik analizleri sade ve anlaşılır ticari içgörülere dönüştü"
+  },
+  "linkedin:4447268794": {
+   "t": 1795446090.6112828,
+   "source": "linkedin",
+   "title": "AI Engineer",
+   "company": "Good Job Games",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "About us\nWe were founded in 2017 with the motivation to reach people globally by giving them unique and unforgettable experiences with disruptive products. Our games have reached over 3.5 billion people. This could only be done by gathering exceptional talent and creating a culture to enhance team spirit and creativity. We are looking for passionate teammates to join our team!\nAbout the role\nThe more technology evolves, the more it shapes our lives. We’re looking for AI enthusiasts who are passionate about exploring new technologies and creating innovative, effective solutions to improve the w"
   }
  },
  "pending": {}
