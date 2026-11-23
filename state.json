@@ -10410,6 +10410,26 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492391459": {
+   "t": 1795432570.7469478,
+   "title": "Enterprise Resources Planning Consultant. (SAP Business ONE)",
+   "company": "AVE BT",
+   "url": "https://www.linkedin.com/jobs/view/4492391459/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493730102": {
+   "t": 1795432580.5767632,
+   "title": "Tele Satış Uzmanı",
+   "company": "Ödeal",
+   "url": "https://www.linkedin.com/jobs/view/4493730102/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -11537,29 +11557,31 @@
   "e3ead7b09bdc2152": "linkedin:4492390532",
   "9e3baa1480a2e34d": "linkedin:4430412850",
   "d6568c6947a5f1fa": "linkedin:4437165148",
-  "0f22c7ba298014dd": "linkedin:4493615902"
+  "0f22c7ba298014dd": "linkedin:4493615902",
+  "a37c11cfc5001050": "linkedin:4492391459",
+  "05a08290033b0f8c": "linkedin:4493730102"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795431711.4900646,
+   "last_run": 1795432569.0502722,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795431711.4900665,
+   "last_ok": 1795432569.050274,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795430832.8886724,
+   "last_run": 1795432624.614781,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795430832.8886743,
+   "last_ok": 1795432624.6147833,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -11656,7 +11678,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 24,
+   "rej_remote": 25,
    "rej_exp": 1
   }
  },
@@ -16621,6 +16643,40 @@
    "track_from": "title",
    "llm": {},
    "description": "About the Opportunity\nOn behalf of our client, a technology company specializing in cloud computing, GPU-powered applications, and real-time streaming technologies,\nArtifact Systems is seeking a Senior Full Stack Developer\nto join our client's engineering team.\nOur client develops innovative solutions that enable users to access high-performance computing resources and run demanding applications directly through their browsers, without being limited by their local hardware.\nWe are looking for an experienced software engineer who enjoys building products end to end, understands software archite"
+  },
+  "linkedin:4492391459": {
+   "t": 1795432570.7470026,
+   "source": "linkedin",
+   "title": "Enterprise Resources Planning Consultant. (SAP Business ONE)",
+   "company": "AVE BT",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Enterprise Resources Planning Consultant. (SAP Business ONE)\nWe are hiring an ERP Consultant (SAP Business One) to lead end-to-end implementations and drive digital transformation for our growing client base.\nRole Overview\nYou will bridge the gap between complex business requirements and technical solutions, guiding clients from initial discovery through go-live and ongoing optimization.\nKey Responsibilities\nImplementation: Lead full-lifecycle SAP Business One implementations, including blueprinting, configuration, testing, and data migration.\nCustomization: Develop custom reports, queries, an"
+  },
+  "linkedin:4493730102": {
+   "t": 1795432580.576799,
+   "source": "linkedin",
+   "title": "Tele Satış Uzmanı",
+   "company": "Ödeal",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Biz Kimiz?\nÖdeal, alıcılar ve satıcılar için ödeme deneyimini kolaylaştırmak ve geliştirmek amacıyla 2014 yılında kurulmuş bir fintech şirketidir. Bugün\n125.000'i aşkın üye iş yeri\nve\n500'den fazla çalışanımızla\nödeme sistemleri sektöründe büyümeye ve dönüşüme öncülük ediyoruz.\nMisyonumuz;\nişletmelerin satışlarını artırmalarını desteklemek ve ihtiyaç duydukları finansal çözümleri en erişilebilir şekilde sunmaktır.\nVizyonumuz\nise her ölçekteki işletmenin eşit fırsatlarla rekabet edebildiği, sürdürülebilir büyümeyi destekleyen bir ekosistem yaratmaktır.\nMobil POS, Fiziki POS ve Yazar Kasa POS çö"
   }
  },
  "pending": {}
