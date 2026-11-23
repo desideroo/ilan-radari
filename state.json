@@ -10895,6 +10895,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4491935001": {
+   "t": 1795449680.975868,
+   "title": "Electronic Warfare FPGA Engineer",
+   "company": "Calico Teknoloji",
+   "url": "https://www.linkedin.com/jobs/view/4491935001/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -12073,17 +12083,18 @@
   "4186b4ebdf4edf2d": "linkedin:4492620370",
   "1852b7fa95563022": "linkedin:4492614513",
   "bed944d3c70cbd11": "linkedin:4493657661",
-  "cfb34ae600c7d9e6": "linkedin:4492611998"
+  "cfb34ae600c7d9e6": "linkedin:4492611998",
+  "36058da9d9c1efbf": "linkedin:4491935001"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795448781.1606388,
+   "last_run": 1795449678.7146788,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795448781.1606402,
+   "last_ok": 1795449678.7146807,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -12192,7 +12203,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 40,
+   "rej_remote": 41,
    "rej_exp": 3
   }
  },
@@ -17599,6 +17610,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Design the future architecture of one of Europe's most innovative banking networks while empowering engineers to do their best work.\nRole Summary\nWe are looking for a\nBackend Engineer\nto help build and evolve backend solutions within ING's\nRetail Banking / Collection domain\n.\nYou will design and develop scalable backend services, APIs, integration layers, event-driven applications, and cloud-native platforms that support critical banking processes.\nWe are primarily looking for strong software engineers who are passionate about building resilient, secure, and high-performing systems and enjoy w"
+  },
+  "linkedin:4491935001": {
+   "t": 1795449680.9759064,
+   "source": "linkedin",
+   "title": "Electronic Warfare FPGA Engineer",
+   "company": "Calico Teknoloji",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "We are seeking an\nElectronic Warfare FPGA Engineer\nto implement high-performance signal processing pipelines for SDR, EW/ESM systems.\nThis role sits at the intersection of algorithm development and hardware realization: you will translate advanced DSP, radar, and EW concepts into deterministic, resource-efficient FPGA architectures while remaining hands-on in Python-based algorithm prototyping and validation.\nYou will work closely with algorithm engineers, RF engineers, and embedded/FPGA teams to deliver real-time processing chains—from wideband IQ ingestion to detection, parameter extraction,"
   }
  },
  "pending": {}
