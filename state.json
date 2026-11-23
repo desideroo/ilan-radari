@@ -9966,6 +9966,34 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4484324777": {
+   "t": 1795418177.630073,
+   "title": "Go Backend Developer",
+   "company": "iNOVAT Energy Storage Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4484324777/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4602286": {
+   "t": 1795418218.4450922,
+   "title": "Bilgi Güvenliği ve Sistem Altyapı Yöneticisi",
+   "company": "FİBA SİGORTA A.Ş .",
+   "url": "https://www.kariyer.net/is-ilani/fiba-sigorta-a-s-bilgi-guvenligi-ve-sistem-altyapi-yoneticisi-4602286",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4602232": {
+   "t": 1795418236.3942425,
+   "title": "Kariyer.Net'le İş Hayatına İlk Adım",
+   "company": "Kariyer Etkinlikleri",
+   "url": "https://www.kariyer.net/is-ilani/kariyer-etkinlikleri-kariyer-net-le-is-hayatina-ilk-adim-4602232",
+   "status": "dropped",
+   "score": 10,
+   "msg": null
   }
  },
  "dedupe": {
@@ -11046,29 +11074,32 @@
   "26f2e0df463b1e4f": "kariyernet:4602198",
   "569dde0aae09db5a": "linkedin:4493712093",
   "34cf705091e12248": "kariyernet:4602184",
-  "d0a7cf4d5d826733": "elemannet:4812242"
+  "d0a7cf4d5d826733": "elemannet:4812242",
+  "37eb4d4571685d37": "linkedin:4484324777",
+  "a8850b67f9024e0b": "kariyernet:4602286",
+  "de5eb56267f9ac0d": "kariyernet:4602232"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795417310.716177,
+   "last_run": 1795418175.3705688,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795417310.7161784,
+   "last_ok": 1795418175.3705704,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795416405.6187518,
+   "last_run": 1795418218.441865,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795416405.6187534,
+   "last_ok": 1795418218.4418674,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -11160,12 +11191,12 @@
   },
   "2026-11-23": {
    "sent": 0,
-   "dropped": 0,
-   "candidates": 0,
+   "dropped": 1,
+   "candidates": 1,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 7
+   "rej_remote": 8
   }
  },
  "details": {
@@ -15744,6 +15775,51 @@
    "track_from": "title",
    "llm": {},
    "description": "Yetiştirilmek üzere yeni mezun Gıda Mühendisi arayışımız bulunmaktadır. başvuru ve detaylı bilgi için 0332 239 15 90..."
+  },
+  "linkedin:4484324777": {
+   "t": 1795418177.6301172,
+   "source": "linkedin",
+   "title": "Go Backend Developer",
+   "company": "iNOVAT Energy Storage Solutions",
+   "location": "Ankara",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "COMPANY DESCRIPTION\nInovat Energy Storage Solutions provides EPC and production-only services for energy storage projects ranging from 100 kWh to 100 MWh. The organization combines strong engineering expertise, an international partner network, and high-quality in-house production to deliver tailored, technology-agnostic solutions. By working with leading energy storage manufacturers and technologies, Inovat offers cost-effective systems optimized for diverse project requirements. Team members collaborate in a dynamic environment focused on innovation, reliability, and scalable energy storage "
+  },
+  "kariyernet:4602232": {
+   "t": 1795418236.394364,
+   "source": "kariyernet",
+   "title": "Kariyer.Net'le İş Hayatına İlk Adım",
+   "company": "Kariyer Etkinlikleri",
+   "location": "Adana",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [
+    "fullstack"
+   ],
+   "rule_score": 75,
+   "reject": "",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {
+    "score": 10,
+    "cv": "06_Genel",
+    "summary": "Kariyer.net tarafından düzenlenen iş arama, özgeçmiş hazırlama ve kariyer tüyoları içeren bir online seminer duyurusudur. Katılımcılara iş hayatına hazırlık süreçlerinde rehberlik edilmektedir.",
+    "why": "Aday yeni mezun statüsünde olduğundan kariyer tavsiyeleri içeren etkinlik adayın ilgisini çekebilir.",
+    "gaps": "Gerçek bir istihdam veya staj pozisyonu olmayıp yalnızca bilgilendirici bir seminerdir.",
+    "military_required": false,
+    "min_years": 0,
+    "work_mode": "remote"
+   },
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci), Doktora(Mezun)\n\n'Kariyer.net'le İş Hayatına İlk Adım'\nkonulu online eğitimiyle Kariyer.net, şimdi seninle!\nKendini tanıma yolculuğuna ilk adım\nÜniversite çağlarında donanım kazanmaya dair ipuçları\nİnsan kaynakları uzmanlarının dikkatini çekecek bir özgeçmişe dair püf noktalar\nİş arama sürecinde dikkat edilmesi gerekenler\nÜniversite hayatı için genel tavsiyeler\nHepsi ve daha fazlası için  '\nKariyer.net'le İş Hayatına İlk Adım\n'\nonline seminerine katıl, aklına takılan soruları canlı yayında sor, kariyerinde fark yarat!\nKariyer yolculuğun boyunca Kariyer.net her zaman seninle!\nHadi hemen ilana başvur ve yol arkadaşlığımızı başlat!\nTarih:\n24 Kasım, Salı\nSaat:\n18:30"
   }
  },
  "pending": {}
