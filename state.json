@@ -9849,6 +9849,36 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492378388": {
+   "t": 1795411871.978575,
+   "title": "Business Analyst",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4492378388/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492364852": {
+   "t": 1795411873.7018902,
+   "title": "Bordro ve Özlük İşleri Uzmanı",
+   "company": "Farmasi",
+   "url": "https://www.linkedin.com/jobs/view/4492364852/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4492946549": {
+   "t": 1795411875.9255474,
+   "title": "Satın Alma Uzmanı",
+   "company": "Reform Sports ®",
+   "url": "https://www.linkedin.com/jobs/view/4492946549/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10917,17 +10947,20 @@
   "8383254ed81735ca": "linkedin:4459150206",
   "5058445765e39206": "linkedin:4493399519",
   "bcecb4ceab3af283": "linkedin:4443697899",
-  "b30005bfdab47928": "linkedin:4492370705"
+  "b30005bfdab47928": "linkedin:4492370705",
+  "61e6e007aefb148e": "linkedin:4492378388",
+  "fd2a83ea88a1086f": "linkedin:4492364852",
+  "b7875e5be762a454": "linkedin:4492946549"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795410965.9494298,
+   "last_run": 1795411869.3607051,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795410965.9494317,
+   "last_ok": 1795411869.3607075,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -10959,10 +10992,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795404699.7979622,
+   "last_run": 1795411879.0778534,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795404699.7979639,
+   "last_ok": 1795411879.0778546,
    "alerted": false,
    "ctx": {}
   }
@@ -11036,7 +11069,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 2
+   "rej_remote": 3
   }
  },
  "details": {
@@ -15462,6 +15495,57 @@
    "track_from": "title",
    "llm": {},
    "description": "What is the Summary of This Position?\nIn this role you will be responsible for managing and improving IT infrastructure operations, ensuring system availability and supporting information security processes through effective system administration and will report to the IT Infrastructure & Operations Manager.\nWhat You'll Be Doing?\nPlanning, executing, and managing IT infrastructure improvement projects,\nCoordinating end-user IT operations and support services,\nEnsuring the uninterrupted operation of servers, network infrastructure, data centers and enterprise systems,\nManaging Active Directory,"
+  },
+  "linkedin:4492378388": {
+   "t": 1795411871.9786112,
+   "source": "linkedin",
+   "title": "Business Analyst",
+   "company": "Tein Technology",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş Analisti Arıyoruz!\nAnkara - Hibrit\n*3 gün ofis\nDeneyim: En az 7 yıl\nBağış ve ödeme çözümleri alanında yürütülen projelerde görev almak üzere, teknik altyapısı güçlü ve iş analizi süreçlerinde deneyimli İş Analisti arıyoruz.\nAranan Nitelikler\nİş analizi alanında en az 7 yıl deneyimli,\nTeknik geçmişe sahip, teknik ekiplerle koordineli çalışabilecek,\nGereksinim analizi, süreç modelleme ve dokümantasyon konularında deneyimli,\nBağış sistemleri ve bağış süreçleri hakkında bilgi sahibi,\nÖdeme sistemleri ve finansal süreçlerde deneyimli,\nSAP uygulamaları ve iş süreçleri konusunda tecrübeli,\nSTK (Si"
+  },
+  "linkedin:4492364852": {
+   "t": 1795411873.7019253,
+   "source": "linkedin",
+   "title": "Bordro ve Özlük İşleri Uzmanı",
+   "company": "Farmasi",
+   "location": "Çekmeköy",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Temeli 1950’lerde atılan Farmasi, renkli kozmetik, cilt ve kişisel bakım, ev temizlik ürünleri ve gıda takviyeleri kategorilerinde Türkiye’de lider üretici ve satıcı konumundadır.\n125 ülkeye ihracatı olan Farmasi, 57 ülkede faaliyet göstermekte olup Dünya’nın 11. en büyük Doğrudan Satış Şirketi’dir.\nTürkiye’nin lider doğrudan satış ve üretim firması Farmasi’de İnsan Kaynakları Departmanına bağlı “\nBordro ve Özlük İşleri Uzmanı\n'' aramaktayız.\nSorumluluklar\nÇalışanların işe giriş, işten çıkış ve personel hareketlerine ilişkin işlemlerinin yürütülmesi\nSAP SuccessFactors üzerinden personel kayıtl"
+  },
+  "linkedin:4492946549": {
+   "t": 1795411875.9255807,
+   "source": "linkedin",
+   "title": "Satın Alma Uzmanı",
+   "company": "Reform Sports ®",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-20",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "HAKKIMIZDA\n1994 yılında kurulan\nReform Sports A.Ş.\n, spor tesisleri inşaatı, sentetik çim üretimi, çelik konstrüksiyon sistemleri ve anahtar teslim inşaat projeleri alanlarında uluslararası ölçekte faaliyet göstermektedir.\n105'ten fazla ülkede gerçekleştirdiğimiz 15.000'in üzerinde çalışmayla; stadyumlar, futbol sahaları, atletizm pistleri ve çok amaçlı spor komplekslerinin yapımında kapsamlı mühendislik ve uygulama çözümleri sunmaktayız.\nAfrika'da devam eden ve planlanan uluslararası projelerimiz kapsamında,\ninşaat ve taahhüt sektöründe proje ve şantiye satın alma süreçlerinde deneyimli, yurt"
   }
  },
  "pending": {}
