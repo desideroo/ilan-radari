@@ -10933,6 +10933,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494016752": {
+   "t": 1795453290.4975362,
+   "title": "Professional Services Consultant - Turkey",
+   "company": "Check Point Software",
+   "url": "https://www.linkedin.com/jobs/view/4494016752/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12115,17 +12124,18 @@
   "36058da9d9c1efbf": "linkedin:4491935001",
   "8d05ebb92248cd33": "linkedin:4492617080",
   "c47bb0da3d3d52c4": "isbul:100922",
-  "05ef4de013798556": "isbul:100923"
+  "05ef4de013798556": "isbul:100923",
+  "db271ad47da7fc94": "linkedin:4494016752"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795452371.7063224,
+   "last_run": 1795453288.723063,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795452371.7063236,
+   "last_ok": 1795453288.7230644,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
