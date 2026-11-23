@@ -10951,6 +10951,26 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4337416208": {
+   "t": 1795455963.7996967,
+   "title": "Enstrümantasyon ve Kontrol Teknisyeni",
+   "company": "Karadeniz Holding",
+   "url": "https://www.linkedin.com/jobs/view/4337416208/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "kariyernet:4506221": {
+   "t": 1795456009.5271895,
+   "title": "Flekso Baskı Operatörü",
+   "company": "EKERLER KAĞIT TORBAVE POŞET AMBALAJ SAN.VE TİC.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/ekerler-kagit-torbave-poset-ambalaj-san-ve-tic-a-s-flekso-baski-operatoru-4506221",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -12135,44 +12155,46 @@
   "c47bb0da3d3d52c4": "isbul:100922",
   "05ef4de013798556": "isbul:100923",
   "db271ad47da7fc94": "linkedin:4494016752",
-  "d71633eeee0ad52f": "linkedin:4483588852"
+  "d71633eeee0ad52f": "linkedin:4483588852",
+  "38630dce17ba9596": "linkedin:4337416208",
+  "f0891306452efca8": "kariyernet:4506221"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795455071.1415477,
+   "last_run": 1795455961.2877858,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795455071.1415496,
+   "last_ok": 1795455961.287787,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795454208.1953545,
+   "last_run": 1795456005.2038343,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795454208.1953564,
+   "last_ok": 1795456005.2038367,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795452422.7587464,
+   "last_run": 1795456015.2350695,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795452422.758748,
+   "last_ok": 1795456015.2350712,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795452427.2355309,
+   "last_run": 1795456020.6889286,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795452427.2355325,
+   "last_ok": 1795456020.6889298,
    "alerted": false,
    "ctx": {}
   },
@@ -17695,6 +17717,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Job Summary\nWe are looking for a detail-oriented and analytical\nReporting Supervisor\nto join our After-Sales Service Operations team in Türkiye.\nThe position will be responsible for preparing operational performance reports, monitoring service KPIs, managing service partner settlement calculations, and ensuring data accuracy across reporting systems.\nThe ideal candidate should possess strong analytical skills, advanced Excel knowledge, and the ability to transform operational data into meaningful insights to support business decisions and continuous improvement.\nKey Responsibilities\n1. Operati"
+  },
+  "linkedin:4337416208": {
+   "t": 1795455963.7997413,
+   "source": "linkedin",
+   "title": "Enstrümantasyon ve Kontrol Teknisyeni",
+   "company": "Karadeniz Holding",
+   "location": "Altınova",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "1948 yılında temelleri atılan Karadeniz Holding, enerji ve gemi inşa başta olmak üzere geniş bir sektör yelpazesinde inovasyonu ön planda tutarak büyümeyi ekonomik ve çevresel sürdürülebilirlik açısından destekleyen, vizyoner sektör lideridir.\n30 farklı milletten 3.000’den fazla çalışanı ile 20’den fazla ülkede faaliyet gösteren, 8.000 MW’tan fazla kurulu güce sahip Grup, 45 Powership™ ve 11 LNG gemisinden oluşan filosuyla 4 kıtada güvenilir ve temiz elektrik üretirken dünya genelinde 10 bini aşkın kişiye istihdam alanı sağlamaktadır. Powership™ filosunu, uluslararası markası Karpowership altı"
+  },
+  "kariyernet:4506221": {
+   "t": 1795456009.5272408,
+   "source": "kariyernet",
+   "title": "Flekso Baskı Operatörü",
+   "company": "EKERLER KAĞIT TORBAVE POŞET AMBALAJ SAN.VE TİC.A.Ş.",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "27 gün",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: En az 3 yıl tecrübeli; Eğitim Seviyesi: İlk Öğretim(Mezun), Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun); Askerlik Durumu: Yapıldı, Muaf\n\nKurulduğu günden itibaren tecrübesine tecrübe katan Ekerler Ambalaj, profesyonel yönetim kadrosu, tecrübeli personeli ve teknolojik makine parkuru ile sektöründe 200 gram - 50 kg. aralığında kağıt torba/poşet ambalaj ürünlerini üretebilen Türkiye'de ilk ve tek firma olarak hizmet sunmaktadır. 36,500 m2'lik bir alan üzerinde kurulu tesisinde, gerçekleştirmiş olduğu yeni yatırımları ile birlikte 2012 yılında esnek ambalaj pazarınd"
   }
  },
  "pending": {}
