@@ -10373,6 +10373,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492390532": {
+   "t": 1795429888.445503,
+   "title": "Sr Business Analyst | Hibrit",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4492390532/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -11496,17 +11505,18 @@
   "e4f5bce9c5675a12": "linkedin:4492393352",
   "078ac940493b9b6e": "linkedin:4493623289",
   "b46b9faf6dda7016": "linkedin:4493622314",
-  "a7741b066404b53a": "linkedin:4492389571"
+  "a7741b066404b53a": "linkedin:4492389571",
+  "e3ead7b09bdc2152": "linkedin:4492390532"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795428982.13879,
+   "last_run": 1795429888.445179,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795428982.1387916,
+   "last_ok": 1795429888.4451802,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
