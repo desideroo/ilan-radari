@@ -11109,6 +11109,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492647601": {
+   "t": 1795467683.566942,
+   "title": "Teknik Ofis Mühendisi",
+   "company": "EBTAŞ MÜHENDİSLİK ENDÜSTRİYEL ELEKTRİK A.Ş",
+   "url": "https://www.linkedin.com/jobs/view/4492647601/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12310,17 +12319,18 @@
   "84d40f6451301b03": "isbul:100771",
   "7b2d13bef4b379a9": "linkedin:4492611490",
   "89fc1095ab6bdf2a": "linkedin:4494041884",
-  "8560cfcc063c3ca8": "kariyernet:4587198"
+  "8560cfcc063c3ca8": "kariyernet:4587198",
+  "24962f820fbc5e43": "linkedin:4492647601"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795466773.1940374,
+   "last_run": 1795467680.9245265,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795466773.1940393,
+   "last_ok": 1795467680.924528,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
