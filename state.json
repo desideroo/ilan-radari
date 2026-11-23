@@ -9821,6 +9821,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493399519": {
+   "t": 1795401960.5718498,
+   "title": "IDC项目经理（偏服务器维护技能）",
+   "company": "SINTON GLOBAL SERVICE LIMITED",
+   "url": "https://www.linkedin.com/jobs/view/4493399519/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10886,44 +10895,45 @@
   "546ee65924e225cb": "linkedin:4493106402",
   "29fb8667b44aa3e5": "linkedin:4475452681",
   "ebffbaaf43ada931": "linkedin:4493605196",
-  "8383254ed81735ca": "linkedin:4459150206"
+  "8383254ed81735ca": "linkedin:4459150206",
+  "5058445765e39206": "linkedin:4493399519"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795401075.8529475,
+   "last_run": 1795401958.8587942,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795401075.8529487,
+   "last_ok": 1795401958.858796,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795400215.737736,
+   "last_run": 1795402001.299233,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795400215.7377377,
+   "last_ok": 1795402001.2992349,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795398406.2751198,
+   "last_run": 1795402007.2978005,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795398406.2751217,
+   "last_ok": 1795402007.2978017,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795398411.522511,
+   "last_run": 1795402013.4713433,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795398411.5225122,
+   "last_ok": 1795402013.4713447,
    "alerted": false,
    "ctx": {}
   },
