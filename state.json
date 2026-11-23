@@ -11008,6 +11008,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493685803": {
+   "t": 1795458689.896944,
+   "title": "Senior AI QA Engineer – Automation & Cloud Infrastructure",
+   "company": "Acronis",
+   "url": "https://www.linkedin.com/jobs/view/4493685803/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492632619": {
+   "t": 1795458689.8971686,
+   "title": "Kalite Kontrol Mühendisi",
+   "company": "Sabancı Makina İthalat İhracat ve Sanayi",
+   "url": "https://www.linkedin.com/jobs/view/4492632619/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12198,17 +12216,19 @@
   "625d48462cc58ebd": "linkedin:4494028554",
   "93ec19ec820ad1d3": "linkedin:4494034470",
   "881eeed90adc97f2": "linkedin:4493902058",
-  "e3b5fb8dab469d8e": "kariyernet:4602994"
+  "e3b5fb8dab469d8e": "kariyernet:4602994",
+  "05dea577c4c16555": "linkedin:4493685803",
+  "7b35d3f355a446df": "linkedin:4492632619"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795457761.3442862,
+   "last_run": 1795458689.8961446,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795457761.344288,
+   "last_ok": 1795458689.8961458,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
