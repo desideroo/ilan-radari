@@ -10496,6 +10496,43 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492384732": {
+   "t": 1795435274.991839,
+   "title": "Kalite Kontrol Müfettişi",
+   "company": "Teknoplas Polyester-Plastik San. ve Tic. A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4492384732/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493621907": {
+   "t": 1795435274.9919958,
+   "title": "Factory Quality Hygiene Lead (Ankara Plant)",
+   "company": "Henkel",
+   "url": "https://www.linkedin.com/jobs/view/4493621907/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492606087": {
+   "t": 1795435274.992881,
+   "title": "Senior SAP FI/CO Consultant – S/4HANA Brownfield Migration (Contract)",
+   "company": "Smartia Bilişim Danışmanlığı",
+   "url": "https://www.linkedin.com/jobs/view/4492606087/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493618889": {
+   "t": 1795435277.5496044,
+   "title": "Cloud & DevOps Engineer",
+   "company": "Loodos",
+   "url": "https://www.linkedin.com/jobs/view/4493618889/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -11632,17 +11669,21 @@
   "c0decf1d25ded28b": "kariyernet:4602693",
   "93d20af12e109369": "kariyernet:4602618",
   "ef91e92cbf45e960": "elemannet:4812956",
-  "2a5e6c762ac8e8cb": "elemannet:4812947"
+  "2a5e6c762ac8e8cb": "elemannet:4812947",
+  "4b8c918156fbf0c6": "linkedin:4492384732",
+  "77dd349ac18f1452": "linkedin:4493621907",
+  "68e5532b98b0e980": "linkedin:4492606087",
+  "f5aca60da658bd6c": "linkedin:4493618889"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795434360.6460593,
+   "last_run": 1795435274.9913242,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795434360.6460607,
+   "last_ok": 1795435274.991326,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -11751,7 +11792,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 26,
+   "rej_remote": 27,
    "rej_exp": 2
   }
  },
@@ -16801,6 +16842,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Üniversite(Mezun); Askerlik Durumu: Yapıldı\n\nKahvaltılık ürünler sektörünün köklü firmalarından CEBEL SÜT ÜRÜNLERİ GIDA MADDELERİ İML. SAN. ve TİC. A.Ş. olarak firmamız bünyesinde çalıştırılmak üzere gıda mühendisi arayışımız mevcuttur.\nGörev ve Sorumluluklar\nÜniversitelerin Gıda Mühendisliği bölümünden mezun,\nTercihen süt sektöründe deneyimli,\nGıda güvenliği ve kalite yönetim sistemleri (ISO 22000, HACCP vb.) konusunda bilgi sahibi,\nÜretim ve kalite süreçlerini takip edebilecek,\nAnalitik düşünme yeteneğine sahip, çözüm odaklı,"
+  },
+  "linkedin:4493618889": {
+   "t": 1795435277.5496416,
+   "source": "linkedin",
+   "title": "Cloud & DevOps Engineer",
+   "company": "Loodos",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Loodos is one of the first established companies in the industry, providing end-to-end mobile solutions since 2004.\nWho we are:\nLoodos’s utmost motivation is Mobile Excellence. We build end-to-end solutions with best technical and business approaches. Bringing human behavior understanding and deep technical abilities together carry the mobile application to level of excellence.\nIn our R&D center office we have awesome teammates that we can safely incorporate into our mobile application and infrastructure projects, which have a direct R&D-oriented vision and reach over 25 million monthly active"
   }
  },
  "pending": {}
