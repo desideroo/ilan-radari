@@ -10043,6 +10043,72 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493628121": {
+   "t": 1795419957.0189552,
+   "title": "Sistem Destek Yöneticisi",
+   "company": "Tiryaki Agro",
+   "url": "https://www.linkedin.com/jobs/view/4493628121/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492372823": {
+   "t": 1795419958.7617693,
+   "title": "Proje / Ürün Kalite Mühendisi",
+   "company": "Özok Havacılık Savunma Sanayi Ticaret Limited Şirketi",
+   "url": "https://www.linkedin.com/jobs/view/4492372823/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4492392007": {
+   "t": 1795419960.5532534,
+   "title": "Ağ Yönetimi Mühendisi | Hibrit",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4492392007/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492372888": {
+   "t": 1795419962.3362489,
+   "title": "Ağ Yönetimi Uzmanı | İstanbul",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4492372888/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492387219": {
+   "t": 1795419964.8760793,
+   "title": "Terminal Client Administrator",
+   "company": "Şanstech",
+   "url": "https://www.linkedin.com/jobs/view/4492387219/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493627033": {
+   "t": 1795419967.426315,
+   "title": "Junior Sistem ve Siber Güvenlik Destek Uzmanı",
+   "company": "Degasu Bilişim Çözümleri",
+   "url": "https://www.linkedin.com/jobs/view/4493627033/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "isbul:100791": {
+   "t": 1795420021.7971807,
+   "title": "Sosyal Pazarlama Uzmanı Uzaktan",
+   "company": "Bakicibul.net",
+   "url": "https://isbul.net/is-ilani/bakicibul-sosyal-pazarlama-uzmani-uzaktaktan-100791",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -11131,44 +11197,51 @@
   "02ad27a7bcc3d1ff": "linkedin:4492388126",
   "771de059dc7410c4": "linkedin:4492372857",
   "039b9dc413a540b1": "linkedin:4492369966",
-  "d4b3459a7f8a75e4": "linkedin:4493619269"
+  "d4b3459a7f8a75e4": "linkedin:4493619269",
+  "b95f8c759cb25b1a": "linkedin:4493628121",
+  "0ff4f7560e33af8d": "linkedin:4492372823",
+  "d02f7bd0b768e85e": "linkedin:4492392007",
+  "a1f68711274ff159": "linkedin:4492372888",
+  "53991ba1c2c51bce": "linkedin:4492387219",
+  "dfa193eb6cd457c2": "linkedin:4493627033",
+  "016d61f27c506793": "isbul:100791"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795419087.1168773,
+   "last_run": 1795419957.0174928,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795419087.1168785,
+   "last_ok": 1795419957.0174954,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795418218.441865,
+   "last_run": 1795420010.3158252,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795418218.4418674,
+   "last_ok": 1795420010.3158276,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795416412.0500255,
+   "last_run": 1795420016.7285764,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795416412.0500267,
+   "last_ok": 1795420016.7285779,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795416420.430798,
+   "last_run": 1795420021.7967184,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795416420.4307992,
+   "last_ok": 1795420021.7967196,
    "alerted": false,
    "ctx": {}
   },
@@ -11250,7 +11323,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 12
+   "rej_remote": 14
   }
  },
  "details": {
@@ -15942,6 +16015,57 @@
    "track_from": "title",
    "llm": {},
    "description": "As Turkiye's largest fitness community—bringing together our\nMAC/One, MACFit, MAC Studio, and NuSpa\nbrands—we are looking for a\nData Engineer\nto join our Technology team at our Ortaköy Head Office in Istanbul.\nBeing part of MAC means being a core piece of a continuously growing, dynamic community that moves together for a better life. Here, ideas are valued,\nteammanship\nis deeply supported, and feeling good is just as important as working efficiently.\nIf you want to be a part of our well-being community and shape the future of the fitness experience through data technologies, we would love to "
+  },
+  "linkedin:4492372823": {
+   "t": 1795419958.7618167,
+   "source": "linkedin",
+   "title": "Proje / Ürün Kalite Mühendisi",
+   "company": "Özok Havacılık Savunma Sanayi Ticaret Limited Şirketi",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "PROJE / ÜRÜN KALİTE MÜHENDİSİ\nÖZOK Havacılık Savunma Sanayi ve Ticaret Ltd. Şti.\nÇalışma Yeri:\nAnkara\nİstihdam Türü:\nTam Zamanlı\nGENEL NİTELİKLER\nSavunma sanayi alanında faaliyet gösteren şirketimizin yürüttüğü projelerde görevlendirilmek üzere, kalite güvence ve kontrol süreçlerinde sorumluluk alabilecek\nProje / Ürün Kalite Mühendisi\narayışımız bulunmaktadır.\nAranan Nitelikler\nÜniversitelerin mühendislik fakültelerinden mezun (tercihen Elektrik-Elektronik veya Endüstri Mühendisliği),\nTercihen seri üretim ve imalat süreçlerinde kalite alanında deneyimli,\nAS9100 ve ISO 9001 kalite yönetim stand"
+  },
+  "linkedin:4492387219": {
+   "t": 1795419964.8761172,
+   "source": "linkedin",
+   "title": "Terminal Client Administrator",
+   "company": "Şanstech",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Şanstech Company is a growing tech company with young and dynamic talents. We create an environment and offer growing opportunities to young talents to expand their abilities while experiencing agile solutions.\nTechnological innovation is the key to our success. To get there, we need exceptionally talented, bright, and driven people.\nWe are looking for a Terminal Client Administrator. If you'd like to help us contributing to this success, this is your chance to make history. We are looking for a dynamic, proactive, organized self-starter, enjoys solving complex problems to join our team.\nPosit"
+  },
+  "linkedin:4493627033": {
+   "t": 1795419967.4263566,
+   "source": "linkedin",
+   "title": "Junior Sistem ve Siber Güvenlik Destek Uzmanı",
+   "company": "Degasu Bilişim Çözümleri",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Degasu Hakkında\nDegasu Bilişim Çözümleri, kurumlara sistem yönetimi ve siber güvenlik alanlarında danışmanlık, proje ve teknik destek hizmetleri sunmaktadır. ManageEngine, Rapid7, Symantec, TrendAI ve CheckPoint çözümleri başta olmak üzere çeşitli üreticilerin kurumsal ürünlerinde müşterilerimize destek vermekteyiz.\nEkibimize katılacak, teknik altyapısı güçlü ve öğrenmeye açık çalışma arkadaşları arıyoruz.\nGörevler\nMüşterilerden gelen teknik destek taleplerinin değerlendirilmesi ve çözüm süreçlerine katkı sağlanması\nÜretici firmalarla teknik destek kayıtlarının (case) açılması ve takibinin yap"
   }
  },
  "pending": {}
