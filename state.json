@@ -10579,6 +10579,46 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4268014860": {
+   "t": 1795437977.1858082,
+   "title": "Grafik Tasarımcısı",
+   "company": "Yayoğlu Ajans",
+   "url": "https://www.linkedin.com/jobs/view/4268014860/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4492395998": {
+   "t": 1795437986.6788454,
+   "title": "QA Tester - Puzzle Games",
+   "company": "Rollic",
+   "url": "https://www.linkedin.com/jobs/view/4492395998/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492600718": {
+   "t": 1795437989.2559178,
+   "title": "Sistem Destek Sorumlusu",
+   "company": "Galva Metal Sanayi ve Ticaret A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4492600718/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4602688": {
+   "t": 1795438034.8554606,
+   "title": "Saha Satış Uzmanı (Konya - Karaman)",
+   "company": "Würth Sanayi Ürünleri Ticaret Limited Şirketi",
+   "url": "https://www.kariyer.net/is-ilani/wurth-sanayi-urunleri-ticaret-limited-sirketi-saha-satis-uzmani-konya-karaman-4602688",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -11724,44 +11764,48 @@
   "b3d11925f3683369": "linkedin:4378352064",
   "e8b37799506b56d9": "linkedin:4365465702",
   "7603e3cb313e47af": "kariyernet:4602711",
-  "88f9aaa3e8a21981": "kariyernet:4321220"
+  "88f9aaa3e8a21981": "kariyernet:4321220",
+  "12f8924ca7f5758f": "linkedin:4268014860",
+  "222318a2aaa0b034": "linkedin:4492395998",
+  "967af00fc3b80b59": "linkedin:4492600718",
+  "6bf8a73283311d7a": "kariyernet:4602688"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795437091.7839165,
+   "last_run": 1795437975.3491054,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795437091.7839186,
+   "last_ok": 1795437975.3491075,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795436228.203205,
+   "last_run": 1795438031.0308478,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795436228.2032065,
+   "last_ok": 1795438031.0308497,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795434420.4491289,
+   "last_run": 1795438040.817934,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795434420.4491303,
+   "last_ok": 1795438040.817936,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795434429.6747832,
+   "last_run": 1795438045.5549798,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795434429.6747844,
+   "last_ok": 1795438045.5549817,
    "alerted": false,
    "ctx": {}
   },
@@ -11843,7 +11887,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 27,
+   "rej_remote": 29,
    "rej_exp": 2
   }
  },
@@ -16927,6 +16971,74 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 3 - 10 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Askerlik Durumu: Yapıldı, Muaf; Ehliyet: B sınıfı\n\nDEĞİRMENCİ OTOMOTİV VE METAL ENDÜSTRİ ANONİM ŞİRKETİ, savunma ve medikal alanlarında talaşlı imalat faaliyeti göstermektedir. Bu yapılara yönelik üretim ve projelerimizin teknik tedarik süreçlerini uçtan uca yönetebilecek bir\nTeknik Satın Alma Sorumlusu\narıyoruz.\nGenel Nitelikler\nÜniversitelerin\ntercihen\nMakine, Endüstri, Metalurji ve Malzeme, Mekatronik, Elektrik-Elektronik Mühendisliği veya ilgili teknik bölümlerinden mezun,\nÜretim / endüstriyel ürünler, savunma "
+  },
+  "linkedin:4268014860": {
+   "t": 1795437977.1858459,
+   "source": "linkedin",
+   "title": "Grafik Tasarımcısı",
+   "company": "Yayoğlu Ajans",
+   "location": "Denizli, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Tercihen üniversitelerin Görsel iletişim, Grafik tasarım veya ilgili bölümlerinden mezun,\nKurumsal kimlik, Sosyal Medya Görselleri ile birlikte ambalaj kutu tasarım çalışmaları, afiş, katalog ve dergi gibi basılı işlerin tasarımlarını ve matbaa baskı hazırlığını yapabilecek,\nSosyal Medya takibi ve görselleri ile ilgili çalışmalar yapabilecek,\nAdobe illustrator, Adobe Photoshop, Adobe Indesign gibi programları iyi derecede kullanabilen,\nAldığı işi baştan sonra takip edebilecek, zamanı etkin kullanabilen, hayal gücü yüksek, yeni projeler çıkartabilecek, sabırlı ve dikkatli\nAlanında deneyimli çal"
+  },
+  "linkedin:4492395998": {
+   "t": 1795437986.6788886,
+   "source": "linkedin",
+   "title": "QA Tester - Puzzle Games",
+   "company": "Rollic",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "About Rollic\nRollic is an Istanbul-based game developer and publisher.\nFounded in 2019 and acquired in October 2020 by Zynga, who joined the Take-Two roof as of May 2022.\nRollic has over 3.5 billion downloads across its diverse portfolio of games and, thanks to an intensive development process utilizing a massive test pipeline, has a steady cadence of globally hit titles such as\nColor Block Jam, Sand Blokcs, Knit Out,\nGecko Out, Drop Away\nall of which have gained millions of downloads worldwide within a few months after their release.\nMain Responsibilities\nOwn and execute end-to-end QA process"
+  },
+  "linkedin:4492600718": {
+   "t": 1795437989.2559655,
+   "source": "linkedin",
+   "title": "Sistem Destek Sorumlusu",
+   "company": "Galva Metal Sanayi ve Ticaret A.Ş.",
+   "location": "Kartepe",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "📍\nLokasyon:\nKocaeli, Kartepe (Ofis – Tam Zamanlı)\n🏭\nSektör:\nDemir–Çelik | Galvanizli & Boyalı Sac\n🚀\nPozisyon:\nSistem Destek Sorumlusu\n💻\nDepartman:\nBilgi Teknolojileri\nHakkımızda\nDemir-çelik sektöründe ulusal ve uluslararası pazarda, başta galvanizli ve boyalı sac olmak üzere yassı çelik ürün grubunda 21 yıldır faaliyet gösteren firmamıza\nSistem Destek Sorumlusu\npozisyonunda yeni ekip arkadaşı arıyoruz!\nGüçlü üretim altyapımız, gelişen dijital süreçlerimiz, Galva Metal ve Galva Makina tarafındaki operasyonel ihtiyaçlarımızla birlikte Bilgi Teknolojileri ekibimizi güçlendirmeye devam ediyoruz.\nB"
+  },
+  "kariyernet:4602688": {
+   "t": 1795438034.855507,
+   "source": "kariyernet",
+   "title": "Saha Satış Uzmanı (Konya - Karaman)",
+   "company": "Würth Sanayi Ürünleri Ticaret Limited Şirketi",
+   "location": "Karaman +1 il daha",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Mezun)\n\nWürth Türkiye\nolarak 800'den fazla kişiden oluşan ekibimiz, birçok ildeki 30’dan fazla mağazamız ve irtibat bürolarımız ile Türkiye'nin her köşesinde müşterilerine hizmet veren satışta lider, global bir şirketiz. Ayrıca, düzenli olarak güncellenen internet sitemiz aracılığıyla binlerce ürün çeşidine, teknik bilgilere, kimyasal ürün raporlarına her zaman ulaşabilirsiniz.\nTüm Würth ürünleri, dünya standartlarına uygun olarak üretilmektedir.\nISO 9001:2015\nsertifikamızla bu kalite standartlarını koruyoruz. 125.000"
   }
  },
  "pending": {}
