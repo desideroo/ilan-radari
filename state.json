@@ -9889,6 +9889,25 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492376610": {
+   "t": 1795413686.8281982,
+   "title": "Kalite Kontrol Mühendisi",
+   "company": "Erdemir Mühendislik",
+   "url": "https://www.linkedin.com/jobs/view/4492376610/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492369761": {
+   "t": 1795413689.3497713,
+   "title": "CNC TORNA OPERATÖRÜ",
+   "company": "Kaleliler Cıvata Sanayi ve Ticaret A.Ş-Fasteners",
+   "url": "https://www.linkedin.com/jobs/view/4492369761/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -10961,17 +10980,19 @@
   "61e6e007aefb148e": "linkedin:4492378388",
   "fd2a83ea88a1086f": "linkedin:4492364852",
   "b7875e5be762a454": "linkedin:4492946549",
-  "ef0c1546af415424": "linkedin:4492384269"
+  "ef0c1546af415424": "linkedin:4492384269",
+  "76a14dee82720af6": "linkedin:4492376610",
+  "11038bb61417650d": "linkedin:4492369761"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795412766.1358702,
+   "last_run": 1795413686.8273,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795412766.1358714,
+   "last_ok": 1795413686.8273017,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -15574,6 +15595,23 @@
    "track_from": "description",
    "llm": {},
    "description": "About Us\nKervan Yazılım was established as a subsidiary of Kervan Gıda to develop AI and data solutions. We build applications for every business process at Kervan Gıda, from production to supply chain and from sales to finance. We run these applications in production and measure the value they deliver.\nAbout the Role\nThe Forward Deployed AI Engineer works on site with business teams to analyze processes end to end, and designs, builds and deploys AI-powered solutions. The role reports to the Head of Kervan Yazılım and is the company's first engineering hire.\nKey Responsibilities\nProcess analy"
+  },
+  "linkedin:4492369761": {
+   "t": 1795413689.349814,
+   "source": "linkedin",
+   "title": "CNC TORNA OPERATÖRÜ",
+   "company": "Kaleliler Cıvata Sanayi ve Ticaret A.Ş-Fasteners",
+   "location": "Kahramankazan",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Direktör",
+   "track_from": "title",
+   "llm": {},
+   "description": "Kaleliler Civata Firması sektöründe öncü, bağlantı elemanları üretip ihraç eden , kurumsal altyapıya sahip bir firmadır.\nAnkara Kahramankazan'da bulunan firmamız için aşağıda belirtilen niteliklere sahip yada yetiştirilmek üzere meslek lisesi mezunu CNC TORNA OPERATÖRÜ aranmaktadır. Firmamız bünyesinde 2 eksen tornalar(Fanuc) bulunmaktadır .\nAranan Nitelikler\n*Erkek adaylar için askerliğini yapmış,\n* Tercihen Meslek Yüksek Okulu, Teknik Eğitim Fakültesi veya Endüstri Meslek Liselerinin ilgili bölümlerinden mezun,\n*Teknik resim okuyabilen ve ölçü aletlerini kullanabilen,\n*Vardiyalı çalışabilece"
   }
  },
  "pending": {}
