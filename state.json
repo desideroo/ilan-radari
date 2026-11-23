@@ -10687,6 +10687,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492608604": {
+   "t": 1795442479.3340962,
+   "title": "Forward Deployed Engineer",
+   "company": "Zaigo",
+   "url": "https://www.linkedin.com/jobs/view/4492608604/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -11843,17 +11852,18 @@
   "a4593eb1c3300a31": "linkedin:4492398730",
   "ae2f7db24e2a448f": "linkedin:4493626821",
   "7391a70522222829": "linkedin:4492613406",
-  "d3cbccbb0defdabc": "linkedin:4492611409"
+  "d3cbccbb0defdabc": "linkedin:4492611409",
+  "6cc27c7e09fe77eb": "linkedin:4492608604"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795441561.5484216,
+   "last_run": 1795442477.60246,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795441561.5484235,
+   "last_ok": 1795442477.602461,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
