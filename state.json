@@ -10382,6 +10382,34 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4430412850": {
+   "t": 1795430786.94709,
+   "title": "Senior Rust Developer (Systems & Infrastructure)",
+   "company": "Proxify",
+   "url": "https://www.linkedin.com/jobs/view/4430412850/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4437165148": {
+   "t": 1795430786.947264,
+   "title": "Senior Sharepoint Developer",
+   "company": "Proxify",
+   "url": "https://www.linkedin.com/jobs/view/4437165148/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493615902": {
+   "t": 1795430789.2600732,
+   "title": "Full Stack Engineer",
+   "company": "Artifact Systems",
+   "url": "https://www.linkedin.com/jobs/view/4493615902/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -11506,44 +11534,47 @@
   "078ac940493b9b6e": "linkedin:4493623289",
   "b46b9faf6dda7016": "linkedin:4493622314",
   "a7741b066404b53a": "linkedin:4492389571",
-  "e3ead7b09bdc2152": "linkedin:4492390532"
+  "e3ead7b09bdc2152": "linkedin:4492390532",
+  "9e3baa1480a2e34d": "linkedin:4430412850",
+  "d6568c6947a5f1fa": "linkedin:4437165148",
+  "0f22c7ba298014dd": "linkedin:4493615902"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795429888.445179,
+   "last_run": 1795430786.9464262,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795429888.4451802,
+   "last_ok": 1795430786.9464278,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795429025.5329704,
+   "last_run": 1795430832.8886724,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795429025.5329726,
+   "last_ok": 1795430832.8886743,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795427225.3204896,
+   "last_run": 1795430839.2603688,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795427225.320491,
+   "last_ok": 1795430839.2603703,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795427233.9668672,
+   "last_run": 1795430844.884838,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795427233.9668682,
+   "last_ok": 1795430844.8848395,
    "alerted": false,
    "ctx": {}
   },
@@ -11625,7 +11656,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 23,
+   "rej_remote": 24,
    "rej_exp": 1
   }
  },
@@ -16573,6 +16604,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Köklerden Göklere!\nÜlkemizin ilk yerli ve milli turbo jet motorunu geliştiren ve üreten, Kale Holding şirketi Kale Jet Motorları bünyesinde görevlendirilmek üzere \"Test Mühendisi\" aramaktayız.\nG\nENEL NİTELİKLER\nÜniversitelerin Uçak, Uzay, Makine, Elektrik-Elektronik vb. mühendislik fakültelerinden mezun,\nTest Mühendisliği konusunda en az 5 yıl tecrübeye sahipsen,\nGaz türbinli motor ve alt sistem/komponent (Fan, Kompresör, Yanma Odası, Türbin, Rulman) test faaliyetleri konularında tecrübe sahibi,\nTest ve validasyon, gereksinim doğrulama ve kalifikasyon konularına hâkim,\nBasınç, sıcaklık, titreş"
+  },
+  "linkedin:4493615902": {
+   "t": 1795430789.2601109,
+   "source": "linkedin",
+   "title": "Full Stack Engineer",
+   "company": "Artifact Systems",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "About the Opportunity\nOn behalf of our client, a technology company specializing in cloud computing, GPU-powered applications, and real-time streaming technologies,\nArtifact Systems is seeking a Senior Full Stack Developer\nto join our client's engineering team.\nOur client develops innovative solutions that enable users to access high-performance computing resources and run demanding applications directly through their browsers, without being limited by their local hardware.\nWe are looking for an experienced software engineer who enjoys building products end to end, understands software archite"
   }
  },
  "pending": {}
