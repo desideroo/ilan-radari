@@ -10253,6 +10253,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492388259": {
+   "t": 1795424473.8279786,
+   "title": "Senior Java Developer",
+   "company": "ICTWORKS Bilişim ve Yazılım A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4492388259/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4459172925": {
+   "t": 1795424473.8284004,
+   "title": "Senior AI/ML Engineer",
+   "company": "adesso Turkey",
+   "url": "https://www.linkedin.com/jobs/view/4459172925/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -11363,17 +11381,19 @@
   "92ba2548d149b4b3": "linkedin:4492377828",
   "551d9fd64594235a": "linkedin:4487481580",
   "4455269433ef304f": "linkedin:4492380656",
-  "7c065913881819f4": "kariyernet:4602335"
+  "7c065913881819f4": "kariyernet:4602335",
+  "056c2aee6c9785fa": "linkedin:4492388259",
+  "f2666de0b74992e0": "linkedin:4459172925"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795423584.0255492,
+   "last_run": 1795424473.8274012,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795423584.0255508,
+   "last_ok": 1795424473.8274026,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
