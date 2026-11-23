@@ -10905,6 +10905,34 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492617080": {
+   "t": 1795452373.61265,
+   "title": "Reporting Supervisor (Aftersales)",
+   "company": "Transsion",
+   "url": "https://www.linkedin.com/jobs/view/4492617080/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "isbul:100922": {
+   "t": 1795452427.2360606,
+   "title": "Müşteri Temsilcisi",
+   "company": "GEZER GRUP İNSAN KAYNAK. EGT. DAN.AŞ",
+   "url": "https://isbul.net/is-ilani/gezer-grup-insan-kaynaklari-egitim-musteri-temsilcisi-kopya-100922",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100923": {
+   "t": 1795452427.2361543,
+   "title": "Yönetici Asistanı",
+   "company": "GEZER GRUP İNSAN KAYNAK. EGT. DAN.AŞ",
+   "url": "https://isbul.net/is-ilani/gezer-grup-insan-kaynaklari-egitim-yonetici-asistani-kopya-100923",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12084,44 +12112,47 @@
   "1852b7fa95563022": "linkedin:4492614513",
   "bed944d3c70cbd11": "linkedin:4493657661",
   "cfb34ae600c7d9e6": "linkedin:4492611998",
-  "36058da9d9c1efbf": "linkedin:4491935001"
+  "36058da9d9c1efbf": "linkedin:4491935001",
+  "8d05ebb92248cd33": "linkedin:4492617080",
+  "c47bb0da3d3d52c4": "isbul:100922",
+  "05ef4de013798556": "isbul:100923"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795451477.8243322,
+   "last_run": 1795452371.7063224,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795451477.824334,
+   "last_ok": 1795452371.7063236,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795450612.562813,
+   "last_run": 1795452415.8573465,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795450612.562815,
+   "last_ok": 1795452415.8573484,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795448835.1204748,
+   "last_run": 1795452422.7587464,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795448835.1204765,
+   "last_ok": 1795452422.758748,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795448839.6935995,
+   "last_run": 1795452427.2355309,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795448839.6936011,
+   "last_ok": 1795452427.2355325,
    "alerted": false,
    "ctx": {}
   },
@@ -12203,7 +12234,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 41,
+   "rej_remote": 42,
    "rej_exp": 3
   }
  },
@@ -17627,6 +17658,23 @@
    "track_from": "description",
    "llm": {},
    "description": "We are seeking an\nElectronic Warfare FPGA Engineer\nto implement high-performance signal processing pipelines for SDR, EW/ESM systems.\nThis role sits at the intersection of algorithm development and hardware realization: you will translate advanced DSP, radar, and EW concepts into deterministic, resource-efficient FPGA architectures while remaining hands-on in Python-based algorithm prototyping and validation.\nYou will work closely with algorithm engineers, RF engineers, and embedded/FPGA teams to deliver real-time processing chains—from wideband IQ ingestion to detection, parameter extraction,"
+  },
+  "linkedin:4492617080": {
+   "t": 1795452373.6126862,
+   "source": "linkedin",
+   "title": "Reporting Supervisor (Aftersales)",
+   "company": "Transsion",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Job Summary\nWe are looking for a detail-oriented and analytical\nReporting Supervisor\nto join our After-Sales Service Operations team in Türkiye.\nThe position will be responsible for preparing operational performance reports, monitoring service KPIs, managing service partner settlement calculations, and ensuring data accuracy across reporting systems.\nThe ideal candidate should possess strong analytical skills, advanced Excel knowledge, and the ability to transform operational data into meaningful insights to support business decisions and continuous improvement.\nKey Responsibilities\n1. Operati"
   }
  },
  "pending": {}
