@@ -11044,6 +11044,43 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492654127": {
+   "t": 1795463154.9037483,
+   "title": "Ön Muhasebe ve Müşteri İlişkileri Sorumlusu",
+   "company": "Kurgu Electronics ICT",
+   "url": "https://www.linkedin.com/jobs/view/4492654127/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "elemannet:4813487": {
+   "t": 1795463204.7945497,
+   "title": "Raf Montaj Elemanı",
+   "company": "Alp Raf Limited Şirketi",
+   "url": "https://www.eleman.net/is-ilani/raf-montaj-elemani-i4813487",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4813484": {
+   "t": 1795463207.5196455,
+   "title": "Vasıfsız Eleman",
+   "company": "Alp Raf Limited Şirketi",
+   "url": "https://www.eleman.net/is-ilani/vasifsiz-eleman-i4813484",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:100771": {
+   "t": 1795463212.9615328,
+   "title": "Tahribatsız Muayene Uzmanı",
+   "company": "DİAS NDT KALİTE MÜHENDİSLİK SAN.TİC. LTD ŞTİ",
+   "url": "https://isbul.net/is-ilani/dias-ndt-kalite-tahribatsiz-muayene-uzmani-100771",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12238,44 +12275,48 @@
   "05dea577c4c16555": "linkedin:4493685803",
   "7b35d3f355a446df": "linkedin:4492632619",
   "3e8920ab196cc7b8": "linkedin:4492069136",
-  "89160113c53ca1f6": "linkedin:4492633769"
+  "89160113c53ca1f6": "linkedin:4492633769",
+  "bb1baf6baa1ac119": "linkedin:4492654127",
+  "a861649865bc189c": "elemannet:4813487",
+  "f9e8aa986b8dc220": "elemannet:4813484",
+  "84d40f6451301b03": "isbul:100771"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795462266.8932052,
+   "last_run": 1795463152.4075933,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795462266.8932073,
+   "last_ok": 1795463152.4075942,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795461405.3886914,
+   "last_run": 1795463196.5104444,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795461405.3886933,
+   "last_ok": 1795463196.5104458,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795459628.899373,
+   "last_run": 1795463202.2895865,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795459628.899374,
+   "last_ok": 1795463202.289588,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795459635.228692,
+   "last_run": 1795463212.9612186,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795459635.228693,
+   "last_ok": 1795463212.9612205,
    "alerted": false,
    "ctx": {}
   },
@@ -17849,6 +17890,23 @@
    "track_from": "description",
    "llm": {},
    "description": "A Snapshot of Your Day\nJoin our dynamic team in Turkey as you take on a pivotal role in the Grid Technologies, Transformers Order Execution (OEX) team. You will manage the entire order lifecycle, from the initial entry in SAP to final invoicing, ensuring that every detail aligns with technical specifications and customer expectations. Imagine proactively monitoring order progress through production and logistics, swiftly resolving any potential delays or complex issues to guarantee timely fulfillment. You will also serve as the primary point of contact for customers and internal stakeholders, "
+  },
+  "linkedin:4492654127": {
+   "t": 1795463154.9037833,
+   "source": "linkedin",
+   "title": "Ön Muhasebe ve Müşteri İlişkileri Sorumlusu",
+   "company": "Kurgu Electronics ICT",
+   "location": "İzmit",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Direktör",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş Tanımı\nBilişim altyapıları, network çözümleri, elektronik güvenlik ve zayıf akım proje taahhüt alanlarında faaliyet gösteren firmamızın\nİzmit / Kocaeli\nmerkez ofisinde görevinde, operasyonel süreçlerimizin merkezinde yer alacak\nÖn Muhasebe ve Müşteri İlişkileri Sorumlusu\narıyoruz.\nPozisyonun Amacı\nSaha ve teknik ekiplerimiz sahada projeleri yürütürken; ofis içi finansal akışı düzenli tutacak, müşterilerimizle ilk teması kurarak teklif ve teknik destek taleplerini koordine edecek, yönetime operasyonel destek sağlayacak enerjik bir ekip arkadaşı arıyoruz.\nSorumluluklar\nÖn Muhasebe Süreçleri:\n"
   }
  },
  "pending": {}
