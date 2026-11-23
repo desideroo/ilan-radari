@@ -9994,6 +9994,55 @@
    "status": "dropped",
    "score": 10,
    "msg": null
+  },
+  "linkedin:4493613409": {
+   "t": 1795419087.1179366,
+   "title": "SAP BW Lead",
+   "company": "Mapa Group",
+   "url": "https://www.linkedin.com/jobs/view/4493613409/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492388126": {
+   "t": 1795419088.7972014,
+   "title": "Business Analytics Specialist",
+   "company": "Hedef Filo",
+   "url": "https://www.linkedin.com/jobs/view/4492388126/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492372857": {
+   "t": 1795419090.7126107,
+   "title": "Strategic Planning Specialist",
+   "company": "Ender Mağazaları",
+   "url": "https://www.linkedin.com/jobs/view/4492372857/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492369966": {
+   "t": 1795419092.6181455,
+   "title": "Süreç Geliştirme ve Raporlama Uzmanı",
+   "company": "TÜRK ALTIN İŞLETMELERİ",
+   "url": "https://www.linkedin.com/jobs/view/4492369966/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493619269": {
+   "t": 1795419094.3202295,
+   "title": "Data Engineer",
+   "company": "Mars Athletic Club",
+   "url": "https://www.linkedin.com/jobs/view/4493619269/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -11077,17 +11126,22 @@
   "d0a7cf4d5d826733": "elemannet:4812242",
   "37eb4d4571685d37": "linkedin:4484324777",
   "a8850b67f9024e0b": "kariyernet:4602286",
-  "de5eb56267f9ac0d": "kariyernet:4602232"
+  "de5eb56267f9ac0d": "kariyernet:4602232",
+  "7cba76d9fdcf1f1b": "linkedin:4493613409",
+  "02ad27a7bcc3d1ff": "linkedin:4492388126",
+  "771de059dc7410c4": "linkedin:4492372857",
+  "039b9dc413a540b1": "linkedin:4492369966",
+  "d4b3459a7f8a75e4": "linkedin:4493619269"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795418175.3705688,
+   "last_run": 1795419087.1168773,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795418175.3705704,
+   "last_ok": 1795419087.1168785,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -11119,10 +11173,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795411879.0778534,
+   "last_run": 1795419097.3926444,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795411879.0778546,
+   "last_ok": 1795419097.392646,
    "alerted": false,
    "ctx": {}
   }
@@ -11196,7 +11250,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 8
+   "rej_remote": 12
   }
  },
  "details": {
@@ -15820,6 +15874,74 @@
     "work_mode": "remote"
    },
    "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci), Doktora(Mezun)\n\n'Kariyer.net'le İş Hayatına İlk Adım'\nkonulu online eğitimiyle Kariyer.net, şimdi seninle!\nKendini tanıma yolculuğuna ilk adım\nÜniversite çağlarında donanım kazanmaya dair ipuçları\nİnsan kaynakları uzmanlarının dikkatini çekecek bir özgeçmişe dair püf noktalar\nİş arama sürecinde dikkat edilmesi gerekenler\nÜniversite hayatı için genel tavsiyeler\nHepsi ve daha fazlası için  '\nKariyer.net'le İş Hayatına İlk Adım\n'\nonline seminerine katıl, aklına takılan soruları canlı yayında sor, kariyerinde fark yarat!\nKariyer yolculuğun boyunca Kariyer.net her zaman seninle!\nHadi hemen ilana başvur ve yol arkadaşlığımızı başlat!\nTarih:\n24 Kasım, Salı\nSaat:\n18:30"
+  },
+  "linkedin:4492388126": {
+   "t": 1795419088.7972362,
+   "source": "linkedin",
+   "title": "Business Analytics Specialist",
+   "company": "Hedef Filo",
+   "location": "Kağıthane",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "What You Will Do?\nDesign and build\nadvanced dashboards and data products\nusing\nQlik Sense / Qlik Cloud\nto support strategic decision making\nTranslate complex business requirements into\nscalable data models and analytical solutions\nDrive\ndata-driven decision making\nacross key domains such as customer analytics, operational efficiency and pricing\nDevelop and deliver\nadvanced analytics use cases\nincluding forecasting, segmentation and predictive modeling\nCollaborate closely with business stakeholders to turn data into\nclear, actionable insights\nEnable and promote\nself-service analytics capabiliti"
+  },
+  "linkedin:4492372857": {
+   "t": 1795419090.7126448,
+   "source": "linkedin",
+   "title": "Strategic Planning Specialist",
+   "company": "Ender Mağazaları",
+   "location": "Beyoğlu",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "Strategic Planning Specialist\nAbout Us\nEnder Mağazaları is a multi-billion TRY retail group headquartered in Sütlüce, Istanbul. Now in its third generation with a 50-year history, the company serves customers through 14 multi-floor department stores in 8 cities, as well as its online stores. Under one roof, it offers more than 100 brands across apparel, footwear, cosmetics, and sports & outdoor.\nAbout the Role\nAs part of the Strategic Planning team, you will play a key analytical role across the full scope of commercial and operational performance. The position is fully office-based at the com"
+  },
+  "linkedin:4492369966": {
+   "t": 1795419092.6181922,
+   "source": "linkedin",
+   "title": "Süreç Geliştirme ve Raporlama Uzmanı",
+   "company": "TÜRK ALTIN İŞLETMELERİ",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş birimlerimizin süreç, uygulama ve raporlama ihtiyaçlarını analiz ederek iş süreçlerinin geliştirilmesi, iyileştirilmesi ve dijitalleştirilmesine katkı sağlayacak; yazılım ve sistem geliştirme projelerinin analiz, test ve devreye alma süreçlerinde aktif rol üstlenecek, iş zekâsı ve raporlama çalışmalarını destekleyecek Süreç Geliştirme ve Raporlama Uzmanı arıyoruz.\nAradığımız Nitelik ve Yetkinlikler\nÜniversitelerin Maden Mühendisliği, Cevher Hazırlama Mühendisliği, Bilgisayar Mühendisliği, Yazılım Mühendisliği, Bilişim Sistemleri Mühendisliği, Yönetim Bilişim Sistemleri veya ilgili bölümleri"
+  },
+  "linkedin:4493619269": {
+   "t": 1795419094.3202622,
+   "source": "linkedin",
+   "title": "Data Engineer",
+   "company": "Mars Athletic Club",
+   "location": "Beşiktaş",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "As Turkiye's largest fitness community—bringing together our\nMAC/One, MACFit, MAC Studio, and NuSpa\nbrands—we are looking for a\nData Engineer\nto join our Technology team at our Ortaköy Head Office in Istanbul.\nBeing part of MAC means being a core piece of a continuously growing, dynamic community that moves together for a better life. Here, ideas are valued,\nteammanship\nis deeply supported, and feeling good is just as important as working efficiently.\nIf you want to be a part of our well-being community and shape the future of the fitness experience through data technologies, we would love to "
   }
  },
  "pending": {}
