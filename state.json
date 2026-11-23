@@ -10942,6 +10942,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4483588852": {
+   "t": 1795455071.1419914,
+   "title": "AI Lead Engineer",
+   "company": "Menatek Defense Technologies",
+   "url": "https://www.linkedin.com/jobs/view/4483588852/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12125,17 +12134,18 @@
   "8d05ebb92248cd33": "linkedin:4492617080",
   "c47bb0da3d3d52c4": "isbul:100922",
   "05ef4de013798556": "isbul:100923",
-  "db271ad47da7fc94": "linkedin:4494016752"
+  "db271ad47da7fc94": "linkedin:4494016752",
+  "d71633eeee0ad52f": "linkedin:4483588852"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795454165.500561,
+   "last_run": 1795455071.1415477,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795454165.5005624,
+   "last_ok": 1795455071.1415496,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -12167,10 +12177,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795447908.7366793,
+   "last_run": 1795455073.8692734,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795447908.736681,
+   "last_ok": 1795455073.8692746,
    "alerted": false,
    "ctx": {}
   }
