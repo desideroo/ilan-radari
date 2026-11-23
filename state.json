@@ -10847,6 +10847,35 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4461171044": {
+   "t": 1795447895.0665095,
+   "title": ".Net Kıdemli Yazılım Geliştirici",
+   "company": "Türkiye Finans",
+   "url": "https://www.linkedin.com/jobs/view/4461171044/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492620370": {
+   "t": 1795447903.7901134,
+   "title": "Java Developer",
+   "company": "Turkcell Technology",
+   "url": "https://www.linkedin.com/jobs/view/4492620370/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492614513": {
+   "t": 1795447905.8019545,
+   "title": "Backend Developer",
+   "company": "Gardiyan",
+   "url": "https://www.linkedin.com/jobs/view/4492614513/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -12020,17 +12049,20 @@
   "d27b0ca145e676e8": "linkedin:4492611497",
   "8d5b03559748a250": "linkedin:4492619472",
   "50d95b228a807eb8": "linkedin:4492626093",
-  "706a35cbf5463a49": "linkedin:4486123387"
+  "706a35cbf5463a49": "linkedin:4486123387",
+  "65b6d6a20e8da2ac": "linkedin:4461171044",
+  "4186b4ebdf4edf2d": "linkedin:4492620370",
+  "1852b7fa95563022": "linkedin:4492614513"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795446993.98643,
+   "last_run": 1795447895.0656343,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795446993.9864318,
+   "last_ok": 1795447895.0656364,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -12062,10 +12094,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795440688.862735,
+   "last_run": 1795447908.7366793,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795440688.862737,
+   "last_ok": 1795447908.736681,
    "alerted": false,
    "ctx": {}
   }
@@ -12139,7 +12171,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 37,
+   "rej_remote": 39,
    "rej_exp": 3
   }
  },
@@ -17495,6 +17527,40 @@
    "track_from": "title",
    "llm": {},
    "description": "2018 yılından beri Inforra Bilgi Teknolojileri olarak, iş ortaklarımıza en güncel teknolojileri kullanarak katma değerli çözümler sunuyoruz. Finanstan lojistiğe, üretimden perakendeye, sağlıktan savunma sanayine kadar geniş bir yelpazedeki sektörlerin lider firmaları için geliştirdiğimiz projelerle, onların verimliliğini ve rekabet gücünü artırıyoruz. Genç ve profesyonel kadromuzla, Türkiye'nin teknoloji alanındaki gelişimine katkı sağlamayı hedeflemekteyiz.\nEkibimizde yetiştirilmek üzere\n\"Sistem Destek Uzman Yardımcısı\"\ndanışman olarak görev alacak, Intune ve SCCM alanında kariyer hedefleyen,"
+  },
+  "linkedin:4492620370": {
+   "t": 1795447903.7901495,
+   "source": "linkedin",
+   "title": "Java Developer",
+   "company": "Turkcell Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Turkcell olarak yeteneklerimize eşsiz insan deneyimi yaşatarak, değer yaratan sürdürülebilir bir organizasyon inşa etmeyi ve işveren markamızı zirveye taşımayı hedefliyoruz. Bu hedef doğrultusunda benimsediğimiz değerlerimizi iş yapış biçimlerimize yansıtıyoruz.\nTurkcell’de Neye Değer Veriyoruz?\nİnsan Odaklılık:\nEşsiz insan deneyimi oluşturmak amacıyla uygulamalarımızın merkezinde insanı konumluyor, çalışanlarımızın potansiyelini en üst düzeye çıkarmayı ve onların yeteneklerini geliştirmeyi hedefliyoruz.\nYenilik:\nİnsanların hayatında fark yaratan yenilikçi çözümler üretmek, fikir ve teknolojil"
+  },
+  "linkedin:4492614513": {
+   "t": 1795447905.8019934,
+   "source": "linkedin",
+   "title": "Backend Developer",
+   "company": "Gardiyan",
+   "location": "Çankaya",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Gardiyan Sistem Güvenlik Teknolojileri olarak Ankara ofisimizde görevlendirilmek üzere ‘‘Back-End Yazılım Uzmanı’’ arıyoruz.\nGörev Tanımı:\nJava\nve\nJ2EE\nteknolojileri kullanarak güvenli ve yüksek performanslı back-end çözümleri geliştirmek,\nMicroservice\nmimarisi altında projeler tasarlamak ve geliştirmek,\nSpring Boot\nve\nSpring Framework\nkullanarak ölçeklenebilir sistemler inşa etmek,\nORM\naraçları (özellikle\nHibernate\n) ile veritabanı yönetimi yapmak,\nWebSocket\nile gerçek zamanlı iletişim sağlayan çözümler geliştirmek,\nResilient REST\nservislerini tasarlamak ve yazmak,\nOOP\nprensiplerine ve yazılı"
   }
  },
  "pending": {}
