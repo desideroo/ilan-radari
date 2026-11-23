@@ -10705,6 +10705,26 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4478265217": {
+   "t": 1795444311.5030408,
+   "title": "BT Danışmanı",
+   "company": "MAVE DIGITAL",
+   "url": "https://www.linkedin.com/jobs/view/4478265217/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492346487": {
+   "t": 1795444313.5026245,
+   "title": "Mekatronik Mühendisi",
+   "company": "Rownd Precision Industry",
+   "url": "https://www.linkedin.com/jobs/view/4492346487/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -11863,19 +11883,19 @@
   "7391a70522222829": "linkedin:4492613406",
   "d3cbccbb0defdabc": "linkedin:4492611409",
   "6cc27c7e09fe77eb": "linkedin:4492608604",
-  "7c9a24dc0f1af5e1": "kariyernet:4602896"
+  "7c9a24dc0f1af5e1": "kariyernet:4602896",
+  "ca4c3ab40e31cba6": "linkedin:4478265217",
+  "0b2ab2546688e227": "linkedin:4492346487"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795443394.9817173,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=machine+learning&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795442477.602461,
+   "last_run": 1795444301.851373,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795444301.8513746,
    "alerted": false,
    "ctx": {
-    "cursor": 16,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -11984,7 +12004,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 31,
+   "rej_remote": 33,
    "rej_exp": 3
   }
  },
@@ -17221,6 +17241,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Ön Muhasebe ve İdari İşler Sorumlusu\nİstanbul Taksim'de bulunan avukatlık ofisimiz bünyesinde,\nön muhasebe süreçleri ile ofisimizin günlük idari ve operasyonel işleyişini birlikte yürütebilecek\nbir ekip arkadaşı arıyoruz.\nAranan Nitelikler\nÖn muhasebe alanında bilgi ve deneyim sahibi,\nTercihen hukuk bürosu veya avukatlık ortaklığı muhasebesinde deneyimli,\nFaturalandırma, tahsilat ve ödeme takibi, cari hesap işlemleri ve masraf kayıtları konularına hâkim,\nTercihen\nAttornaid programının muhasebe modülüne\naşina,\nMS Office programlarını, özellikle Excel'i etkin şekilde kullanabilen,\nİdari ofis yön"
+  },
+  "linkedin:4478265217": {
+   "t": 1795444311.503077,
+   "source": "linkedin",
+   "title": "BT Danışmanı",
+   "company": "MAVE DIGITAL",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş Tanımı\nKurumsal ölçekte yürütülen yüksek tempolu modernizasyon ve yapay zekâ dönüşümü projelerimizde; iş birimleri ile teknik ekipler arasında köprü kuracak, uçtan uca çözüm süreçlerinde aktif sorumluluk alacak\n5 farklı pozisyon\niçin uygun yetkinliklerde\nBT Danışmanı\narıyoruz\nÇalışma Modeli ve Süre:\nTamamı\nhibrit\n(\nİstanbul\n) modeldedir (haftada 2 gün ofis / 3 gün uzaktan) ve 1 yıllık proje bazlı.\n1. İş Analizi\nAna Odak ve Sorumluluk:\nGereksinim toplamanın ötesine geçip problemi keşfeden, AI ile hızlı prototip üreten ve ekipler arası köprü kuran rol.\nKritik Yetkinlikler:\nAgile/Scrum, SQL, t"
+  },
+  "linkedin:4492346487": {
+   "t": 1795444313.502667,
+   "source": "linkedin",
+   "title": "Mekatronik Mühendisi",
+   "company": "Rownd Precision Industry",
+   "location": "Bursa, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "Hakkımızda\nRownd Precision olarak, ileri üretim teknolojilerini herkes için erişilebilir hale getirme vizyonuyla yeni nesil CNC takım tezgâhları geliştiriyor ve üretiyoruz.\nMekanik tasarım, elektrik-elektronik, gömülü yazılım ve kontrol sistemlerini kendi bünyemizde geliştirerek bütünleşik mekatronik çözümler üretiyoruz.\nAr-Ge ekibimizde görev alacak; farklı mühendislik disiplinleri arasında teknik koordinasyon sağlayabilecek, sistem entegrasyonu, araştırma, geliştirme ve doğrulama süreçlerinde aktif sorumluluk üstlenecek\nAr-Ge Mekatronik Mühendisi\narıyoruz.\nGörev ve Sorumluluklar\nCNC takım te"
   }
  },
  "pending": {}
