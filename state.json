@@ -9908,6 +9908,35 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492379444": {
+   "t": 1795414582.5068464,
+   "title": "Network Security Pre-Sales",
+   "company": "CBIT Bilgi İletişim Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4492379444/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493607779": {
+   "t": 1795414592.2746842,
+   "title": "SAP MM SPECIALIST",
+   "company": "Aydınlı Grup",
+   "url": "https://www.linkedin.com/jobs/view/4493607779/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4602198": {
+   "t": 1795414635.1683207,
+   "title": "Proje Yönetimi Stajyeri",
+   "company": "TUNCA GROUP DANIŞMANLIK LİMİTED",
+   "url": "https://www.kariyer.net/is-ilani/tunca-group-danismanlik-limited-proje-yonetimi-stajyeri-4602198",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -10982,29 +11011,32 @@
   "b7875e5be762a454": "linkedin:4492946549",
   "ef0c1546af415424": "linkedin:4492384269",
   "76a14dee82720af6": "linkedin:4492376610",
-  "11038bb61417650d": "linkedin:4492369761"
+  "11038bb61417650d": "linkedin:4492369761",
+  "78289e314cf194d5": "linkedin:4492379444",
+  "540bb4fd5a76df54": "linkedin:4493607779",
+  "26f2e0df463b1e4f": "kariyernet:4602198"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795413686.8273,
+   "last_run": 1795414580.55636,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795413686.8273017,
+   "last_ok": 1795414580.5563612,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795412809.9289105,
+   "last_run": 1795414635.1670911,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795412809.9289122,
+   "last_ok": 1795414635.167093,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -11101,7 +11133,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 4
+   "rej_remote": 6
   }
  },
  "details": {
@@ -15612,6 +15644,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Kaleliler Civata Firması sektöründe öncü, bağlantı elemanları üretip ihraç eden , kurumsal altyapıya sahip bir firmadır.\nAnkara Kahramankazan'da bulunan firmamız için aşağıda belirtilen niteliklere sahip yada yetiştirilmek üzere meslek lisesi mezunu CNC TORNA OPERATÖRÜ aranmaktadır. Firmamız bünyesinde 2 eksen tornalar(Fanuc) bulunmaktadır .\nAranan Nitelikler\n*Erkek adaylar için askerliğini yapmış,\n* Tercihen Meslek Yüksek Okulu, Teknik Eğitim Fakültesi veya Endüstri Meslek Liselerinin ilgili bölümlerinden mezun,\n*Teknik resim okuyabilen ve ölçü aletlerini kullanabilen,\n*Vardiyalı çalışabilece"
+  },
+  "linkedin:4492379444": {
+   "t": 1795414582.5068974,
+   "source": "linkedin",
+   "title": "Network Security Pre-Sales",
+   "company": "CBIT Bilgi İletişim Teknolojileri",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Company Description\nCBIT Bilgi İletişim Teknolojileri is an independent system integrator that aligns organizations’ technology infrastructure with their business goals. The company delivers end-to-end solutions for complex infrastructure projects and system integrations, following world-class standards. CBIT acts as a vendor-independent technology partner across all layers, including network infrastructure, data centers, cloud, and artificial intelligence. By combining the most suitable global and local technologies, CBIT manages the full lifecycle from design and installation to operation an"
+  },
+  "linkedin:4493607779": {
+   "t": 1795414592.2747238,
+   "source": "linkedin",
+   "title": "SAP MM SPECIALIST",
+   "company": "Aydınlı Grup",
+   "location": "Sarıyer",
+   "work_mode": "",
+   "posted": "2026-11-23",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "SAP MM SPECIALIST\nAs the master license holder of the globally renowned Pierre Cardin, Cacharel, and U.S. Polo Assn. brands, Aydınlı Group is one of the largest ready-to-wear fashion retailers in Türkiye and the surrounding region. With more than 5,000 employees and an extensive manufacturing and retail network spanning three continents, we continue to shape the future of the fashion industry.\nWould you like to become part of our ERP Management team? At Aydınlı Group, we are committed to delivering exceptional customer experiences through innovation, sustainability, world-class business practi"
   }
  },
  "pending": {}
