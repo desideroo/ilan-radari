@@ -11195,6 +11195,52 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492678418": {
+   "t": 1795499179.7565525,
+   "title": "Doktora Sonrası Araştırmacı",
+   "company": "Necmettin Erbakan University",
+   "url": "https://www.linkedin.com/jobs/view/4492678418/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492668833": {
+   "t": 1795499179.7568672,
+   "title": "Senior Backend Developer",
+   "company": "Migros Ticaret",
+   "url": "https://www.linkedin.com/jobs/view/4492668833/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492681270": {
+   "t": 1795499181.5155396,
+   "title": "Associate Backend Developer",
+   "company": "Migros Ticaret",
+   "url": "https://www.linkedin.com/jobs/view/4492681270/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4603020": {
+   "t": 1795499223.0398152,
+   "title": "Tıbbi Ürün Tanıtım & Satış Temsilcisi(Tüm Türkiye)",
+   "company": "Recordati İlaç Sanayi ve Ticaret Anonim Şirketi",
+   "url": "https://www.kariyer.net/is-ilani/recordati-ilac-sanayi-ve-ticaret-anonim-sirketi-tibbi-urun-tanitim-satis-temsilcisi-tum-turkiye-4603020",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4813523": {
+   "t": 1795499230.666266,
+   "title": "Vasıfsız Paketleme Elemanı",
+   "company": "Sadepak Plastik",
+   "url": "https://www.eleman.net/is-ilani/vasifsiz-paketleme-elemani-i4813523",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12405,44 +12451,49 @@
   "34c611c28b51df8e": "linkedin:4492678122",
   "cdf92ac95df3787f": "linkedin:4492628905",
   "32df8156f04792e3": "linkedin:4492673386",
-  "65aedfa86517d29c": "linkedin:4492668876"
+  "65aedfa86517d29c": "linkedin:4492668876",
+  "da8c5012b3eff795": "linkedin:4492678418",
+  "f97476f169bc120b": "linkedin:4492668833",
+  "fd4e1907e4005633": "linkedin:4492681270",
+  "be29eb0cd61f9fe3": "kariyernet:4603020",
+  "4b939a6f5f647c81": "elemannet:4813523"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795498277.7123537,
+   "last_run": 1795499179.756423,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795498277.712356,
+   "last_ok": 1795499179.7564242,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795497430.5490992,
+   "last_run": 1795499223.0396261,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795497430.5491016,
+   "last_ok": 1795499223.0396276,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795495638.2763739,
+   "last_run": 1795499228.4987166,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795495638.276375,
+   "last_ok": 1795499228.4987185,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795495643.7269957,
+   "last_run": 1795499237.2259846,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795495643.7269967,
+   "last_ok": 1795499237.2259853,
    "alerted": false,
    "ctx": {}
   },
@@ -12534,7 +12585,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 4
+   "rej_remote": 5
   }
  },
  "details": {
@@ -18144,6 +18195,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Konya’da faaliyet gösteren Deterjan fabrikamız için Satınalma temsilcisi arıyoruz."
+  },
+  "linkedin:4492681270": {
+   "t": 1795499181.5155704,
+   "source": "linkedin",
+   "title": "Associate Backend Developer",
+   "company": "Migros Ticaret",
+   "location": "Ataşehir",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Migros’ta İyi Geleceği Birlikte Tasarlayalım!\n🧡\nHayat bir alışveriş bizim için, mutluluk alıp, mutluluk verdiğimiz... Raflarımız ödül ve başarılarla dolu… 20 yıldır “Türkiye’nin En Beğenilen Perakende Şirketi” seçilmek, Türkiye’nin ilk sadakat programını yaratmak, Türk perakende müşterisini kasiyersiz kasa ile tanıştırmak, Perakende sektöründe ilk AR-GE merkezini kurmak başarılarımızdan sadece birkaç tanesidir.\nMigroslular olarak biz, Perakendenin geçmişine ve geleceğine çok meraklıyız!\nTürkiye’de modern perakende sektörünün öncüsü olarak, 1954’ten bu yana bizim işimiz, iyi geleceği tasarlamak"
   }
  },
  "pending": {}
