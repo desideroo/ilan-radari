@@ -11298,6 +11298,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492687061": {
+   "t": 1795501873.407845,
+   "title": "SAP FI Modül Sorumlusu",
+   "company": "Aygaz A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4492687061/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -12519,17 +12529,18 @@
   "b00b856f7aa853d9": "linkedin:4493969537",
   "3cbc3b15fef16d8e": "linkedin:4493975418",
   "26c1f598af92bce7": "linkedin:4493962736",
-  "0cf2d912783d300c": "kariyernet:4341911"
+  "0cf2d912783d300c": "kariyernet:4341911",
+  "89db765bcb679e9f": "linkedin:4492687061"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795500965.9776516,
+   "last_run": 1795501870.7152286,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795500965.9776533,
+   "last_ok": 1795501870.7152305,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -12648,7 +12659,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 7
+   "rej_remote": 8
   }
  },
  "details": {
@@ -18326,6 +18337,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 5 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı; Ehliyet: B sınıfı\n\nGENEL NİTELİKLER VE İŞ TANIMI\nÜniversitelerin Makine Mühendisliği veya Endüstri Mühendisliği Bölümlerinden mezun,\nMS Office programlarını aktif olarak kullanabilen,\nTercihen IAS/CANIAS ERP programını bilen,\nKoordinasyon, organizasyon ve planlama yönleri kuvvetli,\nErkek adaylar için askerlik görevini tamamlamış,\nB Sınıfı Ehliyeti olan ve aktif araç kullanabilen,\nYoğun çalışma programına uyum sağlayabilecek,\nKonya’da ikamet eden"
+  },
+  "linkedin:4492687061": {
+   "t": 1795501873.407883,
+   "source": "linkedin",
+   "title": "SAP FI Modül Sorumlusu",
+   "company": "Aygaz A.Ş.",
+   "location": "Ümraniye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Genel Nitelikler\nTercihen Mühendislik, MIS, Enformatik, Matematik bölümlerinden mezun\nSAP FI Modülünde 3-5 yıl tecrübe sahibi\nSAP FI Modülü üzerinde (GL / AP / AR / AA / BL / TRM ) Finansal süreç bilgisine sahip\nDoğrulama ve İkameler konusunda tecrübeli\nE-fatura, E-Arşiv, E-irsaliye, E-defter gibi E-devlet konularında bilgili\nMT940, Doğrudan Tahsilat Sistemi, Banka Ödeme entegrasyonu konularını tecrübe etmiş\nTercihen SAP S/4 Hana üzerinde çalışmış\nÇevre sistemler ile entegrasyon konusunda bilgi sahibi (IDOC, Webservice, RFC)\nTemel seviye ABAP kod okuma ve debug yetkinliği olan\nİyi derece sözlü"
   }
  },
  "pending": {}
