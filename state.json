@@ -12007,6 +12007,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4603813": {
+   "t": 1795535215.2269683,
+   "title": "Hakediş ve Envanter Sorumlusu",
+   "company": "Turkcell Global Bilgi",
+   "url": "https://www.kariyer.net/is-ilani/turkcell-global-bilgi-hakedis-ve-envanter-sorumlusu-4603813",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "2+ yıl deneyim"
   }
  },
  "dedupe": {
@@ -13303,44 +13313,45 @@
   "4a6287c5d5f9eb96": "elemannet:4814192",
   "214d9be8b3d19329": "linkedin:4493010800",
   "9d09fe6eea562e45": "kariyernet:4603751",
-  "67128f74534435fb": "youthall:TEI-12"
+  "67128f74534435fb": "youthall:TEI-12",
+  "5b4d66fdb049fa51": "kariyernet:4603813"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795534274.6333067,
+   "last_run": 1795535169.4774904,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795534274.6333082,
+   "last_ok": 1795535169.4774919,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795533411.4020495,
+   "last_run": 1795535211.0501661,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795533411.4020517,
+   "last_ok": 1795535211.0501676,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795531615.69094,
+   "last_run": 1795535220.877214,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795531615.6909413,
+   "last_ok": 1795535220.8772154,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795531623.1704092,
+   "last_run": 1795535226.9492745,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795531623.1704104,
+   "last_ok": 1795535226.949276,
    "alerted": false,
    "ctx": {}
   },
@@ -13433,7 +13444,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_remote": 31,
-   "rej_exp": 1
+   "rej_exp": 2
   }
  },
  "details": {
@@ -19717,6 +19728,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 5 - 99 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Yüksek Lisans(Mezun), Yüksek Lisans(Öğrenci), Doktora(Öğrenci), Doktora(Mezun); Askerlik Durumu: Yapıldı, Muaf; Yabancı Dil: İngilizce(Okuma : İleri, Yazma : İleri, Konuşma : İleri); Ehliyet: B sınıfı\n\nPlastik ambalaj ve endüstriyel ürünler alanında faaliyet gösteren firmamızın satış sonrası hizmet süreçlerinde görev alacak, müşteri memnuniyetini ön planda tutarak müşteri taleplerinin etkin şekilde yönetilmesini sağlayacak\nSatış  Operasyon  Uzmanı\narıyoruz.\nİş Tanımı\nYurt içi ve yurt dışı müşterilerden gelen satış "
+  },
+  "kariyernet:4603813": {
+   "t": 1795535215.2270026,
+   "source": "kariyernet",
+   "title": "Hakediş ve Envanter Sorumlusu",
+   "company": "Turkcell Global Bilgi",
+   "location": "İstanbul(Avr.)",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "2+ yıl deneyim",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "description",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 2 - 99 yıl arası; Eğitim Seviyesi: Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Mezun), Yüksek Lisans(Öğrenci), Doktora(Mezun), Doktora(Öğrenci)\n\nProje ve operasyonel süreçlere bağlı hakediş dosyalarının hazırlanması, kontrol edilmesi ve onay süreçlerinin uçtan uca yürütülmesi.\nŞirket içi tüm stok hareketlerinin (giriş, çıkış, transfer, sarf) sistem üzerinden düzenli olarak takip edilmesi ve güncel tutulması.\nPeriyodik envanter sayımlarının organize edilmesi, fiziki stok ile sistem kayıtları arasındaki farkların analiz edilerek mutabakatının sağlanması.\nArızalı,"
   }
  },
  "pending": {}
