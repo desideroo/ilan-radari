@@ -11364,6 +11364,127 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4485459310": {
+   "t": 1795509966.334953,
+   "title": "Raw Material Trade - Category Specialist/ Lead",
+   "company": "KoçZer",
+   "url": "https://www.linkedin.com/jobs/view/4485459310/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492670936": {
+   "t": 1795509966.335385,
+   "title": "Lead Test Automation Engineer",
+   "company": "Commencis",
+   "url": "https://www.linkedin.com/jobs/view/4492670936/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4494327028": {
+   "t": 1795509966.335554,
+   "title": "Quality Assurance Manager",
+   "company": "Rhenus Logistics",
+   "url": "https://www.linkedin.com/jobs/view/4494327028/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493999559": {
+   "t": 1795509966.3360584,
+   "title": "Senior System Consultant",
+   "company": "Ditaş Tankers / Ditaş Denizcilik",
+   "url": "https://www.linkedin.com/jobs/view/4493999559/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492677844": {
+   "t": 1795510002.71028,
+   "title": "GenAI Platform & Solutions Engineer",
+   "company": "Nuevo Softwarehouse",
+   "url": "https://www.linkedin.com/jobs/view/4492677844/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492681798": {
+   "t": 1795510004.68664,
+   "title": "Network Engineer",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4492681798/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493997718": {
+   "t": 1795510007.1411335,
+   "title": "Siber Güvenlik ve Altyapı Operasyon Uzmanı",
+   "company": "Cengiz Holding",
+   "url": "https://www.linkedin.com/jobs/view/4493997718/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493992797": {
+   "t": 1795510016.5086048,
+   "title": "Sistem Ve Altyapı Uzmanı",
+   "company": "Gizli Şirket",
+   "url": "https://www.linkedin.com/jobs/view/4493992797/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492694066": {
+   "t": 1795510018.6962245,
+   "title": "Bilgi Teknolojileri Destek Sorumlusu",
+   "company": "Enerjisa Üretim",
+   "url": "https://www.linkedin.com/jobs/view/4492694066/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4603187": {
+   "t": 1795510061.5588536,
+   "title": "Makine Montaj Elemanı",
+   "company": "MEHMET AKİF YILMAZ",
+   "url": "https://www.kariyer.net/is-ilani/mehmet-akif-yilmaz-makine-montaj-elemani-4603187",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:101081": {
+   "t": 1795510075.818293,
+   "title": "Raf Montaj Elemanı",
+   "company": "Alp Raf Ltd.Şti.",
+   "url": "https://isbul.net/is-ilani/alp-raf-ltd-sti-raf-montaj-elemani-101081",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:101084": {
+   "t": 1795510078.5485637,
+   "title": "Sekreter",
+   "company": "Kurşunel Kalıp-Kukamet",
+   "url": "https://isbul.net/is-ilani/kursunel-kalip-kukamet-sekreter-101084",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:101085": {
+   "t": 1795510081.700043,
+   "title": "Dış Ticaret Sorumlusu",
+   "company": "Kurşunel Kalıp-Kukamet",
+   "url": "https://isbul.net/is-ilani/kursunel-kalip-kukamet-dis-ticaret-sorumlusu-101085",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12592,44 +12713,57 @@
   "6e6aa2cfe5f1667d": "linkedin:4492686300",
   "2e5de47cd9d40d08": "kariyernet:4603182",
   "71a857534286a855": "linkedin:4494103370",
-  "9fdd61844630e01d": "linkedin:4493989895"
+  "9fdd61844630e01d": "linkedin:4493989895",
+  "c6b0dae872af115a": "linkedin:4485459310",
+  "e111000df369ad01": "linkedin:4492670936",
+  "0cd1c9c827256ae8": "linkedin:4494327028",
+  "f864c81414327ee1": "linkedin:4493999559",
+  "4ae0582c213a8b14": "linkedin:4492677844",
+  "93d75a0409ec6037": "linkedin:4492681798",
+  "a87d41ff2c326b71": "linkedin:4493997718",
+  "0c778fb030e42046": "linkedin:4493992797",
+  "ec3447d848ccbc10": "linkedin:4492694066",
+  "4ceb642130f6fa43": "kariyernet:4603187",
+  "19910fec52230780": "isbul:101081",
+  "0aa8f38a57c4dbb6": "isbul:101084",
+  "c4db82a09825e185": "isbul:101085"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795509078.915946,
+   "last_run": 1795509966.334717,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795509078.9159474,
+   "last_ok": 1795509966.3347182,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795508207.5734615,
+   "last_run": 1795510057.9629505,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795508207.573464,
+   "last_ok": 1795510057.962952,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795506426.011927,
+   "last_run": 1795510067.636335,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795506426.0119283,
+   "last_ok": 1795510067.636336,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795506431.6601818,
+   "last_run": 1795510073.081317,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795506431.660183,
+   "last_ok": 1795510073.0813177,
    "alerted": false,
    "ctx": {}
   },
@@ -12721,7 +12855,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 9,
+   "rej_remote": 13,
    "rej_exp": 1
   }
  },
@@ -18451,6 +18585,74 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 1 - 5 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Yabancı Dil: İngilizce(Okuma : İyi, Yazma : İyi, Konuşma : İyi); Ehliyet: B sınıfı\n\nGENEL NİTELİKLER VE İŞ TANIMI\nKurumsal işletmelerin dijital dönüşüm süreçlerine yönelik geliştirdiğimiz EnterERP yazılım çözümlerimizin ERP Danışmanlığı faaliyetlerinde görev alacak, müşteri ihtiyaçlarını doğru analiz ederek uygun çözümler sunabilecek ve iletişim becerileri güçlü ekip arkadaşı arıyoruz.\nAranan Nitelikler:\nÜniversitelerin İşletme, İktisat, Yönetim Bilişim Sistemleri, Endüstri Mühendisliği, Makine Mühendisliği, Matemat"
+  },
+  "linkedin:4492677844": {
+   "t": 1795510002.7103324,
+   "source": "linkedin",
+   "title": "GenAI Platform & Solutions Engineer",
+   "company": "Nuevo Softwarehouse",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": ""
+  },
+  "linkedin:4492681798": {
+   "t": 1795510004.6866755,
+   "source": "linkedin",
+   "title": "Network Engineer",
+   "company": "Tein Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Ağ Yönetimi Mühendisi\nİstanbul | Hibrit\n*Haftada 3 gün ofis\nPozisyon kapsamında LAN/WAN altyapıları, aktif ağ cihazları, routing & switching, güvenlik, kablosuz ağ, yük dengeleme ve Cisco Collaboration teknolojilerinin uçtan uca operasyonu yürütülecektir.\nAranan Nitelikler\nÜniversitelerin Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği veya ilgili bölümlerinden mezun,\nAğ yönetimi, tasarımı ve operasyonlarında en az 5 yıl deneyimli,\nTercihen bankacılık veya finans sektöründe kritik altyapı operasyonları konusunda deneyimli,\nLAN/WAN altyapıları, a"
+  },
+  "linkedin:4493997718": {
+   "t": 1795510007.141173,
+   "source": "linkedin",
+   "title": "Siber Güvenlik ve Altyapı Operasyon Uzmanı",
+   "company": "Cengiz Holding",
+   "location": "Üsküdar",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Biz Kimiz?\n1980 yılından bu yana enerji, inşaat, madencilik, ulaşım, altyapı ve havacılık sektörlerinde faaliyet gösteren Holdingimiz, Türkiye’de ve dünyada önemli projelere imza atmaktadır. Yenilikçi yaklaşımımız, sürdürülebilir çözümlerimiz ve güçlü insan kaynağımızla sektörlerimizde liderliğimizi sürdürürken, geleceği birlikte inşa edecek yetenekleri ekibimize katmayı hedefliyoruz. Açık pozisyonlarımızı inceleyerek siz de bu yolculuğun bir parçası olabilirsiniz.\nCengiz’li olmak sana neler katacak?\n📖 Cengiz Akademi eğitim platformu ile sınırsız online eğitim fırsatı,\n🔄 Cengiz Grup şirketleri"
+  },
+  "linkedin:4492694066": {
+   "t": 1795510018.696261,
+   "source": "linkedin",
+   "title": "Bilgi Teknolojileri Destek Sorumlusu",
+   "company": "Enerjisa Üretim",
+   "location": "Tufanbeyli",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Bilgi Teknolojileri Destek Sorumlusu\nolarak\nTufanbeyli\nsantralimizde çalışmak üzere ekip arkadaşı arıyoruz.\nEnerjisa Üretim olarak, enerjimizi doğadan ve insandan alıyor; her adımımızı sürdürülebilir bir gelecek için atıyoruz.\nKüresel ölçekte büyüyen organizasyonlarımızla sınırların ötesinde değer yaratıyoruz. %66.9’u yerli ve yenilenebilir kaynaklardan oluşan üretim portföyümüzle yarının enerjisini bugünden şekillendiriyoruz.\nOdağımıza insanı alarak sürekli gelişim yolculuğumuzu aynı kararlılıkla sürdürüyor, çeşitliliklerimizin zenginliğinden besleniyoruz.\nBiz inanıyoruz ki gerçek dönüşüm, bi"
   }
  },
  "pending": {}
