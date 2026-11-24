@@ -12345,40 +12345,40 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795487465.7280593,
+   "last_run": 1795488351.0571098,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795487465.728061,
+   "last_ok": 1795488351.0571115,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795486609.4657955,
+   "last_run": 1795488391.1554163,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795486609.4657977,
+   "last_ok": 1795488391.1554182,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795484805.7476573,
+   "last_run": 1795488397.5130217,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795484805.7476587,
+   "last_ok": 1795488397.513023,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795484811.0184178,
+   "last_run": 1795488402.5291939,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795484811.0184195,
+   "last_ok": 1795488402.5291953,
    "alerted": false,
    "ctx": {}
   },
