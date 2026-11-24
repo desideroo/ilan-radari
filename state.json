@@ -11863,6 +11863,54 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4489594563": {
+   "t": 1795528883.4089947,
+   "title": "Digital Sales Manager SAP (human)",
+   "company": "All for One",
+   "url": "https://www.linkedin.com/jobs/view/4489594563/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4490116437": {
+   "t": 1795528883.4090765,
+   "title": "Digital Sales Manager IT (human)",
+   "company": "All for One",
+   "url": "https://www.linkedin.com/jobs/view/4490116437/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493026098": {
+   "t": 1795528893.1466358,
+   "title": "SAP SuccessFactors Talent Management Consultant",
+   "company": "BGTS International",
+   "url": "https://www.linkedin.com/jobs/view/4493026098/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493023157": {
+   "t": 1795528895.399694,
+   "title": "FİNANS DESTEK UZMANI",
+   "company": "Tottolet",
+   "url": "https://www.linkedin.com/jobs/view/4493023157/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4492699879": {
+   "t": 1795528897.6650023,
+   "title": "Software Developer",
+   "company": "Veri Bilişim Hizmetleri Sanayi ve Ticaret Limited Şirketi",
+   "url": "https://www.linkedin.com/jobs/view/4492699879/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -13144,17 +13192,22 @@
   "b53fa671b448932b": "kariyernet:4603133",
   "66487f95ee3d4d3a": "kariyernet:4603587",
   "0059fc91c82c2e9e": "kariyernet:4603572",
-  "9f3cc6d3b3cb6364": "isbul:100961"
+  "9f3cc6d3b3cb6364": "isbul:100961",
+  "5ad617b310be8a9a": "linkedin:4489594563",
+  "4caad2e343a34901": "linkedin:4490116437",
+  "d0c03ac29b84d6a4": "linkedin:4493026098",
+  "2cc35e39aaa767b9": "linkedin:4493023157",
+  "a475d99e78ff8207": "linkedin:4492699879"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795527956.8279457,
+   "last_run": 1795528883.4082718,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795527956.8279476,
+   "last_ok": 1795528883.408273,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -13273,7 +13326,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 25,
+   "rej_remote": 27,
    "rej_exp": 1
   }
  },
@@ -19405,6 +19458,57 @@
    "track_from": "title",
    "llm": {},
    "description": "GENEL NİTELİKLER VE İŞ TANIMI\nYeni Koza Mağazaları Genel Merkez’imizde tüm satın alma süreçlerinden sorumlu olarak görevlendirilmek üzere aşağıdaki niteliklere sahip \"Kadın Giyim ve Ayakkabı Kategorisinde Satın alma Uzmanı\" arayışımız mevcuttur.\nTercihen üniversitelerin İşletme, İktisat, Tekstil Mühendisliği, Endüstri Mühendisliği bölümlerinden mezun,\nMağazacılık alanında en az 2 sene aktif iş tecrübesine sahip,\nMS Office programlarını iyi düzeyde kullanabilen,\nİş takibi, planlama, organizasyon ve analitik düşünme becerileri gelişmiş,\nModa ve trend değişimlerini analiz edebilen,\nDinamik, esnek"
+  },
+  "linkedin:4493026098": {
+   "t": 1795528893.1466758,
+   "source": "linkedin",
+   "title": "SAP SuccessFactors Talent Management Consultant",
+   "company": "BGTS International",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "BGTS International Business Unit is looking for an experienced SAP SuccessFactors Talent Management Consultant to join our growing team based in Turkey, the UK, and the EU. Our teams support many clients across different industries in the UK and EU, delivering innovative HR technology solutions and transformation projects.\nJoin us in helping global organizations optimize their HR processes and employee experience through SAP SuccessFactors Talent Management solutions. We are looking for professionals who are passionate about HR technologies, process improvement, and delivering high-quality imp"
+  },
+  "linkedin:4493023157": {
+   "t": 1795528895.3997378,
+   "source": "linkedin",
+   "title": "FİNANS DESTEK UZMANI",
+   "company": "Tottolet",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş açıklaması\n\"FİNANS DESTEK UZMANI\" GENEL NİTELİKLER VE İŞ TANIMI\nTürkiye'nin konusunda lider markası\ntottolet® Hijyenik Sistemleri\nailesine katılacak,\nİstanbul Seyrantepe Merkez Ofis bünyesinde görevlendirilecek,\n\"FİNANS DESTEK UZMANI\"\npozisyonu için takım arkadaşı aramaktayız.\nARANAN NİTELİKLER:\nLOGO ve Excel bilen,\nCARİ HESAP Borç/Alacak ve TAHSİLAT TAKİBİ yapabilecek,\nKASA yapabilecek,\nBanka gelen giden işlenmesi ve takibi yapabilecek,\nİkna kabiliyeti yüksek, sonuç odaklı,\nSorgulama ve araştırma yeteneğine sahip,\nİş takibi ve sonuçlandırılması konusunda başarılı ve sorumluluk sahibi,\nEkip"
+  },
+  "linkedin:4492699879": {
+   "t": 1795528897.6650448,
+   "source": "linkedin",
+   "title": "Software Developer",
+   "company": "Veri Bilişim Hizmetleri Sanayi ve Ticaret Limited Şirketi",
+   "location": "İzmir, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Şirketimizin geliştireceği projelerinde görev almak üzere Yazılım Uzmanları alınacaktır. Başvuracak adaylarda aranan özellikler;\nÜniversitelerin Bilgisayar/Yazılım mühendisliği bölümlerinden mezun,\nÜst seviyede analitik düşünme ve analiz etme yeteneği olan ,\nYazılım ekibi ile koordineli ve sistemli çalışabilecek, standartlara uygun, güvenli ve performansı yüksek seviyede kod geliştirebilen.\nYeni teknolojileri takip eden, bu teknolojilerin olası uygulama alanlarını öngörebilen,\nProblem çözme yetkinliği gelişmiş,\nNesneye yönelik programlama, yazılım mimarisi ve tasarım desenleri konusunda bilgi "
   }
  },
  "pending": {}
