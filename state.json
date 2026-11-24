@@ -11494,6 +11494,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494331094": {
+   "t": 1795512720.5065475,
+   "title": "Business & Data Analytics Specialist / Process Lead",
+   "company": "KoçZer",
+   "url": "https://www.linkedin.com/jobs/view/4494331094/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12736,19 +12745,18 @@
   "19910fec52230780": "isbul:101081",
   "0aa8f38a57c4dbb6": "isbul:101084",
   "c4db82a09825e185": "isbul:101085",
-  "97d72dc50d1d7809": "kariyernet:4603321"
+  "97d72dc50d1d7809": "kariyernet:4603321",
+  "2af5fae09b5e940d": "linkedin:4494331094"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795511801.8007557,
-   "fails": 2,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=data+analyst&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795509966.3347182,
+   "last_run": 1795512720.5062513,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795512720.5062525,
    "alerted": false,
    "ctx": {
-    "cursor": 12,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -12780,10 +12788,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795505490.304202,
+   "last_run": 1795512724.0243576,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795505490.304204,
+   "last_ok": 1795512724.02436,
    "alerted": false,
    "ctx": {}
   }
