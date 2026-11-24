@@ -11503,6 +11503,54 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4399735556": {
+   "t": 1795513574.9236255,
+   "title": "Yazılım Uzmanı",
+   "company": "Ödemei̇x Fi̇nansal Teknoloji̇ Ve Yazilim Geli̇şti̇rme A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4399735556/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4494307940": {
+   "t": 1795513574.9242384,
+   "title": "SAP Process Lead / Specialist",
+   "company": "KoçZer",
+   "url": "https://www.linkedin.com/jobs/view/4494307940/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492673940": {
+   "t": 1795513577.1818974,
+   "title": "SAP FI Support Specialist (Public Cloud)",
+   "company": "NTT DATA Business Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4492673940/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492387330": {
+   "t": 1795513579.1944957,
+   "title": "Yazılım Mühendisi",
+   "company": "Empo Group",
+   "url": "https://www.linkedin.com/jobs/view/4492387330/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492693298": {
+   "t": 1795513581.7386048,
+   "title": "E-Ticaret Marketplace Uzmanı",
+   "company": "BEEO Arı Ürünleri",
+   "url": "https://www.linkedin.com/jobs/view/4492693298/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -12746,44 +12794,49 @@
   "0aa8f38a57c4dbb6": "isbul:101084",
   "c4db82a09825e185": "isbul:101085",
   "97d72dc50d1d7809": "kariyernet:4603321",
-  "2af5fae09b5e940d": "linkedin:4494331094"
+  "2af5fae09b5e940d": "linkedin:4494331094",
+  "49d4c6665b1b1e6d": "linkedin:4399735556",
+  "f4d3bb556a37f35e": "linkedin:4494307940",
+  "240cd9b6f423af8d": "linkedin:4492673940",
+  "ba022709932f71d6": "linkedin:4492387330",
+  "0d94095ff2f2f9e9": "linkedin:4492693298"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795512720.5062513,
+   "last_run": 1795513574.9234636,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795512720.5062525,
+   "last_ok": 1795513574.9234653,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795511845.2161233,
+   "last_run": 1795513623.704496,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795511845.216125,
+   "last_ok": 1795513623.7044988,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795510067.636335,
+   "last_run": 1795513629.91356,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795510067.636336,
+   "last_ok": 1795513629.913561,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795510073.081317,
+   "last_run": 1795513634.2868085,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795510073.0813177,
+   "last_ok": 1795513634.2868097,
    "alerted": false,
    "ctx": {}
   },
@@ -12875,7 +12928,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 13,
+   "rej_remote": 16,
    "rej_exp": 1
   }
  },
@@ -18673,6 +18726,57 @@
    "track_from": "title",
    "llm": {},
    "description": "Bilgi Teknolojileri Destek Sorumlusu\nolarak\nTufanbeyli\nsantralimizde çalışmak üzere ekip arkadaşı arıyoruz.\nEnerjisa Üretim olarak, enerjimizi doğadan ve insandan alıyor; her adımımızı sürdürülebilir bir gelecek için atıyoruz.\nKüresel ölçekte büyüyen organizasyonlarımızla sınırların ötesinde değer yaratıyoruz. %66.9’u yerli ve yenilenebilir kaynaklardan oluşan üretim portföyümüzle yarının enerjisini bugünden şekillendiriyoruz.\nOdağımıza insanı alarak sürekli gelişim yolculuğumuzu aynı kararlılıkla sürdürüyor, çeşitliliklerimizin zenginliğinden besleniyoruz.\nBiz inanıyoruz ki gerçek dönüşüm, bi"
+  },
+  "linkedin:4492673940": {
+   "t": 1795513577.1819477,
+   "source": "linkedin",
+   "title": "SAP FI Support Specialist (Public Cloud)",
+   "company": "NTT DATA Business Solutions",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "NTT DATA Business Solutions combines the power, global competencies and sectoral expertise of NTT DATA Group, one of the world's top 10 IT solution providers with 190 thousand employees, with local experience. The company, which realizes more than 30 thousand projects worldwide every year with more than 10 thousand employees in more than 30 countries and has been transforming trust into value for 34 years, has been operating in Turkey since 2000.\nAs a technology service provider that draws its strength from innovation and its team of 2,500 experts in Turkey, it supports end-to-end digital tran"
+  },
+  "linkedin:4492387330": {
+   "t": 1795513579.1945326,
+   "source": "linkedin",
+   "title": "Yazılım Mühendisi",
+   "company": "Empo Group",
+   "location": "Nilüfer",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Our strength's partner is people!\nWe manufacture parts for the automotive OEM industry using rotational molding, plastic injection, welded assemblies and metal part fabrication. We are looking for a Software Engineer to build our in-house products and strengthen our ERP infrastructure.\nWho We Are\nSince 1978 we have been an integrated company producing at 5 separate sites in Bursa NOSAB, bringing a range of manufacturing capabilities under one roof. Our innovative outlook and uncompromising approach to quality place us among the leading companies in our region.\nAs the Empo Group family, we appl"
+  },
+  "linkedin:4492693298": {
+   "t": 1795513581.7386434,
+   "source": "linkedin",
+   "title": "E-Ticaret Marketplace Uzmanı",
+   "company": "BEEO Arı Ürünleri",
+   "location": "Sancaktepe",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "Türkiye’de BEE’O, uluslararası pazarlarda ise BEE&YOU markasıyla faaliyet gösteriyor; ürünlerimizi ABD ve Avrupa başta olmak üzere farklı pazarlardaki tüketicilerle buluşturuyoruz.\nE-ticaret operasyonlarımızın gelişimine katkı sağlayacak, Amazon ve Walmart gibi pazar yerlerinde markalarımızın büyümesinde aktif rol alacak bir E-ticaret Marketplace Uzmanı arıyoruz.\nAranan Nitelikler\nTercihen üniversitelerin İşletme, İktisat, Uluslararası Ticaret, Pazarlama, Yönetim Bilişim Sistemleri, Endüstri Mühendisliği veya ilgili bölümlerinden mezun.\nE-ticaret ve pazar yeri hesap yönetiminde en az 2 yıl den"
   }
  },
  "pending": {}
