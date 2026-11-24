@@ -11704,6 +11704,35 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4493014004": {
+   "t": 1795520783.9178014,
+   "title": "Bölge Satış Yöneticisi - Konya",
+   "company": "Aktif Bank",
+   "url": "https://www.linkedin.com/jobs/view/4493014004/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4483556697": {
+   "t": 1795520785.8299084,
+   "title": "Software-Entwickler (Java)",
+   "company": "adesso Turkey",
+   "url": "https://www.linkedin.com/jobs/view/4483556697/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "elemannet:4813988": {
+   "t": 1795520833.816772,
+   "title": "İnşaat Mühendisi / Teknikeri",
+   "company": "Beyazoğlu Yapı Metal",
+   "url": "https://www.eleman.net/is-ilani/insaat-muhendisi-teknikeri-i4813988",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -12968,44 +12997,47 @@
   "566ba0843cb1cb3e": "kariyernet:4603408",
   "0bba14328211dc29": "linkedin:4493006270",
   "7daaba3bd4d09afd": "linkedin:4492686834",
-  "997c1b6abf0daf44": "linkedin:4492689829"
+  "997c1b6abf0daf44": "linkedin:4492689829",
+  "3fef3cd6a903818b": "linkedin:4493014004",
+  "e92c06181ffc27aa": "linkedin:4483556697",
+  "962b53eb2d1bbd06": "elemannet:4813988"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795519866.6350217,
+   "last_run": 1795520783.9176242,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795519866.635023,
+   "last_ok": 1795520783.917626,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795519020.4662695,
+   "last_run": 1795520826.4505894,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795519020.466272,
+   "last_ok": 1795520826.450591,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795517236.7084625,
+   "last_run": 1795520831.4359941,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795517236.7084649,
+   "last_ok": 1795520831.4359956,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795517241.4675934,
+   "last_run": 1795520839.087714,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795517241.4675949,
+   "last_ok": 1795520839.0877151,
    "alerted": false,
    "ctx": {}
   },
@@ -13097,7 +13129,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 21,
+   "rej_remote": 22,
    "rej_exp": 1
   }
  },
@@ -19099,6 +19131,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Türkiye merkezli uluslararası gıda tedarik ve ihracat şirketi\nEbi Export A.Ş\n. bünyesinde görevlendirilmek üzere, ihracat muhasebesi ağırlıklı çalışacak ekip arkadaşı arıyoruz.\nİş Tanımı İhracat faturalarının düzenlenmesi ve muhasebeleştirilmesi\nİhracat dosyalarının ve ilgili evrakların takibi Gümrük beyannameleri ve ihracat belgelerinin kontrolü İhracat bedellerinin, döviz girişlerinin ve banka işlemlerinin takibi KDV iade süreçlerine ilişkin evrakların hazırlanması ve takibi.\nDövizli cari hesapların takibi ve mutabakatların yapılması Alış ve satış faturalarının işlenmesi.\nGünlük kasa, banka,"
+  },
+  "linkedin:4483556697": {
+   "t": 1795520785.8299425,
+   "source": "linkedin",
+   "title": "Software-Entwickler (Java)",
+   "company": "adesso Turkey",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Your Next Chapter Starts Here\nWe're looking for a\nGerman-speaking Java Developer\nto join our dynamic, self-organized team and help build enterprise-level products for both local and global markets. You'll work closely with consultants, product owners, UI/UX designers, QA teams, and mobile, backend, and frontend developers to bring great digital products to life.\nHow you’ll contribute:\nImplementing product requirements, user stories, and epics as maintainable, testable, and high-performing software in collaboration with the team.\nCollaborating with project members to define technical specificat"
+  },
+  "elemannet:4813988": {
+   "t": 1795520833.8168116,
+   "source": "elemannet",
+   "title": "İnşaat Mühendisi / Teknikeri",
+   "company": "Beyazoğlu Yapı Metal",
+   "location": "Konya - Selçuklu",
+   "work_mode": "",
+   "posted": "",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Yemek, Yol Yardım Desteği, Servis"
   }
  },
  "pending": {}
