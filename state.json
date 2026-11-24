@@ -11157,6 +11157,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492678122": {
+   "t": 1795491095.1989315,
+   "title": "Artificial Intelligence Systems Specialist",
+   "company": "BSL",
+   "url": "https://www.linkedin.com/jobs/view/4492678122/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -12363,17 +12373,18 @@
   "00f4cff0669f3449": "linkedin:4492658196",
   "5b0d06b1f2bb3899": "linkedin:4491904378",
   "a6d904f44f25d6c3": "linkedin:4492664647",
-  "415f82e1d1f65f2d": "linkedin:4492658876"
+  "415f82e1d1f65f2d": "linkedin:4492658876",
+  "34c611c28b51df8e": "linkedin:4492678122"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795490159.5997515,
+   "last_run": 1795491092.8507507,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795490159.5997527,
+   "last_ok": 1795491092.8507524,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -12405,10 +12416,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795483886.1208792,
+   "last_run": 1795491097.795426,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795483886.1208804,
+   "last_ok": 1795491097.795427,
    "alerted": false,
    "ctx": {}
   }
@@ -12492,7 +12503,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 3
+   "rej_remote": 4
   }
  },
  "details": {
@@ -18068,6 +18079,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Our customer based in Türkiye is seeking a Full Stack Software Developer to join a growing technology and engineering organisation delivering innovative software, AI and digital transformation projects.\nThe Full Stack Software Developer is responsible for the design, development, testing and support of modern web-based applications, SaaS platforms and digital business solutions.\nThe role involves working across the full software development lifecycle, from requirements gathering and system design through to deployment, maintenance and continuous improvement, delivering secure, scalable and use"
+  },
+  "linkedin:4492678122": {
+   "t": 1795491095.1989703,
+   "source": "linkedin",
+   "title": "Artificial Intelligence Systems Specialist",
+   "company": "BSL",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Our customer based in Türkiye is seeking an experienced Artificial Intelligence Systems Specialist to join a growing technology and engineering organisation delivering innovative AI, software and advanced technology projects.\nThe Artificial Intelligence Systems Specialist is responsible for the development, deployment and optimisation of AI-powered solutions that support autonomous systems, manufacturing operations, predictive maintenance and business intelligence applications.\nThe role combines machine learning, software development and data engineering expertise to deliver innovative technol"
   }
  },
  "pending": {}
