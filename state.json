@@ -11580,6 +11580,101 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4492689632": {
+   "t": 1795518957.4338531,
+   "title": "E-Ticaret Uzmanı / Dijital Satış ve İş Geliştirme Uzmanı",
+   "company": "7A YAPI MARKET",
+   "url": "https://www.linkedin.com/jobs/view/4492689632/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4493005059": {
+   "t": 1795518959.251334,
+   "title": "Barback",
+   "company": "Z Kitchen & Bar",
+   "url": "https://www.linkedin.com/jobs/view/4493005059/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493011005": {
+   "t": 1795518961.4198906,
+   "title": "Yazılım Test Mühendisi 5+",
+   "company": "SmartICT Bilişim A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4493011005/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492678937": {
+   "t": 1795518970.4463801,
+   "title": "Ekipman Doğrulama Mühendisi",
+   "company": "Yongatek Microelectronics",
+   "url": "https://www.linkedin.com/jobs/view/4492678937/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4487475847": {
+   "t": 1795518972.8470175,
+   "title": "Customer Quality Engineer",
+   "company": "Tirsan Kardan",
+   "url": "https://www.linkedin.com/jobs/view/4487475847/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4494101919": {
+   "t": 1795518974.8735416,
+   "title": "CIS Operations Technician",
+   "company": "Spektrum",
+   "url": "https://www.linkedin.com/jobs/view/4494101919/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492696300": {
+   "t": 1795518976.7949076,
+   "title": "Sistem ve Altyapı Uzmanı",
+   "company": "TechFuture Bilişim",
+   "url": "https://www.linkedin.com/jobs/view/4492696300/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492692577": {
+   "t": 1795518978.6967163,
+   "title": "Bilgi Sistemleri Uzman Yardımcısı",
+   "company": "TÖDEB",
+   "url": "https://www.linkedin.com/jobs/view/4492692577/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4603314": {
+   "t": 1795519024.636496,
+   "title": "Şantiye Şefi",
+   "company": "Gürbağ Group",
+   "url": "https://www.kariyer.net/is-ilani/gurbag-group-santiye-sefi-4603314",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4603408": {
+   "t": 1795519028.4662046,
+   "title": "İstanbul Bölge Satış Mühendisi / Uzmanı",
+   "company": "Armada Yazılım A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/armada-yazilim-a-s-istanbul-bolge-satis-muhendisi-uzmani-4603408",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -12831,29 +12926,39 @@
   "0d94095ff2f2f9e9": "linkedin:4492693298",
   "6f017032a9b7a0da": "linkedin:4492676850",
   "664134558b57b7cf": "linkedin:4493000146",
-  "7fd7b22f8676bd03": "linkedin:4494109140"
+  "7fd7b22f8676bd03": "linkedin:4494109140",
+  "8fcce020b63c5e51": "linkedin:4492689632",
+  "bc67d5519e4a178e": "linkedin:4493005059",
+  "a7bf88f0cd168a8d": "linkedin:4493011005",
+  "cad38576ba3b07fa": "linkedin:4492678937",
+  "b8b601ea21cc607e": "linkedin:4487475847",
+  "97ab805f372d3efb": "linkedin:4494101919",
+  "f05746377962cc57": "linkedin:4492696300",
+  "46587c1cbbddaee1": "linkedin:4492692577",
+  "5ee765dfd500a0d3": "kariyernet:4603314",
+  "566ba0843cb1cb3e": "kariyernet:4603408"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795518098.0569844,
+   "last_run": 1795518954.981796,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795518098.0569863,
+   "last_ok": 1795518954.9817975,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795517231.7889118,
+   "last_run": 1795519020.4662695,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795517231.7889144,
+   "last_ok": 1795519020.466272,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -12960,7 +13065,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 17,
+   "rej_remote": 20,
    "rej_exp": 1
   }
  },
@@ -18843,6 +18948,91 @@
    "track_from": "title",
    "llm": {},
    "description": "-"
+  },
+  "linkedin:4492689632": {
+   "t": 1795518957.433899,
+   "source": "linkedin",
+   "title": "E-Ticaret Uzmanı / Dijital Satış ve İş Geliştirme Uzmanı",
+   "company": "7A YAPI MARKET",
+   "location": "Ereğli",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "7A Yapı Market & Ankebut Ahşap | Zonguldak / Kdz. Ereğli\nPozisyon Hakkında\n7A Yapı Market ve Ankebut Ahşap olarak, e-ticaret alanında büyüme hedeflerimizi gerçekleştirmek ve dijital satış kanallarımızı daha etkin yönetmek üzere ekibimize katılacak bir\nE-Ticaret Uzmanı\narıyoruz.\nİki ayrı markamızın e-ticaret operasyonlarını yönetecek; satışları artıracak, dijital pazaryerlerinin algoritmalarına hâkim olacak, ürünlerimizin doğru müşterilerle buluşmasını sağlayacak ve yeni satış fırsatları geliştirecek bir çalışma arkadaşı arıyoruz.\nE-ticaret altyapılarımız hazır, satış kanallarımız aktif ve mark"
+  },
+  "linkedin:4493011005": {
+   "t": 1795518961.4199326,
+   "source": "linkedin",
+   "title": "Yazılım Test Mühendisi 5+",
+   "company": "SmartICT Bilişim A.Ş.",
+   "location": "Çankaya",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Görev ve Sorumluluklar\nISO/IEC/IEEE 29119 (IEEE 829) standartlarına uygun olarak, gereksinimlerden test faaliyetleri türetme ve test planı/prosedürünün hazırlanması,\nTest senaryolarının gereksinim ve kabul kriterlerine bağlanarak izlenebilirliğin sağlanması\nBirim/bileşen, entegrasyon, sistem ve fonksiyonel, performans ve ölçeklenebilirlik, güvenlik, dayanıklılık ve kurtarma ile operasyonel hazırlık testlerinin yürütülmesi\nTest otomasyon altyapısının kurulması, geliştirilmesi ve CI/CD hattına entegre edilmesi; fonksiyonel, API, regresyon ve performans testlerinin otomatikleştirilmesi\nPerformans"
+  },
+  "linkedin:4492678937": {
+   "t": 1795518970.4464185,
+   "source": "linkedin",
+   "title": "Ekipman Doğrulama Mühendisi",
+   "company": "Yongatek Microelectronics",
+   "location": "Ankara",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "Şirketimizin yürütmekte olduğu projeler kapsamında, ekipman doğrulama, test sistemleri tasarımı, doğrulama yazılımlarının geliştirilmesi ve sertifikasyon faaliyetlerinde görev alacak\nEkipman Doğrulama Mühendisi\nekip arkadaşı arıyoruz.\nİŞ TANIMI VE SORUMLULUK\nEkipman doğrulama ve test süreçlerinin planlanması ve yürütülmesi,\nOtomatik test sistemlerinin donanım ve yazılım tasarımlarının gerçekleştirilmesi,\nTest yazılımlarının ve kullanıcı arayüzlerinin geliştirilmesi,\nSistem ve ekipman gereksinimlerinin analiz edilerek doğrulama faaliyetlerine aktarılması,\nTest senaryolarının ve doğrulama prosed"
+  },
+  "linkedin:4492692577": {
+   "t": 1795518978.696754,
+   "source": "linkedin",
+   "title": "Bilgi Sistemleri Uzman Yardımcısı",
+   "company": "TÖDEB",
+   "location": "Ümraniye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Genel Nitelikler:\n·        Üniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Yönetim Bilişim Sistemleri, Bilgisayar Programcılığı, Bilgi Teknolojileri veya ilgili bölümlerinden mezun,\n·        Microsoft Windows işletim sistemleri ve Microsoft Office uygulamaları konusunda bilgi sahibi,\n·        Bilgisayar donanımları, çevre birimleri ve temel ağ teknolojileri (TCP/IP, DNS, DHCP vb.) hakkında bilgi sahibi,\n·        Bilgi güvenliği, sistem yönetimi ve teknik destek süreçlerine ilişkin temel bilgiye sahip,\n·        Tercihen kurumsal bilgi sistemleri, bilgi işlem veya teknik destek al"
+  },
+  "kariyernet:4603408": {
+   "t": 1795519028.466249,
+   "source": "kariyernet",
+   "title": "İstanbul Bölge Satış Mühendisi / Uzmanı",
+   "company": "Armada Yazılım A.Ş.",
+   "location": "İstanbul(Asya)",
+   "work_mode": "Uzaktan / Remote",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 3 - 6 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı, Tecilli, Muaf; Ehliyet: B2 sınıfı\n\nDünyanın önde gelen CAD/CAM yazılım geliştiricilerinden OPEN MIND Technologies'in Türkiye organizasyonunda, İstanbul bölgesindeki satış faaliyetlerimizi geliştirmek üzere, imalat sektörünü tanıyan, sahada güçlü ilişkiler kurabilen, teknik konularda müşterileriyle aynı dili konuşabilen ve mevcut tecrübesiyle satış organizasyonumuza doğrudan katkı sağlayabilecek bir ekip arkadaşı arıyoruz.\nGenel Nitelikler:\nÜniversitelerin Makine, Mekat"
   }
  },
  "pending": {}
