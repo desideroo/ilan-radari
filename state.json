@@ -11346,6 +11346,24 @@
    "score": null,
    "msg": null,
    "why": "2+ yıl deneyim"
+  },
+  "linkedin:4494103370": {
+   "t": 1795509078.9166167,
+   "title": "Uyum Analitik Yöneticisi/Uzmanı",
+   "company": "Akbank",
+   "url": "https://www.linkedin.com/jobs/view/4494103370/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493989895": {
+   "t": 1795509078.9171019,
+   "title": "Senior SAP Analytics Consultant",
+   "company": "adesso Turkey",
+   "url": "https://www.linkedin.com/jobs/view/4493989895/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -12572,17 +12590,19 @@
   "d0eeb32bad7616c2": "linkedin:4493967585",
   "853c2f015371127a": "linkedin:4492691108",
   "6e6aa2cfe5f1667d": "linkedin:4492686300",
-  "2e5de47cd9d40d08": "kariyernet:4603182"
+  "2e5de47cd9d40d08": "kariyernet:4603182",
+  "71a857534286a855": "linkedin:4494103370",
+  "9fdd61844630e01d": "linkedin:4493989895"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795508166.6975226,
+   "last_run": 1795509078.915946,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795508166.6975243,
+   "last_ok": 1795509078.9159474,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
