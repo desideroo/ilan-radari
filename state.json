@@ -11675,6 +11675,35 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4493006270": {
+   "t": 1795519866.6359153,
+   "title": "Ön Muhasebe Elemanı",
+   "company": "Rotaseal Sızdırmazlık Sistemleri A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4493006270/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4492686834": {
+   "t": 1795519875.931093,
+   "title": "Budget and Reporting Supervisor",
+   "company": "Abdi Ibrahim Pharmaceuticals",
+   "url": "https://www.linkedin.com/jobs/view/4492686834/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492689829": {
+   "t": 1795519877.7406151,
+   "title": "İHRACAT MUHASEBE VE ÖN MUHASEBE UZMANI",
+   "company": "Ebi Export",
+   "url": "https://www.linkedin.com/jobs/view/4492689829/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -12936,17 +12965,20 @@
   "f05746377962cc57": "linkedin:4492696300",
   "46587c1cbbddaee1": "linkedin:4492692577",
   "5ee765dfd500a0d3": "kariyernet:4603314",
-  "566ba0843cb1cb3e": "kariyernet:4603408"
+  "566ba0843cb1cb3e": "kariyernet:4603408",
+  "0bba14328211dc29": "linkedin:4493006270",
+  "7daaba3bd4d09afd": "linkedin:4492686834",
+  "997c1b6abf0daf44": "linkedin:4492689829"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795518954.981796,
+   "last_run": 1795519866.6350217,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795518954.9817975,
+   "last_ok": 1795519866.635023,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -12978,10 +13010,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795512724.0243576,
+   "last_run": 1795519880.8688314,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795512724.02436,
+   "last_ok": 1795519880.8688333,
    "alerted": false,
    "ctx": {}
   }
@@ -13065,7 +13097,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 20,
+   "rej_remote": 21,
    "rej_exp": 1
   }
  },
@@ -19033,6 +19065,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 3 - 6 yıl arası; Eğitim Seviyesi: Üniversite(Mezun), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı, Tecilli, Muaf; Ehliyet: B2 sınıfı\n\nDünyanın önde gelen CAD/CAM yazılım geliştiricilerinden OPEN MIND Technologies'in Türkiye organizasyonunda, İstanbul bölgesindeki satış faaliyetlerimizi geliştirmek üzere, imalat sektörünü tanıyan, sahada güçlü ilişkiler kurabilen, teknik konularda müşterileriyle aynı dili konuşabilen ve mevcut tecrübesiyle satış organizasyonumuza doğrudan katkı sağlayabilecek bir ekip arkadaşı arıyoruz.\nGenel Nitelikler:\nÜniversitelerin Makine, Mekat"
+  },
+  "linkedin:4492686834": {
+   "t": 1795519875.9311342,
+   "source": "linkedin",
+   "title": "Budget and Reporting Supervisor",
+   "company": "Abdi Ibrahim Pharmaceuticals",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Abdi İbrahim, founded in 1912, has the largest product portfolio in the sector and is the largest employer in the Turkish pharmaceutical industry with 5.500 employees. Abdi İbrahim has been the leader of Turkey’s pharmaceutical industry since 2002 with its powerful vision.\nToday, Abdi İbrahim operates in 20 countries outside Türkiye, exports to more than 70 countries ranging from Canada to European Union member states, from North Africa to Asia. As a corporate citizen working towards creating a better world and a better future, adhering to its mission in the sector and to the requirements of s"
+  },
+  "linkedin:4492689829": {
+   "t": 1795519877.7406566,
+   "source": "linkedin",
+   "title": "İHRACAT MUHASEBE VE ÖN MUHASEBE UZMANI",
+   "company": "Ebi Export",
+   "location": "Beylikdüzü",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Türkiye merkezli uluslararası gıda tedarik ve ihracat şirketi\nEbi Export A.Ş\n. bünyesinde görevlendirilmek üzere, ihracat muhasebesi ağırlıklı çalışacak ekip arkadaşı arıyoruz.\nİş Tanımı İhracat faturalarının düzenlenmesi ve muhasebeleştirilmesi\nİhracat dosyalarının ve ilgili evrakların takibi Gümrük beyannameleri ve ihracat belgelerinin kontrolü İhracat bedellerinin, döviz girişlerinin ve banka işlemlerinin takibi KDV iade süreçlerine ilişkin evrakların hazırlanması ve takibi.\nDövizli cari hesapların takibi ve mutabakatların yapılması Alış ve satış faturalarının işlenmesi.\nGünlük kasa, banka,"
   }
  },
  "pending": {}
