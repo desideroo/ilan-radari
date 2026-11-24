@@ -12036,6 +12036,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4492685103": {
+   "t": 1795543317.7312524,
+   "title": "Test Engineer",
+   "company": "DTA Mühendislik",
+   "url": "https://www.linkedin.com/jobs/view/4492685103/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -13335,17 +13345,18 @@
   "67128f74534435fb": "youthall:TEI-12",
   "5b4d66fdb049fa51": "kariyernet:4603813",
   "beabeef44f8a2f4d": "linkedin:4494160462",
-  "07ff42bea48e14eb": "linkedin:4494158536"
+  "07ff42bea48e14eb": "linkedin:4494158536",
+  "ebb6900cb5faeaa2": "linkedin:4492685103"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795542375.5959146,
+   "last_run": 1795543315.8151827,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795542375.5959158,
+   "last_ok": 1795543315.8151848,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -13387,7 +13398,7 @@
  },
  "tg_offset": 985447703,
  "paused": false,
- "last_summary": "2026-11-23",
+ "last_summary": "2026-11-24",
  "daily": {
   "2026-11-17": {
    "sent": 19,
@@ -13464,7 +13475,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 32,
+   "rej_remote": 33,
    "rej_exp": 2
   }
  },
@@ -19783,6 +19794,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Spektrum supports apex purchasers (NATO, UN, EU, and National Government and Defence) and their Tier 1 supplier ecosystem with a wide range of specialist services. We provide our clients with professional services, specialised aerospace and defence sales, delivery, and operational subject matter expertise. We are looking for personnel to join our team and support key client projects.\nWho we are supporting\nThe NATO Communication and Information Agency (NCIA) is responsible for providing secure and effective communications and information technology (IT) services to NATO's member countries and i"
+  },
+  "linkedin:4492685103": {
+   "t": 1795543317.731291,
+   "source": "linkedin",
+   "title": "Test Engineer",
+   "company": "DTA Mühendislik",
+   "location": "Bursa, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Responsibilities\nDesign and implement test methodologies and procedures for measuring physical quantities like acceleration, strain, and temperature.\nConduct hands-on testing, including the integration of various sensors (e.g., accelerometers, strain gauges, microphones) into components and systems.\nSet up and operate data acquisition (DAQ) systems, ensuring secure data collection and reliable test execution in both lab and field environments.\nProcess measurement data, apply signal filtering, perform basic statistical analyses, and prepare graphical reports.\nCreate detailed technical reports a"
   }
  },
  "pending": {}
