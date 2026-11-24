@@ -11930,6 +11930,54 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493008867": {
+   "t": 1795531562.3077242,
+   "title": "SAP SuccessFactors Employee Central Consultant",
+   "company": "BGTS International",
+   "url": "https://www.linkedin.com/jobs/view/4493008867/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494139666": {
+   "t": 1795531564.2792158,
+   "title": "SAP Business Analyst",
+   "company": "Gini Talent",
+   "url": "https://www.linkedin.com/jobs/view/4494139666/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "elemannet:4814207": {
+   "t": 1795531615.691664,
+   "title": "Bireysel Saha Satış Temsilcisi",
+   "company": "QNB BANK",
+   "url": "https://www.eleman.net/is-ilani/bireysel-saha-satis-temsilcisi-i4814207",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4814210": {
+   "t": 1795531615.6917174,
+   "title": "Tüzel Saha Satış Temsilcisi",
+   "company": "QNB BANK",
+   "url": "https://www.eleman.net/is-ilani/tuzel-saha-satis-temsilcisi-i4814210",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4814192": {
+   "t": 1795531617.7619104,
+   "title": "Satış Destek Personeli",
+   "company": "Ravon Elektroteknik",
+   "url": "https://www.eleman.net/is-ilani/satis-destek-personeli-i4814192",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -13218,44 +13266,49 @@
   "2cc35e39aaa767b9": "linkedin:4493023157",
   "a475d99e78ff8207": "linkedin:4492699879",
   "4aabc72cdaeee46c": "linkedin:4494374534",
-  "f6d532347ef26157": "linkedin:4493024079"
+  "f6d532347ef26157": "linkedin:4493024079",
+  "01e478e45296fff8": "linkedin:4493008867",
+  "cd276fa26fb8b194": "linkedin:4494139666",
+  "ff3192394cc54135": "elemannet:4814207",
+  "43254bbae688e908": "elemannet:4814210",
+  "4a6287c5d5f9eb96": "elemannet:4814192"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795530711.1165838,
+   "last_run": 1795531559.6008723,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795530711.1165855,
+   "last_ok": 1795531559.6008737,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795529806.226134,
+   "last_run": 1795531609.0446281,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795529806.226136,
+   "last_ok": 1795531609.0446305,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795528021.1638372,
+   "last_run": 1795531615.69094,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795528021.1638386,
+   "last_ok": 1795531615.6909413,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795528026.4904997,
+   "last_run": 1795531623.1704092,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795528026.4905012,
+   "last_ok": 1795531623.1704104,
    "alerted": false,
    "ctx": {}
   },
@@ -13347,7 +13400,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 28,
+   "rej_remote": 30,
    "rej_exp": 1
   }
  },
@@ -19547,6 +19600,57 @@
    "track_from": "title",
    "llm": {},
    "description": "Job Description\nWe are looking for a\nFull Stack Engineer\nwith strong engineering fundamentals, sound technical judgment, and a product mindset to help build our AI-powered products, including ChatBoss. You will own features end-to-end across web applications, backend services, system integrations, and data workflows.\nNote on our tech stack: We care more about strong fundamentals than specific tools, though familiarity with our core stack (TypeScript, React, NestJS/Node.js, Python/FastAPI, PostgreSQL, and Docker) will help you ramp up faster.\nSkills & Requirements\n3+ years of experience buildin"
+  },
+  "linkedin:4493008867": {
+   "t": 1795531562.3077662,
+   "source": "linkedin",
+   "title": "SAP SuccessFactors Employee Central Consultant",
+   "company": "BGTS International",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "BGTS International Business Unit is looking for an experienced SAP SuccessFactors Employee Central Consultant to join our growing team based in Turkey, the UK, and the EU. Our teams support many clients across different industries in the UK and EU, delivering innovative HR technology solutions and transformation projects.\nJoin us in helping global organizations optimize their HR processes and employee experience through SAP SuccessFactors Employee Central solutions. We are looking for professionals who are passionate about HR technologies, process improvement, and delivering high-quality imple"
+  },
+  "linkedin:4494139666": {
+   "t": 1795531564.2792532,
+   "source": "linkedin",
+   "title": "SAP Business Analyst",
+   "company": "Gini Talent",
+   "location": "Silivri",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "SAP İş Analisti (SAP PP / QM)\nLokasyon:\nİstanbul – Silivri\nÇalışma Modeli:\nTam Zamanlı / On-site (Fabrika)\nÇalışma Şekli:\nProje Bazlı / Dış Kaynak Danışmanlık\nGini Talent olarak, üretim sektöründe faaliyet gösteren müşterimizin SAP uygulama ve dönüşüm projelerinde görev almak üzere\nSAP PP veya SAP QM modüllerinde deneyimli bir SAP İş Analisti\narıyoruz.\nBu pozisyonda görev alacak kişinin üretim ve kalite yönetimi süreçleri, SAP fonksiyonel analiz, gereksinim yönetimi ve iş birimleri ile SAP danışman ekipleri arasındaki koordinasyon konularında deneyimli olması beklenmektedir.\nTemel Sorumlulukla"
+  },
+  "elemannet:4814192": {
+   "t": 1795531617.7619615,
+   "source": "elemannet",
+   "title": "Satış Destek Personeli",
+   "company": "Ravon Elektroteknik",
+   "location": "Konya - Karatay",
+   "work_mode": "",
+   "posted": "",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Vinç ekipmanları imalatı ve satışı yapan, Konya Karatay ilçesinde yer alan fabrikamıza, dinamik ekibimize katılacak; Satış Destek Personeli ..."
   }
  },
  "pending": {}
