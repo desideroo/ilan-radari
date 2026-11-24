@@ -12056,6 +12056,15 @@
    "score": null,
    "msg": null,
    "why": "kıdem: Orta-Üst Düzey Yönetici"
+  },
+  "linkedin:4493002321": {
+   "t": 1795554983.620472,
+   "title": "Senior Process Quality Engineer - Metal Fabrication",
+   "company": "Eaton",
+   "url": "https://www.linkedin.com/jobs/view/4493002321/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -13357,29 +13366,30 @@
   "beabeef44f8a2f4d": "linkedin:4494160462",
   "07ff42bea48e14eb": "linkedin:4494158536",
   "ebb6900cb5faeaa2": "linkedin:4492685103",
-  "e5ce32f3d15f5b95": "linkedin:4494397646"
+  "e5ce32f3d15f5b95": "linkedin:4494397646",
+  "cad65b8f09e7353b": "linkedin:4493002321"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795554104.7888255,
+   "last_run": 1795554983.619585,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795554104.788827,
+   "last_ok": 1795554983.6195862,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795553208.1507933,
+   "last_run": 1795555025.671299,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795553208.1507947,
+   "last_ok": 1795555025.6713011,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
