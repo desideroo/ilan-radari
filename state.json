@@ -11733,6 +11733,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "kariyernet:4593598": {
+   "t": 1795522627.269745,
+   "title": "Üretken Yapay Zeka Uzmanı",
+   "company": "Pixelsan",
+   "url": "https://www.kariyer.net/is-ilani/pixelsan-uretken-yapay-zeka-uzmani-4593598",
+   "status": "sent",
+   "score": 50,
+   "msg": 69
   }
  },
  "dedupe": {
@@ -13000,29 +13009,30 @@
   "997c1b6abf0daf44": "linkedin:4492689829",
   "3fef3cd6a903818b": "linkedin:4493014004",
   "e92c06181ffc27aa": "linkedin:4483556697",
-  "962b53eb2d1bbd06": "elemannet:4813988"
+  "962b53eb2d1bbd06": "elemannet:4813988",
+  "5aa513b2350bda9a": "kariyernet:4593598"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795521677.3534813,
+   "last_run": 1795522568.7555933,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795521677.3534834,
+   "last_ok": 1795522568.7555945,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795520826.4505894,
+   "last_run": 1795522609.7611861,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795520826.450591,
+   "last_ok": 1795522609.7611878,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -13123,9 +13133,9 @@
    "rej_exp": 3
   },
   "2026-11-24": {
-   "sent": 0,
+   "sent": 1,
    "dropped": 0,
-   "candidates": 0,
+   "candidates": 1,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
@@ -19165,6 +19175,34 @@
    "track_from": "title",
    "llm": {},
    "description": "Yemek, Yol Yardım Desteği, Servis"
+  },
+  "kariyernet:4593598": {
+   "t": 1795522627.269869,
+   "source": "kariyernet",
+   "title": "Üretken Yapay Zeka Uzmanı",
+   "company": "Pixelsan",
+   "location": "İzmir",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [
+    "ai"
+   ],
+   "rule_score": 75,
+   "reject": "",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {
+    "score": 50,
+    "cv": "02_Yapay_Zeka",
+    "summary": "Pazarlama ve içerik süreçlerinde üretken yapay zeka araçlarıyla video, görsel ve metin içerikleri üretecek uzman aranmaktadır. Pozisyon yapay zeka destekli kreatif tasarım, kurgu ve müşteri brief yönetimi süreçlerini kapsamaktadır.",
+    "why": "Adayın yapay zeka ve LLM modellerine yönelik ilgisi ve uzaktan çalışma modeli pozisyona temel düzeyde uyum sağlamaktadır.",
+    "gaps": "Pozisyonun mühendislik/geliştirme yerine dijital pazarlama, video prodüksiyon, kurgu ve kreatif içerik üretimi odaklı olması.",
+    "military_required": false,
+    "min_years": 0,
+    "work_mode": "remote"
+   },
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Ön Lisans(Mezun), Üniversite(Mezun)\n\nŞirketimizin yaratıcı iletişim ve pazarlama süreçlerinde görev alacak, yapay zeka tabanlı dijital içerik ve görsel üretim süreçlerini uçtan uca yönetebilecek ekip arkadaşı arıyoruz.\nPozisyon kapsamında adaydan; yapay zeka ile video prodüksiyon, görsel tasarım ve metin tabanlı içerik üretimi yapması, aynı zamanda müşteri iletişimini profesyonel şekilde yürüterek üretilen içeriklerin doğru brief ile yönetilmesini sağlaması beklenmektedir.\nYapay zeka destekli video üretim araçları\nile kısa/orta metraj video içerikler üretebilen, kurgulama ve revizyon süreçlerini yönetebilen,\nGörsel tasarım ve generative AI araçlarına\nhakim, sosyal medya ve dijital kampanyalara uygun görsel içerikler üretebilen,\nMetin ve içerik üretimi\ntarafında yapay zeka araçlarını etkin kullanabilen; senaryo, metin, sosyal medya postu, açıklama ve benzeri içerikleri üretebilen,\nMüşteri iletişimi\nve brief yönetimi konusunda deneyimli; ihtiyacı doğru analiz edip bunu yapay zeka üretim süreçlerine aktarabilen,\nYapay zeka alanında tecrübeli, güncel araç ve trendleri takip eden, kendini bu alanda sürekli geliştirmiş ve geliştirmeye istekli,\nDijital pazarlama, sosyal medya dinamikleri ve içerik formatları hakkında bilgi sahibi,\nTercihen kurgu ve post prodüksiyon araçlarına hakim,\nTercihen ses/müzik üretimi veya iyileştirmesi için yapay zeka araçları kullanmış,\nZaman yönetimi kuvvetli, aynı anda birden fazla proje ve müşteriyi takip edebilen,\nTakım çalışmasına yatkın, iletişim becerileri güçlü ve çözüm odaklı,\nYenilikleri takip eden, araştırmayı seven, üretken ve öğrenmeye açık çalışma tarzına sahip,\nBelirtilen niteliklere uygun adayların başvurularını bekliyoruz."
   }
  },
  "pending": {}
