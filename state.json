@@ -11570,6 +11570,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494109140": {
+   "t": 1795515368.2943413,
+   "title": "Satış Asistanı",
+   "company": "A Yangın Güvenlik A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4494109140/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -12820,29 +12830,30 @@
   "ba022709932f71d6": "linkedin:4492387330",
   "0d94095ff2f2f9e9": "linkedin:4492693298",
   "6f017032a9b7a0da": "linkedin:4492676850",
-  "664134558b57b7cf": "linkedin:4493000146"
+  "664134558b57b7cf": "linkedin:4493000146",
+  "7fd7b22f8676bd03": "linkedin:4494109140"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795514510.4216185,
+   "last_run": 1795515358.850991,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795514510.42162,
+   "last_ok": 1795515358.8509927,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795513623.704496,
+   "last_run": 1795515409.401233,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795513623.7044988,
+   "last_ok": 1795515409.4012344,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -18815,6 +18826,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Şirket Hakkında\nSafahat.ai, hukuk süreçlerini yapay zekâ ile uçtan uca otomatikleştiren bir hukuk teknolojisi şirketidir. İcra takibi, dava süreçleri ve sözleşme otomasyonunu kapsayan platformumuz, kurumsal müşterilerin kendi veri merkezlerinde tamamen on-premises olarak çalışacak şekilde tasarlanmıştır. LLM tabanlı sistemleri buluta dokunmadan, müşteri altyapısında güvenle çalıştırmak gibi sektörde az sayıda ekibin uğraştığı bir problem alanında derinleşiyoruz.\nSorumluluklar\nC# ve .NET ile backend özelliklerini uçtan uca geliştirmek: API ucu, iş mantığı, veri erişimi ve testler.\nASP.NET Core "
+  },
+  "linkedin:4494109140": {
+   "t": 1795515368.2943788,
+   "source": "linkedin",
+   "title": "Satış Asistanı",
+   "company": "A Yangın Güvenlik A.Ş.",
+   "location": "İzmir",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "-"
   }
  },
  "pending": {}
