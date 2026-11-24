@@ -12576,13 +12576,15 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795506369.963023,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795507309.952373,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=test+engineer&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795506369.9630244,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
