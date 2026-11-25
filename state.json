@@ -12653,6 +12653,35 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4494640596": {
+   "t": 1795620692.4398856,
+   "title": "Senior AI / Machine Learning Engineer - Turkish Speaking",
+   "company": "Guardian Professional",
+   "url": "https://www.linkedin.com/jobs/view/4494640596/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493426504": {
+   "t": 1795620694.7393878,
+   "title": "Yapay Zeka Mühendisi",
+   "company": "TOFAŞ Türk Otomobil Fabrikası A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4493426504/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494918572": {
+   "t": 1795620696.7635872,
+   "title": "Electronic Development and Test Engineer",
+   "company": "Gizli Şirket",
+   "url": "https://www.linkedin.com/jobs/view/4494918572/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14016,17 +14045,20 @@
   "5014e536fd2d6764": "kariyernet:4604488",
   "218b2d03651dc249": "kariyernet:4604465",
   "95fabb86901d4c3f": "linkedin:4493427437",
-  "3cd785857f9cc779": "linkedin:4493428227"
+  "3cd785857f9cc779": "linkedin:4493428227",
+  "db05f485522a2362": "linkedin:4494640596",
+  "999e589fb73d9135": "linkedin:4493426504",
+  "3815d624c58d6a2b": "linkedin:4494918572"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795619752.7114162,
+   "last_run": 1795620692.438943,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795619752.711418,
+   "last_ok": 1795620692.4389453,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -14058,10 +14090,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795613509.155046,
+   "last_run": 1795620699.845828,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795613509.1550472,
+   "last_ok": 1795620699.8458304,
    "alerted": false,
    "ctx": {}
   }
@@ -14155,7 +14187,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 18,
+   "rej_remote": 20,
    "rej_exp": 3
   }
  },
@@ -21107,6 +21139,40 @@
    "track_from": "title",
    "llm": {},
    "description": "İş Tanımı\nMekanik ve elektrik taahhüt projelerimizde kullanılacak malzeme, ekipman ve hizmetlerin satın alma süreçlerini yürütecek, ERP süreçlerine hakim, tecrübeli ve deneyimli Teknik Satın Alma Uzmanı arıyoruz.\nGörev ve Sorumluluklar\nMekanik tesisat projeleri için gerekli malzeme, ekipman ve hizmetlerin satın alma süreçlerini yürütmek, tedarikçi araştırması yapmak.\nTedarikçilerden fiyat teklifi almak, teklifleri fiyat, kalite, teslim süresi ve ödeme koşulları açısından karşılaştırmak.\nSatın alma siparişlerini hazırlamak ve siparişlerin zamanında teslim edilmesini takip etmek.\nProje, depo, sa"
+  },
+  "linkedin:4493426504": {
+   "t": 1795620694.7394657,
+   "source": "linkedin",
+   "title": "Yapay Zeka Mühendisi",
+   "company": "TOFAŞ Türk Otomobil Fabrikası A.Ş.",
+   "location": "Bursa, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Müşterileri için en iyi değeri ve mobilite çözümlerini yaratan lider otomotiv şirketi olma yolculuğumuzda bize eşlik edecek çalışma arkadaşları arıyoruz.\nBu pozisyonda çalışmak üzere aramıza katılacak olan arkadaşımız, Bilgi ve İletişim Teknolojileri Direktörlüğü, Dijitalizasyon ve Veri Bilimi Yöneticiliği ’ne bağlı olarak görev yapacaktır.\nPozisyonun amacı;\nşirketimizin yapay zekâ dönüşümünün merkezinde yer alarak yeni nesil AI çözümlerinin tasarlanması, geliştirilmesi ve hayata geçirilmesinde aktif rol alacaktır. Forward Deployed AI Engineer olarak da tanımlanabilecek bu rol, iş birimleriyle"
+  },
+  "linkedin:4494918572": {
+   "t": 1795620696.7636273,
+   "source": "linkedin",
+   "title": "Electronic Development and Test Engineer",
+   "company": "Gizli Şirket",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Job Description\nThe eligible candidates will be responsible for the performance of the following tasks:\nCarrying out electrical/electronic integration activities for subsystems on military vehicles, with a focus on communication networks such as CAN bus, Ethernet, RS-422 and RS-485.\nDetecting, troubleshooting and solving problems on communication channels at the physical and application layers.\nCreating functional test scenarios for electronic units, designing the related test setups and test harnesses, and preparing test procedures.\nPreparing test scenarios and test code based on embedded sof"
   }
  },
  "pending": {}
