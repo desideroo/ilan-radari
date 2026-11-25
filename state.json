@@ -12633,6 +12633,26 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493427437": {
+   "t": 1795618905.571134,
+   "title": "Kurumsal Uygulamalar ve Süreç Danışmanı",
+   "company": "Procons Project Management & Engineering Inc.",
+   "url": "https://www.linkedin.com/jobs/view/4493427437/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493428227": {
+   "t": 1795618907.4084373,
+   "title": "Teknik Satın Alma Uzmanı",
+   "company": "Doğtek Mühendislik",
+   "url": "https://www.linkedin.com/jobs/view/4493428227/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -13994,17 +14014,19 @@
   "41c07f949942f1b8": "kariyernet:4604441",
   "40cb28e8ebf53989": "linkedin:4494910793",
   "5014e536fd2d6764": "kariyernet:4604488",
-  "218b2d03651dc249": "kariyernet:4604465"
+  "218b2d03651dc249": "kariyernet:4604465",
+  "95fabb86901d4c3f": "linkedin:4493427437",
+  "3cd785857f9cc779": "linkedin:4493428227"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795617958.31926,
+   "last_run": 1795618903.8065236,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795617958.3192618,
+   "last_ok": 1795618903.8065252,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
@@ -14133,7 +14155,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 17,
+   "rej_remote": 18,
    "rej_exp": 3
   }
  },
@@ -21051,6 +21073,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Yemeksepeti is part of the Delivery Hero Group, the world’s pioneering local delivery platform, our mission is to deliver an amazing experience—fast, easy, and to your door. We operate in around 65 countries worldwide. Headquartered in Berlin, Germany. Delivery Hero has been listed on the Frankfurt Stock Exchange since 2017 and is part of the MDAX stock market index.\nJob Description\nJob Ref ID: JR0090053\nData Analysis & Behavioral Profiling\nAnalyze user behavior across the platform (registration, promo usage, cart addition, address changes, order frequency, and claim/refund history) using SQL,"
+  },
+  "linkedin:4493427437": {
+   "t": 1795618905.571177,
+   "source": "linkedin",
+   "title": "Kurumsal Uygulamalar ve Süreç Danışmanı",
+   "company": "Procons Project Management & Engineering Inc.",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "Kurumsal Uygulamalar ve Süreç Danışmanı\narıyoruz\nProcons olarak, danışmanlık hizmeti verdiğimiz bir firma için\nKurumsal Uygulamalar ve Süreç Danışmanı\narıyoruz. Seçilecek aday,\nTürkiye’de inşaat sektörünün önde gelen firmalarından biri olan müşterimizin kendi kadrosunda\n, tam zamanlı olarak iş yerinde çalışacaktır.\nBu rolde, iş birimleriyle birlikte çalışarak ERP ve diğer kurumsal uygulamaların günlük operasyonlarda nasıl kullanıldığını inceleyecek, iyileştirme ihtiyaçlarını belirleyecek ve geliştirilen çözümleri tasarımdan canlı kullanıma kadar takip edeceksiniz.\nBaşlıca sorumluluklar\nİş süre"
+  },
+  "linkedin:4493428227": {
+   "t": 1795618907.4084754,
+   "source": "linkedin",
+   "title": "Teknik Satın Alma Uzmanı",
+   "company": "Doğtek Mühendislik",
+   "location": "Ümraniye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "İş Tanımı\nMekanik ve elektrik taahhüt projelerimizde kullanılacak malzeme, ekipman ve hizmetlerin satın alma süreçlerini yürütecek, ERP süreçlerine hakim, tecrübeli ve deneyimli Teknik Satın Alma Uzmanı arıyoruz.\nGörev ve Sorumluluklar\nMekanik tesisat projeleri için gerekli malzeme, ekipman ve hizmetlerin satın alma süreçlerini yürütmek, tedarikçi araştırması yapmak.\nTedarikçilerden fiyat teklifi almak, teklifleri fiyat, kalite, teslim süresi ve ödeme koşulları açısından karşılaştırmak.\nSatın alma siparişlerini hazırlamak ve siparişlerin zamanında teslim edilmesini takip etmek.\nProje, depo, sa"
   }
  },
  "pending": {}
