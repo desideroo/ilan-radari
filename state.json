@@ -12809,6 +12809,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4431437": {
+   "t": 1795644120.862564,
+   "title": "Genel Başvuru (Mağaza)",
+   "company": "GALATASARAY MAĞAZACILIK VE PER.A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/galatasaray-magazacilik-ve-per-a-s-genel-basvuru-magaza-4431437",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14188,44 +14197,45 @@
   "f5b4575621067487": "linkedin:4494951541",
   "d272cf05a258fda6": "linkedin:4494638726",
   "b145871906dae34e": "linkedin:4493447698",
-  "bee5e8123936b8f4": "linkedin:4494695570"
+  "bee5e8123936b8f4": "linkedin:4494695570",
+  "a8ff521965db8abb": "kariyernet:4431437"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795643154.5261142,
+   "last_run": 1795644080.0448246,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795643154.526117,
+   "last_ok": 1795644080.044826,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795642327.1911764,
+   "last_run": 1795644120.862072,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795642327.191178,
+   "last_ok": 1795644120.8620741,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795640528.192081,
+   "last_run": 1795644124.8702936,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795640528.192082,
+   "last_ok": 1795644124.8702948,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795640533.3684278,
+   "last_run": 1795644131.0826638,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795640533.368429,
+   "last_ok": 1795644131.082665,
    "alerted": false,
    "ctx": {}
   },
