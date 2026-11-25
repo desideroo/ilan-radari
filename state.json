@@ -12258,6 +12258,15 @@
    "score": null,
    "msg": null,
    "why": "2+ yıl deneyim"
+  },
+  "linkedin:4493092724": {
+   "t": 1795595498.0604794,
+   "title": "CNC Programlayıcı",
+   "company": "TSM TASARIM",
+   "url": "https://www.linkedin.com/jobs/view/4493092724/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -13580,17 +13589,18 @@
   "2edfac372e10cfc2": "linkedin:4493083994",
   "c207f3a78e96261b": "linkedin:4493090720",
   "8c1fe758b320cf2f": "kariyernet:4118881",
-  "930936023e188657": "kariyernet:4603999"
+  "930936023e188657": "kariyernet:4603999",
+  "6b0259e01e1dae19": "linkedin:4493092724"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795594555.483724,
+   "last_run": 1795595498.0601823,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795594555.4837255,
+   "last_ok": 1795595498.060184,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
