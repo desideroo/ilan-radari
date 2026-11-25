@@ -12134,6 +12134,24 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "elemannet:4814366": {
+   "t": 1795589199.4901607,
+   "title": "Satış Temsilcisi - Konya Selçuklu / Part Time",
+   "company": "CİVİL MAĞAZACILIK A.Ş",
+   "url": "https://www.eleman.net/is-ilani/satis-temsilcisi-konya-selcuklu-part-time-i4814366",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4814360": {
+   "t": 1795589202.1347172,
+   "title": "Sevkiyat Personeli",
+   "company": "Granitaş Granit Sanayi Pazarlama A. Ş",
+   "url": "https://www.eleman.net/is-ilani/sevkiyat-personeli-i4814360",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -13443,44 +13461,46 @@
   "e429f7b3e73800b3": "linkedin:4493089522",
   "a97964e5c567c063": "linkedin:4493402019",
   "64b2e1944744f7ad": "linkedin:4494484601",
-  "71a19c1439fc5a03": "linkedin:4493088509"
+  "71a19c1439fc5a03": "linkedin:4493088509",
+  "265e34bf3be36bdb": "elemannet:4814366",
+  "9e294b281f22e1f4": "elemannet:4814360"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795588275.7687974,
+   "last_run": 1795589151.9271033,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795588275.7687988,
+   "last_ok": 1795589151.9271042,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795587396.6967826,
+   "last_run": 1795589193.804656,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795587396.696784,
+   "last_ok": 1795589193.8046575,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795585636.2202077,
+   "last_run": 1795589199.4900355,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795585636.2202091,
+   "last_ok": 1795589199.4900365,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795585642.9439292,
+   "last_run": 1795589206.526565,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795585642.9439309,
+   "last_ok": 1795589206.526566,
    "alerted": false,
    "ctx": {}
   },
