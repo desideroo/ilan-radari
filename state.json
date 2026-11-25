@@ -13382,13 +13382,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795583782.9573872,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=full+stack&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
+   "last_run": 1795584704.0119748,
+   "fails": 2,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=QA&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795582893.275437,
    "alerted": false,
    "ctx": {
-    "cursor": 12,
+    "cursor": 18,
     "first_run": false,
     "all_keywords": false
    }
@@ -13422,10 +13422,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795577489.0628657,
+   "last_run": 1795584706.600116,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795577489.0628672,
+   "last_ok": 1795584706.6001174,
    "alerted": false,
    "ctx": {}
   }
