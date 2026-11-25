@@ -12075,6 +12075,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4492682865": {
+   "t": 1795585589.5895448,
+   "title": "POS, Restoran Otomasyonu ve E-Ticaret Satış Uzmanı",
+   "company": "Faturamatik Elektronik Para ve Ödeme Kuruluşu A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4492682865/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -13378,46 +13388,45 @@
   "ebb6900cb5faeaa2": "linkedin:4492685103",
   "e5ce32f3d15f5b95": "linkedin:4494397646",
   "cad65b8f09e7353b": "linkedin:4493002321",
-  "b868a7de4acdd77c": "linkedin:4494451560"
+  "b868a7de4acdd77c": "linkedin:4494451560",
+  "7d962ab4beffedbf": "linkedin:4492682865"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795584704.0119748,
-   "fails": 2,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=QA&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795582893.275437,
+   "last_run": 1795585586.7993243,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795585586.7993257,
    "alerted": false,
    "ctx": {
-    "cursor": 18,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795583822.8059497,
+   "last_run": 1795585630.2680483,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795583822.8059516,
+   "last_ok": 1795585630.2680507,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795582020.675383,
+   "last_run": 1795585636.2202077,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795582020.6753843,
+   "last_ok": 1795585636.2202091,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795582026.177791,
+   "last_run": 1795585642.9439292,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795582026.1777925,
+   "last_ok": 1795585642.9439309,
    "alerted": false,
    "ctx": {}
   },
@@ -19888,6 +19897,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Description\nAmazon Ads is the digital advertising arm of Amazon and one of our fastest growing businesses. We operate at the intersection of commerce, entertainment and advertising, offering unique advertising products, enterprise ad tech and a rich array of unique creative, format and measurement solutions. We offer advertisers premium brand placements on our owned and operated properties, including Prime Video ads, Twitch, and a rich slate of retail media solutions.\nAs an Insights and Measurement Consultant, you will work as an individual contributor to accelerate our advertising business gr"
+  },
+  "linkedin:4492682865": {
+   "t": 1795585589.589599,
+   "source": "linkedin",
+   "title": "POS, Restoran Otomasyonu ve E-Ticaret Satış Uzmanı",
+   "company": "Faturamatik Elektronik Para ve Ödeme Kuruluşu A.Ş.",
+   "location": "Maltepe",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "POS/kasa sistemleri, restoran otomasyonu, adisyon veya e-ticaret yazılımları satışında deneyimli, müşteri ilişkileri ve satış süreçlerini yönetebilecek bir Satış Uzmanı arıyoruz.\nBu alanlarda deneyimi bulunmayan adayların başvuruları değerlendirmeye alınmayacaktır.\nAranan Nitelikler\nİlgili yazılımların satışında en az 2 yıl deneyimli.\nMüşteri kazanımı, portföy yönetimi ve satış süreçlerinde deneyimli.\nMüşteri ihtiyaçlarını analiz etme, teklif hazırlama ve satış sonuçlandırma becerisine sahip.\nRestoran, kafe, perakende veya e-ticaret sektörleri hakkında bilgi sahibi.\nGüçlü iletişim, ikna ve pro"
   }
  },
  "pending": {}
