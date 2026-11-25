@@ -12467,6 +12467,34 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4483221796": {
+   "t": 1795611731.7788026,
+   "title": "IT Engineer Tester",
+   "company": "Ericsson",
+   "url": "https://www.linkedin.com/jobs/view/4483221796/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4483222783": {
+   "t": 1795611741.4684577,
+   "title": "IT Engineer Tester",
+   "company": "Ericsson",
+   "url": "https://www.linkedin.com/jobs/view/4483222783/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493412842": {
+   "t": 1795611751.2838585,
+   "title": "AI Quality Engineer",
+   "company": "DataBoss Security & Analytics A. Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4493412842/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -13811,19 +13839,19 @@
   "cdb670ce8d2c3104": "linkedin:4486059980",
   "00862fc8ac9587ab": "linkedin:4493414451",
   "ec8ad016e3fbb91b": "linkedin:4493407820",
-  "0e4671ddd7b04f49": "kariyernet:4604303"
+  "0e4671ddd7b04f49": "kariyernet:4604303",
+  "2f8319c778908ebd": "linkedin:4483222783",
+  "5a80a65d5ee56f29": "linkedin:4493412842"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795610783.90732,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=full+stack&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795609881.716994,
+   "last_run": 1795611722.5000072,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795611722.500009,
    "alerted": false,
    "ctx": {
-    "cursor": 12,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -13952,7 +13980,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 13,
+   "rej_remote": 14,
    "rej_exp": 2
   }
  },
@@ -20771,6 +20799,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 15 yıl arası; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun)\n\nPozisyon: Elektrik Ustası\n\"Yeni Mezun veya 2-3 Sene Deneyimli Seyahat Engeli Olmayan- Şehir Dışı Projelerinde Çalışabilecek\"\n- Elektrik / Elektrik-Elektronik mezunu - Mesleki ve Teknik Anadolu Lisesi Mezunu\n- Sahada Fiziki, Aktif ve Uygulayan olarak birebir görev alabilecek, şantiye deneyimli\n-Gemide ve Karada bulunan elektrik, elektronik ve haberleşme sistemlerinin sorunsuz bir şekilde çalışmasını sağlamak için,  Elektrik de-montaj ve montaj işlemleri, priz, anahtar, pano, aydınlatma"
+  },
+  "linkedin:4493412842": {
+   "t": 1795611751.283906,
+   "source": "linkedin",
+   "title": "AI Quality Engineer",
+   "company": "DataBoss Security & Analytics A. Ş.",
+   "location": "Greater Ankara",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Job Description\nWe are looking for an\nAI Quality Engineer\nto take end-to-end ownership of quality across AI projects and products, with a particular focus on LLM-based expert systems and AI-powered web, mobile, and API applications.\nThe candidate will be responsible for defining, designing and executing quality and test strategies, combining manual and automated testing approaches where applicable, adapting AI/LLM evaluation methodologies, creating test datasets and regression suites, and collaborating closely with product, software, and AI teams throughout the AI development life cycle.\nThe r"
   }
  },
  "pending": {}
