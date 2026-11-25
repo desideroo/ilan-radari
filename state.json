@@ -12267,6 +12267,52 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494495655": {
+   "t": 1795596373.5233097,
+   "title": "Veri Bilimi – Data Scientist - Sr. Lead, Functional Lead",
+   "company": "Garanti BBVA",
+   "url": "https://www.linkedin.com/jobs/view/4494495655/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4494493875": {
+   "t": 1795596375.4931362,
+   "title": "Production Engineer",
+   "company": "Avery Dennison",
+   "url": "https://www.linkedin.com/jobs/view/4494493875/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493088777": {
+   "t": 1795596377.3006175,
+   "title": "İşe Alım Uzmanı / Asistanı | Almanca & Felemenkçe Alım Deneyimi | %100 Evden",
+   "company": "Asistanik İşe Alım Seçme ve Yerleştirme",
+   "url": "https://www.linkedin.com/jobs/view/4493088777/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4345991": {
+   "t": 1795596421.6699893,
+   "title": "Satış Müşteri Karşılama Uzmanı",
+   "company": "Köprülü Oto Servis Tic. Ltd. Şti.",
+   "url": "https://www.kariyer.net/is-ilani/koprulu-oto-servis-tic-ltd-sti-satis-musteri-karsilama-uzmani-4345991",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "kariyernet:4595673": {
+   "t": 1795596425.1325858,
+   "title": "Accounting Specialist",
+   "company": "KARADERE TURİZM ORGANİZASYON KUYUMCULUK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/karadere-turizm-organizasyon-kuyumculuk-sanayi-ve-accounting-specialist-4595673",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -13590,44 +13636,49 @@
   "c207f3a78e96261b": "linkedin:4493090720",
   "8c1fe758b320cf2f": "kariyernet:4118881",
   "930936023e188657": "kariyernet:4603999",
-  "6b0259e01e1dae19": "linkedin:4493092724"
+  "6b0259e01e1dae19": "linkedin:4493092724",
+  "83e5f776ec54bb00": "linkedin:4494495655",
+  "7b86c72b0cfe0757": "linkedin:4494493875",
+  "4dec326a5d14e032": "linkedin:4493088777",
+  "de5f9f044b485d20": "kariyernet:4345991",
+  "138e882869daf37c": "kariyernet:4595673"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795595498.0601823,
+   "last_run": 1795596373.521828,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795595498.060184,
+   "last_ok": 1795596373.5218296,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795594612.4208312,
+   "last_run": 1795596418.0774696,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795594612.4208333,
+   "last_ok": 1795596418.0774715,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795592831.219983,
+   "last_run": 1795596430.4820313,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795592831.2199845,
+   "last_ok": 1795596430.4820335,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795592835.164499,
+   "last_run": 1795596435.8812034,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795592835.1645005,
+   "last_ok": 1795596435.881205,
    "alerted": false,
    "ctx": {}
   },
@@ -20361,6 +20412,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 7 yıl arası; Eğitim Seviyesi: Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı; Yabancı Dil: İngilizce(Okuma : İleri, Yazma : İleri, Konuşma : İleri); Ehliyet: B sınıfı\n\nŞirketimizin dış ticaret operasyonlarını yürütmek üzere, özellikle\nsavunma sanayiinde tecrübesi olan\n, ithalat ve ihracat süreçlerini uçtan uca takip edebilecek, uluslararası ticaret mevzuatına hâkim, analitik düşünebilen ve güçlü iletişim becerilerine sahip bir\nDış Ticaret Uzmanı\narıyoruz.\nGörev ve Sorumluluklar\nİhracat ve ithalat operasyonlarının siparişten tes"
+  },
+  "kariyernet:4345991": {
+   "t": 1795596421.6700315,
+   "source": "kariyernet",
+   "title": "Satış Müşteri Karşılama Uzmanı",
+   "company": "Köprülü Oto Servis Tic. Ltd. Şti.",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 1 - 3 yıl arası; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun); Ehliyet: B sınıfı\n\nBMW Grup Satış Dispozisyon Uzmanı olarak, dünyanın en yenilikçi otomobil markasının aynı bakış açısı ve değerlerini paylaşıp, marka ve ürün tutkusunu işinize yansıtırken, en yeni teknolojiler, çevre dostu ve insan odaklı bir yaklaşım benimseyen bir role sahip olacaksınız. Müşteriniz karşısında marka elçiliğini üstlenerek müşteri memnuniyetini odağınıza alacak, motivasyon ve sonuç elde etme sorumluluğu ile çalışacaksınız.\nRolün Sorumlulukları:\nSatış hedefleri ve müşte"
   }
  },
  "pending": {}
