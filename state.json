@@ -12522,6 +12522,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494624675": {
+   "t": 1795613506.6132402,
+   "title": "Cloud Solution Architect - .NET & Azure Services",
+   "company": "Penta Consulting",
+   "url": "https://www.linkedin.com/jobs/view/4494624675/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "youthall:sanipak-18": {
+   "t": 1795613509.155164,
+   "title": "Sanipak Kampüs Elçisi Programı",
+   "company": "Sanipak",
+   "url": "https://www.youthall.com/tr/sanipak/sanipak-kampus-elcisi-programi_18/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -13871,17 +13889,19 @@
   "5a80a65d5ee56f29": "linkedin:4493412842",
   "df0f4e414180f330": "linkedin:4493014502",
   "40bba530007138a1": "linkedin:4487129573",
-  "4fcc69394a7ef27c": "kariyernet:4604384"
+  "4fcc69394a7ef27c": "kariyernet:4604384",
+  "2df10a418a175eba": "linkedin:4494624675",
+  "a266fc67e0a2bb6e": "youthall:sanipak-18"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795612584.560883,
+   "last_run": 1795613506.6124039,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795612584.5608845,
+   "last_ok": 1795613506.6124055,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
@@ -13913,10 +13933,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795606293.9240909,
+   "last_run": 1795613509.155046,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795606293.924093,
+   "last_ok": 1795613509.1550472,
    "alerted": false,
    "ctx": {}
   }
