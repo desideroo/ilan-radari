@@ -12587,6 +12587,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:3234188": {
+   "t": 1795616201.7794585,
+   "title": "Depo Elemanı-Tüm Türkiye",
+   "company": "EVKUR Alışveriş Merkezleri Tic. A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/evkur-alisveris-merkezleri-tic-a-s-depo-elemani-tum-turkiye-3234188",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4604441": {
+   "t": 1795616221.949272,
+   "title": "Security Engineer (M/W/D) – 100 % Home Office",
+   "company": "Arsipa GmbH",
+   "url": "https://www.kariyer.net/is-ilani/arsipa-gmbh-security-engineer-m-w-d-100-home-office-4604441",
+   "status": "dropped",
+   "score": 18,
+   "msg": null
   }
  },
  "dedupe": {
@@ -13943,29 +13961,31 @@
   "c8658bab1b1d852f": "linkedin:4493416644",
   "84f35d7f06ecc28e": "linkedin:4493421505",
   "931fba81f7b8f246": "kariyernet:4273775",
-  "0e2d481cfb255e71": "kariyernet:4604391"
+  "0e2d481cfb255e71": "kariyernet:4604391",
+  "af4d65da772bf0fb": "kariyernet:3234188",
+  "41c07f949942f1b8": "kariyernet:4604441"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795615303.6704245,
+   "last_run": 1795616161.3289125,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795615303.670426,
+   "last_ok": 1795616161.328914,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795614434.9584162,
+   "last_run": 1795616201.7779229,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795614434.958418,
+   "last_ok": 1795616201.7779245,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -14078,12 +14098,12 @@
   "2026-11-25": {
    "sent": 1,
    "dropped": 1,
-   "candidates": 2,
+   "candidates": 3,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
    "rej_remote": 16,
-   "rej_exp": 2
+   "rej_exp": 3
   }
  },
  "details": {
@@ -20952,6 +20972,37 @@
    "track_from": "title",
    "llm": {},
    "description": "Bir Turkcell grup şirketi olarak 1999 yılında kurulduğumuzda amacımız hep eşsiz bir müşteri deneyimi yaşatmaktı.Yıllar geçse de amacımız hiç değişmedi ve bugün biz yine aynı odak noktası ve artan heyecanımızla; toplam 15 lokasyonda, 16 binden fazla çalışanımızla firmaların müşteri deneyimini iyileştirmeye devam ediyoruz.\nTelekom sektöründeki köklü tecrübemizin yanı sıra; finans, sigorta, e-ticaret, perakende, ulaştırma, hızlı tüketim, havacılık, otomotiv, teknoloji, enerji ve kamu sektörlerinde hizmet vermekteyiz.\nEşsiz müşteri deneyimine ulaşabilmek için geleneksel bir kanal olan ve Ana Hizme"
+  },
+  "kariyernet:4604441": {
+   "t": 1795616221.949393,
+   "source": "kariyernet",
+   "title": "Security Engineer (M/W/D) – 100 % Home Office",
+   "company": "Arsipa GmbH",
+   "location": "Adana",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [
+    "fullstack"
+   ],
+   "rule_score": 30,
+   "reject": "",
+   "warnings": [
+    "Dil: ileri/akıcı İngilizce isteniyor (sende B2)",
+    "Dil: Almanca geçiyor (sende A2)"
+   ],
+   "seniority": "",
+   "track_from": "description",
+   "llm": {
+    "score": 18,
+    "cv": "01_Ag_Altyapi",
+    "summary": "Arsipa GmbH, Microsoft güvenlik teknolojileri (Sentinel, Defender, Entra ID) üzerinde zafiyet yönetimi ve olay müdahalesi süreçlerini yürütecek bir Güvenlik Mühendisi aramaktadır. Rol tamamen uzaktan çalışma modeliyle yürütülmektedir.",
+    "why": "Adayın ağ yönetimi, altyapı temelleri ve siber güvenlik odaklı çalışmalara ilgisi pozisyonun gereklilikleriyle temel düzeyde örtüşmektedir.",
+    "gaps": "En az 2 yıl BT güvenliği iş deneyimi, Microsoft Sentinel/Defender uzmanlığı ve KQL bilgisi eksiktir.",
+    "military_required": false,
+    "min_years": 2,
+    "work_mode": "remote"
+   },
+   "description": "Security Engineer (M/W/D) – 100 % Home Office\nAbout Us\nArsipa GmbH is a Germany-wide corporate group operating in the fields of occupational safety, occupational health services, and environmental protection. We follow a Private Equity Buy & Build strategy and currently operate through 25 subsidiary companies, employing more than 1,200 people across 90 locations throughout Germany.\nOur vision is to rethink occupational health and safety by providing personal, tailored, and comprehensive solutions. By bringing together successful regional companies, we are growing into one of the leading players in the German Health & Safety market.\nFrom our headquarters in Berlin, we support our partner companies and help streamline their operations across various departments, including Human Resources, Marketing, Finance, and IT, while fostering collaboration and knowledge sharing across our teams.\nTo strengthen our IT team, we are looking for a motivated and experienced Security Engineer to support and further develop our cybersecurity operations. You work closely with IT operations, system owners and external partners (MDR provider, pentest vendors, incident response partner). We work in a Microsoft-centric environment (Microsoft 365, Entra ID, Defender, Sentinel).\nThis position is fully remote and based in Türkiye.\nResponsibilities\nRun vulnerability management end to end: scanning (Defender, Greenbone, later a commercial platform), prioritisation, tracking remediation with system owners against defined SLAs, monthly reporting.\nAct as the internal counterpart to our 24/7 MDR provider: review escalations, coordinate incident response, and take part in the on-call rotation for confirmed incidents.\nMaintain and tune detections in Microsoft Sentinel and Defender, and review alert quality with the MDR provider.\nSupport penetration testing: prepare scope, coordinate external vendors, track findings and retests, and run targeted security checks after significant changes.\nRun recurring reviews: Microsoft 365 / Azure security posture (Secure Score, Defender for Cloud), Conditional Access, access reviews for sensitive data and privileged roles.\nAdminister the security awareness program, including phishing simulations and reporting.\nHelp roll out security controls and tooling to subsidiaries in a consistent, centrally managed way.\nPrepare evidence and status reporting for management, investors and audits (ISO 27001).\nContribute to incident response planning, runbooks and annual ta"
   }
  },
  "pending": {}
