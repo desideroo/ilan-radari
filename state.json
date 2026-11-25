@@ -13382,42 +13382,40 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795581110.8359098,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=business+intelligence&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795580159.452479,
+   "last_run": 1795581974.8321023,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795581974.8321044,
    "alerted": false,
    "ctx": {
-    "cursor": 14,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795580200.324855,
+   "last_run": 1795582015.396609,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795580200.3248577,
+   "last_ok": 1795582015.3966107,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795578416.4436934,
+   "last_run": 1795582020.675383,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795578416.4436946,
+   "last_ok": 1795582020.6753843,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795578422.169004,
+   "last_run": 1795582026.177791,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795578422.1690054,
+   "last_ok": 1795582026.1777925,
    "alerted": false,
    "ctx": {}
   },
