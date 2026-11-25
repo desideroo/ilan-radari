@@ -12722,6 +12722,26 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4494676561": {
+   "t": 1795628776.9836462,
+   "title": "Test Engineer",
+   "company": "Kron",
+   "url": "https://www.linkedin.com/jobs/view/4494676561/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493442481": {
+   "t": 1795628779.3130429,
+   "title": "Network & Security Engineer",
+   "company": "Hadi Katılım Bankası",
+   "url": "https://www.linkedin.com/jobs/view/4493442481/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14092,17 +14112,19 @@
   "373d167cfe3ddcd6": "kariyernet:4604180",
   "8c95cb3f1b40704d": "linkedin:4493443016",
   "ea39feb9b72bf05e": "linkedin:4493424842",
-  "5374846f6c00f44b": "kariyernet:4604569"
+  "5374846f6c00f44b": "kariyernet:4604569",
+  "fcc0b96b51eb9856": "linkedin:4494676561",
+  "50a435172401f3c1": "linkedin:4493442481"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795627866.3391085,
+   "last_run": 1795628768.1833048,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795627866.3391101,
+   "last_ok": 1795628768.183306,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -14231,7 +14253,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 21,
+   "rej_remote": 23,
    "rej_exp": 3
   }
  },
@@ -21285,6 +21307,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 5 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Yabancı Dil: İngilizce(Okuma : İyi, Yazma : İyi, Konuşma : İyi); Ehliyet: B sınıfı\n\nŞirketimiz, endüstriyel cihazlar ve analitik sistemler alanında satış, servis ve eğitim hizmetleri sunar. Vakum teknolojisinin kullanıldığı Ar-Ge ve endüstriyel pek çok alana çözüm üreterek, kuruluşundan bu yana Edwards Vacuum firmasının Türkiye’deki tek temsilcisi olarak bu markanın 100 yıllık sektör tecrübesini yerel ihtiyaçlarla buluşturmuştur. Vakum pompalarının bakım ve onarımına yönelik güçlü bir atölye ve teknik servis yapılan"
+  },
+  "linkedin:4494676561": {
+   "t": 1795628776.9836838,
+   "source": "linkedin",
+   "title": "Test Engineer",
+   "company": "Kron",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Kron\nis a leading provider of Privileged Access Management (PAM) and advanced cybersecurity solutions. Our platform empowers organizations to protect critical digital assets and ensure compliance through cutting-edge technologies. We serve enterprises worldwide by securing their IT environments against evolving threats and operational risks.\nAs part of our commitment to delivering robust and secure solutions, we are looking for an experienced\nTest Engineer\nto join our growing team.\nAbout The Role\nWe are seeking a passionate and detail-oriented\nTest Engineer\nwho will play a key role in ensuring"
+  },
+  "linkedin:4493442481": {
+   "t": 1795628779.3130894,
+   "source": "linkedin",
+   "title": "Network & Security Engineer",
+   "company": "Hadi Katılım Bankası",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "TOM Bank has already transformed banking with Hadi!\nIf you’re saying,\n“I want to be part of the Dream Team of a fast-growing digital bank that’s reshaping finance and breaking conventions,”\nthen TOM is waiting for your application!\nAs\nTOM Bank Hadi\n, we are Turkey’s first and largest digital retail bank, with a bold vision to become one of the top five fintech companies in Europe. Moreover, with a 4.8/5 app rating — which we see as the most important measure of our success: customer satisfaction — we have become one of the most admired banks in Europe.\nWith our Hadi app, we have reached 3.3 mi"
   }
  },
  "pending": {}
