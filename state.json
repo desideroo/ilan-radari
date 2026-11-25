@@ -12790,6 +12790,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493447698": {
+   "t": 1795638681.1789443,
+   "title": "Ön Muhasebe Sorumlusu",
+   "company": "Arvin Plus Inspection Services",
+   "url": "https://www.linkedin.com/jobs/view/4493447698/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14167,29 +14177,30 @@
   "2879e7dd1c46a9d7": "linkedin:4493416893",
   "1a5b892acfc2f42d": "linkedin:4494942264",
   "f5b4575621067487": "linkedin:4494951541",
-  "d272cf05a258fda6": "linkedin:4494638726"
+  "d272cf05a258fda6": "linkedin:4494638726",
+  "b145871906dae34e": "linkedin:4493447698"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795637783.5321534,
+   "last_run": 1795638671.8581753,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795637783.5321548,
+   "last_ok": 1795638671.8581772,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795636930.4036157,
+   "last_run": 1795638721.811415,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795636930.403618,
+   "last_ok": 1795638721.8114173,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -21445,6 +21456,23 @@
    "track_from": "title",
    "llm": {},
    "description": "We’re looking for the special, unique and amazing YOU!\n@ KCS IT, we look for the ones that stands out, for those that always wants to be better and fight for it, and for those who has the same values that we do: dedication, energy, integrity, transparency, flexibility, trust, honesty, hard work, proactivity, team work.\nAt KCS we stand for equality and value diversity. We create a safe, diverse environment where opportunities are equal for everyone! We do not discriminate based on age, ethnicity, sexual orientation, gender, disability or any factor other than merit. All applications with skills"
+  },
+  "linkedin:4493447698": {
+   "t": 1795638681.1789906,
+   "source": "linkedin",
+   "title": "Ön Muhasebe Sorumlusu",
+   "company": "Arvin Plus Inspection Services",
+   "location": "Bakırköy",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "GENEL NİTELİKLER VE İŞ TANIMI\n· Muhasebe Alanında 2-3 yıl deneyimli\n· Tercihen üniversite mezunu\n· Genel ve Ön Muhasebe işlemlerine hakim\n· MS Excel ve Word programlarını etkin kullanabilen\n. E Fatura / E Arşiv faturalandırma yapabilen\n· Tercihen İngilizce bilen\n· İş takip yeteneği olan, özverili\nİŞ TANIMI\n. E Fatura sisteminden alış/gider faturalarının takibinin yapılması\n· Alış ve Gider faturalarının muhasebe sistemine girilmesi\n. E Fatura / E arşiv faturaların kesilmesi\n· Cari Hesap takip ve mutabakatlarını yapmak\n· Vadesi gelen borçların ve tahsilatların takibini yapmak, raporlamak\n· Hafta"
   }
  },
  "pending": {}
