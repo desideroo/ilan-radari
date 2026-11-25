@@ -12762,6 +12762,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494942264": {
+   "t": 1795632378.350787,
+   "title": "SAP EWM Consultant (FULL REMOTE)",
+   "company": "KCS iT",
+   "url": "https://www.linkedin.com/jobs/view/4494942264/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14136,17 +14146,18 @@
   "fcc0b96b51eb9856": "linkedin:4494676561",
   "50a435172401f3c1": "linkedin:4493442481",
   "ddd776baf8e579df": "linkedin:4493401949",
-  "2879e7dd1c46a9d7": "linkedin:4493416893"
+  "2879e7dd1c46a9d7": "linkedin:4493416893",
+  "1a5b892acfc2f42d": "linkedin:4494942264"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795631468.8162344,
+   "last_run": 1795632375.9295585,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795631468.8162358,
+   "last_ok": 1795632375.9295597,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
@@ -14275,7 +14286,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 25,
+   "rej_remote": 26,
    "rej_exp": 3
   }
  },
@@ -21397,6 +21408,23 @@
    "track_from": "description",
    "llm": {},
    "description": "As a Quality Executive, you will have the opportunity to lead quality and food safety initiatives, drive continuous improvement projects, and make a direct impact on product excellence in a growing food manufacturing environment. You will collaborate with cross-functional teams, manage end-to-end quality processes, and play a key role in fostering a strong emphasis on quality and operational excellence.\nClient Details\nThe company is a well-established organization in the FMCG industry, recognized for its contribution to high-quality products. With a significant presence in the market, it conti"
+  },
+  "linkedin:4494942264": {
+   "t": 1795632378.3508196,
+   "source": "linkedin",
+   "title": "SAP EWM Consultant (FULL REMOTE)",
+   "company": "KCS iT",
+   "location": "Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "We’re looking for the special, unique and amazing YOU!\n@ KCS IT, we look for the ones that stands out, for those that always wants to be better and fight for it, and for those who has the same values that we do: dedication, energy, integrity, transparency, flexibility, trust, honesty, hard work, proactivity, team work.\nAt KCS we stand for equality and value diversity. We create a safe, diverse environment where opportunities are equal for everyone! We do not discriminate based on age, ethnicity, sexual orientation, gender, disability or any factor other than merit. All applications with skills"
   }
  },
  "pending": {}
