@@ -12781,6 +12781,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494638726": {
+   "t": 1795637785.5806644,
+   "title": "Total Value Management Engineer",
+   "company": "Yazaki Europe Middle East and Africa",
+   "url": "https://www.linkedin.com/jobs/view/4494638726/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14157,17 +14166,18 @@
   "ddd776baf8e579df": "linkedin:4493401949",
   "2879e7dd1c46a9d7": "linkedin:4493416893",
   "1a5b892acfc2f42d": "linkedin:4494942264",
-  "f5b4575621067487": "linkedin:4494951541"
+  "f5b4575621067487": "linkedin:4494951541",
+  "d272cf05a258fda6": "linkedin:4494638726"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795636887.801127,
+   "last_run": 1795637783.5321534,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795636887.801128,
+   "last_ok": 1795637783.5321548,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
