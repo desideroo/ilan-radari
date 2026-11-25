@@ -12065,6 +12065,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494451560": {
+   "t": 1795566678.2156253,
+   "title": "Insights and Measurement Consultant, Amazon Ads",
+   "company": "Amazon",
+   "url": "https://www.linkedin.com/jobs/view/4494451560/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -13367,17 +13377,18 @@
   "07ff42bea48e14eb": "linkedin:4494158536",
   "ebb6900cb5faeaa2": "linkedin:4492685103",
   "e5ce32f3d15f5b95": "linkedin:4494397646",
-  "cad65b8f09e7353b": "linkedin:4493002321"
+  "cad65b8f09e7353b": "linkedin:4493002321",
+  "b868a7de4acdd77c": "linkedin:4494451560"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795565758.024132,
+   "last_run": 1795566676.0344462,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795565758.0241337,
+   "last_ok": 1795566676.0344481,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -13498,6 +13509,15 @@
    "irrelevant": 0,
    "rej_remote": 33,
    "rej_exp": 3
+  },
+  "2026-11-25": {
+   "sent": 0,
+   "dropped": 0,
+   "candidates": 0,
+   "applied": 0,
+   "saved": 0,
+   "irrelevant": 0,
+   "rej_remote": 1
   }
  },
  "details": {
@@ -19849,6 +19869,23 @@
    "track_from": "title",
    "llm": {},
    "description": "We are the catalyst for the industrial world’s digital transformation.\nFor more than 35 years, ground breaking technologies and business models engineered and developed by Siemens Turkey R&D department contributes to the global success of Siemens\nOur R&D activities focused on the fields of electrification, automation and digitalization, provides end-to-end support to our global customers on their unique digital transformation journey.\nWe aim to increase our strength on solution and product development with world class SW development experts, with the vision to be the digitalization partner for"
+  },
+  "linkedin:4494451560": {
+   "t": 1795566678.2156687,
+   "source": "linkedin",
+   "title": "Insights and Measurement Consultant, Amazon Ads",
+   "company": "Amazon",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {},
+   "description": "Description\nAmazon Ads is the digital advertising arm of Amazon and one of our fastest growing businesses. We operate at the intersection of commerce, entertainment and advertising, offering unique advertising products, enterprise ad tech and a rich array of unique creative, format and measurement solutions. We offer advertisers premium brand placements on our owned and operated properties, including Prime Video ads, Twitch, and a rich slate of retail media solutions.\nAs an Insights and Measurement Consultant, you will work as an individual contributor to accelerate our advertising business gr"
   }
  },
  "pending": {}
