@@ -12437,6 +12437,16 @@
    "score": null,
    "msg": null,
    "why": "kıdem: Orta-Üst Düzey Yönetici"
+  },
+  "linkedin:4493414451": {
+   "t": 1795607174.6136196,
+   "title": "Ön Muhasebe ve Satın Alma Sorumlusu",
+   "company": "Technonet Bilişim",
+   "url": "https://www.linkedin.com/jobs/view/4493414451/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -13778,44 +13788,45 @@
   "8fff5813990bb014": "kariyernet:4604163",
   "4da39404e0e1c8cf": "kariyernet:4604159",
   "24c4a391a906f547": "kariyernet:4604182",
-  "cdb670ce8d2c3104": "linkedin:4486059980"
+  "cdb670ce8d2c3104": "linkedin:4486059980",
+  "00862fc8ac9587ab": "linkedin:4493414451"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795606291.3391829,
+   "last_run": 1795607165.886678,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795606291.3391845,
+   "last_ok": 1795607165.886679,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795605420.9279206,
+   "last_run": 1795607215.0151958,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795605420.927923,
+   "last_ok": 1795607215.015198,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795603634.5898983,
+   "last_run": 1795607220.8476355,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795603634.5899005,
+   "last_ok": 1795607220.8476367,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795603639.2528481,
+   "last_run": 1795607225.7651029,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795603639.2528493,
+   "last_ok": 1795607225.7651043,
    "alerted": false,
    "ctx": {}
   },
@@ -20685,6 +20696,23 @@
    "track_from": "title",
    "llm": {},
    "description": "We are the catalyst for the industrial world’s digital transformation.\nFor more than 35 years, ground breaking technologies and business models engineered and developed by Siemens Turkey R&D department contributes to the global success of Siemens\nOur R&D activities focused on the fields of electrification, automation and digitalization, provides end-to-end support to our global customers on their unique digital transformation journey.\nWe aim to increase our strength on solution and product development with world class SW development experts, with the vision to be the digitalization partner for"
+  },
+  "linkedin:4493414451": {
+   "t": 1795607174.613657,
+   "source": "linkedin",
+   "title": "Ön Muhasebe ve Satın Alma Sorumlusu",
+   "company": "Technonet Bilişim",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Şirketimizin ön muhasebe ve satın alma süreçlerinde görev alacak, aşağıdaki niteliklere sahip Ön Muhasebe ve Satın Alma Sorumlusu arıyoruz.\nİş Tanımı\nGünlük ön muhasebe işlemlerinin yürütülmesi,\nAlış ve satış faturalarının sisteme işlenmesi ve takibi,\nE-fatura ve e-arşiv süreçlerinin yönetilmesi,\nCari hesap takibi ve mutabakat işlemlerinin gerçekleştirilmesi,\nBanka, kasa ve ödeme işlemlerinin takibi,\nTedarikçilerden fiyat teklifi alınması ve tekliflerin karşılaştırılması,\nSatın alma siparişlerinin oluşturulması ve teslimat süreçlerinin takip edilmesi,\nSatın alma faturalarının kontrol edilmesi "
   }
  },
  "pending": {}
