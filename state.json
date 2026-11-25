@@ -12615,6 +12615,24 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4604488": {
+   "t": 1795617999.7133713,
+   "title": "Aktüerya ve Ürün Geliştirme Müdürü",
+   "company": "HDI Fiba Emeklilik ve Hayat Anonim Şirketi",
+   "url": "https://www.kariyer.net/is-ilani/hdi-fiba-emeklilik-ve-hayat-anonim-sirketi-aktuerya-ve-urun-gelistirme-muduru-4604488",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4604465": {
+   "t": 1795617999.7144725,
+   "title": "Engelli-Çağrı Merkezi Müşteri Temsilcisi",
+   "company": "GÜRGENÇLER BİLİŞİM İLETİŞİM İÇ VE DIŞ TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/gurgencler-bilisim-iletisim-ic-ve-dis-ticaret-anon-engelli-cagri-merkezi-musteri-temsilcisi-4604465",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -13974,44 +13992,46 @@
   "0e2d481cfb255e71": "kariyernet:4604391",
   "af4d65da772bf0fb": "kariyernet:3234188",
   "41c07f949942f1b8": "kariyernet:4604441",
-  "40cb28e8ebf53989": "linkedin:4494910793"
+  "40cb28e8ebf53989": "linkedin:4494910793",
+  "5014e536fd2d6764": "kariyernet:4604488",
+  "218b2d03651dc249": "kariyernet:4604465"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795617083.8681078,
+   "last_run": 1795617958.31926,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795617083.8681102,
+   "last_ok": 1795617958.3192618,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795616201.7779229,
+   "last_run": 1795617999.7100384,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795616201.7779245,
+   "last_ok": 1795617999.71004,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795614439.2331345,
+   "last_run": 1795618006.099543,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795614439.233136,
+   "last_ok": 1795618006.0995445,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795614444.1923244,
+   "last_run": 1795618011.638437,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795614444.1923254,
+   "last_ok": 1795618011.6384387,
    "alerted": false,
    "ctx": {}
   },
