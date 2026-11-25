@@ -13782,15 +13782,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795605380.852663,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=data+analyst&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795604519.7158458,
+   "last_run": 1795606291.3391829,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795606291.3391845,
    "alerted": false,
    "ctx": {
-    "cursor": 16,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 2
    }
   },
   "kariyernet": {
@@ -13822,10 +13820,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795599081.725725,
+   "last_run": 1795606293.9240909,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795599081.7257264,
+   "last_ok": 1795606293.924093,
    "alerted": false,
    "ctx": {}
   }
