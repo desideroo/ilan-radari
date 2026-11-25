@@ -12085,6 +12085,26 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4481437998": {
+   "t": 1795586497.3051882,
+   "title": "Sunucu Uygulamaları Yazılım Geliştirme Mühendisi",
+   "company": "Aselsan",
+   "url": "https://www.linkedin.com/jobs/view/4481437998/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493089522": {
+   "t": 1795586499.5887556,
+   "title": "Application Development Engineer – Data & AI Products",
+   "company": "LC Waikiki",
+   "url": "https://www.linkedin.com/jobs/view/4493089522/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -13389,17 +13409,19 @@
   "e5ce32f3d15f5b95": "linkedin:4494397646",
   "cad65b8f09e7353b": "linkedin:4493002321",
   "b868a7de4acdd77c": "linkedin:4494451560",
-  "7d962ab4beffedbf": "linkedin:4492682865"
+  "7d962ab4beffedbf": "linkedin:4492682865",
+  "ac5ddbf7a2172cee": "linkedin:4481437998",
+  "e429f7b3e73800b3": "linkedin:4493089522"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795585586.7993243,
+   "last_run": 1795586494.889429,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795585586.7993257,
+   "last_ok": 1795586494.8894305,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
@@ -13528,7 +13550,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 1
+   "rej_remote": 3
   }
  },
  "details": {
@@ -19914,6 +19936,40 @@
    "track_from": "title",
    "llm": {},
    "description": "POS/kasa sistemleri, restoran otomasyonu, adisyon veya e-ticaret yazılımları satışında deneyimli, müşteri ilişkileri ve satış süreçlerini yönetebilecek bir Satış Uzmanı arıyoruz.\nBu alanlarda deneyimi bulunmayan adayların başvuruları değerlendirmeye alınmayacaktır.\nAranan Nitelikler\nİlgili yazılımların satışında en az 2 yıl deneyimli.\nMüşteri kazanımı, portföy yönetimi ve satış süreçlerinde deneyimli.\nMüşteri ihtiyaçlarını analiz etme, teklif hazırlama ve satış sonuçlandırma becerisine sahip.\nRestoran, kafe, perakende veya e-ticaret sektörleri hakkında bilgi sahibi.\nGüçlü iletişim, ikna ve pro"
+  },
+  "linkedin:4481437998": {
+   "t": 1795586497.3052309,
+   "source": "linkedin",
+   "title": "Sunucu Uygulamaları Yazılım Geliştirme Mühendisi",
+   "company": "Aselsan",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "ASELSAN Ulaşım, Güvenlik, Enerji, Otomasyon ve Sağlık Sistemleri (UGES) Sektör Başkanlığı bünyesinde Macunköy yerleşkesindeki faaliyetlerimizde bize güç katacak;\nüniversitelerin Bilgisayar Mühendisliği bölümlerinden mezun\nSunucu Uygulamaları Yazılım Geliştirme Mühendisi\nçalışma arkadaşları arıyoruz.\nBU POZİSYONDA EN ÖNEM VERDİĞİMİZ YETKİNLİKLER VE DENEYİMLER\nC# ve .NET ekosisteminde tecrübeye sahip,\nMikro servis, bulut ve dağıtık mimariler konusunda bilgili,\nMulti-threading, async yapılar ve performans optimizasyonu konularında deneyimli,\nGit gibi versiyon kontrol sistemlerini etkin bir şekild"
+  },
+  "linkedin:4493089522": {
+   "t": 1795586499.5888033,
+   "source": "linkedin",
+   "title": "Application Development Engineer – Data & AI Products",
+   "company": "LC Waikiki",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Application Development Engineer – Data & AI Products\nAre You Ready to Join LC Waikiki’s Digital Transformation Journey?\nWith more than 1,300 stores around the world and a strong presence in 60 countries, we are on an exciting journey guided by our philosophy: “Everyone Deserves to Dress Well.”\nBeyond the world of fashion, we are also pursuing ambitious goals in technology and digital transformation. As LC Waikiki’s Digital Transformation and Information Technologies Department, with more than 850 professionals, we are shaping the future by putting innovation and collaboration at the heart of "
   }
  },
  "pending": {}
