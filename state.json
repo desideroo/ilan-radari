@@ -14118,40 +14118,40 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795628768.1833048,
+   "last_run": 1795629684.0662165,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795628768.183306,
+   "last_ok": 1795629684.0662177,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795627908.7431722,
+   "last_run": 1795629726.8433008,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795627908.743174,
+   "last_ok": 1795629726.8433027,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795626146.7402236,
+   "last_run": 1795629732.7199,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795626146.740225,
+   "last_ok": 1795629732.7199008,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795626151.7008462,
+   "last_run": 1795629739.270992,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795626151.7008471,
+   "last_ok": 1795629739.270993,
    "alerted": false,
    "ctx": {}
   },
@@ -14166,7 +14166,7 @@
  },
  "tg_offset": 985447703,
  "paused": false,
- "last_summary": "2026-11-24",
+ "last_summary": "2026-11-25",
  "daily": {
   "2026-11-17": {
    "sent": 19,
