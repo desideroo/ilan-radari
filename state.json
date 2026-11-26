@@ -12911,6 +12911,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493806003": {
+   "t": 1795677355.8488839,
+   "title": "Microsoft Infrastructure Engineer",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4493806003/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14301,17 +14310,18 @@
   "186ae0bb08f4071c": "linkedin:4495006126",
   "7a408c2aa4972931": "linkedin:4495005143",
   "a48867f12acabac0": "kariyernet:4604479",
-  "d35bfdb3e38c4866": "elemannet:4815122"
+  "d35bfdb3e38c4866": "elemannet:4815122",
+  "a19a0c32e85656f9": "linkedin:4493806003"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795676482.4953892,
+   "last_run": 1795677353.4197314,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795676482.4953907,
+   "last_ok": 1795677353.419733,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
