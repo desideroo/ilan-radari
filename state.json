@@ -13233,6 +13233,43 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493814564": {
+   "t": 1795696284.4482763,
+   "title": "Mid/Senior Full Stack Engineer – JS/TS",
+   "company": "Randstad Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4493814564/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4495280532": {
+   "t": 1795696284.448431,
+   "title": "Senior Software Engineer, Backend — Java / Spring Boot",
+   "company": "Medicasimple",
+   "url": "https://www.linkedin.com/jobs/view/4495280532/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4495026112": {
+   "t": 1795696284.4486768,
+   "title": "Senior Data Scientist",
+   "company": "OREDATA",
+   "url": "https://www.linkedin.com/jobs/view/4495026112/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4495015496": {
+   "t": 1795696287.024343,
+   "title": "Full Stack Engineer",
+   "company": "Talentown Recruitment Agency - IT",
+   "url": "https://www.linkedin.com/jobs/view/4495015496/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14657,29 +14694,33 @@
   "49b51fa49ccd0917": "kariyernet:4604960",
   "1aa4f2e05b3438b9": "kariyernet:4604935",
   "9ade867147a53d28": "linkedin:4495260423",
-  "4b43d36dda7f19a3": "linkedin:4493819384"
+  "4b43d36dda7f19a3": "linkedin:4493819384",
+  "c0ccce161372a6cf": "linkedin:4493814564",
+  "12442ae337c6b3c5": "linkedin:4495280532",
+  "da325d9f97e66e57": "linkedin:4495026112",
+  "93b036a3ca82cfff": "linkedin:4495015496"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795695357.7603133,
+   "last_run": 1795696284.4477637,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795695357.7603157,
+   "last_ok": 1795696284.4477644,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795694515.6198123,
+   "last_run": 1795696329.7706413,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795694515.619814,
+   "last_ok": 1795696329.770643,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -14806,7 +14847,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 14
+   "rej_remote": 15
   }
  },
  "details": {
@@ -22284,6 +22325,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 10 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Askerlik Durumu: Yapıldı; Yabancı Dil: İngilizce(Okuma : İyi, Yazma : İyi, Konuşma : İyi); Ehliyet: B sınıfı\n\nŞimşek Bisküvi ve Gıda San. A.Ş., 1996 yılından bu yana Karaman Organize Sanayi Bölgesi’ndeki modern tesislerinde bisküvi, çikolata, kek, gofret, kraker ve kruvasan gibi geniş bir ürün yelpazesinde üretim yapan, kalite ve gıda güvenliğini esas alan, ISO 9001 ve ISO 22000 belgelerine sahip, ürünlerini yurt içi ve yurt dışı pazarlara sunan bir gıda ve atıştırmalık şirketidir.\nKaraman Organize Sanayi Bölgesi’n"
+  },
+  "linkedin:4495015496": {
+   "t": 1795696287.0243776,
+   "source": "linkedin",
+   "title": "Full Stack Engineer",
+   "company": "Talentown Recruitment Agency - IT",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Finans sektöründe faaliyet gösteren iş ortağımızın projesinde görev almak üzere VPOS deneyimli Senior Full Stack arayışımız vardır.\nTeknik yetkinlikler:\n- .NET (C#), ASP.NET Core, EF Core\n- React + TypeScript\n- REST API tasarımı, mikroservis mimarisi\n- Oracle veritabanı (tercihen EF Core ile)\n- Git, CI/CD, unit/integration test (xUnit vb.)\n- Docker / OpenShift (Kubernetes) ortamında çalışma\n- MassTransit / mesajlaşma, Outbox pattern\n- OpenTelemetry, DDD, CQRS\nGörev tanımı:\n- Takımın mikroservislerinde ve React ekranlarında full-stack geliştirme\n- Tasarım kararlarına katılım, code review ve tek"
   }
  },
  "pending": {}
