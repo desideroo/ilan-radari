@@ -13014,6 +13014,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4460645562": {
+   "t": 1795682770.9820402,
+   "title": "IT Operations Expert (Data Center / IDC)",
+   "company": "Titanicom Tech Limited",
+   "url": "https://www.linkedin.com/jobs/view/4460645562/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14415,17 +14424,18 @@
   "76f074d184ddb6aa": "linkedin:4493488865",
   "85deae5a4bf68d7b": "linkedin:4495271404",
   "1c8a526807981957": "linkedin:4483074067",
-  "995bf1bf3a5155a4": "kariyernet:4604704"
+  "995bf1bf3a5155a4": "kariyernet:4604704",
+  "afadef6f9a1a750f": "linkedin:4460645562"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795681873.771446,
+   "last_run": 1795682768.330421,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795681873.7714472,
+   "last_ok": 1795682768.3304226,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
