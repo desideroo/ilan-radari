@@ -13023,6 +13023,55 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493807175": {
+   "t": 1795683688.7562397,
+   "title": "Satınalma Yöneticisi",
+   "company": "Adecco",
+   "url": "https://www.linkedin.com/jobs/view/4493807175/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4495014090": {
+   "t": 1795683690.9609063,
+   "title": "SAP SF Consultant",
+   "company": "NTT DATA Business Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4495014090/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4495257975": {
+   "t": 1795683693.5074515,
+   "title": "SAP FI İş Analisti",
+   "company": "Tanoto",
+   "url": "https://www.linkedin.com/jobs/view/4495257975/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493488895": {
+   "t": 1795683695.2931743,
+   "title": "Administrative Accounting",
+   "company": "BOCAN",
+   "url": "https://www.linkedin.com/jobs/view/4493488895/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "elemannet:4815221": {
+   "t": 1795683746.2867622,
+   "title": "İnsan Kaynakları - Muhasebe Personeli",
+   "company": "Beyazoğlu Yapı Metal",
+   "url": "https://www.eleman.net/is-ilani/insan-kaynaklari-muhasebe-personeli-i4815221",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14425,44 +14474,49 @@
   "85deae5a4bf68d7b": "linkedin:4495271404",
   "1c8a526807981957": "linkedin:4483074067",
   "995bf1bf3a5155a4": "kariyernet:4604704",
-  "afadef6f9a1a750f": "linkedin:4460645562"
+  "afadef6f9a1a750f": "linkedin:4460645562",
+  "aab0a81ad010ea0d": "linkedin:4493807175",
+  "1395fdeb670500f3": "linkedin:4495014090",
+  "2ace66f097b6f48f": "linkedin:4495257975",
+  "36fc159cfc02d3a7": "linkedin:4493488895",
+  "7e8f70b163ae25d6": "elemannet:4815221"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795682768.330421,
+   "last_run": 1795683688.7552426,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795682768.3304226,
+   "last_ok": 1795683688.7552445,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795681922.2893162,
+   "last_run": 1795683738.6886153,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795681922.2893174,
+   "last_ok": 1795683738.688617,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795680096.7246435,
+   "last_run": 1795683743.4776926,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795680096.724645,
+   "last_ok": 1795683743.4776943,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795680101.856263,
+   "last_run": 1795683752.9223516,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795680101.8562658,
+   "last_ok": 1795683752.9223535,
    "alerted": false,
    "ctx": {}
   },
@@ -14574,7 +14628,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 7
+   "rej_remote": 10
   }
  },
  "details": {
@@ -21848,6 +21902,74 @@
    "track_from": "title",
    "llm": {},
    "description": "Build the Next Generation of AI Agents for Wholesale Banking\nAt ING Wholesale Banking, we're applying Agentic AI to one of the most complex challenges in financial services: KYC (Know Your Customer).\nAs part of ING Analytics Wholesale Banking, you'll build intelligent systems that extract information, assess completeness, resolve entities, and support risk-based decision-making while meeting the governance and compliance standards required in global banking.\nThe Challenge\nThis role combines Agentic AI, machine learning, entity resolution, and graph analytics to solve complex KYC challenges for"
+  },
+  "linkedin:4495014090": {
+   "t": 1795683690.9609478,
+   "source": "linkedin",
+   "title": "SAP SF Consultant",
+   "company": "NTT DATA Business Solutions",
+   "location": "Ataşehir",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Geleceği Birlikte Tasarlamaya Var mısın?\nNTT DATA Business Solutions ekibi olarak, sadece teknoloji üretmiyoruz; inovasyonu insanlar için anlamlı kılan bir gelecek tasarlıyoruz. Sen de sınırları zorlamayı, büyük düşünmeyi ve gerçek bir etki yaratmayı seviyorsan; gelişim yolculuğuna bizimle devam etmeye ne dersin?\nBiz Kimiz?\nNTT DATA Business Solutions'ta, 30'dan fazla ülkede 18.500'den fazla uzmanımızla inovasyona öncülük ediyoruz. SAP odaklılığımızı güçlü partner ekosistemimizle birleştirerek teknolojiyi insanlar için anlamlı kılıyoruz. META (Orta Doğu, Türkiye, Afrika) bölgesindeki geniş uzm"
+  },
+  "linkedin:4495257975": {
+   "t": 1795683693.5074887,
+   "source": "linkedin",
+   "title": "SAP FI İş Analisti",
+   "company": "Tanoto",
+   "location": "Gölbaşı",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Otomotiv sektöründe, 1992 yılından bu yana bulunan Tanoto; Ford, Fiat, Renault, Dacia, Chery, Omoda|Jaecoo Otomobil ve Hafif Ticari Araç bayilikleri ile sektöre dair tüm çözümleri tek çatı altında buluşturarak, yeni ve ikinci el araç satış, satış sonrası, sigorta hizmetleri ile müşterilerimize en iyi satın alma ve satış sonrası hizmet deneyimini yaşatmaktadır.\nGeniş araç filomuz ve yurt geneline yaygın 500 anlaşmalı servis ağımızla her sektörden müşterimize Uzun Dönemli Kiralama hizmetini TanFilo markamızla devam ettirmekteyiz. Hedefimiz müşterilerimizin maliyetlerini düşürmek, karlılık ve ver"
+  },
+  "linkedin:4493488895": {
+   "t": 1795683695.2932184,
+   "source": "linkedin",
+   "title": "Administrative Accounting",
+   "company": "BOCAN",
+   "location": "Bursa, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "Ön Büro ve Ön Muhasebe Sorumlusu\nUluslararası lüks moda sektöründe faaliyet gösteren Bocan Couture'un Bursa merkezinde görevlendirilmek üzere, İngilizce bilen, ön muhasebe ve ERP sistemleri konusunda deneyimli bir çalışma arkadaşı arıyoruz.\nAranan Nitelikler\nÖn muhasebe alanında en az 2-3 yıl deneyimli,\nNebim veya benzeri ERP programlarının kullanımında deneyimli, tercihen Nebim sistemine hâkim,\nİyi derecede yazılı ve sözlü İngilizce bilgisine sahip,\nMS Office ve özellikle Excel programlarına hâkim,\nE-fatura, e-arşiv, cari hesap, banka ve ödeme takibi konusunda deneyimli,\nStok, sipariş ve fatu"
+  },
+  "elemannet:4815221": {
+   "t": 1795683746.2868211,
+   "source": "elemannet",
+   "title": "İnsan Kaynakları - Muhasebe Personeli",
+   "company": "Beyazoğlu Yapı Metal",
+   "location": "Konya - Karatay",
+   "work_mode": "",
+   "posted": "",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Yemek, Servis"
   }
  },
  "pending": {}
