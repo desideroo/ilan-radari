@@ -13279,6 +13279,35 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4495286392": {
+   "t": 1795698113.3189914,
+   "title": "Quality Assurance Chief (Mechanical)",
+   "company": "Rönesans Endüstri Tesisleri",
+   "url": "https://www.linkedin.com/jobs/view/4495286392/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4605142": {
+   "t": 1795698159.1395802,
+   "title": "Bilgi İşlem Personeli",
+   "company": "ANADOLU GELİŞİM OKULLARI",
+   "url": "https://www.kariyer.net/is-ilani/anadolu-gelisim-okullari-bilgi-islem-personeli-4605142",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "3+ yıl deneyim"
+  },
+  "elemannet:4815515": {
+   "t": 1795698166.511656,
+   "title": "Enjeksiyon Bölümü Üretim Personeli",
+   "company": "Makromed",
+   "url": "https://www.eleman.net/is-ilani/enjeksiyon-bolumu-uretim-personeli-i4815515",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14708,44 +14737,47 @@
   "12442ae337c6b3c5": "linkedin:4495280532",
   "da325d9f97e66e57": "linkedin:4495026112",
   "93b036a3ca82cfff": "linkedin:4495015496",
-  "4f61cce01b2d133d": "linkedin:4493814350"
+  "4f61cce01b2d133d": "linkedin:4493814350",
+  "d1792283442a514c": "linkedin:4495286392",
+  "9b6b415e72435cd4": "kariyernet:4605142",
+  "529c3fa64f63ab1f": "elemannet:4815515"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795697183.0431557,
+   "last_run": 1795698113.3185227,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795697183.043158,
+   "last_ok": 1795698113.318524,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795696329.7706413,
+   "last_run": 1795698155.0324612,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795696329.770643,
+   "last_ok": 1795698155.0324633,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795694521.6504912,
+   "last_run": 1795698164.2527573,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795694521.6504927,
+   "last_ok": 1795698164.2527587,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795694526.5799506,
+   "last_run": 1795698171.6765342,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795694526.5799518,
+   "last_ok": 1795698171.6765358,
    "alerted": false,
    "ctx": {}
   },
@@ -14857,7 +14889,8 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 15
+   "rej_remote": 15,
+   "rej_exp": 1
   }
  },
  "details": {
@@ -22352,6 +22385,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Finans sektöründe faaliyet gösteren iş ortağımızın projesinde görev almak üzere VPOS deneyimli Senior Full Stack arayışımız vardır.\nTeknik yetkinlikler:\n- .NET (C#), ASP.NET Core, EF Core\n- React + TypeScript\n- REST API tasarımı, mikroservis mimarisi\n- Oracle veritabanı (tercihen EF Core ile)\n- Git, CI/CD, unit/integration test (xUnit vb.)\n- Docker / OpenShift (Kubernetes) ortamında çalışma\n- MassTransit / mesajlaşma, Outbox pattern\n- OpenTelemetry, DDD, CQRS\nGörev tanımı:\n- Takımın mikroservislerinde ve React ekranlarında full-stack geliştirme\n- Tasarım kararlarına katılım, code review ve tek"
+  },
+  "kariyernet:4605142": {
+   "t": 1795698159.1396239,
+   "source": "kariyernet",
+   "title": "Bilgi İşlem Personeli",
+   "company": "ANADOLU GELİŞİM OKULLARI",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "3+ yıl deneyim",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: En az 3 yıl tecrübeli; Eğitim Seviyesi: Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun), Doktora(Öğrenci), Doktora(Mezun); Askerlik Durumu: Yapıldı, Muaf\n\nGENEL NİTELİKLER\nMeslek yüksekokulu/üniversitelerin ilgili bölümlerinden mezun (Bilgisayar Programcılığı, Bilgisayar Teknolojileri vb.)\nEn az 3 yıl\nson kullanıcı destek ve sistem/altyapı deneyimi\nWindows 10/11, temel\nAD/Domain\n, kullanıcı–yetki, güvenlik ve yedekleme konularında bilgili\nAğ temelleri (LAN/Wi-Fi, IP, modem/switch, erişim noktaları) ve yazıcı/fotokopi/baskı yönetiminde"
+  },
+  "elemannet:4815515": {
+   "t": 1795698166.5116956,
+   "source": "elemannet",
+   "title": "Enjeksiyon Bölümü Üretim Personeli",
+   "company": "Makromed",
+   "location": "Konya - Çumra",
+   "work_mode": "",
+   "posted": "",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Yemek, Servis"
   }
  },
  "pending": {}
