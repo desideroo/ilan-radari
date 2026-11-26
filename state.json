@@ -13405,6 +13405,43 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493824275": {
+   "t": 1795703487.7581034,
+   "title": "Akasya Avm Uzman Satış Danışmanı",
+   "company": "Hälsa Yatak",
+   "url": "https://www.linkedin.com/jobs/view/4493824275/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493417486": {
+   "t": 1795703487.7582386,
+   "title": "Project Management & Digital Business Development Intern",
+   "company": "Yeni Koza",
+   "url": "https://www.linkedin.com/jobs/view/4493417486/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4495036054": {
+   "t": 1795703487.7584128,
+   "title": "Senior AI Engineer",
+   "company": "OREDATA",
+   "url": "https://www.linkedin.com/jobs/view/4495036054/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493820477": {
+   "t": 1795703490.3430223,
+   "title": "Yapay Zeka Mühendisi (LLM/VLM)",
+   "company": "ANKAREF",
+   "url": "https://www.linkedin.com/jobs/view/4493820477/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14847,29 +14884,33 @@
   "4748963e8f358181": "linkedin:4459949532",
   "67921f0596e31f2a": "linkedin:4296776175",
   "a8a83bcc70b3124f": "linkedin:4493814877",
-  "9702aa86dee85e9d": "linkedin:4455843679"
+  "9702aa86dee85e9d": "linkedin:4455843679",
+  "b2d0218dd2f192e4": "linkedin:4493824275",
+  "0d29249852a1b2fd": "linkedin:4493417486",
+  "3c1ef7806663e2da": "linkedin:4495036054",
+  "e82b90ef8ee8aa3c": "linkedin:4493820477"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795702564.7432032,
+   "last_run": 1795703487.7574646,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795702564.7432044,
+   "last_ok": 1795703487.7574663,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795701748.1733847,
+   "last_run": 1795703531.7395499,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795701748.1733866,
+   "last_ok": 1795703531.739552,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -14996,7 +15037,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 21,
+   "rej_remote": 22,
    "rej_exp": 1
   }
  },
@@ -22645,6 +22686,23 @@
    "track_from": "title",
    "llm": {},
    "description": "About the Job\nCompany Description\nOBSS is an engineering-led technology consultancy helping organisations build, modernise and scale mission-critical systems through AI-native delivery. For 20+ years, we’ve delivered high-volume solutions across defence, finance, insurance, aviation, retail & e-commerce, and other regulated industries, driving measurable business impact across complex digital ecosystems. Our capabilities span technology consultancy, software engineering, cloud, data & AI, and experience design. We apply AI-native delivery to bring greater speed, governance, predictability, and"
+  },
+  "linkedin:4493820477": {
+   "t": 1795703490.343062,
+   "source": "linkedin",
+   "title": "Yapay Zeka Mühendisi (LLM/VLM)",
+   "company": "ANKAREF",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Türkiye’nin lider IoT servis sağlayıcısı ANKAREF İnovasyon ve Teknoloji A.Ş olarak şirketimizde, Yapay Zeka Departmanında görevlendirilecek Yapay Zeka Mühendisi (LLM/VLM) arıyoruz.\nLokasyon: Ankara, ODTÜ Teknokent\nÇalışma Şekli: Tam zamanlı\nGenel Nitelikler:\nTercihen önde gelen üniversitelerin Bilgisayar Mühendisliği veya Yapay Zekâ Mühendisliği bölümlerinden mezun,\nYapay zekâ veya yazılım geliştirme alanlarında 1–2 yıl uygulamalı deneyime sahip,\nAlgoritmalar, veri yapıları, makine öğrenmesi ve derin öğrenme konularında güçlü teorik altyapı deneyimi olan,\nYapay zekâ, doğal dil işleme veya bilg"
   }
  },
  "pending": {}
