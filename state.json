@@ -12920,6 +12920,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4432781127": {
+   "t": 1795678290.4375021,
+   "title": "Backend Engineer",
+   "company": "Migros One",
+   "url": "https://www.linkedin.com/jobs/view/4432781127/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4604730": {
+   "t": 1795678334.5399811,
+   "title": "Montaj Elemanı",
+   "company": "N2mobil Takip Sistemleri A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/n2mobil-takip-sistemleri-a-s-montaj-elemani-4604730",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14311,29 +14330,31 @@
   "7a408c2aa4972931": "linkedin:4495005143",
   "a48867f12acabac0": "kariyernet:4604479",
   "d35bfdb3e38c4866": "elemannet:4815122",
-  "a19a0c32e85656f9": "linkedin:4493806003"
+  "a19a0c32e85656f9": "linkedin:4493806003",
+  "064b0222b7023d3f": "linkedin:4432781127",
+  "08e0c25153fbb473": "kariyernet:4604730"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795677353.4197314,
+   "last_run": 1795678281.1867504,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795677353.419733,
+   "last_ok": 1795678281.186752,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795676525.1015723,
+   "last_run": 1795678331.169205,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795676525.1015742,
+   "last_ok": 1795678331.1692069,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -14353,10 +14374,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795671118.2538476,
+   "last_run": 1795678337.9697328,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795671118.2538486,
+   "last_ok": 1795678337.9697344,
    "alerted": false,
    "ctx": {}
   }
@@ -14460,7 +14481,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 3
+   "rej_remote": 4
   }
  },
  "details": {
@@ -21666,6 +21687,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Discover Your Potential and Grow with Evyap\nWith more than 3,000 employees and exports to over 100 countries, EVYAP’s success story began in a small workshop in Erzurum in 1927. Today, our trusted brands, including Duru, Arko Nem, Arko Men, Emotion, Blade, Activex, Evy Baby, and Fax, are loved by millions of consumers around the world.\nWith production facilities in Türkiye, Egypt, and the world’s largest oleochemicals plant in Malaysia, we continue to create value through innovation, sustainability, and a commitment to excellence. Most importantly, we believe our success comes from our people "
+  },
+  "linkedin:4432781127": {
+   "t": 1795678290.4375393,
+   "source": "linkedin",
+   "title": "Backend Engineer",
+   "company": "Migros One",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Who are we?\nOur business is technology, food and retail. We are a young team that combines all resources with technology; Our goal is to provide an excellent e-commerce service to meet your needs. In short, you can call us Migros One. 😉\nToday, as a team that holds the\n“Great Place To Work”\ncertificate with the contributions of our employees we produce, learn and develop together. We rediscover our passion for our business every day and build Migros One culture together.\nOur Culture\nWe are #ONE to create a better tomorrow for our community. Our way of working includes four core values that we s"
   }
  },
  "pending": {}
