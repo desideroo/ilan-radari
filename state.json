@@ -12948,6 +12948,72 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493806066": {
+   "t": 1795681873.7719624,
+   "title": "CRM & Data Analytics Manager / Assistant Manager",
+   "company": "TEB",
+   "url": "https://www.linkedin.com/jobs/view/4493806066/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4494993720": {
+   "t": 1795681873.7721512,
+   "title": "Senior Data Scientist, İstanbul ( Anadolu Yakası )",
+   "company": "Miorec İnsan Kaynakları A.Ş.",
+   "url": "https://www.linkedin.com/jobs/view/4494993720/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4483065492": {
+   "t": 1795681873.7723162,
+   "title": "Senior NLP/LLM/LLMOps Data Scientist",
+   "company": "ING Hubs Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4483065492/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493488865": {
+   "t": 1795681876.4167616,
+   "title": "Data Scientist",
+   "company": "Fomo Games",
+   "url": "https://www.linkedin.com/jobs/view/4493488865/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4495271404": {
+   "t": 1795681878.5938573,
+   "title": "GenAI Platform & Solutions Engineer",
+   "company": "RDC Talent",
+   "url": "https://www.linkedin.com/jobs/view/4495271404/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4483074067": {
+   "t": 1795681880.8855407,
+   "title": "Agentic AI Data Scientist – KYC & Wholesale Banking",
+   "company": "ING Hubs Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4483074067/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4604704": {
+   "t": 1795681922.2905438,
+   "title": "Laboratuvar Yöneticisi",
+   "company": "Biberci İnşaat Nakliye Petrol San. Tic. Ltd. Şti.",
+   "url": "https://www.kariyer.net/is-ilani/biberci-insaat-nakliye-petrol-san-tic-ltd-sti-laboratuvar-yoneticisi-4604704",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14342,29 +14408,36 @@
   "a19a0c32e85656f9": "linkedin:4493806003",
   "064b0222b7023d3f": "linkedin:4432781127",
   "08e0c25153fbb473": "kariyernet:4604730",
-  "f74fe0e61b55f93d": "linkedin:4495254963"
+  "f74fe0e61b55f93d": "linkedin:4495254963",
+  "a809bc9e94967739": "linkedin:4493806066",
+  "f5051de0d99c65a4": "linkedin:4494993720",
+  "d3db712dc09cc236": "linkedin:4483065492",
+  "76f074d184ddb6aa": "linkedin:4493488865",
+  "85deae5a4bf68d7b": "linkedin:4495271404",
+  "1c8a526807981957": "linkedin:4483074067",
+  "995bf1bf3a5155a4": "kariyernet:4604704"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795680978.7729309,
+   "last_run": 1795681873.771446,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795680978.7729323,
+   "last_ok": 1795681873.7714472,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795680091.4625196,
+   "last_run": 1795681922.2893162,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795680091.4625218,
+   "last_ok": 1795681922.2893174,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -14491,7 +14564,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 4
+   "rej_remote": 7
   }
  },
  "details": {
@@ -21714,6 +21787,57 @@
    "track_from": "title",
    "llm": {},
    "description": "Who are we?\nOur business is technology, food and retail. We are a young team that combines all resources with technology; Our goal is to provide an excellent e-commerce service to meet your needs. In short, you can call us Migros One. 😉\nToday, as a team that holds the\n“Great Place To Work”\ncertificate with the contributions of our employees we produce, learn and develop together. We rediscover our passion for our business every day and build Migros One culture together.\nOur Culture\nWe are #ONE to create a better tomorrow for our community. Our way of working includes four core values that we s"
+  },
+  "linkedin:4493488865": {
+   "t": 1795681876.4167914,
+   "source": "linkedin",
+   "title": "Data Scientist",
+   "company": "Fomo Games",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "We are a fast growing mobile game developer based in Istanbul.\nOur team comprises experienced gaming designers, marketing, data and technology experts as well as successful business builders. FOMO stands for Fear Of Missing Out, which defines our product vision and culture.\nTo strengthen our team, we are looking for a Data Scientist.\nWhat will I do?\nAs a Data Scientist you will\nProactively develop new analyses to better understand our players’ behaviour and the performance of our games,\nProvide insights to support decision making for the game,\nVisualize analysis results and present to all audi"
+  },
+  "linkedin:4495271404": {
+   "t": 1795681878.5938916,
+   "source": "linkedin",
+   "title": "GenAI Platform & Solutions Engineer",
+   "company": "RDC Talent",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "RDC Talent supports organizations in navigating talent and organizational transformation in the age of AI, offering end-to-end solutions across AI Transformation Consulting, AI & IT Recruitment, Outsourcing, Strategic HR Consulting, and Leadership & Competency Development.\nWith 20+ years of experience, a team of industry experts, and work delivered for 500+ companies, we help organizations across technology, fintech, banking, e-commerce, insurance, and other industries address their evolving needs by connecting them with the right talent and organizational structures.\nIf you think you have mos"
+  },
+  "linkedin:4483074067": {
+   "t": 1795681880.88558,
+   "source": "linkedin",
+   "title": "Agentic AI Data Scientist – KYC & Wholesale Banking",
+   "company": "ING Hubs Türkiye",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Build the Next Generation of AI Agents for Wholesale Banking\nAt ING Wholesale Banking, we're applying Agentic AI to one of the most complex challenges in financial services: KYC (Know Your Customer).\nAs part of ING Analytics Wholesale Banking, you'll build intelligent systems that extract information, assess completeness, resolve entities, and support risk-based decision-making while meeting the governance and compliance standards required in global banking.\nThe Challenge\nThis role combines Agentic AI, machine learning, entity resolution, and graph analytics to solve complex KYC challenges for"
   }
  },
  "pending": {}
