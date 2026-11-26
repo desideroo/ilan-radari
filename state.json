@@ -13072,6 +13072,35 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4493094699": {
+   "t": 1795685482.5077038,
+   "title": "Gişe Yetkilisi",
+   "company": "Ayvalık Seyhan Döviz Ve Altın Sınırlı Yetkili Müessese A.Ş",
+   "url": "https://www.linkedin.com/jobs/view/4493094699/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493807307": {
+   "t": 1795685485.1757,
+   "title": "Uçuş Test Mühendisi",
+   "company": "Enetki Savunma",
+   "url": "https://www.linkedin.com/jobs/view/4493807307/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4604856": {
+   "t": 1795685530.7145014,
+   "title": "Teknik Ressam",
+   "company": "Fesan Makina Otomotiv İnşaat San. Tic. Ltd. Şti.",
+   "url": "https://www.kariyer.net/is-ilani/fesan-makina-otomotiv-insaat-san-tic-ltd-sti-teknik-ressam-4604856",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14479,29 +14508,32 @@
   "1395fdeb670500f3": "linkedin:4495014090",
   "2ace66f097b6f48f": "linkedin:4495257975",
   "36fc159cfc02d3a7": "linkedin:4493488895",
-  "7e8f70b163ae25d6": "elemannet:4815221"
+  "7e8f70b163ae25d6": "elemannet:4815221",
+  "c461ee7f7a57e280": "linkedin:4493094699",
+  "001dfa4329b354ee": "linkedin:4493807307",
+  "b64ccf71ec004d36": "kariyernet:4604856"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795684588.669253,
+   "last_run": 1795685480.718837,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795684588.6692543,
+   "last_ok": 1795685480.7188382,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795683738.6886153,
+   "last_run": 1795685526.2913654,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795683738.688617,
+   "last_ok": 1795685526.2913666,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -14521,10 +14553,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795678337.9697328,
+   "last_run": 1795685534.1869857,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795678337.9697344,
+   "last_ok": 1795685534.1869867,
    "alerted": false,
    "ctx": {}
   }
@@ -14628,7 +14660,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 10
+   "rej_remote": 11
   }
  },
  "details": {
@@ -21970,6 +22002,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Yemek, Servis"
+  },
+  "linkedin:4493807307": {
+   "t": 1795685485.1757312,
+   "source": "linkedin",
+   "title": "Uçuş Test Mühendisi",
+   "company": "Enetki Savunma",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "UÇUŞ TEST MÜHENDİSİ\n📍 Lokasyon: Ankara\n🏢 Çalışma Modeli: Tam Zamanlı\nSavunma ve havacılık teknolojileri alanında geliştirdiğimiz yenilikçi platformların uçuş doğrulama, test ve analiz süreçlerinde görev alacak Uçuş Test Mühendisi arıyoruz.\nDinamik çalışma ortamında, hava araçlarının performans, güvenlik ve sistem doğrulama faaliyetlerini yürütecek; test planlama, veri analizi ve sistem değerlendirme süreçlerinde aktif rol üstlenecek takım arkadaşı aramaktayız.\nGenel Nitelikler\nÜniversitelerin Elektrik-Elektronik, Havacılık, Uzay, Mekatronik veya ilgili mühendislik bölümlerinden mezun,\nHava ara"
+  },
+  "kariyernet:4604856": {
+   "t": 1795685530.7145436,
+   "source": "kariyernet",
+   "title": "Teknik Ressam",
+   "company": "Fesan Makina Otomotiv İnşaat San. Tic. Ltd. Şti.",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 2 - 99 yıl arası; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı, Muaf\n\nTreyler imalatı sektöründe faaliyet gösteren firmamızın büyüyen organizasyonunda görevlendirilmek üzere; üretim süreçlerinin verimli, zamanında ve hedeflenen kalitede yürütülmesini sağlayacak \"Teknik Ressam\" pozisyonunda çalışma arkadaşı arıyoruz.\nGörev ve Sorumluluklar\n* Treyler/yarı römork şasi, üstyapı, aks/süspansiyon bağlantıları ve alt montaj gruplarına ait 2D i"
   }
  },
  "pending": {}
