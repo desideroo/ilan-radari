@@ -13317,6 +13317,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493813880": {
+   "t": 1795700778.2196574,
+   "title": "Telekomünikasyon Saha Teknik Personeli",
+   "company": "Next Telekom",
+   "url": "https://www.linkedin.com/jobs/view/4493813880/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14750,17 +14759,18 @@
   "d1792283442a514c": "linkedin:4495286392",
   "9b6b415e72435cd4": "kariyernet:4605142",
   "529c3fa64f63ab1f": "elemannet:4815515",
-  "71b508c8ac5e1a9f": "kariyernet:4605132"
+  "71b508c8ac5e1a9f": "kariyernet:4605132",
+  "7fc55db720e09576": "linkedin:4493813880"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795699901.7589893,
+   "last_run": 1795700776.4363708,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795699901.7589905,
+   "last_ok": 1795700776.4363725,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
