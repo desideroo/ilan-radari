@@ -14967,13 +14967,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795721469.330651,
+   "last_run": 1795722366.0170066,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795721469.3306522,
+   "last_ok": 1795722366.0170076,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
