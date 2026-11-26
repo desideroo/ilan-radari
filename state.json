@@ -13510,6 +13510,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4605327": {
+   "t": 1795723322.9473808,
+   "title": "Bölge Satış Sorumlusu",
+   "company": "Actimoo A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/actimoo-a-s-bolge-satis-sorumlusu-4605327",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14963,44 +14973,45 @@
   "0e739c37778a70a1": "linkedin:4493825941",
   "a41914e2e7054000": "linkedin:4488414012",
   "68a83228e412408d": "kariyernet:4605316",
-  "4f2e3afdf730e9bf": "linkedin:4493419239"
+  "4f2e3afdf730e9bf": "linkedin:4493419239",
+  "311603fc09b7fece": "kariyernet:4605327"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795722366.0170066,
+   "last_run": 1795723276.5124123,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795722366.0170076,
+   "last_ok": 1795723276.512414,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795721509.8525236,
+   "last_run": 1795723319.6619139,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795721509.8525252,
+   "last_ok": 1795723319.6619163,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795719752.4510264,
+   "last_run": 1795723329.299221,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795719752.4510276,
+   "last_ok": 1795723329.2992225,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795719757.6592638,
+   "last_run": 1795723333.8273025,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795719757.6592648,
+   "last_ok": 1795723333.8273041,
    "alerted": false,
    "ctx": {}
   },
@@ -22863,6 +22874,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Be responsible for the test and verification of all scenarios of the NCE solution and provide pre-sales technical support for global market projects. Specific responsibilities include:\n1. Qualify for global key projects, present the value of products to customers, communicate with customers, and demonstrate related products and solutions to ensure that the solutions meet or exceed customer requirements.\n2. As a bridge between R&D and customers, deeply understand customers' networks and services, help R&D personnel build product value capabilities based on customers' scenarios and key requireme"
+  },
+  "kariyernet:4605327": {
+   "t": 1795723322.9474208,
+   "source": "kariyernet",
+   "title": "Bölge Satış Sorumlusu",
+   "company": "Actimoo A.Ş",
+   "location": "Konya",
+   "work_mode": "Uzaktan / Remote",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: En az 3 yıl tecrübeli; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun); Askerlik Durumu: Yapıldı; Ehliyet: B sınıfı\n\nGenel Nitelikler ve İş Tanımı\nHayvancılık teknolojileri alanında faaliyet gösteren Actimoo A.Ş., büyükbaş hayvancılık işletmelerinin dijitalleşmesini sağlayan sürü yönetim yazılımları, akıllı sensörler ve yenilikçi donanım çözümlerinin Türkiye satış ve dağıtım operasyonlarını yürütmektedir.\nBenimsürüm, CattleHub, Actimoo, M2Moo ve MastiPro gibi ürün ve çözümlerimizle hayvancılık işletmelerinin verimliliklerini ve kârlılıklarını artırma"
   }
  },
  "pending": {}
