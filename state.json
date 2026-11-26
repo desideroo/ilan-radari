@@ -13186,6 +13186,35 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4604939": {
+   "t": 1795692712.5030587,
+   "title": "İhracat Satış Temsilcisi",
+   "company": "DURU BULGUR GIDA SANAYİ VE TİCARETAŞ.",
+   "url": "https://www.kariyer.net/is-ilani/duru-bulgur-gida-sanayi-ve-ticaretas-ihracat-satis-temsilcisi-4604939",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4604960": {
+   "t": 1795692716.6685266,
+   "title": "İş Yeri Hemşiresi",
+   "company": "İris Akademi İş Sağlığı ve Güvenliği",
+   "url": "https://www.kariyer.net/is-ilani/iris-akademi-is-sagligi-ve-guvenligi-is-yeri-hemsiresi-4604960",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "kariyernet:4604935": {
+   "t": 1795692720.4260967,
+   "title": "Elektrik Elektronik Mühendisi",
+   "company": "Şimşek Bisküvi ve Gıda San. A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/simsek-biskuvi-ve-gida-san-a-s-elektrik-elektronik-muhendisi-4604935",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14605,29 +14634,32 @@
   "e76edd8f9403b2c0": "linkedin:4412695432",
   "c57bf0da61ded15a": "kariyernet:3293501",
   "9847c78e4eee0ed4": "kariyernet:4604945",
-  "b94c2c180a89a78b": "linkedin:4493009318"
+  "b94c2c180a89a78b": "linkedin:4493009318",
+  "c1802af713f093fc": "kariyernet:4604939",
+  "49b51fa49ccd0917": "kariyernet:4604960",
+  "1aa4f2e05b3438b9": "kariyernet:4604935"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795691758.4207659,
+   "last_run": 1795692668.6743438,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795691758.4207673,
+   "last_ok": 1795692668.6743455,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795690941.3077261,
+   "last_run": 1795692712.5028493,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795690941.3077276,
+   "last_ok": 1795692712.5028512,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -14647,10 +14679,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795685534.1869857,
+   "last_run": 1795692723.4749498,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795685534.1869867,
+   "last_ok": 1795692723.4749513,
    "alerted": false,
    "ctx": {}
   }
@@ -22198,6 +22230,40 @@
    "track_from": "title",
    "llm": {},
    "description": "About the Company\n\"Would you like to take your place in Allianz, which is the choice of those who care for tomorrow?”\nThe Allianz Group is one of the world's leading insurers and asset managers with more than 100 million private and corporate customers in more than 70 countries. We are proud to be the Worldwide Insurance Partner of the Olympic & Paralympic Movements from 2021 until 2028 and to be recognized as one of the industry leaders in the Dow Jones Sustainability Index.\nWe believe in fostering an inclusive workforce and are proud to be an equal opportunity employer. To fulfill our commit"
+  },
+  "kariyernet:4604960": {
+   "t": 1795692716.6685696,
+   "source": "kariyernet",
+   "title": "İş Yeri Hemşiresi",
+   "company": "İris Akademi İş Sağlığı ve Güvenliği",
+   "location": "Karaman +80 il daha",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 1 - 3 yıl arası; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun)\n\nİRİS Ortak Sağlık ve Güvenlik Birimi, 2014 yılından bu yana iş sağlığı ve güvenliği alanında danışmanlık ve çözümler sunan bir kuruluştur. Profesyonel kadrosuyla proaktif ve kalıcı İSG çözümleri geliştirerek hizmet vermektedir. Portföyünde ülkenin önde gelen kamu kurumları, büyük ölçekli kuruluşlar ve global firmalar yer almaktadır.\nİş sağlığı ve güvenliği hizmeti sunduğumuz kurum ve projelerde görevlendirilmek üzere\nİş Yeri Hemşiresi / Diğer Sağlık Personeli\npozisyonunda takım arkadaş"
+  },
+  "kariyernet:4604935": {
+   "t": 1795692720.4261422,
+   "source": "kariyernet",
+   "title": "Elektrik Elektronik Mühendisi",
+   "company": "Şimşek Bisküvi ve Gıda San. A.Ş.",
+   "location": "Karaman",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 2 - 10 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Askerlik Durumu: Yapıldı; Yabancı Dil: İngilizce(Okuma : İyi, Yazma : İyi, Konuşma : İyi); Ehliyet: B sınıfı\n\nŞimşek Bisküvi ve Gıda San. A.Ş., 1996 yılından bu yana Karaman Organize Sanayi Bölgesi’ndeki modern tesislerinde bisküvi, çikolata, kek, gofret, kraker ve kruvasan gibi geniş bir ürün yelpazesinde üretim yapan, kalite ve gıda güvenliğini esas alan, ISO 9001 ve ISO 22000 belgelerine sahip, ürünlerini yurt içi ve yurt dışı pazarlara sunan bir gıda ve atıştırmalık şirketidir.\nKaraman Organize Sanayi Bölgesi’n"
   }
  },
  "pending": {}
