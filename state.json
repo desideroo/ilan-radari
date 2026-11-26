@@ -13442,6 +13442,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494379279": {
+   "t": 1795706164.9798498,
+   "title": "Analytics Engineer (Fintech Services)",
+   "company": "Trendyol Group",
+   "url": "https://www.linkedin.com/jobs/view/4494379279/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14888,17 +14898,18 @@
   "b2d0218dd2f192e4": "linkedin:4493824275",
   "0d29249852a1b2fd": "linkedin:4493417486",
   "3c1ef7806663e2da": "linkedin:4495036054",
-  "e82b90ef8ee8aa3c": "linkedin:4493820477"
+  "e82b90ef8ee8aa3c": "linkedin:4493820477",
+  "a4508ccb373488c8": "linkedin:4494379279"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795705290.4646108,
+   "last_run": 1795706163.0487692,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795705290.4646127,
+   "last_ok": 1795706163.0487711,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
@@ -15037,7 +15048,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 22,
+   "rej_remote": 23,
    "rej_exp": 1
   }
  },
@@ -22703,6 +22714,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Türkiye’nin lider IoT servis sağlayıcısı ANKAREF İnovasyon ve Teknoloji A.Ş olarak şirketimizde, Yapay Zeka Departmanında görevlendirilecek Yapay Zeka Mühendisi (LLM/VLM) arıyoruz.\nLokasyon: Ankara, ODTÜ Teknokent\nÇalışma Şekli: Tam zamanlı\nGenel Nitelikler:\nTercihen önde gelen üniversitelerin Bilgisayar Mühendisliği veya Yapay Zekâ Mühendisliği bölümlerinden mezun,\nYapay zekâ veya yazılım geliştirme alanlarında 1–2 yıl uygulamalı deneyime sahip,\nAlgoritmalar, veri yapıları, makine öğrenmesi ve derin öğrenme konularında güçlü teorik altyapı deneyimi olan,\nYapay zekâ, doğal dil işleme veya bilg"
+  },
+  "linkedin:4494379279": {
+   "t": 1795706164.979889,
+   "source": "linkedin",
+   "title": "Analytics Engineer (Fintech Services)",
+   "company": "Trendyol Group",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "ABOUT THE TEAM\nWe’re shaping the future of financial technology at Trendyol.\nAs Trendyol’s technology teams, we’re not only building for today we’re designing the financial experiences of tomorrow. From payment infrastructure and digital wallets to smart credit systems and personalized financial services, we create solutions that empower millions of users across our ecosystem.\nWith Trendyol Pay, we enable fast, secure, and seamless payment journeys. Through Trendyol Finance, we develop inclusive and accessible products that simplify financial decisions.\nWe are united by a shared purpose: To cr"
   }
  },
  "pending": {}
