@@ -13111,6 +13111,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494993904": {
+   "t": 1795687297.734497,
+   "title": "Kıdemli Yazılım Mühendisi",
+   "company": "Yapı Kredi",
+   "url": "https://www.linkedin.com/jobs/view/4494993904/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14522,44 +14531,45 @@
   "c461ee7f7a57e280": "linkedin:4493094699",
   "001dfa4329b354ee": "linkedin:4493807307",
   "b64ccf71ec004d36": "kariyernet:4604856",
-  "f2047a1b36c08c24": "linkedin:4493494641"
+  "f2047a1b36c08c24": "linkedin:4493494641",
+  "52a18d140ee5c626": "linkedin:4494993904"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795686357.895889,
+   "last_run": 1795687297.7342153,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795686357.895891,
+   "last_ok": 1795687297.7342167,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795685526.2913654,
+   "last_run": 1795687339.3784983,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795685526.2913666,
+   "last_ok": 1795687339.3785,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795683743.4776926,
+   "last_run": 1795687345.2521572,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795683743.4776943,
+   "last_ok": 1795687345.252158,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795683752.9223516,
+   "last_run": 1795687350.2738135,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795683752.9223535,
+   "last_ok": 1795687350.2738144,
    "alerted": false,
    "ctx": {}
   },
