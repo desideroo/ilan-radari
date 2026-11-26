@@ -12846,6 +12846,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4495000213": {
+   "t": 1795673768.8585374,
+   "title": "Principal Software Development Engineer in Test (AI-Driven Quality Engineering)",
+   "company": "Jobgether",
+   "url": "https://www.linkedin.com/jobs/view/4495000213/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493492573": {
+   "t": 1795673770.7966576,
+   "title": "Network Infrastructure Specialist",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4493492573/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14229,17 +14248,19 @@
   "a8ff521965db8abb": "kariyernet:4431437",
   "5c4c275bc1f12234": "linkedin:4494964773",
   "d6d00527f75139cb": "linkedin:4495229988",
-  "f8e9c09f226f1899": "kariyernet:4604641"
+  "f8e9c09f226f1899": "kariyernet:4604641",
+  "0bece27a13727890": "linkedin:4495000213",
+  "7b5f490bfd94af10": "linkedin:4493492573"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795672882.0422976,
+   "last_run": 1795673768.8576953,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795672882.0422988,
+   "last_ok": 1795673768.8576972,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -14378,7 +14399,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 1
+   "rej_remote": 2
   }
  },
  "details": {
@@ -21550,6 +21571,23 @@
    "track_from": "description",
    "llm": {},
    "description": "Member of Technical Staff — Mindra\nIstanbul · On-site · Full-time\nABOUT MINDRA\nMindra builds budget-aware AI agents for B2C advertisers. Our agents connect ad accounts, attribution, store, and revenue data, then manage budgets across platforms against what actually matters: real store performance, not platform-reported vanity metrics.\nTeams of agents continuously rebalance and refine cross-platform campaigns to improve efficiency and ROAS. We operate across the US and Turkey and serve customers in 8 countries.\nWe're a small founding team. The person in this seat will shape how our product, our"
+  },
+  "linkedin:4493492573": {
+   "t": 1795673770.796699,
+   "source": "linkedin",
+   "title": "Network Infrastructure Specialist",
+   "company": "Tein Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Ağ Yönetimi Mühendisi\nİstanbul | Hibrit\n*Haftada 3 gün ofis\nPozisyon kapsamında LAN/WAN altyapıları, aktif ağ cihazları, routing & switching, güvenlik, kablosuz ağ, yük dengeleme ve Cisco Collaboration teknolojilerinin uçtan uca operasyonu yürütülecektir.\nAranan Nitelikler\nÜniversitelerin Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği, Elektronik ve Haberleşme Mühendisliği veya ilgili bölümlerinden mezun,\nAğ yönetimi, tasarımı ve operasyonlarında en az 5 yıl deneyimli,\nTercihen bankacılık veya finans sektöründe kritik altyapı operasyonları konusunda deneyimli,\nLAN/WAN altyapıları, a"
   }
  },
  "pending": {}
