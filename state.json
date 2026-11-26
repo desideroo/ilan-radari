@@ -13101,6 +13101,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4493494641": {
+   "t": 1795686360.6003985,
+   "title": "Bilgi Teknolojileri Sorumlusu",
+   "company": "Form Şirketler Grubu",
+   "url": "https://www.linkedin.com/jobs/view/4493494641/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14511,17 +14521,18 @@
   "7e8f70b163ae25d6": "elemannet:4815221",
   "c461ee7f7a57e280": "linkedin:4493094699",
   "001dfa4329b354ee": "linkedin:4493807307",
-  "b64ccf71ec004d36": "kariyernet:4604856"
+  "b64ccf71ec004d36": "kariyernet:4604856",
+  "f2047a1b36c08c24": "linkedin:4493494641"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795685480.718837,
+   "last_run": 1795686357.895889,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795685480.7188382,
+   "last_ok": 1795686357.895891,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
@@ -14660,7 +14671,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 11
+   "rej_remote": 12
   }
  },
  "details": {
@@ -22036,6 +22047,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 99 yıl arası; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Öğrenci), Ön Lisans(Mezun), Üniversite(Öğrenci), Üniversite(Mezun), Yüksek Lisans(Öğrenci), Yüksek Lisans(Mezun); Askerlik Durumu: Yapıldı, Muaf\n\nTreyler imalatı sektöründe faaliyet gösteren firmamızın büyüyen organizasyonunda görevlendirilmek üzere; üretim süreçlerinin verimli, zamanında ve hedeflenen kalitede yürütülmesini sağlayacak \"Teknik Ressam\" pozisyonunda çalışma arkadaşı arıyoruz.\nGörev ve Sorumluluklar\n* Treyler/yarı römork şasi, üstyapı, aks/süspansiyon bağlantıları ve alt montaj gruplarına ait 2D i"
+  },
+  "linkedin:4493494641": {
+   "t": 1795686360.6004336,
+   "source": "linkedin",
+   "title": "Bilgi Teknolojileri Sorumlusu",
+   "company": "Form Şirketler Grubu",
+   "location": "Torbalı",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "1965 yılında kurulan\nForm Şirketler Grubu\n, iklimlendirme ve endüstriyel çözümler alanında faaliyet göstermektedir.\nForm Şirketler Grubu’nun merkez ofisi Maslak İstanbul'da bulunmakta olup Ankara, Antalya, İzmir, Adana ve Bursa’da ise bölge müdürlükleri bulunmaktadır.\nŞirketler Grubu bünyesinde yer alan Form Yönetim Destek ve Yatırım Ticaret A.Ş., Form Endüstri Ürünleri A.Ş., Form MHI Klima Sistemleri A.Ş. ve Form Endüstri Tesisleri A.Ş., firmaları otel, AVM, iş merkezi, fabrika, hastane, okul, her türlü endüstriyel tesis, rezidans gibi büyük hacimli çeşitli binalara iklimlendirme ve endüstriy"
   }
  },
  "pending": {}
