@@ -13481,6 +13481,25 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4488414012": {
+   "t": 1795717923.2125354,
+   "title": "Client Consulting Analyst",
+   "company": "Visa",
+   "url": "https://www.linkedin.com/jobs/view/4488414012/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4605316": {
+   "t": 1795717966.6279736,
+   "title": "Satış Danışmanı - Pierre Cardin Enntepe AVM",
+   "company": "Aydınlı Grup",
+   "url": "https://www.kariyer.net/is-ilani/aydinli-grup-satis-danismani-pierre-cardin-enntepe-avm-4605316",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14931,29 +14950,31 @@
   "a4508ccb373488c8": "linkedin:4494379279",
   "6eed4cf9f03a5358": "linkedin:4489446840",
   "e62d56be33c0dc94": "linkedin:4493826616",
-  "0e739c37778a70a1": "linkedin:4493825941"
+  "0e739c37778a70a1": "linkedin:4493825941",
+  "a41914e2e7054000": "linkedin:4488414012",
+  "68a83228e412408d": "kariyernet:4605316"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795716954.42501,
+   "last_run": 1795717920.9447715,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795716954.4250114,
+   "last_ok": 1795717920.9447737,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795716121.322897,
+   "last_run": 1795717966.625304,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795716121.322899,
+   "last_ok": 1795717966.6253061,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -15080,7 +15101,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 25,
+   "rej_remote": 26,
    "rej_exp": 1
   }
  },
@@ -22797,6 +22818,23 @@
    "track_from": "title",
    "llm": {},
    "description": "At SevenApps, we build mobile applications that millions of users carry in their pockets every day. Our portfolio spans lifestyle, productivity, and utility apps with 20M+ downloads, strong ratings, and continuous growth. For us, continuous improvement isn’t just a slogan: it’s how we work.\nWe’re now looking for a Backend Developer to join our crew.\nAbout The Role\nAs a Backend Developer, you will be responsible for designing, developing, and maintaining Python-based backend systems. You will contribute across multiple applications and services, and be involved in the end-to-end development lif"
+  },
+  "linkedin:4488414012": {
+   "t": 1795717923.212572,
+   "source": "linkedin",
+   "title": "Client Consulting Analyst",
+   "company": "Visa",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "About Us\nVisa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid.\nAt Visa, you'll have the opportunity to create impact at scale — tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world.\nJoin Visa and do work that matters – to you, to your community, and to the world. Progress starts with you.\nJob Description\nWhat "
   }
  },
  "pending": {}
