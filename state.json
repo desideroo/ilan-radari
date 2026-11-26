@@ -12875,6 +12875,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4495006126": {
+   "t": 1795675559.5228605,
+   "title": "Tüzel Müşteri Analitiği Kıdemli Uzmanı",
+   "company": "Albaraka Türk",
+   "url": "https://www.linkedin.com/jobs/view/4495006126/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14261,17 +14270,18 @@
   "f8e9c09f226f1899": "kariyernet:4604641",
   "0bece27a13727890": "linkedin:4495000213",
   "7b5f490bfd94af10": "linkedin:4493492573",
-  "fcd0062794ead8aa": "linkedin:4493410013"
+  "fcd0062794ead8aa": "linkedin:4493410013",
+  "186ae0bb08f4071c": "linkedin:4495006126"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795674681.989682,
+   "last_run": 1795675559.5217743,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795674681.9896836,
+   "last_ok": 1795675559.521776,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
