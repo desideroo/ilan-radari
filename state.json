@@ -13176,6 +13176,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4493009318": {
+   "t": 1795691760.2261906,
+   "title": "Test Automation Team Member",
+   "company": "Allianz Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4493009318/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14594,17 +14604,18 @@
   "3b8e887f40198af0": "linkedin:4495294061",
   "e76edd8f9403b2c0": "linkedin:4412695432",
   "c57bf0da61ded15a": "kariyernet:3293501",
-  "9847c78e4eee0ed4": "kariyernet:4604945"
+  "9847c78e4eee0ed4": "kariyernet:4604945",
+  "b94c2c180a89a78b": "linkedin:4493009318"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795690896.497459,
+   "last_run": 1795691758.4207659,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795690896.4974601,
+   "last_ok": 1795691758.4207673,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
@@ -14743,7 +14754,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 13
+   "rej_remote": 14
   }
  },
  "details": {
@@ -22170,6 +22181,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: En çok 3 yıl tecrübeli; Eğitim Seviyesi: Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Mezun), Doktora(Mezun); Askerlik Durumu: Yapıldı, Muaf; Ehliyet: B sınıfı\n\nSebze ve Yem Bitkileri tohumu üzerine çalışan firmamıza satış ve pazarlama departmanında görevlendirilmek üzere aşağıdaki niteliklere uygun 'Ziraat Mühendisi' aranmaktadır.\nÜniversitelerin\nZiraat Fakültesi veya MYO'ların\nilgili bölümünden mezun,\nB sınıfı ehliyete\nsahip, aktif araç kullanan ve\nseyahat engeli olmayan\n,\nAskerliğini tamamlamış,\nDiksiyonu düzgün ve ikna kabiliyeti yüksek,\nGüleryüzlü,enerjik,i"
+  },
+  "linkedin:4493009318": {
+   "t": 1795691760.226222,
+   "source": "linkedin",
+   "title": "Test Automation Team Member",
+   "company": "Allianz Türkiye",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-24",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "About the Company\n\"Would you like to take your place in Allianz, which is the choice of those who care for tomorrow?”\nThe Allianz Group is one of the world's leading insurers and asset managers with more than 100 million private and corporate customers in more than 70 countries. We are proud to be the Worldwide Insurance Partner of the Olympic & Paralympic Movements from 2021 until 2028 and to be recognized as one of the industry leaders in the Dow Jones Sustainability Index.\nWe believe in fostering an inclusive workforce and are proud to be an equal opportunity employer. To fulfill our commit"
   }
  },
  "pending": {}
