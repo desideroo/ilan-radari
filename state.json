@@ -13138,6 +13138,44 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4495294061": {
+   "t": 1795690896.498408,
+   "title": "Business Applications & Analytics Manager",
+   "company": "Reed Recruitment Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4495294061/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4412695432": {
+   "t": 1795690898.8096328,
+   "title": "DWH/BI Consultant",
+   "company": "MindTech",
+   "url": "https://www.linkedin.com/jobs/view/4412695432/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:3293501": {
+   "t": 1795690941.310678,
+   "title": "Operasyon Yetkilisi (Engelli)",
+   "company": "ARCHİTECHT BİLİŞİM SİSTEMLERİ VE PAZARLAMA TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/architecht-bilisim-sistemleri-ve-pazarlama-ticaret-operasyon-yetkilisi-engelli-3293501",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4604945": {
+   "t": 1795690945.4130614,
+   "title": "Ziraat Mühendisi",
+   "company": "Neobi Tohumculuk ve Zirai Tarım Ürünleri A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/neobi-tohumculuk-ve-zirai-tarim-urunleri-a-s-ziraat-muhendisi-4604945",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14552,44 +14590,48 @@
   "f2047a1b36c08c24": "linkedin:4493494641",
   "52a18d140ee5c626": "linkedin:4494993904",
   "5a701056561b8332": "linkedin:4495274510",
-  "eb0c0d7af0236a82": "linkedin:4493801647"
+  "eb0c0d7af0236a82": "linkedin:4493801647",
+  "3b8e887f40198af0": "linkedin:4495294061",
+  "e76edd8f9403b2c0": "linkedin:4412695432",
+  "c57bf0da61ded15a": "kariyernet:3293501",
+  "9847c78e4eee0ed4": "kariyernet:4604945"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795689963.587661,
+   "last_run": 1795690896.497459,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795689963.587663,
+   "last_ok": 1795690896.4974601,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795689123.8301723,
+   "last_run": 1795690941.3077261,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795689123.8301742,
+   "last_ok": 1795690941.3077276,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795687345.2521572,
+   "last_run": 1795690950.8773088,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795687345.252158,
+   "last_ok": 1795690950.8773108,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795687350.2738135,
+   "last_run": 1795690957.6832087,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795687350.2738144,
+   "last_ok": 1795690957.6832094,
    "alerted": false,
    "ctx": {}
   },
@@ -14701,7 +14743,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 12
+   "rej_remote": 13
   }
  },
  "details": {
@@ -22094,6 +22136,40 @@
    "track_from": "title",
    "llm": {},
    "description": "1965 yılında kurulan\nForm Şirketler Grubu\n, iklimlendirme ve endüstriyel çözümler alanında faaliyet göstermektedir.\nForm Şirketler Grubu’nun merkez ofisi Maslak İstanbul'da bulunmakta olup Ankara, Antalya, İzmir, Adana ve Bursa’da ise bölge müdürlükleri bulunmaktadır.\nŞirketler Grubu bünyesinde yer alan Form Yönetim Destek ve Yatırım Ticaret A.Ş., Form Endüstri Ürünleri A.Ş., Form MHI Klima Sistemleri A.Ş. ve Form Endüstri Tesisleri A.Ş., firmaları otel, AVM, iş merkezi, fabrika, hastane, okul, her türlü endüstriyel tesis, rezidans gibi büyük hacimli çeşitli binalara iklimlendirme ve endüstriy"
+  },
+  "linkedin:4412695432": {
+   "t": 1795690898.8096712,
+   "source": "linkedin",
+   "title": "DWH/BI Consultant",
+   "company": "MindTech",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Büyük Veri, Veri Yönetimi, Veri Analizi & Görselleştirme, İş Zekası, Raporlama, Web ve Mobil tabanlı uygulamalar konularında uzman çalışan kadrosuyla yenilikçi ürün geliştiren, dijital dönüşüm alanında inovatif çözümler geliştirmek üzere Türkiye'nin Ar-Ge ve İnovasyon üssü olan Yıldız Teknopark’ta 2020 yılında kurulan, başta Bankacılık, TELCO, Sigortacılık, Perakende ve Lojistik sektörleri olmak üzere birçok sektöre yenilikçi ve uçtan uca çözümler ve ürünler sunmakta olan şirketimizde DWH/BI Birimimize DWH/BI Consultant olarak yer almak üzere takım arkadaşları arıyoruz.\nAranan Nitelikler\nÜnive"
+  },
+  "kariyernet:4604945": {
+   "t": 1795690945.4131072,
+   "source": "kariyernet",
+   "title": "Ziraat Mühendisi",
+   "company": "Neobi Tohumculuk ve Zirai Tarım Ürünleri A.Ş",
+   "location": "Antalya",
+   "work_mode": "Uzaktan / Remote",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: En çok 3 yıl tecrübeli; Eğitim Seviyesi: Ön Lisans(Mezun), Üniversite(Mezun), Yüksek Lisans(Mezun), Doktora(Mezun); Askerlik Durumu: Yapıldı, Muaf; Ehliyet: B sınıfı\n\nSebze ve Yem Bitkileri tohumu üzerine çalışan firmamıza satış ve pazarlama departmanında görevlendirilmek üzere aşağıdaki niteliklere uygun 'Ziraat Mühendisi' aranmaktadır.\nÜniversitelerin\nZiraat Fakültesi veya MYO'ların\nilgili bölümünden mezun,\nB sınıfı ehliyete\nsahip, aktif araç kullanan ve\nseyahat engeli olmayan\n,\nAskerliğini tamamlamış,\nDiksiyonu düzgün ve ikna kabiliyeti yüksek,\nGüleryüzlü,enerjik,i"
   }
  },
  "pending": {}
