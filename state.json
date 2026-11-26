@@ -13120,6 +13120,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4495274510": {
+   "t": 1795689080.090961,
+   "title": "Kıdemli Network ve Güvenlik Mühendisi",
+   "company": "Sompo Teknoloji",
+   "url": "https://www.linkedin.com/jobs/view/4495274510/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493801647": {
+   "t": 1795689080.0912597,
+   "title": "Senior SAP FI Support Specialist",
+   "company": "NTT DATA Business Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4493801647/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14532,29 +14550,31 @@
   "001dfa4329b354ee": "linkedin:4493807307",
   "b64ccf71ec004d36": "kariyernet:4604856",
   "f2047a1b36c08c24": "linkedin:4493494641",
-  "52a18d140ee5c626": "linkedin:4494993904"
+  "52a18d140ee5c626": "linkedin:4494993904",
+  "5a701056561b8332": "linkedin:4495274510",
+  "eb0c0d7af0236a82": "linkedin:4493801647"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795688177.1275427,
+   "last_run": 1795689080.0904047,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795688177.1275442,
+   "last_ok": 1795689080.0904064,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795687339.3784983,
+   "last_run": 1795689123.8301723,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795687339.3785,
+   "last_ok": 1795689123.8301742,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
