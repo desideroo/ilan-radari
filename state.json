@@ -13215,6 +13215,24 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4495260423": {
+   "t": 1795695357.7612426,
+   "title": "İş Zekası ve Veri Tabanı Müdürü",
+   "company": "IPEKYOL GROUP",
+   "url": "https://www.linkedin.com/jobs/view/4495260423/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493819384": {
+   "t": 1795695357.7615001,
+   "title": "SAP Account Manager (Kurumsal Müşteri Yöneticisi)",
+   "company": "UISAP Software Solutions",
+   "url": "https://www.linkedin.com/jobs/view/4493819384/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14637,17 +14655,19 @@
   "b94c2c180a89a78b": "linkedin:4493009318",
   "c1802af713f093fc": "kariyernet:4604939",
   "49b51fa49ccd0917": "kariyernet:4604960",
-  "1aa4f2e05b3438b9": "kariyernet:4604935"
+  "1aa4f2e05b3438b9": "kariyernet:4604935",
+  "9ade867147a53d28": "linkedin:4495260423",
+  "4b43d36dda7f19a3": "linkedin:4493819384"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795694475.7102656,
+   "last_run": 1795695357.7603133,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795694475.7102673,
+   "last_ok": 1795695357.7603157,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
