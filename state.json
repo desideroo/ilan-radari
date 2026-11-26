@@ -13308,6 +13308,15 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "kariyernet:4605132": {
+   "t": 1795699943.9069097,
+   "title": "Çağrı Merkezi Elemanı",
+   "company": "BİLİŞİM KÜPÜ BİLGİSAYAR SANAYİ VE TİCARET ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/bilisim-kupu-bilgisayar-sanayi-ve-ticaret-anonim-s-cagri-merkezi-elemani-4605132",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -14740,29 +14749,30 @@
   "4f61cce01b2d133d": "linkedin:4493814350",
   "d1792283442a514c": "linkedin:4495286392",
   "9b6b415e72435cd4": "kariyernet:4605142",
-  "529c3fa64f63ab1f": "elemannet:4815515"
+  "529c3fa64f63ab1f": "elemannet:4815515",
+  "71b508c8ac5e1a9f": "kariyernet:4605132"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795698967.7127938,
+   "last_run": 1795699901.7589893,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795698967.7127955,
+   "last_ok": 1795699901.7589905,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795698155.0324612,
+   "last_run": 1795699943.9040356,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795698155.0324633,
+   "last_ok": 1795699943.9040375,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -14782,10 +14792,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795692723.4749498,
+   "last_run": 1795699946.7156289,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795692723.4749513,
+   "last_ok": 1795699946.71563,
    "alerted": false,
    "ctx": {}
   }
