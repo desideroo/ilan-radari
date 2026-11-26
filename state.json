@@ -13326,6 +13326,45 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493819667": {
+   "t": 1795701684.5897098,
+   "title": "Dijital Pazarlama ve E. Ticaret Uzmanı",
+   "company": "Güneş Tel Çekme Sanayi ve Ticaret Anonim Şirketi",
+   "url": "https://www.linkedin.com/jobs/view/4493819667/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493828250": {
+   "t": 1795701694.468731,
+   "title": "SAP İş Analisti MII / PP",
+   "company": "HASÇELİK",
+   "url": "https://www.linkedin.com/jobs/view/4493828250/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493828222": {
+   "t": 1795701696.5049222,
+   "title": "Muhasebe ve Tahsilat Uzmanı",
+   "company": "e-adam",
+   "url": "https://www.linkedin.com/jobs/view/4493828222/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4493819656": {
+   "t": 1795701706.3293588,
+   "title": "Full Stack Developer (.NET & Angular)",
+   "company": "Jestiyon",
+   "url": "https://www.linkedin.com/jobs/view/4493819656/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14760,44 +14799,48 @@
   "9b6b415e72435cd4": "kariyernet:4605142",
   "529c3fa64f63ab1f": "elemannet:4815515",
   "71b508c8ac5e1a9f": "kariyernet:4605132",
-  "7fc55db720e09576": "linkedin:4493813880"
+  "7fc55db720e09576": "linkedin:4493813880",
+  "6387a55e9ef3523b": "linkedin:4493819667",
+  "31b4d1313f16b123": "linkedin:4493828250",
+  "d0e5aac3a8c93904": "linkedin:4493828222",
+  "a0ff3a683228e73c": "linkedin:4493819656"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795700776.4363708,
+   "last_run": 1795701684.5887797,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795700776.4363725,
+   "last_ok": 1795701684.5887814,
    "alerted": false,
    "ctx": {
-    "cursor": 0
+    "cursor": 6
    }
   },
   "kariyernet": {
-   "last_run": 1795699943.9040356,
+   "last_run": 1795701748.1733847,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795699943.9040375,
+   "last_ok": 1795701748.1733866,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795698164.2527573,
+   "last_run": 1795701753.2323961,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795698164.2527587,
+   "last_ok": 1795701753.232397,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795698171.6765342,
+   "last_run": 1795701758.1007855,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795698171.6765358,
+   "last_ok": 1795701758.100787,
    "alerted": false,
    "ctx": {}
   },
@@ -14909,7 +14952,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 15,
+   "rej_remote": 17,
    "rej_exp": 1
   }
  },
@@ -22439,6 +22482,57 @@
    "track_from": "title",
    "llm": {},
    "description": "Yemek, Servis"
+  },
+  "linkedin:4493828250": {
+   "t": 1795701694.4687726,
+   "source": "linkedin",
+   "title": "SAP İş Analisti MII / PP",
+   "company": "HASÇELİK",
+   "location": "Kocaeli, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Hassçelik A.Ş. bünyesine katacağı yeni Çelik Yakasını arıyor!\nSektöründe lider vasıflı çelik üretimi yapan şirketimiz bünyesinde değerlendirilmek üzere İş Analisti (Üretim ve Planlama Süreçleri) rolünde kariyer fırsatı sunuyoruz.\nHasçelik 1968 yılından beri Türkiye’nin önde gelen vasıflı çelik üreticilerinden birdir. Sıcak haddelenmiş vasıflı çelik ve soğuk işlem görmüş vasıflı parlak çeliklere ek olarak ithal dikişsiz boru üretim ve satışını gerçekleştiren şirketimizin, Kocaeli ve Konya ve Bilecik’te toplam 6 üretim tesisi bulunmaktadır. Türkiye’nin en modern tesislerinde otomotiv, makine, im"
+  },
+  "linkedin:4493828222": {
+   "t": 1795701696.5049584,
+   "source": "linkedin",
+   "title": "Muhasebe ve Tahsilat Uzmanı",
+   "company": "e-adam",
+   "location": "Antalya",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Pozisyon adı:\nMuhasebe ve Tahsilat Uzmanı\nŞirket:\nE-adam Dijital\nÇalışma şekli:\nOfiste\nKonum:\nAntalya\nİstihdam türü:\nTam zamanlı\nSektör:\nYazılım ve Reklam Hizmetleri\nE-adam Dijital – Muhasebe ve Tahsilat Uzmanı\nE-adam, 100'den fazla e-ticaret ve hizmet markasının Google Ads, Meta ve Trendyol reklamlarını yöneten bir dijital pazarlama ajansıdır. Büyüyen ekibimize, finans tarafını şirket içinden yönetecek bir\nMuhasebe ve Tahsilat Uzmanı\narıyoruz. Adayın muhasebede uzman olmasını, tahsilatta da sonuç almasını bekliyoruz.\nDışarıdan bir mali müşavirlik firması ve yeminli mali müşavirlerle çalışıyor"
+  },
+  "linkedin:4493819656": {
+   "t": 1795701706.3293924,
+   "source": "linkedin",
+   "title": "Full Stack Developer (.NET & Angular)",
+   "company": "Jestiyon",
+   "location": "Maltepe",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Global girişimcilik ekosisteminin geleceğini birlikte geliştirelim!\nJestiyon olarak, girişimcilerin dünyanın farklı ülkelerinde şirket kurmalarını, finansal ve operasyonel süreçlerini tek bir platform üzerinden yönetmelerini sağlayan teknolojiler geliştiriyoruz.\nUluslararası ölçekte büyüyen operasyonlarımız, geliştirdiğimiz finansal teknolojiler ve yeni nesil dijital çözümlerimizle girişimciliğin sınırlarını ortadan kaldırmayı hedefliyoruz.\nBüyüyen teknoloji ekibimize, ürün geliştirme süreçlerimizde aktif rol alacak, teknolojiye tutkuyla yaklaşan ve geliştirdiği yazılımla fark yaratmak isteyen"
   }
  },
  "pending": {}
