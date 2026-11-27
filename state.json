@@ -13624,6 +13624,35 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493878189": {
+   "t": 1795762916.665027,
+   "title": "Ön Muhasebe Personeli",
+   "company": "ESS Erdem Soğutma Sanayi ve Ticaret Ltd. Şti.",
+   "url": "https://www.linkedin.com/jobs/view/4493878189/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "kariyernet:4605392": {
+   "t": 1795762962.8297715,
+   "title": "Elektrik Elektronik Mühendisi",
+   "company": "MİRA GROUP ELEKTRİK MÜHENDİSLİK ENERJİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/mira-group-elektrik-muhendislik-enerji-sanayi-tica-elektrik-elektronik-muhendisi-4605392",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "elemannet:4815800": {
+   "t": 1795762967.9735322,
+   "title": "Kabin Servis Görevlisi (Host / Hostes)",
+   "company": "Kamil Koç",
+   "url": "https://www.eleman.net/is-ilani/kabin-servis-gorevlisi-host-hostes-i4815800",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15089,44 +15118,47 @@
   "b4bafc185e803812": "linkedin:4488927936",
   "13a02320c765db43": "linkedin:4493858919",
   "dc1e291836a3a6a1": "linkedin:4495579642",
-  "c359f26996a29d61": "linkedin:4493875265"
+  "c359f26996a29d61": "linkedin:4493875265",
+  "e28c97d6526ad3a7": "linkedin:4493878189",
+  "e2d33ac0073db516": "kariyernet:4605392",
+  "e16d0b0270dbaefa": "elemannet:4815800"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795761955.3523068,
+   "last_run": 1795762914.4232442,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795761955.3523088,
+   "last_ok": 1795762914.4232457,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795761166.91288,
+   "last_run": 1795762958.8007686,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795761166.9128816,
+   "last_ok": 1795762958.8007703,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795759350.8538141,
+   "last_run": 1795762967.973021,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795759350.8538163,
+   "last_ok": 1795762967.9730222,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795759357.0103247,
+   "last_run": 1795762974.084247,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795759357.0103257,
+   "last_ok": 1795762974.084248,
    "alerted": false,
    "ctx": {}
   },
@@ -23100,6 +23132,40 @@
    "track_from": "title",
    "llm": {},
    "description": "About the Job\nCompany Description\nOBSS is Turkey’s largest technology consultancy, pioneering product development and technology consulting for an AI-native future. With more than 20 years of experience and offices in London, Istanbul and Ankara, we empower leading companies in banking and finance, insurance, e-commerce, retail, and the start-up ecosystem. Our team of over 1000 talented professionals thrives on collaboration, innovation, and continuous learning.\nWe are now looking for a Senior Java Backend Developer with strong Oracle PL/SQL and Oracle Forms experience to join our internationa"
+  },
+  "linkedin:4493878189": {
+   "t": 1795762916.6650705,
+   "source": "linkedin",
+   "title": "Ön Muhasebe Personeli",
+   "company": "ESS Erdem Soğutma Sanayi ve Ticaret Ltd. Şti.",
+   "location": "Sincan",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Ön Muhasebe Personeli İş İlanı\nLokasyon:\nSincan / Ankara\nÇalışma Şekli:\nTam Zamanlı\nPozisyon Özeti\nEndüstriyel soğutma bileşenleri üretimi yapan fabrikamızın mali ve idari operasyonları kapsamında; günlük ön muhasebe kayıtlarının eksiksiz tutulması, fatura ve entegrasyon süreçlerinin yürütülmesi ve cari hesap takibinin düzenli yapılması amacıyla\nÖn Muhasebe Personeli\narayışımız bulunmaktadır.\nİş Tanımı\nAlış ve satış faturalarının mevzuata uygun şekilde düzenlenmesi, kontrol edilmesi ve\nAkınsoft\nüzerinden e-fatura / e-arşiv entegrasyon süreçlerinin yürütülmesi,\nÖn muhasebe kayıtlarının\nSAP Busi"
+  },
+  "kariyernet:4605392": {
+   "t": 1795762962.829823,
+   "source": "kariyernet",
+   "title": "Elektrik Elektronik Mühendisi",
+   "company": "MİRA GROUP ELEKTRİK MÜHENDİSLİK ENERJİ SANAYİ TİCARET LİMİTED ŞİRKETİ",
+   "location": "Karaman +81 il daha",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: 2 - 15 yıl arası; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun)\n\nPozisyon Elektrik Elektronik Mühendisi\nYenilikçi projelerde yer alacak ve ileri düzey mühendislik bilgisine sahip bir takım arkadaşı arıyoruz. Bu pozisyonda, elektrik ve elektronik sistemlerin tasarımı, geliştirilmesi ve uygulanması süreçlerinde aktif rol alacak, projelerin her aşamasında katkı sağlayacak ve mühendislik çözümleri üreteceksiniz. Dinamik bir çalışma ortamında, teknolojik gelişmeleri takip ederek, projelerde etkin rol alacak saha mühendisi ekip arkadaşı arıyoruz.\nGenel N"
   }
  },
  "pending": {}
