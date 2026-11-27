@@ -13520,6 +13520,16 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4495036373": {
+   "t": 1795739467.8235734,
+   "title": "Quality Assurance Executive",
+   "company": "TCI Aircraft Interiors",
+   "url": "https://www.linkedin.com/jobs/view/4495036373/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -14974,29 +14984,30 @@
   "a41914e2e7054000": "linkedin:4488414012",
   "68a83228e412408d": "kariyernet:4605316",
   "4f2e3afdf730e9bf": "linkedin:4493419239",
-  "311603fc09b7fece": "kariyernet:4605327"
+  "311603fc09b7fece": "kariyernet:4605327",
+  "83aae70f5c07d3a1": "linkedin:4495036373"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795738558.7722688,
+   "last_run": 1795739465.8127515,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795738558.77227,
+   "last_ok": 1795739465.8127532,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795737739.8385174,
+   "last_run": 1795739510.4333515,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795737739.8385193,
+   "last_ok": 1795739510.4333532,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -15125,6 +15136,15 @@
    "irrelevant": 0,
    "rej_remote": 27,
    "rej_exp": 1
+  },
+  "2026-11-27": {
+   "sent": 0,
+   "dropped": 0,
+   "candidates": 0,
+   "applied": 0,
+   "saved": 0,
+   "irrelevant": 0,
+   "rej_remote": 1
   }
  },
  "details": {
@@ -22891,6 +22911,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: En az 3 yıl tecrübeli; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun); Askerlik Durumu: Yapıldı; Ehliyet: B sınıfı\n\nGenel Nitelikler ve İş Tanımı\nHayvancılık teknolojileri alanında faaliyet gösteren Actimoo A.Ş., büyükbaş hayvancılık işletmelerinin dijitalleşmesini sağlayan sürü yönetim yazılımları, akıllı sensörler ve yenilikçi donanım çözümlerinin Türkiye satış ve dağıtım operasyonlarını yürütmektedir.\nBenimsürüm, CattleHub, Actimoo, M2Moo ve MastiPro gibi ürün ve çözümlerimizle hayvancılık işletmelerinin verimliliklerini ve kârlılıklarını artırma"
+  },
+  "linkedin:4495036373": {
+   "t": 1795739467.8236165,
+   "source": "linkedin",
+   "title": "Quality Assurance Executive",
+   "company": "TCI Aircraft Interiors",
+   "location": "Pendik",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "TCI Aircraft Interiors, initially established in 2010, entered a new era in 2023 with the merger of Turkish Airlines subsidiaries TCI Cabin Interior, TSI Seat, and Cornea. Combining over a decade of experience with an innovative vision, TCI leverages its enhanced capabilities to provide cutting-edge solutions for both wide and narrow body aircrafts. As the only company in its field operating in Türkiye, we proudly represent our country while setting new standards in the international aviation industry and continue our mission to provide the best values in the sector.\nWe offer in our product ra"
   }
  },
  "pending": {}
