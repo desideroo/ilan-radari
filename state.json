@@ -13653,6 +13653,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493871484": {
+   "t": 1795763769.0296545,
+   "title": "Kıdemli Yazılım Geliştirme Uzmanı",
+   "company": "ARY HOLDING",
+   "url": "https://www.linkedin.com/jobs/view/4493871484/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493859758": {
+   "t": 1795763777.7977152,
+   "title": "Veri Analitiği Uzmanı | İstanbul",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4493859758/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -15121,17 +15140,19 @@
   "c359f26996a29d61": "linkedin:4493875265",
   "e28c97d6526ad3a7": "linkedin:4493878189",
   "e2d33ac0073db516": "kariyernet:4605392",
-  "e16d0b0270dbaefa": "elemannet:4815800"
+  "e16d0b0270dbaefa": "elemannet:4815800",
+  "c9d5ac8d0e095dcb": "linkedin:4493871484",
+  "fe91076680b0f625": "linkedin:4493859758"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795762914.4232442,
+   "last_run": 1795763769.0292587,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795762914.4232457,
+   "last_ok": 1795763769.02926,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
@@ -15280,7 +15301,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 4
+   "rej_remote": 5
   }
  },
  "details": {
@@ -23166,6 +23187,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Aday Kriterleri: Tecrübe: 2 - 15 yıl arası; Eğitim Seviyesi: Lise(Mezun), Ön Lisans(Mezun), Üniversite(Mezun)\n\nPozisyon Elektrik Elektronik Mühendisi\nYenilikçi projelerde yer alacak ve ileri düzey mühendislik bilgisine sahip bir takım arkadaşı arıyoruz. Bu pozisyonda, elektrik ve elektronik sistemlerin tasarımı, geliştirilmesi ve uygulanması süreçlerinde aktif rol alacak, projelerin her aşamasında katkı sağlayacak ve mühendislik çözümleri üreteceksiniz. Dinamik bir çalışma ortamında, teknolojik gelişmeleri takip ederek, projelerde etkin rol alacak saha mühendisi ekip arkadaşı arıyoruz.\nGenel N"
+  },
+  "linkedin:4493859758": {
+   "t": 1795763777.7977557,
+   "source": "linkedin",
+   "title": "Veri Analitiği Uzmanı | İstanbul",
+   "company": "Tein Technology",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "Veri Analitiği Uzmanı Arıyoruz!\nDeneyim: +3 yıl\nLokasyon: İstanbul/Ataşehir\nGenel Nitelikler:\n-\nBilgisayar Mühendisliği, Matematik Mühendisliği, Endüstri Mühendisliği veya ilgili bölümlerden\nmezun\n-\nGüçlü seviyede SQL ve Python bilgisine sahip,\n-Büyük veri setleri üzerinde çalışmış; karmaşık sorgu ve prosedürleri okuyup yazabilen, performans iyileştirme ve optimizasyon çalışmalarında deneyimli,\n-\nTercihen Big Data teknolojileri ve Google Cloud Platform (GCP) deneyimi bulunan,\n-Farklı iş birimlerinin veri ihtiyaçlarını anlayarak veriye dayalı analitik çözümlerin geliştirilmesinde aktif rol alab"
   }
  },
  "pending": {}
