@@ -15736,9 +15736,9 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795815994.009864,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=data+scientist&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
+   "last_run": 1795816893.7744606,
+   "fails": 2,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Karaman%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
    "last_ok": 1795815100.6135879,
    "alerted": false,
    "ctx": {
@@ -15748,30 +15748,30 @@
    }
   },
   "kariyernet": {
-   "last_run": 1795815144.110272,
+   "last_run": 1795816935.271745,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795815144.1102738,
+   "last_ok": 1795816935.271747,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795813331.1522226,
+   "last_run": 1795816940.1938167,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795813331.1522238,
+   "last_ok": 1795816940.1938186,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795813336.9824023,
+   "last_run": 1795816945.387546,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795813336.9824033,
+   "last_ok": 1795816945.3875477,
    "alerted": false,
    "ctx": {}
   },
