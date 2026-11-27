@@ -13719,6 +13719,46 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493082972": {
+   "t": 1795769179.4546692,
+   "title": "Bilgi Teknolojileri Uzmanı - IKEA Türkiye İnternet Mağazası",
+   "company": "IKEA",
+   "url": "https://www.linkedin.com/jobs/view/4493082972/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493085753": {
+   "t": 1795769188.960656,
+   "title": "Sistem Mühendisi (Siber Güvenlik)",
+   "company": "Turkuvaz Medya Grubu",
+   "url": "https://www.linkedin.com/jobs/view/4493085753/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493413651": {
+   "t": 1795769191.4906993,
+   "title": "Ar-Ge Teknik Uygulamalar Uzmanı",
+   "company": "Besler",
+   "url": "https://www.linkedin.com/jobs/view/4493413651/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493872275": {
+   "t": 1795769193.6490047,
+   "title": "E-Ticaret Operasyon ve Müşteri İlişkileri Uzmanı",
+   "company": "Parlaklar Madeni Yağ",
+   "url": "https://www.linkedin.com/jobs/view/4493872275/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -15194,17 +15234,21 @@
   "0961115fbcefc3d2": "kariyernet:4605457",
   "14e1bee2ae594db3": "linkedin:4493878310",
   "267285451e35a885": "linkedin:4493865863",
-  "d7192d599b0cf84e": "linkedin:4493013123"
+  "d7192d599b0cf84e": "linkedin:4493013123",
+  "e596126513fad4bd": "linkedin:4493082972",
+  "b3d31839d3892b60": "linkedin:4493085753",
+  "aa46318ac9af5144": "linkedin:4493413651",
+  "389f1da3343fed5d": "linkedin:4493872275"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795768285.6777618,
+   "last_run": 1795769176.905998,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795768285.6777632,
+   "last_ok": 1795769176.906,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
@@ -15353,7 +15397,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 7
+   "rej_remote": 11
   }
  },
  "details": {
@@ -23321,6 +23365,74 @@
    "track_from": "title",
    "llm": {},
    "description": "📣We are looking for a\nBusiness Intelligence Supervisor\nto join our Product & Analytics team to continuously improve operational processes, increase efficiency, and implement new opportunities that support our business goals!\nWhat You’ll Do\nThis role will be responsible for establishing the company’s data policy and managing all Business Intelligence (BI) processes across the organization\nCollaborate feed all the company's reporting, work in collaboration with all departments and provide all the company's data needs.\nDesign, develop, and maintain scalable dashboards and reports to track key bus"
+  },
+  "linkedin:4493082972": {
+   "t": 1795769179.4547083,
+   "source": "linkedin",
+   "title": "Bilgi Teknolojileri Uzmanı - IKEA Türkiye İnternet Mağazası",
+   "company": "IKEA",
+   "location": "Kartal",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "IKEA Türkiye olarak biz, çoğunluk için daha iyi bir günlük yaşam yaratmak vizyonu ile çalışan, birlikte çalışmaktan keyif alan, sade ve dürüst bir hayat görüşünü benimsemiş, birlikte öğrenen ve gelişen bir ekibiz.\nEğer sen de bizimle aynı heyecanı taşıyor ve değerlerimizi paylaşıyorsan, seninle tanışmak için sabırsızlanıyoruz.\nSorumluluklar\nMağazadaki tüm kullanıcılara birincil derecede destek verir.\nMağaza kullanıcılarının donanım kullanımı ile takibi konularında rehberlik eder.\nMağaza kullanıcılarının kullandığı ERP ve kasa yazılımında destek verir.\nBilgi teknolojileri fonksiyonları konusund"
+  },
+  "linkedin:4493085753": {
+   "t": 1795769188.9606917,
+   "source": "linkedin",
+   "title": "Sistem Mühendisi (Siber Güvenlik)",
+   "company": "Turkuvaz Medya Grubu",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Türkiye'nin en büyük ve en yenilikçi gruplarından olan, her geçen gün farklı sektörlerde aldığı yatırım kararları ile öne çıkan Turkuvaz Medya Grubu çatısı altında görevlendirilmek üzere aşağıda belirtilen özelliklerde\nSistem Mühendisi (Siber Güvenlik)\narayışımız bulunmaktadır.\nGENEL NİTELİKLER\n• Bilgisayar Mühendisliği, Elektrik-Elektronik Mühendisliği veya ilgili bölümlerden mezun,\n• En az 4 yıl siber güvenlik alanında saha ve pratik deneyim sahibi,\n• Firewall, VPN, DLP, WAF, AV, EDR, PAM, SIEM, Mail Gateway gibi güvenlik çözümlerinde uygulamalı bilgi ve deneyim sahibi (Level 2),\n• Cloud güv"
+  },
+  "linkedin:4493413651": {
+   "t": 1795769191.4907308,
+   "source": "linkedin",
+   "title": "Ar-Ge Teknik Uygulamalar Uzmanı",
+   "company": "Besler",
+   "location": "Bursa, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-25",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Yıldız Holding Hakkında:\n1944 yılında İstanbul'da bisküvi üretimi ile başlayan Yıldız Holding'in hikayesi, bugün 300'den fazla marka ile 5 kıtada 4 milyar kişiye ulaştığımız gıda-atıştırmalık ürünlerimiz ve Türkiye'nin dört bir yanındaki perakende şirketlerimizle devam ediyor. Çoğunluğu Türkiye'de bulunan 80 bin çalışanımızla durmadan daha iyiye ulaşmayı hedefliyor, 20'i yurt dışında olmak üzere toplam 45 fabrikada bisküviden çikolataya, dondurulmuş gıdadan ambalajlamaya kadar geniş bir ürün yelpazesi üretiyoruz. Ekonomik katkı, istihdam, ihracat, sosyal dayanışma ve sürdürülebilirlik alanları"
+  },
+  "linkedin:4493872275": {
+   "t": 1795769193.6490483,
+   "source": "linkedin",
+   "title": "E-Ticaret Operasyon ve Müşteri İlişkileri Uzmanı",
+   "company": "Parlaklar Madeni Yağ",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "description",
+   "llm": {},
+   "description": "E-Ticaret Operasyon ve Müşteri İlişkileri Uzmanı\nParlaklar Madeni Yağ | Oilmarkt.com\nParlaklar Madeni Yağ olarak madeni yağ ve otomotiv bakım ürünleri sektöründe faaliyet gösteriyoruz. 2014 yılından bu yana Oilmarkt.com markamızla geniş ürün yelpazemizi kendi e-ticaret sitemiz ve Türkiye’nin önde gelen pazaryerleri aracılığıyla müşterilerimize sunuyoruz.\nBüyüyen e-ticaret operasyonlarımızda sipariş yönetimi, müşteri ilişkileri, satış sonrası destek ve pazaryeri operasyonlarında görev alacak bir\nE-Ticaret Operasyon ve Müşteri İlişkileri Uzmanı\narıyoruz.\nGenel Nitelikler\nEn az ön lisans veya lis"
   }
  },
  "pending": {}
