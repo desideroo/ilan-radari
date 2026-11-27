@@ -13901,6 +13901,24 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493897088": {
+   "t": 1795780885.2347708,
+   "title": "Senior Data Scientist",
+   "company": "Solid-ICT",
+   "url": "https://www.linkedin.com/jobs/view/4493897088/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4605755": {
+   "t": 1795780926.6369984,
+   "title": "ERP Proje Yöneticisi",
+   "company": "ATİKER YAZILIM VERİ İŞLEM A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/atiker-yazilim-veri-islem-a-s-erp-proje-yoneticisi-4605755",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15395,44 +15413,46 @@
   "7bb78c0545c0bc61": "linkedin:4495083531",
   "d218fd9fd866edd9": "linkedin:4493875572",
   "8f697afd6bc7fbb3": "kariyernet:4605664",
-  "2806db81739c08b9": "linkedin:4493890230"
+  "2806db81739c08b9": "linkedin:4493890230",
+  "c7ce31745ecffa74": "linkedin:4493897088",
+  "a618761de1e84563": "kariyernet:4605755"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795779957.626046,
+   "last_run": 1795780885.234353,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795779957.626048,
+   "last_ok": 1795780885.2343543,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795779116.9728487,
+   "last_run": 1795780926.6358228,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795779116.9728515,
+   "last_ok": 1795780926.6358247,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795777351.7316089,
+   "last_run": 1795780931.4397156,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795777351.73161,
+   "last_ok": 1795780931.4397166,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795777357.711994,
+   "last_run": 1795780936.2072508,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795777357.7119951,
+   "last_ok": 1795780936.2072523,
    "alerted": false,
    "ctx": {}
   },
