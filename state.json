@@ -15000,25 +15000,25 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795752951.662496,
+   "last_run": 1795753867.134874,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795752951.6624978,
+   "last_ok": 1795753867.1348767,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795752143.6906135,
+   "last_run": 1795753907.9991457,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795752143.690615,
+   "last_ok": 1795753907.9991486,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
