@@ -14187,6 +14187,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493892484": {
+   "t": 1795813284.753319,
+   "title": "Materials Science Intern",
+   "company": "Visynex",
+   "url": "https://www.linkedin.com/jobs/view/4493892484/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15711,44 +15720,45 @@
   "9bfca649ac6a50cb": "linkedin:4480109426",
   "869fb73e6bb14fc4": "linkedin:4494202538",
   "0360727c76301ae3": "linkedin:4477094939",
-  "7ab8074609ab65f8": "linkedin:4495314806"
+  "7ab8074609ab65f8": "linkedin:4495314806",
+  "ce374fcb614c529e": "linkedin:4493892484"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795812362.5080655,
+   "last_run": 1795813284.7530527,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795812362.5080667,
+   "last_ok": 1795813284.7530546,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795811543.6503422,
+   "last_run": 1795813325.888546,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795811543.6503441,
+   "last_ok": 1795813325.888548,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795809751.7360663,
+   "last_run": 1795813331.1522226,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795809751.7360678,
+   "last_ok": 1795813331.1522238,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795809757.4994504,
+   "last_run": 1795813336.9824023,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795809757.4994514,
+   "last_ok": 1795813336.9824033,
    "alerted": false,
    "ctx": {}
   },
