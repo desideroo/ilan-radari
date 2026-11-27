@@ -13845,6 +13845,52 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4486252015": {
+   "t": 1795775490.0735312,
+   "title": "Kıdemli Sistem Mühendisi (Linux)",
+   "company": "NGAMING",
+   "url": "https://www.linkedin.com/jobs/view/4486252015/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493885310": {
+   "t": 1795775492.3208137,
+   "title": "Ar-Ge Mühendisi",
+   "company": "ReklamStore",
+   "url": "https://www.linkedin.com/jobs/view/4493885310/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4495083531": {
+   "t": 1795775513.45764,
+   "title": "Test İcra Mühendisi",
+   "company": "TAAC Havacılık Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4495083531/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493875572": {
+   "t": 1795775516.0432441,
+   "title": "IT Altyapı ve Operasyon Uzmanı (Dış Kaynak)",
+   "company": "mayaICT",
+   "url": "https://www.linkedin.com/jobs/view/4493875572/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "kariyernet:4605664": {
+   "t": 1795775557.0378668,
+   "title": "Sales Manager - East Türkiye",
+   "company": "Kws Türk Tarım Ticaret A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/kws-turk-tarim-ticaret-a-s-sales-manager-east-turkiye-4605664",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15333,31 +15379,34 @@
   "005997218e1cf248": "linkedin:4442839584",
   "05deb8a2a728c288": "kariyernet:4412636",
   "b0f7124143c4d8fb": "linkedin:4493888058",
-  "6db6a3a494f18cee": "elemannet:4815998"
+  "6db6a3a494f18cee": "elemannet:4815998",
+  "cb991c1d2f13c5ef": "linkedin:4486252015",
+  "ac33f05e1ef8dd2a": "linkedin:4493885310",
+  "7bb78c0545c0bc61": "linkedin:4495083531",
+  "d218fd9fd866edd9": "linkedin:4493875572",
+  "8f697afd6bc7fbb3": "kariyernet:4605664"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795773726.0077138,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=data+analyst&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795772774.9085732,
+   "last_run": 1795775490.0721416,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795775490.0721433,
    "alerted": false,
    "ctx": {
-    "cursor": 14,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795773767.0908628,
+   "last_run": 1795775557.0365796,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795773767.090865,
+   "last_ok": 1795775557.0365813,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -15494,7 +15543,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 15
+   "rej_remote": 16
   }
  },
  "details": {
@@ -23615,6 +23664,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Prim, Yemek Kartı, Yol Yardım Desteği"
+  },
+  "linkedin:4493885310": {
+   "t": 1795775492.3208497,
+   "source": "linkedin",
+   "title": "Ar-Ge Mühendisi",
+   "company": "ReklamStore",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "Ar-Ge Merkezimiz bünyesinde yürütülen Tübitak destekli yapay zekâ ve makine öğrenmesi projelerinde görevlendirilmek üzere, aşağıdaki niteliklere sahip Ar-Ge Mühendisi arıyoruz.\nAranan Nitelikler ve Sorumluluklar\nÜniversitelerin Bilgisayar Mühendisliği, Yazılım Mühendisliği, Yapay Zekâ Mühendisliği, Elektrik-Elektronik Mühendisliği, Matematik, İstatistik veya ilgili bölümlerinden mezun,\nTercihen ilgili alanlarda yüksek lisans eğitimine devam eden,\nMakine öğrenmesi konusunda deneyimli veya kendisini iyi yetiştirmiş,\nPython programlama dilinde deneyime sahip, TensorFlow, Keras, Scikit-learn ve Py"
   }
  },
  "pending": {}
