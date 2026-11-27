@@ -14110,6 +14110,34 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4473218970": {
+   "t": 1795795301.327407,
+   "title": "Software Developer",
+   "company": "Marti Technologies (NYSE: MRT)",
+   "url": "https://www.linkedin.com/jobs/view/4473218970/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "isbul:101158": {
+   "t": 1795795355.1174026,
+   "title": "Kalite Kontrol Personeli",
+   "company": "CONALT İLAÇ SAN. TİC. LTD. ŞTİ.",
+   "url": "https://isbul.net/is-ilani/conalt-ilac-san-tic-kalite-kontrol-personeli-101158",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "isbul:101159": {
+   "t": 1795795355.1174715,
+   "title": "Üretim Sorumlusu - Üretim Şefi",
+   "company": "CONALT İLAÇ SAN. TİC. LTD. ŞTİ.",
+   "url": "https://isbul.net/is-ilani/conalt-ilac-san-tic-uretim-sorumlusu-uretim-sefi-101159",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15626,44 +15654,47 @@
   "325f1a8e4e05ec0f": "kariyernet:4605859",
   "c305d2514f385df3": "linkedin:4494202322",
   "1bbfb124878359de": "linkedin:4495589365",
-  "e7b04775fa1db828": "linkedin:4494207055"
+  "e7b04775fa1db828": "linkedin:4494207055",
+  "e4055d6cc769a9cf": "linkedin:4473218970",
+  "69320aadd187c6ac": "isbul:101158",
+  "12a2ed50e801f58a": "isbul:101159"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795794377.4927046,
+   "last_run": 1795795298.7297049,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795794377.4927058,
+   "last_ok": 1795795298.7297072,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795793520.8002288,
+   "last_run": 1795795343.2993844,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795793520.8002324,
+   "last_ok": 1795795343.299387,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795791745.2128778,
+   "last_run": 1795795349.9911165,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795791745.2128797,
+   "last_ok": 1795795349.9911182,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795791750.1886184,
+   "last_run": 1795795355.116975,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795791750.1886199,
+   "last_ok": 1795795355.1169767,
    "alerted": false,
    "ctx": {}
   },
@@ -15785,7 +15816,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 24,
+   "rej_remote": 25,
    "rej_exp": 1
   }
  },
@@ -24128,6 +24159,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Ankara OSTİM'deki ofisimizde yayın ekibimize katılacak, deneyimli bir\nDizgi Operatörü\narıyoruz.\nAradığımız Nitelikler\nYayın sektöründe en az 5 yıl dizgi deneyimi olan, Yeniliklere açık\nAdobe InDesign'ı ileri düzeyde\nkullanan (master sayfalar, paragraf ve karakter stilleri, tablo, içindekiler ve dizin oluşturma)\nAdobe Photoshop\nve\nIllustrator'ı\niyi düzeyde kullanan\nAdobe Acrobat Pro\nile PDF düzenleme ve kontrol yapabilen\nBaskı öncesi hazırlık\n(prepress) bilgisine sahip: CMYK renk düzeni, taşma payı (bleed), 300 dpi çözünürlük, overprint, preflight kontrolü\nMatbaaya uygun\nPDF/X\nformatında çıktı "
+  },
+  "linkedin:4473218970": {
+   "t": 1795795301.3274531,
+   "source": "linkedin",
+   "title": "Software Developer",
+   "company": "Marti Technologies (NYSE: MRT)",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Founded in 2018, Marti is Türkiye’s leading mobility app, offering multiple transportation services to its riders. Marti operates a ride-hailing service that matches riders with car, motorcycle, and taxi drivers, and operates a large fleet of rental e-mopeds, e-bikes, and e-scooters. All of Marti’s offerings are serviced by proprietary software systems and IoT infrastructure.\nMarti's vision is that everything on wheels will be electric and everything electric will be shareable. Since 2019, we have experienced significant growth and maintained robust unit economics year-round. Our goal is to ex"
   }
  },
  "pending": {}
