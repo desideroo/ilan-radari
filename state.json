@@ -13988,6 +13988,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493888679": {
+   "t": 1795787194.7079341,
+   "title": "Quality Assurance Manager",
+   "company": "Randstad Türkiye",
+   "url": "https://www.linkedin.com/jobs/view/4493888679/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493897351": {
+   "t": 1795787197.2924275,
+   "title": "Quality Engineer",
+   "company": "TOLON",
+   "url": "https://www.linkedin.com/jobs/view/4493897351/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -15491,17 +15510,19 @@
   "69615165f5b4fa9d": "linkedin:4493891681",
   "31e0f5349ee189a7": "linkedin:4493831097",
   "82a90b321a83f2b2": "linkedin:4495801760",
-  "158fe7ba27ac8eb1": "kariyernet:4605823"
+  "158fe7ba27ac8eb1": "kariyernet:4605823",
+  "441dbb20722ae2f1": "linkedin:4493888679",
+  "8fef78fd10b33393": "linkedin:4493897351"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795786280.5133011,
+   "last_run": 1795787194.7069266,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795786280.5133028,
+   "last_ok": 1795787194.7069285,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
@@ -15650,7 +15671,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 20,
+   "rej_remote": 21,
    "rej_exp": 1
   }
  },
@@ -23908,6 +23929,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Founded in 2012, Obilet.com is a comprehensive travel and tourism platform offering bus, flight, and ferry ticketing, along with hotel bookings and car rentals.\nWith its advanced SaaS Inventory Management System (IMS) supporting bus carriers, over 25 million monthly visitors, and more than 15 million app downloads, Obilet is the leading player in both B2B and B2C markets in Türkiye and the Eastern European region.\nObilet has reached an agreement with BlaBlaCar for a strategic investment in exchange for a majority share in 2024. With more than 50 million transactions projected for 2026, Obilet "
+  },
+  "linkedin:4493897351": {
+   "t": 1795787197.2924597,
+   "source": "linkedin",
+   "title": "Quality Engineer",
+   "company": "TOLON",
+   "location": "Çiğli",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "description",
+   "llm": {},
+   "description": "As a Quality Engineer at TOLON, you will support the quality management system and quality control activities across our manufacturing processes. You will work closely with cross-functional teams on root cause analysis, supplier quality, customer complaints, and continuous improvement projects.\nWhat You Will Do\nSupport the implementation, maintenance, and continuous improvement of Quality Management Systems (ISO 9001, IATF 16949, etc.)\nPlan, perform, and report quality control activities throughout manufacturing processes\nConduct root cause analyses using 5 Why, Fishbone Diagram, and FMEA, and"
   }
  },
  "pending": {}
