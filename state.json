@@ -13835,6 +13835,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "elemannet:4815998": {
+   "t": 1795773774.7060828,
+   "title": "Mağaza Satış Sorumlusu",
+   "company": "Uğurel Bilişim Ltd. Şti.",
+   "url": "https://www.eleman.net/is-ilani/magaza-satis-sorumlusu-i4815998",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -15322,44 +15332,47 @@
   "f90b1babcf4007d3": "linkedin:4495284573",
   "005997218e1cf248": "linkedin:4442839584",
   "05deb8a2a728c288": "kariyernet:4412636",
-  "b0f7124143c4d8fb": "linkedin:4493888058"
+  "b0f7124143c4d8fb": "linkedin:4493888058",
+  "6db6a3a494f18cee": "elemannet:4815998"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795772774.9085717,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795773726.0077138,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=data+analyst&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795772774.9085732,
    "alerted": false,
    "ctx": {
-    "cursor": 8
+    "cursor": 14,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
-   "last_run": 1795771945.372716,
+   "last_run": 1795773767.0908628,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795771945.3727183,
+   "last_ok": 1795773767.090865,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795770157.8816445,
+   "last_run": 1795773772.0068874,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795770157.881647,
+   "last_ok": 1795773772.0068898,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795770162.6616044,
+   "last_run": 1795773779.6380963,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795770162.6616058,
+   "last_ok": 1795773779.6380978,
    "alerted": false,
    "ctx": {}
   },
@@ -23585,6 +23598,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Hakkımızda\nRE-HAT Teknoloji olarak sigorta sektörüne yönelik, satıştan operasyona tüm süreçleri tek platformda yöneten bir hem B2B hem de B2C, CRM/ERP ürünü geliştiriyoruz. Platformumuz birçok sigorta şirketiyle entegre çalışıyor ve her gün aktif olarak kullanılıyor. Küçük ve hızlı hareket eden ekibimize, işi baştan sona sahiplenecek bir Full Stack Developer arıyoruz.\nİş Tanımı\nASP.NET Core MVC ile yeni modüller geliştirmek, mevcut modülleri iyileştirmek\nİş birimlerinden gelen talepleri analiz edip teknik çözüme dönüştürmek\nSigorta şirketlerinin servisleriyle (REST/SOAP) entegrasyonlar gelişti"
+  },
+  "elemannet:4815998": {
+   "t": 1795773774.7061222,
+   "source": "elemannet",
+   "title": "Mağaza Satış Sorumlusu",
+   "company": "Uğurel Bilişim Ltd. Şti.",
+   "location": "Konya - Meram",
+   "work_mode": "",
+   "posted": "",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": "Prim, Yemek Kartı, Yol Yardım Desteği"
   }
  },
  "pending": {}
