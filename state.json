@@ -13788,6 +13788,25 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4493860955": {
+   "t": 1795770953.4293933,
+   "title": "Dış Raporlama Yöneticisi/Yönetici Yardımcısı",
+   "company": "TEB",
+   "url": "https://www.linkedin.com/jobs/view/4493860955/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4495284573": {
+   "t": 1795770962.65349,
+   "title": "Analyst Process Improvement",
+   "company": "Hilton",
+   "url": "https://www.linkedin.com/jobs/view/4495284573/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -15270,17 +15289,19 @@
   "389f1da3343fed5d": "linkedin:4493872275",
   "5933ca6e3a489419": "linkedin:4397792292",
   "1f86eb0df513f0db": "linkedin:4493872608",
-  "c84e7ea24342ee4c": "kariyernet:4605561"
+  "c84e7ea24342ee4c": "kariyernet:4605561",
+  "3a00cfc81da769ce": "linkedin:4493860955",
+  "f90b1babcf4007d3": "linkedin:4495284573"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795770105.4374053,
+   "last_run": 1795770953.4289706,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795770105.4374073,
+   "last_ok": 1795770953.4289722,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
@@ -15429,7 +15450,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 13
+   "rej_remote": 14
   }
  },
  "details": {
@@ -23499,6 +23520,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Full Stack Developer – Ankara (En az 1 yıl tecrübe)\nBaşvurmadan Önce Lütfen Okuyun\nBu ilan staj ilanı değildir. Deneyimli ve hemen işe başlayabilecek çalışma arkadaşları arıyoruz. Aşağıdaki üç şartı taşımayan başvuruları değerlendiremiyoruz:\n1. En az 1 yıl iş deneyimi:\nBir şirkette, ofis ortamında en az 1 yıl yazılım geliştirici olarak çalışmış olmalısın. Stajlar, okul projeleri ve bireysel projeler bu süreye dahil değildir.\n2. OOP dillerinde gerçek proje deneyimi:\nJava, .NET Core (C#) veya Node.js gibi nesne yönelimli (OOP) teknolojilerden en az biriyle iş hayatında proje geliştirmiş olmalısı"
+  },
+  "linkedin:4495284573": {
+   "t": 1795770962.6535294,
+   "source": "linkedin",
+   "title": "Analyst Process Improvement",
+   "company": "Hilton",
+   "location": "Greater Istanbul",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {},
+   "description": "Job Description\nSalary\nNa\nAbout The Role\nAs a Process Improvement Specialist within Hilton's Center of Excellence, you will support the standardization, digitalization, and continuous improvement of finance processes across all functional towers – RTR, RA, OTC, PTP, and HTR. You will also support Master Data Governance, dashboard development, and the roll-out of new platforms (e.g., Finrota). Reporting to the Senior Process Improvement Manager, you will play a hands-on role contributing directly to the success of CoE transformation projects\nResponsibilities\nKey responsibilities include:\nSuppor"
   }
  },
  "pending": {}
