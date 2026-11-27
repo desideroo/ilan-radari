@@ -15715,9 +15715,9 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795807898.9007301,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=.NET&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
+   "last_run": 1795808792.7332332,
+   "fails": 2,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Karaman%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
    "last_ok": 1795806984.866132,
    "alerted": false,
    "ctx": {
