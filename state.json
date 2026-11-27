@@ -14082,6 +14082,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494202322": {
+   "t": 1795790775.3943238,
+   "title": "Test Team Lead",
+   "company": "PATH - Product and Software House",
+   "url": "https://www.linkedin.com/jobs/view/4494202322/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15595,17 +15604,18 @@
   "9efc3cbb9ac0b0ad": "linkedin:4472106862",
   "aa240788c30cdf47": "linkedin:4495810829",
   "8d586bb234a69874": "linkedin:4493894572",
-  "325f1a8e4e05ec0f": "kariyernet:4605859"
+  "325f1a8e4e05ec0f": "kariyernet:4605859",
+  "c305d2514f385df3": "linkedin:4494202322"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795789874.5985577,
+   "last_run": 1795790775.3937497,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795789874.5985594,
+   "last_ok": 1795790775.3937516,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
