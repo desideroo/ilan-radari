@@ -13530,6 +13530,16 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493855693": {
+   "t": 1795751168.9355474,
+   "title": "Resim Öğretmeni",
+   "company": "Yıldız Tozu",
+   "url": "https://www.linkedin.com/jobs/view/4493855693/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -14985,17 +14995,18 @@
   "68a83228e412408d": "kariyernet:4605316",
   "4f2e3afdf730e9bf": "linkedin:4493419239",
   "311603fc09b7fece": "kariyernet:4605327",
-  "83aae70f5c07d3a1": "linkedin:4495036373"
+  "83aae70f5c07d3a1": "linkedin:4495036373",
+  "07ef1a3d9d619179": "linkedin:4493855693"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795750283.2962127,
+   "last_run": 1795751166.360484,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795750283.296214,
+   "last_ok": 1795751166.3604853,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
@@ -22928,6 +22939,23 @@
    "track_from": "title",
    "llm": {},
    "description": "TCI Aircraft Interiors, initially established in 2010, entered a new era in 2023 with the merger of Turkish Airlines subsidiaries TCI Cabin Interior, TSI Seat, and Cornea. Combining over a decade of experience with an innovative vision, TCI leverages its enhanced capabilities to provide cutting-edge solutions for both wide and narrow body aircrafts. As the only company in its field operating in Türkiye, we proudly represent our country while setting new standards in the international aviation industry and continue our mission to provide the best values in the sector.\nWe offer in our product ra"
+  },
+  "linkedin:4493855693": {
+   "t": 1795751168.9355795,
+   "source": "linkedin",
+   "title": "Resim Öğretmeni",
+   "company": "Yıldız Tozu",
+   "location": "Güzelbahçe",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "-"
   }
  },
  "pending": {}
