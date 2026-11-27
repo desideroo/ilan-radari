@@ -14196,6 +14196,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4494228061": {
+   "t": 1795815102.5113838,
+   "title": "Full Stack Yazılım Geliştirme Uzmanı",
+   "company": "Royal MD Estetik",
+   "url": "https://www.linkedin.com/jobs/view/4494228061/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -15721,31 +15731,30 @@
   "869fb73e6bb14fc4": "linkedin:4494202538",
   "0360727c76301ae3": "linkedin:4477094939",
   "7ab8074609ab65f8": "linkedin:4495314806",
-  "ce374fcb614c529e": "linkedin:4493892484"
+  "ce374fcb614c529e": "linkedin:4493892484",
+  "e87b6c864634677f": "linkedin:4494228061"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795814184.9138796,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=ABAP&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795813284.7530546,
+   "last_run": 1795815100.6135862,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795815100.6135879,
    "alerted": false,
    "ctx": {
-    "cursor": 6,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795813325.888546,
+   "last_run": 1795815144.110272,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795813325.888548,
+   "last_ok": 1795815144.1102738,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -15765,10 +15774,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795807944.1232357,
+   "last_run": 1795815147.04816,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795807944.1232376,
+   "last_ok": 1795815147.0481613,
    "alerted": false,
    "ctx": {}
   }
@@ -15884,6 +15893,15 @@
    "irrelevant": 0,
    "rej_remote": 29,
    "rej_exp": 1
+  },
+  "2026-11-28": {
+   "sent": 0,
+   "dropped": 0,
+   "candidates": 0,
+   "applied": 0,
+   "saved": 0,
+   "irrelevant": 0,
+   "rej_remote": 1
   }
  },
  "details": {
@@ -24310,6 +24328,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Delivers and maintains IT applications and services in order to realize the organization's strategy in the field of information technology."
+  },
+  "linkedin:4494228061": {
+   "t": 1795815102.5114243,
+   "source": "linkedin",
+   "title": "Full Stack Yazılım Geliştirme Uzmanı",
+   "company": "Royal MD Estetik",
+   "location": "Bağcılar",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "-"
   }
  },
  "pending": {}
