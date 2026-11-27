@@ -13919,6 +13919,16 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "kariyernet:4605741": {
+   "t": 1795782726.2957103,
+   "title": "İhracat Uzmanı",
+   "company": "KONSÜT GIDA A.Ş.",
+   "url": "https://www.kariyer.net/is-ilani/konsut-gida-a-s-ihracat-uzmani-4605741",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "2+ yıl deneyim"
   }
  },
  "dedupe": {
@@ -15415,29 +15425,30 @@
   "8f697afd6bc7fbb3": "kariyernet:4605664",
   "2806db81739c08b9": "linkedin:4493890230",
   "c7ce31745ecffa74": "linkedin:4493897088",
-  "a618761de1e84563": "kariyernet:4605755"
+  "a618761de1e84563": "kariyernet:4605755",
+  "e3683863b70c69d2": "kariyernet:4605741"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795781758.7839966,
+   "last_run": 1795782680.9866164,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795781758.783998,
+   "last_ok": 1795782680.9866178,
    "alerted": false,
    "ctx": {
-    "cursor": 2
+    "cursor": 8
    }
   },
   "kariyernet": {
-   "last_run": 1795780926.6358228,
+   "last_run": 1795782722.861314,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795780926.6358247,
+   "last_ok": 1795782722.8613162,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
@@ -15574,7 +15585,8 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 17
+   "rej_remote": 17,
+   "rej_exp": 1
   }
  },
  "details": {
@@ -23729,6 +23741,23 @@
    "track_from": "title",
    "llm": {},
    "description": "Genel Nitelikler\nÜniversitelerin tercihen Elektrik/Elektronik, Endüstri, Bilgisayar veya Yazılım mühendisliği bölümlerinden mezun,\nİlgili alanda en az 5 yıl deneyime sahip,\nSAP finans uygulamaları (FI-GL, FI-AA, FI-AP, FI-AR, CO-PA, CO-PC) tecrübeli,\nÜretim olan projelerde deneyimli, Paralel muhasebe (VUK, IFRS) bilgisine sahip,\nSAP fonksiyonel ve teknik dokümantasyon bilgisine sahip,\nTercihen temel düzeyde SAP-ABAP programlama dili bilgisine sahip,\nİyi düzeyde İngilizce bilgisine sahip,\nİletişim ve sunum yeteneği kuvvetli,\nAnalitik düşünme ve problem çözme becerisine sahip\nİş Tanımı\nSAP Finan"
+  },
+  "kariyernet:4605741": {
+   "t": 1795782726.295752,
+   "source": "kariyernet",
+   "title": "İhracat Uzmanı",
+   "company": "KONSÜT GIDA A.Ş.",
+   "location": "Konya",
+   "work_mode": "İş Yerinde",
+   "posted": "1 saat",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "2+ yıl deneyim",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "description",
+   "llm": {},
+   "description": "Aday Kriterleri: Tecrübe: Tecrübeli / Tecrübesiz; Eğitim Seviyesi: Üniversite(Mezun)\n\nİŞ TANIMI\nHedef ihracat pazarlarında (Orta Doğu, Avrupa, Türki Cumhuriyetler ve Uzak Doğu vb.) pazar araştırmaları yapmak, yeni müşteri ve distribütörler kazandırmak.\nMevcut yurt dışı müşteri portföyünü yönetmek, müşteri ilişkilerini geliştirmek ve satış hedeflerinin gerçekleştirilmesine katkı sağlamak.\nMüşteri taleplerini teklif aşamasından ürün teslimatına kadar takip etmek; sipariş, üretim ve sevkiyat süreçlerini ilgili birimlerle koordineli yürütmek.\nGümrük mevzuatı ve hedef ülke ithalat gereklilikleri do"
   }
  },
  "pending": {}
