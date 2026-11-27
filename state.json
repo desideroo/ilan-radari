@@ -13606,6 +13606,24 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4495579642": {
+   "t": 1795761957.5739582,
+   "title": "Çevresel Sistemler Yönetimi Uzmanı ilanı/",
+   "company": "Tein Technology",
+   "url": "https://www.linkedin.com/jobs/view/4495579642/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493875265": {
+   "t": 1795761959.9837046,
+   "title": "Microsoft System Specialist",
+   "company": "SabancıDx",
+   "url": "https://www.linkedin.com/jobs/view/4493875265/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15069,17 +15087,19 @@
   "7fe7f5a66321c0bc": "linkedin:4492386825",
   "95e931df837fde02": "linkedin:4495015881",
   "b4bafc185e803812": "linkedin:4488927936",
-  "13a02320c765db43": "linkedin:4493858919"
+  "13a02320c765db43": "linkedin:4493858919",
+  "dc1e291836a3a6a1": "linkedin:4495579642",
+  "c359f26996a29d61": "linkedin:4493875265"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795761088.5625002,
+   "last_run": 1795761955.3523068,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795761088.562502,
+   "last_ok": 1795761955.3523088,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2
    }
   },
   "kariyernet": {
