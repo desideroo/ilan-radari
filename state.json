@@ -13759,6 +13759,35 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4397792292": {
+   "t": 1795770107.5821943,
+   "title": "Software Engineer - New Grad",
+   "company": "Good Job Games",
+   "url": "https://www.linkedin.com/jobs/view/4397792292/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493872608": {
+   "t": 1795770109.3106787,
+   "title": "Full Stack Engineer",
+   "company": "YUI Teknoloji",
+   "url": "https://www.linkedin.com/jobs/view/4493872608/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4605561": {
+   "t": 1795770152.1013732,
+   "title": "Kalite Kontrol Analisti",
+   "company": "Nefes Analiz Laboratuvar Hizmetleri San.ve Tic.Ltd.Şti",
+   "url": "https://www.kariyer.net/is-ilani/nefes-analiz-laboratuvar-hizmetleri-san-ve-tic-ltd-kalite-kontrol-analisti-4605561",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15238,44 +15267,47 @@
   "e596126513fad4bd": "linkedin:4493082972",
   "b3d31839d3892b60": "linkedin:4493085753",
   "aa46318ac9af5144": "linkedin:4493413651",
-  "389f1da3343fed5d": "linkedin:4493872275"
+  "389f1da3343fed5d": "linkedin:4493872275",
+  "5933ca6e3a489419": "linkedin:4397792292",
+  "1f86eb0df513f0db": "linkedin:4493872608",
+  "c84e7ea24342ee4c": "kariyernet:4605561"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795769176.905998,
+   "last_run": 1795770105.4374053,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795769176.906,
+   "last_ok": 1795770105.4374073,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
-   "last_run": 1795768328.180253,
+   "last_run": 1795770152.100098,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795768328.1802552,
+   "last_ok": 1795770152.1001,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795766536.6020997,
+   "last_run": 1795770157.8816445,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795766536.6021016,
+   "last_ok": 1795770157.881647,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795766540.7837234,
+   "last_run": 1795770162.6616044,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795766540.7837243,
+   "last_ok": 1795770162.6616058,
    "alerted": false,
    "ctx": {}
   },
@@ -15397,7 +15429,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 11
+   "rej_remote": 13
   }
  },
  "details": {
@@ -23433,6 +23465,40 @@
    "track_from": "description",
    "llm": {},
    "description": "E-Ticaret Operasyon ve Müşteri İlişkileri Uzmanı\nParlaklar Madeni Yağ | Oilmarkt.com\nParlaklar Madeni Yağ olarak madeni yağ ve otomotiv bakım ürünleri sektöründe faaliyet gösteriyoruz. 2014 yılından bu yana Oilmarkt.com markamızla geniş ürün yelpazemizi kendi e-ticaret sitemiz ve Türkiye’nin önde gelen pazaryerleri aracılığıyla müşterilerimize sunuyoruz.\nBüyüyen e-ticaret operasyonlarımızda sipariş yönetimi, müşteri ilişkileri, satış sonrası destek ve pazaryeri operasyonlarında görev alacak bir\nE-Ticaret Operasyon ve Müşteri İlişkileri Uzmanı\narıyoruz.\nGenel Nitelikler\nEn az ön lisans veya lis"
+  },
+  "linkedin:4397792292": {
+   "t": 1795770107.5822358,
+   "source": "linkedin",
+   "title": "Software Engineer - New Grad",
+   "company": "Good Job Games",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "About us\nWe were founded in 2017 with the motivation to reach people globally by giving them unique and unforgettable experiences with disruptive products. Our games have reached over 3.5 billion people. This could only be done by gathering exceptional talent and creating a culture to enhance team spirit and creativity. We are looking for passionate teammates to join our team!\nWhat you'll be doing\nWe are looking for a passionate Backend Developer who is excited to architect and implement technology, tools and infrastructure that empower Good Job Games!\nBuilding distributed, high-performance sh"
+  },
+  "linkedin:4493872608": {
+   "t": 1795770109.31072,
+   "source": "linkedin",
+   "title": "Full Stack Engineer",
+   "company": "YUI Teknoloji",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Full Stack Developer – Ankara (En az 1 yıl tecrübe)\nBaşvurmadan Önce Lütfen Okuyun\nBu ilan staj ilanı değildir. Deneyimli ve hemen işe başlayabilecek çalışma arkadaşları arıyoruz. Aşağıdaki üç şartı taşımayan başvuruları değerlendiremiyoruz:\n1. En az 1 yıl iş deneyimi:\nBir şirkette, ofis ortamında en az 1 yıl yazılım geliştirici olarak çalışmış olmalısın. Stajlar, okul projeleri ve bireysel projeler bu süreye dahil değildir.\n2. OOP dillerinde gerçek proje deneyimi:\nJava, .NET Core (C#) veya Node.js gibi nesne yönelimli (OOP) teknolojilerden en az biriyle iş hayatında proje geliştirmiş olmalısı"
   }
  },
  "pending": {}
