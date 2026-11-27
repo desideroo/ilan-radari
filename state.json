@@ -15736,15 +15736,13 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795816893.7744606,
-   "fails": 2,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Karaman%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795815100.6135879,
+   "last_run": 1795817783.4337206,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795817783.433722,
    "alerted": false,
    "ctx": {
-    "cursor": 18,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 4
    }
   },
   "kariyernet": {
