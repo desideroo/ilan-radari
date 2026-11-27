@@ -14045,6 +14045,15 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4472106862": {
+   "t": 1795788967.9490018,
+   "title": "Senior Backend Engineer (Java)",
+   "company": "Migros One",
+   "url": "https://www.linkedin.com/jobs/view/4472106862/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15554,17 +15563,18 @@
   "c47145a9e77fb4e0": "linkedin:4477303182",
   "035b9c5a2c00b32b": "linkedin:4495802757",
   "3fd508efb47fa74c": "linkedin:4494205039",
-  "154157ab67b48166": "kariyernet:4604171"
+  "154157ab67b48166": "kariyernet:4604171",
+  "9efc3cbb9ac0b0ad": "linkedin:4472106862"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795788087.8470807,
+   "last_run": 1795788967.948162,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795788087.8470821,
+   "last_ok": 1795788967.9481637,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 10
    }
   },
   "kariyernet": {
