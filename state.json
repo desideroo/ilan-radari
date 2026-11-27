@@ -13672,6 +13672,25 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493802548": {
+   "t": 1795764710.4994986,
+   "title": "Kızılötesi Dedektör Sistem Mühendisi",
+   "company": "Aselsan",
+   "url": "https://www.linkedin.com/jobs/view/4493802548/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4605457": {
+   "t": 1795764775.011701,
+   "title": "Yazılım Destek Sorumlusu",
+   "company": "Aİ AGENCY YAZILIM ANONİM ŞİRKETİ",
+   "url": "https://www.kariyer.net/is-ilani/ai-agency-yazilim-anonim-sirketi-yazilim-destek-sorumlusu-4605457",
+   "status": "sent",
+   "score": 52,
+   "msg": 74
   }
  },
  "dedupe": {
@@ -15142,29 +15161,31 @@
   "e2d33ac0073db516": "kariyernet:4605392",
   "e16d0b0270dbaefa": "elemannet:4815800",
   "c9d5ac8d0e095dcb": "linkedin:4493871484",
-  "fe91076680b0f625": "linkedin:4493859758"
+  "fe91076680b0f625": "linkedin:4493859758",
+  "58f4c77aa9acb897": "linkedin:4493802548",
+  "0961115fbcefc3d2": "kariyernet:4605457"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795763769.0292587,
+   "last_run": 1795764689.3759432,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795763769.02926,
+   "last_ok": 1795764689.3759449,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795762958.8007686,
+   "last_run": 1795764750.1609795,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795762958.8007703,
+   "last_ok": 1795764750.1609814,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -15184,10 +15205,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795757519.0036795,
+   "last_run": 1795764756.9815707,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795757519.0036807,
+   "last_ok": 1795764756.9815729,
    "alerted": false,
    "ctx": {}
   }
@@ -15295,13 +15316,13 @@
    "rej_exp": 1
   },
   "2026-11-27": {
-   "sent": 0,
+   "sent": 1,
    "dropped": 0,
-   "candidates": 0,
+   "candidates": 1,
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 5
+   "rej_remote": 6
   }
  },
  "details": {
@@ -23204,6 +23225,54 @@
    "track_from": "description",
    "llm": {},
    "description": "Veri Analitiği Uzmanı Arıyoruz!\nDeneyim: +3 yıl\nLokasyon: İstanbul/Ataşehir\nGenel Nitelikler:\n-\nBilgisayar Mühendisliği, Matematik Mühendisliği, Endüstri Mühendisliği veya ilgili bölümlerden\nmezun\n-\nGüçlü seviyede SQL ve Python bilgisine sahip,\n-Büyük veri setleri üzerinde çalışmış; karmaşık sorgu ve prosedürleri okuyup yazabilen, performans iyileştirme ve optimizasyon çalışmalarında deneyimli,\n-\nTercihen Big Data teknolojileri ve Google Cloud Platform (GCP) deneyimi bulunan,\n-Farklı iş birimlerinin veri ihtiyaçlarını anlayarak veriye dayalı analitik çözümlerin geliştirilmesinde aktif rol alab"
+  },
+  "linkedin:4493802548": {
+   "t": 1795764710.4995418,
+   "source": "linkedin",
+   "title": "Kızılötesi Dedektör Sistem Mühendisi",
+   "company": "Aselsan",
+   "location": "Ankara, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-26",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "ASELSAN Mikroelektronik ve Elektro-Optik Sistemler (MEOS) Sektör Başkanlığı bünyesinde Akyurt yerleşkesindeki faaliyetlerimizde bize güç katacak;\nüniversitelerin Elektrik-Elektronik, Elektronik-Haberleşme, Makine, Fizik Mühendisliği veya Fizik bölümlerinden mezun\nKızılötesi Dedektör Sistem Mühendisi\nçalışma arkadaşları arıyoruz.\nBU POZİSYONDA EN ÖNEM VERDİĞİMİZ YETKİNLİKLER VE DENEYİMLER\nSistem Mühendisliği süreçlerine hakim,\nKızılötesi (MWIR/LWIR/SWIR) dedektörler veya termal kameralar konusunda bilgi sahibi,\nTemel optik, radyometri ve ısı transferi konularına hakim,\nDedektör testleri, karakt"
+  },
+  "kariyernet:4605457": {
+   "t": 1795764775.0118313,
+   "source": "kariyernet",
+   "title": "Yazılım Destek Sorumlusu",
+   "company": "Aİ AGENCY YAZILIM ANONİM ŞİRKETİ",
+   "location": "Ankara",
+   "work_mode": "Uzaktan",
+   "posted": "1 saat",
+   "tracks": [
+    "general"
+   ],
+   "rule_score": 65,
+   "reject": "",
+   "warnings": [
+    "Askerlik: ilanda 'tamamlanmış' şartı var (sende tecilli, Ekim 2028)",
+    "Deneyim: ilanda 1 yıl isteniyor"
+   ],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {
+    "score": 52,
+    "cv": "03_Full_Stack",
+    "summary": "Online eğitim platformlarının operasyonel süreçlerini takip edecek ve web altyapısını geliştirecek Junior Web Geliştirici aranmaktadır. Pozisyonda HTML, CSS, JavaScript, React.js, Next.js ve MongoDB teknolojileri kullanılmaktadır.",
+    "why": "Adayın JavaScript ve React yetkinlikleri ile uzaktan çalışma tercihi pozisyonun gereksinimleriyle uyumludur.",
+    "gaps": "Askerliğin yapılmış olması şartı (aday tecilli), 1 yıl deneyim şartı, Next.js ve Framer bilgisi",
+    "military_required": true,
+    "min_years": 1,
+    "work_mode": "remote"
+   },
+   "description": "Aday Kriterleri: Tecrübe: 1 - 99 yıl arası; Eğitim Seviyesi: Üniversite(Mezun); Askerlik Durumu: Yapıldı\n\nJunior Web Developer & Digital Operations Specialist\nÇalışma Şekli:\nTam Zamanlı / Uzaktan (Remote)\nSektör:\nEğitim ve Danışmanlık\nPozisyon Hakkında\nEğitim ve danışmanlık sektöründe geliştirdiğimiz dijital projelerde bizimle birlikte değer üretecek, teknolojiye ilgi duyan, öğrenmeye ve gelişime açık bir takım arkadaşı arıyoruz.\nWeb altyapımızın geliştirilmesi, online eğitim platformlarımızın yönetilmesi ve dijital operasyonel süreçlerimizin iyileştirilmesinde aktif rol alacak; teknik yetkinliklerini geliştirirken farklı dijital projelerde deneyim kazanmak isteyen adaylarla tanışmayı heyecanla bekliyoruz.\nYazılım geliştirme alanında katkı ve destek sağlayabilmesi ve bu alanda ilerleme hedefi olan adaylar beklemekteyiz.\nAranan Nitelikler\nHTML, CSS ve JavaScript teknolojilerinde bilgi sahibi olmak,\nReact.js ve Next.js teknolojilerine aşina olmak veya bu alanlarda kendini geliştirmeye istekli olmak,\nMongoDB başta olmak üzere NoSQL veritabanlarının çalışma mantığına hâkim olmak,\nFramer kullanarak web sitesi oluşturma, düzenleme ve güncelleme süreçleri hakkında bilgi sahibi olmak,\nSEO, web sitesi optimizasyonu ve dijital görünürlük konularında deneyim sahibi olmak,\nFront-End Developer alanında deneyim sahibi olmak,\nKod yazma alanında bilgi sahibi olmak,\nTeknik konuların yanı sıra dijital operasyonel süreçleri takip edebilmek,\nGüçlü iletişim becerilerine sahip, ekip çalışmasına yatkın ve sorumluluk bilinci yüksek olmak,\nAraştırmayı, öğrenmeyi ve yeni teknolojileri uygulamayı sevmek.\nGörev ve Sorumluluklar\nOnline eğitim platformlarının teknik ve operasyonel süreçlerine destek olmak,\nEğitim programlarının dijital platformlara aktarılması, düzenlenmesi ve güncellenmesinde aktif rol almak,\nOnline eğitim sistemlerinin işleyişini takip etmek ve karşılaşılan sorunların çözümüne katkı sağlamak,\nEğitim ve danışmanlık hizmetlerine yönelik dijital projelerin geliştirilmesine destek olmak,\nKullanıcı deneyimini iyileştirmeye yönelik yenilikçi ve çözüm odaklı öneriler geliştirmek,\nYazılım programları geliştirme ekibine katkı sağlayabilmek.\nTeknolojiye ilgi duyuyor, yazılım alanında kariyerini geliştirmek ve dijital projelerde aktif rol almak istiyorsan seni ekibimizde görmek isteriz!"
   }
  },
  "pending": {}
