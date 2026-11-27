@@ -15694,42 +15694,40 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795801570.858916,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795800671.7425945,
+   "last_run": 1795802481.5236661,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795802481.5236683,
    "alerted": false,
    "ctx": {
-    "cursor": 8,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795800723.7534,
+   "last_run": 1795802522.737856,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795800723.7534018,
+   "last_ok": 1795802522.737858,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795798927.101493,
+   "last_run": 1795802528.7416966,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795798927.1014943,
+   "last_ok": 1795802528.7416983,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795798931.6640518,
+   "last_run": 1795802534.0648003,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795798931.6640525,
+   "last_ok": 1795802534.0648017,
    "alerted": false,
    "ctx": {}
   },
@@ -15744,7 +15742,7 @@
  },
  "tg_offset": 985447703,
  "paused": false,
- "last_summary": "2026-11-26",
+ "last_summary": "2026-11-27",
  "daily": {
   "2026-11-17": {
    "sent": 19,
