@@ -14054,6 +14054,34 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4495810829": {
+   "t": 1795789874.5990064,
+   "title": "Müşteri Analitiği & CRM Kıdemli Uzmanı/Müdür Yardımcısı",
+   "company": "QNB Sigorta",
+   "url": "https://www.linkedin.com/jobs/view/4495810829/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493894572": {
+   "t": 1795789876.315511,
+   "title": "Reporting & Settlement Specialist",
+   "company": "Transsion",
+   "url": "https://www.linkedin.com/jobs/view/4493894572/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4605859": {
+   "t": 1795789920.5705411,
+   "title": "İş Güvenliği Uzmanı (Ürün ve İçerik) · Uzaktan",
+   "company": "İSG Studio Yazılım Ve Ticaret Limited Şirketi",
+   "url": "https://www.kariyer.net/is-ilani/isg-studio-yazilim-ve-ticaret-limited-sirketi-is-guvenligi-uzmani-urun-ve-icerik-uzaktan-4605859",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15564,29 +15592,32 @@
   "035b9c5a2c00b32b": "linkedin:4495802757",
   "3fd508efb47fa74c": "linkedin:4494205039",
   "154157ab67b48166": "kariyernet:4604171",
-  "9efc3cbb9ac0b0ad": "linkedin:4472106862"
+  "9efc3cbb9ac0b0ad": "linkedin:4472106862",
+  "aa240788c30cdf47": "linkedin:4495810829",
+  "8d586bb234a69874": "linkedin:4493894572",
+  "325f1a8e4e05ec0f": "kariyernet:4605859"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795788967.948162,
+   "last_run": 1795789874.5985577,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795788967.9481637,
+   "last_ok": 1795789874.5985594,
    "alerted": false,
    "ctx": {
-    "cursor": 10
+    "cursor": 16
    }
   },
   "kariyernet": {
-   "last_run": 1795788133.3705707,
+   "last_run": 1795789916.422956,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795788133.3705728,
+   "last_ok": 1795789916.422958,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
@@ -15723,7 +15754,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 23,
+   "rej_remote": 24,
    "rej_exp": 1
   }
  },
@@ -24032,6 +24063,23 @@
    "track_from": "title",
    "llm": {},
    "description": "KRİTİK SİSTEMLER SİSTEM MÜHENDİSİ\nKritik Sistemler alanında yürütülen büyük ölçekli projelerde görev almak üzere ekibimize katılacak, sistem mühendisliği çalışmalarına katkı sağlayacak Sistem Mühendisi arıyoruz.\nSürekli gelişime açık, analitik düşünme becerisine sahip ve farklı mühendislik disiplinleriyle koordineli çalışabilecek takım arkadaşlarımızın başvurularını bekliyoruz.\nGENEL NİTELİKLER\nÜniversitelerin Bilgisayar, Bilişim, Elektrik-Elektronik veya Endüstri Mühendisliği bölümlerinden mezun,\nİlgili alanda en az 3 yıl deneyime sahip ve sürekli gelişime açık,\nDokümantasyon okuma ve araştır"
+  },
+  "linkedin:4493894572": {
+   "t": 1795789876.315552,
+   "source": "linkedin",
+   "title": "Reporting & Settlement Specialist",
+   "company": "Transsion",
+   "location": "İstanbul",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "About the job\nJob Summary\nWe are looking for a detail-oriented and analytical Reporting & Settlement\n﻿\nto join our After-Sales Service Operations team in Türkiye.\nThe position will be responsible for preparing operational performance reports, monitoring service KPIs, managing service partner settlement calculations, and ensuring data accuracy across reporting systems.\nThe ideal candidate should possess strong analytical skills, advanced Excel knowledge, and the ability to transform operational data into meaningful insights to support business decisions and continuous improvement.\nKey Responsib"
   }
  },
  "pending": {}
