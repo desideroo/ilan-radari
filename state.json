@@ -15052,40 +15052,42 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795758355.1686115,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795759303.8269637,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Karaman%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
    "last_ok": 1795758355.1686132,
    "alerted": false,
    "ctx": {
-    "cursor": 4
+    "cursor": 4,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
-   "last_run": 1795757515.974002,
+   "last_run": 1795759344.8171384,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795757515.974004,
+   "last_ok": 1795759344.8171408,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795755743.9292212,
+   "last_run": 1795759350.8538141,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795755743.9292223,
+   "last_ok": 1795759350.8538163,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795755749.7269158,
+   "last_run": 1795759357.0103247,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795755749.7269166,
+   "last_ok": 1795759357.0103257,
    "alerted": false,
    "ctx": {}
   },
