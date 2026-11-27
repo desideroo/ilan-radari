@@ -13959,6 +13959,35 @@
    "score": null,
    "msg": null,
    "why": "alan dışı meslek"
+  },
+  "linkedin:4493831097": {
+   "t": 1795786282.4362037,
+   "title": "Full Stack Developer",
+   "company": "Hipposoft",
+   "url": "https://www.linkedin.com/jobs/view/4493831097/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4495801760": {
+   "t": 1795786292.6100202,
+   "title": "Artificial Intelligence Engineer",
+   "company": "obilet",
+   "url": "https://www.linkedin.com/jobs/view/4495801760/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "kariyernet:4605823": {
+   "t": 1795786335.7915785,
+   "title": "Tıbbi Tanıtım Temsilcisi",
+   "company": "İlko İlaç Sanayi ve Tic A.Ş",
+   "url": "https://www.kariyer.net/is-ilani/ilko-ilac-sanayi-ve-tic-a-s-tibbi-tanitim-temsilcisi-4605823",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15459,29 +15488,32 @@
   "e3683863b70c69d2": "kariyernet:4605741",
   "ea424d723e936562": "kariyernet:4605265",
   "6150d258ac969083": "linkedin:4493883858",
-  "69615165f5b4fa9d": "linkedin:4493891681"
+  "69615165f5b4fa9d": "linkedin:4493891681",
+  "31e0f5349ee189a7": "linkedin:4493831097",
+  "82a90b321a83f2b2": "linkedin:4495801760",
+  "158fe7ba27ac8eb1": "kariyernet:4605823"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795785384.9720125,
+   "last_run": 1795786280.5133011,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795785384.9720144,
+   "last_ok": 1795786280.5133028,
    "alerted": false,
    "ctx": {
-    "cursor": 6
+    "cursor": 12
    }
   },
   "kariyernet": {
-   "last_run": 1795784559.3933742,
+   "last_run": 1795786332.0775592,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795784559.3933766,
+   "last_ok": 1795786332.0775619,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -15501,10 +15533,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795779119.6517386,
+   "last_run": 1795786338.6789384,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795779119.65174,
+   "last_ok": 1795786338.6789503,
    "alerted": false,
    "ctx": {}
   }
@@ -15618,7 +15650,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 18,
+   "rej_remote": 20,
    "rej_exp": 1
   }
  },
@@ -23842,6 +23874,40 @@
    "track_from": "title",
    "llm": {},
    "description": "Aşılı fide üretiminde faaliyet gösteren firmamızın muhasebe departmanında görevlendirilmek üzere, Logo Tiger ERP deneyimli muhasebe elemanı arıyoruz.\nAranan Nitelikler\nLogo Tiger programını aktif kullanabilen.\nFatura ve irsaliye kesme süreçlerine hâkim.\nCari hesap takibi, mutabakat ve tahsilat süreçlerini yürütebilen.\nÖn muhasebe işlemlerinde (banka, kasa, çek/senet takibi) deneyimli.\ne-Fatura / e-İrsaliye uygulamalarına aşina.\nMS Office (özellikle Excel) bilgisi iyi düzeyde.\nDüzenli, dikkatli ve takip yeteneği güçlü."
+  },
+  "linkedin:4493831097": {
+   "t": 1795786282.4362433,
+   "source": "linkedin",
+   "title": "Full Stack Developer",
+   "company": "Hipposoft",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Full Stack Developer (.NET) – Remote | Hipposoft\nHipposoft olarak, büyüyen yazılım ekibimize katılacak, modern teknolojilere hâkim,\nyapay zekâ destekli yazılım geliştirme araçlarını etkin kullanabilen\nve en az 5 yıl deneyimli Full Stack Developer arıyoruz.\nÇalışma Modeli:\nHibrit\nGenel Nitelikler\nYazılım geliştirme alanında en az 5 yıl profesyonel deneyim sahibi,\nC#, .NET Core ve ASP.NET Core teknolojilerine hâkim,\nReact, Angular veya Vue.js teknolojilerinden en az birinde deneyimli,\nHTML, CSS, JavaScript ve TypeScript konularında deneyimli,\nMS SQL Server ve ilişkisel veri tabanlarına hâkim,\nRE"
+  },
+  "linkedin:4495801760": {
+   "t": 1795786292.6100705,
+   "source": "linkedin",
+   "title": "Artificial Intelligence Engineer",
+   "company": "obilet",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "Founded in 2012, Obilet.com is a comprehensive travel and tourism platform offering bus, flight, and ferry ticketing, along with hotel bookings and car rentals.\nWith its advanced SaaS Inventory Management System (IMS) supporting bus carriers, over 25 million monthly visitors, and more than 15 million app downloads, Obilet is the leading player in both B2B and B2C markets in Türkiye and the Eastern European region.\nObilet has reached an agreement with BlaBlaCar for a strategic investment in exchange for a majority share in 2024. With more than 50 million transactions projected for 2026, Obilet "
   }
  },
  "pending": {}
