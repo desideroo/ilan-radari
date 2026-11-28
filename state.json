@@ -14424,6 +14424,33 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4425646062": {
+   "t": 1795873606.0073304,
+   "title": "Japanese / English Gaming Support Agent",
+   "company": "5CA",
+   "url": "https://www.linkedin.com/jobs/view/4425646062/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4494204341": {
+   "t": 1795873608.1247845,
+   "title": "AIT/Electrical Engineer",
+   "company": "Baryonic Space",
+   "url": "https://www.linkedin.com/jobs/view/4494204341/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4469043158": {
+   "t": 1795873629.3154676,
+   "title": "Customer Quality Engineer",
+   "company": "PHINIA",
+   "url": "https://www.linkedin.com/jobs/view/4469043158/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15973,17 +16000,20 @@
   "168f3eb21aa6a520": "linkedin:4494254139",
   "4d2de627a206817c": "linkedin:4494250244",
   "bd4d3f326604daf9": "linkedin:4493885850",
-  "da465105264dcbea": "linkedin:4493882828"
+  "da465105264dcbea": "linkedin:4493882828",
+  "d96b134738c60205": "linkedin:4425646062",
+  "ad8121dbbf648b97": "linkedin:4494204341",
+  "3c3f3d1f02142d4c": "linkedin:4469043158"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795872701.87644,
+   "last_run": 1795873569.9663901,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795872701.8764412,
+   "last_ok": 1795873569.9663918,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
