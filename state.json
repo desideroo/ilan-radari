@@ -14415,6 +14415,15 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4493882828": {
+   "t": 1795872701.8769715,
+   "title": "Endüstri Mühendisi (Uzman / Kıdemli Uzman)",
+   "company": "Eminevim",
+   "url": "https://www.linkedin.com/jobs/view/4493882828/",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15963,31 +15972,30 @@
   "eec3667b46cf2a17": "linkedin:4487303884",
   "168f3eb21aa6a520": "linkedin:4494254139",
   "4d2de627a206817c": "linkedin:4494250244",
-  "bd4d3f326604daf9": "linkedin:4493885850"
+  "bd4d3f326604daf9": "linkedin:4493885850",
+  "da465105264dcbea": "linkedin:4493882828"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795870928.6514926,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=full+stack&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795869974.3337815,
+   "last_run": 1795872701.87644,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795872701.8764412,
    "alerted": false,
    "ctx": {
-    "cursor": 8,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 14
    }
   },
   "kariyernet": {
-   "last_run": 1795870969.7824414,
+   "last_run": 1795872743.1927938,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795870969.7824433,
+   "last_ok": 1795872743.192795,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
@@ -16007,10 +16015,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795865559.3248696,
+   "last_run": 1795872746.016719,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795865559.3248706,
+   "last_ok": 1795872746.0167198,
    "alerted": false,
    "ctx": {}
   }
