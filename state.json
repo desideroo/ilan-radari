@@ -15779,40 +15779,42 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795830361.7080452,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795831302.8802476,
+   "fails": 1,
+   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=SAP&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
    "last_ok": 1795830361.7080467,
    "alerted": false,
    "ctx": {
-    "cursor": 16
+    "cursor": 2,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "kariyernet": {
-   "last_run": 1795829558.1124568,
+   "last_run": 1795831344.9855518,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795829558.1124582,
+   "last_ok": 1795831344.9855535,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795827742.2779007,
+   "last_run": 1795831349.7348394,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795827742.2779024,
+   "last_ok": 1795831349.7348418,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795827749.221929,
+   "last_run": 1795831355.2997696,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795827749.2219307,
+   "last_ok": 1795831355.2997706,
    "alerted": false,
    "ctx": {}
   },
