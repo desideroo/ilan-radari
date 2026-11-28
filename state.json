@@ -14337,6 +14337,35 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4486774742": {
+   "t": 1795860076.0088422,
+   "title": "Corporate IT Lead",
+   "company": "Shell",
+   "url": "https://www.linkedin.com/jobs/view/4486774742/",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "linkedin:4493880768": {
+   "t": 1795860096.7243185,
+   "title": "Cyber Security Operations Specialist",
+   "company": "Ford Otosan",
+   "url": "https://www.linkedin.com/jobs/view/4493880768/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494149971": {
+   "t": 1795860106.1347177,
+   "title": "Systems Engineer",
+   "company": "Spektrum",
+   "url": "https://www.linkedin.com/jobs/view/4494149971/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -15877,46 +15906,47 @@
   "3bf061642e16d75a": "linkedin:4494206208",
   "396f81cc8bdc7151": "elemannet:4816424",
   "e96173f2d7f45050": "elemannet:4816427",
-  "03140481c6bb0792": "elemannet:4816421"
+  "03140481c6bb0792": "elemannet:4816421",
+  "abe64ff09172efa9": "linkedin:4486774742",
+  "124060aa314be529": "linkedin:4493880768",
+  "ec11b20a38ec8b09": "linkedin:4494149971"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795859175.0249226,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795858271.688538,
+   "last_run": 1795860076.008208,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795860076.0082097,
    "alerted": false,
    "ctx": {
-    "cursor": 16,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 2
    }
   },
   "kariyernet": {
-   "last_run": 1795858315.4085,
+   "last_run": 1795860147.1065037,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795858315.408502,
+   "last_ok": 1795860147.1065056,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795856539.7464573,
+   "last_run": 1795860152.1279266,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795856539.7464588,
+   "last_ok": 1795860152.127928,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795856544.800634,
+   "last_run": 1795860156.898664,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795856544.8006353,
+   "last_ok": 1795860156.8986652,
    "alerted": false,
    "ctx": {}
   },
@@ -16048,7 +16078,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 3,
+   "rej_remote": 5,
    "rej_exp": 3
   }
  },
@@ -24578,6 +24608,40 @@
    "track_from": "description",
    "llm": {},
    "description": "AkalBatu olarak tekstil, gıda, kozmetik ve perakende sektörlerine yönelik sürdürülebilir askı, etiket, çanta, kutu ve ambalaj çözümleri üretiyoruz. Kurumsal web sitemiz (\nakalbatu.com\n) üzerinden B2B üretim ve marka çözümlerimizi sunarken, online satış mağazamız (\nshop.akalbatu.com\n) aracılığıyla e-ticaret kutuları, kargo poşetleri, pelur kağıtlar ve askı gibi perakende ürünlerimizi müşterilerimizle buluşturuyoruz. Büyüyen dijital operasyonlarımıza destek olacak; görev ve sorumluluklar ile aranan nitelikleri aşağıda belirtilen\nE-Ticaret Uzman/Uzman Yardımcısı\narıyoruz.\nGörev ve Sorumluluklar\nO"
+  },
+  "linkedin:4493880768": {
+   "t": 1795860096.7243516,
+   "source": "linkedin",
+   "title": "Cyber Security Operations Specialist",
+   "company": "Ford Otosan",
+   "location": "Sancaktepe",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Uzman",
+   "track_from": "title",
+   "llm": {},
+   "description": "About The Job\nWe believe that our employees are the foundation of our success and the source of our strength. Our vision is to become Turkey's most valuable and preferred industrial company that champions equality in the workplace. Join us in shaping the future of the automotive industry at Ford Otosan!\nAs a Cyber Security Operations Specialist, you will take an active role in daily operation, monitoring and continuous improvement of SOC and network security capabilities. You will work with SIEM, SOAR, EDR/XDR, Database Activity Monitoring and network security technologies such as firewalls, W"
+  },
+  "linkedin:4494149971": {
+   "t": 1795860106.134748,
+   "source": "linkedin",
+   "title": "Systems Engineer",
+   "company": "Spektrum",
+   "location": "İzmir",
+   "work_mode": "",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "description",
+   "llm": {},
+   "description": "Spektrum supports apex purchasers (NATO, UN, EU, and National Government and Defence) and their Tier 1 supplier ecosystem with a wide range of specialist services. We provide our clients with professional services, specialised aerospace and defence sales, delivery, and operational subject matter expertise. We are looking for personnel to join our team and support key client projects.\nWho we are supporting\nThe NATO Communication and Information Agency (NCIA) is responsible for providing secure and effective communications and information technology (IT) services to NATO's member countries and i"
   }
  },
  "pending": {}
