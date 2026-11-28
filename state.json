@@ -14225,6 +14225,26 @@
    "score": null,
    "msg": null,
    "why": "kıdem: Orta-Üst Düzey Yönetici"
+  },
+  "linkedin:4493884976": {
+   "t": 1795827691.5460994,
+   "title": "Associate Data & AI Engineering Consultant - New Graduate (Entry Level)",
+   "company": "SnA Consulting",
+   "url": "https://www.linkedin.com/jobs/view/4493884976/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "kıdem: Orta-Üst Düzey Yönetici"
+  },
+  "linkedin:4495351183": {
+   "t": 1795827693.744589,
+   "title": "DevOps Automation Testing Engineer",
+   "company": "Accenture",
+   "url": "https://www.linkedin.com/jobs/view/4495351183/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "kıdem: Orta-Üst Düzey Yönetici"
   }
  },
  "dedupe": {
@@ -15753,44 +15773,46 @@
   "ce374fcb614c529e": "linkedin:4493892484",
   "e87b6c864634677f": "linkedin:4494228061",
   "cd37caccd9d81515": "linkedin:4495336812",
-  "0a25918432bbe9a4": "linkedin:4495352141"
+  "0a25918432bbe9a4": "linkedin:4495352141",
+  "bdbb0296749f9d7d": "linkedin:4493884976",
+  "e712ffabf0500b53": "linkedin:4495351183"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795826771.763794,
+   "last_run": 1795827689.8252487,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795826771.7637954,
+   "last_ok": 1795827689.8252506,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795825943.6423872,
+   "last_run": 1795827736.9763896,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795825943.642389,
+   "last_ok": 1795827736.976391,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 4,
-    "cur_remote": 0
+    "cur_konya": 8,
+    "cur_remote": 4
    }
   },
   "elemannet": {
-   "last_run": 1795824153.8912733,
+   "last_run": 1795827742.2779007,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795824153.8912761,
+   "last_ok": 1795827742.2779024,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795824159.1052897,
+   "last_run": 1795827749.221929,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795824159.1052907,
+   "last_ok": 1795827749.2219307,
    "alerted": false,
    "ctx": {}
   },
@@ -15923,7 +15945,7 @@
    "saved": 0,
    "irrelevant": 0,
    "rej_remote": 1,
-   "rej_exp": 1
+   "rej_exp": 3
   }
  },
  "details": {
@@ -24384,6 +24406,40 @@
    "track_from": "description",
    "llm": {},
    "description": "As Manufacturing & Operations, part of Accenture, we are working in the domain of Manufacturing Execution Systems (MES), which means that the solutions we are working on are directly impacting how factories around the world are managing their manufacturing processes.\nWe are looking for an ambitious\nData & Analytics Consultant\nready to take on new challenges. As industries head towards Manufacturing and Factory Digitalization, MES stands in the center of manufacturing excellence.\n📢What’s in it for you?\n✨\nWork-Life Balance:\nRemote working model / Flexible hours / Birthday off / No dress code / H"
+  },
+  "linkedin:4493884976": {
+   "t": 1795827691.54616,
+   "source": "linkedin",
+   "title": "Associate Data & AI Engineering Consultant - New Graduate (Entry Level)",
+   "company": "SnA Consulting",
+   "location": "İstanbul",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "kıdem: Orta-Üst Düzey Yönetici",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "About Us\nSnA is a business analytics consultancy with its resources actively engaged in client deliverables. SnA helps blue-chip clients in Banking, Insurance, Telco, Retail, and Energy understand their transaction-level history & conduct predictive analysis. SnA team combines skillsets in three key areas: business strategy, applied statistics, and database techniques. In the past fifteen years, SnA has completed over 300+ advanced analytics engagements with high-profile clients in the EMEA region.\nThis position requires a combination of\ntechnical skills and research, communication, and presen"
+  },
+  "linkedin:4495351183": {
+   "t": 1795827693.7446249,
+   "source": "linkedin",
+   "title": "DevOps Automation Testing Engineer",
+   "company": "Accenture",
+   "location": "Greater Istanbul",
+   "work_mode": "Uzaktan",
+   "posted": "2026-11-27",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "kıdem: Orta-Üst Düzey Yönetici",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "As Manufacturing & Operations, part of Accenture, we are working in the domain of Manufacturing Execution Systems (MES), which means that the solutions we are working on are directly impacting how factories around the world are managing their manufacturing processes.\nWe are looking for an ambitious\nDevOps Automation Testing Engineer\nready to take on new challenges. As industries head towards Manufacturing and Factory Digitalization, MES stands in the center of manufacturing excellence.\n📢What’s in it for you?\n✨\nWork-Life Balance:\nRemote working model / Flexible hours / Birthday off / No dress c"
   }
  },
  "pending": {}
