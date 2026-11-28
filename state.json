@@ -14460,6 +14460,36 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4495365850": {
+   "t": 1795875415.657225,
+   "title": "Grafik Tasarımcı",
+   "company": "Ulusoy Dijital Medya",
+   "url": "https://www.linkedin.com/jobs/view/4495365850/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
+  },
+  "linkedin:4494247665": {
+   "t": 1795875417.6942887,
+   "title": "Yapay Zekâ Mühendisi – Agentic AI ve Otonom Sistemler",
+   "company": "Kastaş Sızdırmazlık Teknolojileri",
+   "url": "https://www.linkedin.com/jobs/view/4494247665/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494204550": {
+   "t": 1795875453.9507208,
+   "title": "Satış Raporlama ve Yönetici Asistanı",
+   "company": "İşkar Teknoloji",
+   "url": "https://www.linkedin.com/jobs/view/4494204550/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "alan dışı meslek"
   }
  },
  "dedupe": {
@@ -16013,19 +16043,20 @@
   "d96b134738c60205": "linkedin:4425646062",
   "ad8121dbbf648b97": "linkedin:4494204341",
   "3c3f3d1f02142d4c": "linkedin:4469043158",
-  "b96d5f67249da2c3": "elemannet:4816511"
+  "b96d5f67249da2c3": "elemannet:4816511",
+  "d3bedde0649d29a4": "linkedin:4495365850",
+  "fc8b4320463f282c": "linkedin:4494247665",
+  "1828ad36153206ad": "linkedin:4494204550"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795874503.935337,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=ABAP&location=T%C3%BCrkiye&f_TPR=r259200&sortBy=DD&start=0&f_WT=2 -> HTTP 429",
-   "last_ok": 1795873569.9663918,
+   "last_run": 1795875413.843877,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795875413.8438785,
    "alerted": false,
    "ctx": {
-    "cursor": 6,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 12
    }
   },
   "kariyernet": {
@@ -16184,7 +16215,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 8,
+   "rej_remote": 9,
    "rej_exp": 3
   }
  },
@@ -24816,6 +24847,57 @@
    "track_from": "title",
    "llm": {},
    "description": "Merhaba!\nBiz; anlam dolu ve çalışmaktan gurur duyduğumuz bir iş yapıyoruz. GÖKBEY’i, HÜRJET’i, KAAN’ı, ANKA-III'ü, GÖKTÜRK-Y'yi ve daha nicelerini üretiyoruz!\nBirbirimize saygı duyduğumuz, gelişim fırsatlarıyla dolu iş ortamımızda hem kendimizi hem de havacılık ve uzay geleceğini şekillendiriyoruz.\nAramıza katılarak, keşif tutkunu ve merak duygunu, gurur ve cesur hamlelerle tamamlayacak; son teknolojiyle alanında öncü ürünler geliştirirken anlam ve gelişim dolu bir geleceğe adım atacaksın.\nBitmek tükenmek bilmeyen keşif tutkusu, merak, azim ve cesaretle yüksekleri hedefliyorsan, seninle\n#\nGÖZÜ"
+  },
+  "linkedin:4495365850": {
+   "t": 1795875415.6572618,
+   "source": "linkedin",
+   "title": "Grafik Tasarımcı",
+   "company": "Ulusoy Dijital Medya",
+   "location": "Konya, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-28",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "Başlangıç Seviye",
+   "track_from": "title",
+   "llm": {},
+   "description": "Ulusoy Dijital Medya, Konya merkezli bir sosyal medya ve reklam ajansıdır. Restorandan inşaata, güzellik merkezinden sanayiye kadar birçok sektörden firmanın sosyal medyasını çekimden reklama kadar uçtan uca yönetiyoruz. Ekibimize, Selçuklu'daki ofisimizde tam zamanlı çalışacak, video deneyimi de olan bir Grafik Tasarımcı arıyoruz.\nGörev ve Sorumluluklar\n• Firmalar için Instagram, Facebook, TikTok ve LinkedIn post, story ve kapak tasarımları hazırlamak\n• Reels ve kısa videoların kurgusunu yapmak, altyazı ve grafik eklemek\n• Meta reklamları için görsel ve video kreatifler üretmek\n• Logo, kurums"
+  },
+  "linkedin:4494247665": {
+   "t": 1795875417.6943421,
+   "source": "linkedin",
+   "title": "Yapay Zekâ Mühendisi – Agentic AI ve Otonom Sistemler",
+   "company": "Kastaş Sızdırmazlık Teknolojileri",
+   "location": "İzmir, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-28",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Geçerli Değil",
+   "track_from": "title",
+   "llm": {},
+   "description": "Kastaş Sızdırmazlık Teknolojileri olarak, kurumsal süreçleri uçtan uca yürütebilen bir yapay zekâ organizasyonu kuruyoruz. İlk odağımız BT fonksiyonu; mimariyi ilerleyen aşamalarda diğer fonksiyonlara da uyarlayacağız. Bu yapının mühendislik altyapısını birlikte oluşturacak araştırmacı ve gelişime açık mühendisler arıyoruz.\nİŞ TANIMI\n• Ajan organizasyonları: Ajanların rol ve sorumluluklarını tanımlamak; görev planlama, iletişim, iş birliği ve koordinasyon mekanizmalarını geliştirmek.\n• Bilgi ve hafıza: ERP, CRM, MES, MS365 ve dokümanlar gibi kaynaklardan bilgi çıkaran, ontoloji ve bilgi grafiğ"
+  },
+  "linkedin:4494204550": {
+   "t": 1795875453.9507804,
+   "source": "linkedin",
+   "title": "Satış Raporlama ve Yönetici Asistanı",
+   "company": "İşkar Teknoloji",
+   "location": "Greater Adana",
+   "work_mode": "",
+   "posted": "2026-11-28",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "alan dışı meslek",
+   "warnings": [],
+   "seniority": "",
+   "track_from": "title",
+   "llm": {},
+   "description": ""
   }
  },
  "pending": {}
