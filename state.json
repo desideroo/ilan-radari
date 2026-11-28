@@ -14245,6 +14245,51 @@
    "score": null,
    "msg": null,
    "why": "kıdem: Orta-Üst Düzey Yönetici"
+  },
+  "elemannet:4816391": {
+   "t": 1795852937.064188,
+   "title": "Kalite Kontrol Personeli",
+   "company": "Çağlayan Plastik Ambalaj",
+   "url": "https://www.eleman.net/is-ilani/kalite-kontrol-personeli-i4816391",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4816418": {
+   "t": 1795852937.064792,
+   "title": "Otomotiv Servis Danışmanı",
+   "company": "Şahsuvaroğlu Grup",
+   "url": "https://www.eleman.net/is-ilani/otomotiv-servis-danismani-i4816418",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4816415": {
+   "t": 1795852937.0648537,
+   "title": "Otomotiv Satış Danışmanı",
+   "company": "Şahsuvaroğlu Grup",
+   "url": "https://www.eleman.net/is-ilani/otomotiv-satis-danismani-i4816415",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4816409": {
+   "t": 1795852937.0649264,
+   "title": "Oto Mekanik Ustası",
+   "company": "Şahsuvaroğlu Grup",
+   "url": "https://www.eleman.net/is-ilani/oto-mekanik-ustasi-i4816409",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4816406": {
+   "t": 1795852937.064982,
+   "title": "Kaporta Boya Ustası",
+   "company": "Şahsuvaroğlu Grup",
+   "url": "https://www.eleman.net/is-ilani/kaporta-boya-ustasi-i4816406",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15775,44 +15820,49 @@
   "cd37caccd9d81515": "linkedin:4495336812",
   "0a25918432bbe9a4": "linkedin:4495352141",
   "bdbb0296749f9d7d": "linkedin:4493884976",
-  "e712ffabf0500b53": "linkedin:4495351183"
+  "e712ffabf0500b53": "linkedin:4495351183",
+  "aba4aa272d20c1a9": "elemannet:4816391",
+  "f688026ee39cd047": "elemannet:4816418",
+  "1b1b39882ef64175": "elemannet:4816415",
+  "577a2ea0e161e5fb": "elemannet:4816409",
+  "6f1b128ebd1350b8": "elemannet:4816406"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795851965.8837936,
+   "last_run": 1795852888.0833595,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795851965.8837955,
+   "last_ok": 1795852888.0833614,
    "alerted": false,
    "ctx": {
-    "cursor": 14
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795851124.0993688,
+   "last_run": 1795852930.5954604,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795851124.0993705,
+   "last_ok": 1795852930.5954618,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795849330.678697,
+   "last_run": 1795852937.0640056,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795849330.6786988,
+   "last_ok": 1795852937.0640073,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795849335.4630563,
+   "last_run": 1795852942.349724,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795849335.4630578,
+   "last_ok": 1795852942.3497255,
    "alerted": false,
    "ctx": {}
   },
