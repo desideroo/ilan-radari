@@ -14310,6 +14310,33 @@
    "score": null,
    "msg": null,
    "why": "uzaktan doğrulanamadı"
+  },
+  "elemannet:4816424": {
+   "t": 1795856539.7471042,
+   "title": "Temizlik Görevlisi",
+   "company": "Şahsuvaroğlu Grup",
+   "url": "https://www.eleman.net/is-ilani/temizlik-gorevlisi-i4816424",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4816427": {
+   "t": 1795856539.747169,
+   "title": "Otomotiv Yedek Parça Danışmanı",
+   "company": "Şahsuvaroğlu Grup",
+   "url": "https://www.eleman.net/is-ilani/otomotiv-yedek-parca-danismani-i4816427",
+   "status": "skip",
+   "score": null,
+   "msg": null
+  },
+  "elemannet:4816421": {
+   "t": 1795856539.7472289,
+   "title": "Otomotiv Hasar Danışmanı",
+   "company": "Şahsuvaroğlu Grup",
+   "url": "https://www.eleman.net/is-ilani/otomotiv-hasar-danismani-i4816421",
+   "status": "skip",
+   "score": null,
+   "msg": null
   }
  },
  "dedupe": {
@@ -15847,44 +15874,47 @@
   "577a2ea0e161e5fb": "elemannet:4816409",
   "6f1b128ebd1350b8": "elemannet:4816406",
   "810691eacea400fb": "linkedin:4493891554",
-  "3bf061642e16d75a": "linkedin:4494206208"
+  "3bf061642e16d75a": "linkedin:4494206208",
+  "396f81cc8bdc7151": "elemannet:4816424",
+  "e96173f2d7f45050": "elemannet:4816427",
+  "03140481c6bb0792": "elemannet:4816421"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795855573.535638,
+   "last_run": 1795856493.925282,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795855573.5356395,
+   "last_ok": 1795856493.9252837,
    "alerted": false,
    "ctx": {
-    "cursor": 18
+    "cursor": 4
    }
   },
   "kariyernet": {
-   "last_run": 1795854710.1468644,
+   "last_run": 1795856534.516994,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795854710.146866,
+   "last_ok": 1795856534.5169961,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 8,
-    "cur_remote": 4
+    "cur_konya": 0,
+    "cur_remote": 8
    }
   },
   "elemannet": {
-   "last_run": 1795852937.0640056,
+   "last_run": 1795856539.7464573,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795852937.0640073,
+   "last_ok": 1795856539.7464588,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795852942.349724,
+   "last_run": 1795856544.800634,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795852942.3497255,
+   "last_ok": 1795856544.8006353,
    "alerted": false,
    "ctx": {}
   },
