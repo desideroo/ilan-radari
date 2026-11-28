@@ -15779,25 +15779,27 @@
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795835782.4637942,
+   "last_run": 1795836715.845898,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795835782.463796,
+   "last_ok": 1795836715.8458993,
    "alerted": false,
    "ctx": {
-    "cursor": 12
+    "cursor": 18
    }
   },
   "kariyernet": {
-   "last_run": 1795834930.1192374,
-   "fails": 0,
-   "last_error": "",
+   "last_run": 1795836750.4105368,
+   "fails": 1,
+   "last_error": "https://www.kariyer.net/is-ilanlari/karaman -> HTTP 403",
    "last_ok": 1795834930.1192396,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0,
+    "first_run": false,
+    "all_keywords": false
    }
   },
   "elemannet": {
@@ -15817,10 +15819,10 @@
    "ctx": {}
   },
   "youthall": {
-   "last_run": 1795829561.2381196,
+   "last_run": 1795836753.2787678,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795829561.2381213,
+   "last_ok": 1795836753.27877,
    "alerted": false,
    "ctx": {}
   }
