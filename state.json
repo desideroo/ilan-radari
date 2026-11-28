@@ -14375,6 +14375,26 @@
    "status": "skip",
    "score": null,
    "msg": null
+  },
+  "linkedin:4487303884": {
+   "t": 1795863707.129779,
+   "title": "AI Application Engineer",
+   "company": "Siemens",
+   "url": "https://www.linkedin.com/jobs/view/4487303884/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
+  },
+  "linkedin:4494254139": {
+   "t": 1795863709.2125912,
+   "title": "System & Platform Engineer",
+   "company": "Zenigma",
+   "url": "https://www.linkedin.com/jobs/view/4494254139/",
+   "status": "skip",
+   "score": null,
+   "msg": null,
+   "why": "uzaktan doğrulanamadı"
   }
  },
  "dedupe": {
@@ -15919,46 +15939,46 @@
   "abe64ff09172efa9": "linkedin:4486774742",
   "124060aa314be529": "linkedin:4493880768",
   "ec11b20a38ec8b09": "linkedin:4494149971",
-  "00858dd496c86f21": "linkedin:4494254019"
+  "00858dd496c86f21": "linkedin:4494254019",
+  "eec3667b46cf2a17": "linkedin:4487303884",
+  "168f3eb21aa6a520": "linkedin:4494254139"
  },
  "sources": {
   "linkedin": {
-   "last_run": 1795862776.7401416,
-   "fails": 1,
-   "last_error": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&location=Konya%2C+T%C3%BCrkiye&f_TPR=r86400&sortBy=DD&start=0 -> HTTP 429",
-   "last_ok": 1795861880.51888,
+   "last_run": 1795863705.3855803,
+   "fails": 0,
+   "last_error": "",
+   "last_ok": 1795863705.385582,
    "alerted": false,
    "ctx": {
-    "cursor": 14,
-    "first_run": false,
-    "all_keywords": false
+    "cursor": 0
    }
   },
   "kariyernet": {
-   "last_run": 1795861922.088372,
+   "last_run": 1795863750.656079,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795861922.0883734,
+   "last_ok": 1795863750.6560822,
    "alerted": false,
    "ctx": {
     "cursor": 4,
-    "cur_konya": 0,
-    "cur_remote": 8
+    "cur_konya": 4,
+    "cur_remote": 0
    }
   },
   "elemannet": {
-   "last_run": 1795860152.1279266,
+   "last_run": 1795863755.3682876,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795860152.127928,
+   "last_ok": 1795863755.368289,
    "alerted": false,
    "ctx": {}
   },
   "isbul": {
-   "last_run": 1795860156.898664,
+   "last_run": 1795863760.1835628,
    "fails": 0,
    "last_error": "",
-   "last_ok": 1795860156.8986652,
+   "last_ok": 1795863760.1835647,
    "alerted": false,
    "ctx": {}
   },
@@ -16090,7 +16110,7 @@
    "applied": 0,
    "saved": 0,
    "irrelevant": 0,
-   "rej_remote": 5,
+   "rej_remote": 7,
    "rej_exp": 3
   }
  },
@@ -24654,6 +24674,40 @@
    "track_from": "description",
    "llm": {},
    "description": "Spektrum supports apex purchasers (NATO, UN, EU, and National Government and Defence) and their Tier 1 supplier ecosystem with a wide range of specialist services. We provide our clients with professional services, specialised aerospace and defence sales, delivery, and operational subject matter expertise. We are looking for personnel to join our team and support key client projects.\nWho we are supporting\nThe NATO Communication and Information Agency (NCIA) is responsible for providing secure and effective communications and information technology (IT) services to NATO's member countries and i"
+  },
+  "linkedin:4487303884": {
+   "t": 1795863707.1298213,
+   "source": "linkedin",
+   "title": "AI Application Engineer",
+   "company": "Siemens",
+   "location": "Kocaeli",
+   "work_mode": "",
+   "posted": "2026-11-28",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "title",
+   "llm": {},
+   "description": "Siemens Gebze factory is the lead factory for Air Insulated Switchgear production in Siemens World and exporting to more than 80 countries worldwide! We are searching for a “\nAI Application Engineer\n”. You will join an exciting team and develop world-class solutions in a manufacturing facility. A great opportunity to experiment the harmony of code and real life!\nOur Digital Transformation team builds digital products that support manufacturing and enterprise operations. We are expanding our AI capability to turn advances in generative AI into secure, reliable applications used in daily busines"
+  },
+  "linkedin:4494254139": {
+   "t": 1795863709.212644,
+   "source": "linkedin",
+   "title": "System & Platform Engineer",
+   "company": "Zenigma",
+   "location": "İstanbul, Türkiye",
+   "work_mode": "",
+   "posted": "2026-11-28",
+   "tracks": [],
+   "rule_score": 0,
+   "reject": "uzaktan doğrulanamadı",
+   "warnings": [],
+   "seniority": "Orta-Üst Düzey Yönetici",
+   "track_from": "description",
+   "llm": {},
+   "description": "About the Company\nZenigma\nis an Istanbul-based engineering company, founded in 2021. We build and take over cloud infrastructure, modernize applications, develop software and connect AI to our customers' workflows. We are a Microsoft Solutions Partner for Cloud & AI Platforms, with the App Modernization on Microsoft Azure specialization.\nAbout the Role\nWe are looking for a Senior Middleware & Platform Engineer to work at one of our enterprise customers, as part of the customer's team. You will run the customer's application servers and container platforms, and own monitoring and day-to-day ope"
   }
  },
  "pending": {}
